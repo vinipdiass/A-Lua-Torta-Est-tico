@@ -307,7 +307,8 @@ body {
 }
 
 .access-panel,
-.chapter-complete {
+.chapter-complete,
+.video-chapter {
   position: absolute;
   z-index: 2;
   inset: 0;
@@ -330,6 +331,7 @@ body {
 .chapter-complete.is-hidden,
 .chapter-two-copy.is-hidden,
 .thread-carousel.is-hidden,
+.video-chapter.is-hidden,
 .chapter-three-menu.is-hidden {
   visibility: hidden;
   pointer-events: none;
@@ -513,6 +515,83 @@ body {
   color: rgba(238, 231, 215, 0.72);
   font-size: 0.7rem;
   letter-spacing: 0.1em;
+}
+
+.video-chapter {
+  place-items: center;
+  overflow-y: auto;
+  background:
+    linear-gradient(90deg, rgba(2, 4, 5, 0.88), rgba(9, 8, 6, 0.48), rgba(2, 4, 5, 0.88)),
+    rgba(0, 0, 0, 0.5);
+}
+
+.video-chapter__shell {
+  display: grid;
+  width: min(1120px, 100%);
+  gap: clamp(18px, 3vh, 30px);
+  align-content: center;
+}
+
+.video-chapter__header {
+  text-align: center;
+  text-shadow: 0 3px 24px #000;
+}
+
+.video-chapter__eyebrow {
+  color: var(--old-gold-bright);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.28em;
+}
+
+.video-chapter__header h1 {
+  margin: 12px 0 0;
+  color: var(--parchment);
+  font-size: clamp(2.2rem, 5.6vw, 5.2rem);
+  font-weight: 400;
+  line-height: 1;
+}
+
+.video-chapter__frame {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid rgba(198, 169, 109, 0.64);
+  background: #000;
+  box-shadow: 0 30px 90px rgba(0, 0, 0, 0.72), inset 0 0 40px rgba(0, 0, 0, 0.5);
+  aspect-ratio: 16 / 9;
+}
+
+.video-chapter__frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.video-chapter__home {
+  justify-self: center;
+  min-height: 42px;
+  padding: 0 18px;
+  border: 1px solid rgba(198, 169, 109, 0.58);
+  background: rgba(7, 6, 5, 0.78);
+  color: rgba(238, 231, 215, 0.84);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.64rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  transition: border-color 160ms ease, background 160ms ease, color 160ms ease;
+}
+
+.video-chapter__home:hover,
+.video-chapter__home:focus-visible {
+  border-color: var(--old-gold-bright);
+  outline: none;
+  background: rgba(35, 28, 16, 0.92);
+  color: var(--old-gold-bright);
 }
 
 .chapter-two-copy {
@@ -1032,6 +1111,18 @@ body {
 
   .access-form__input {
     border-right: 1px solid var(--old-gold);
+  }
+
+  .video-chapter {
+    padding: 18px;
+  }
+
+  .video-chapter__shell {
+    gap: 18px;
+  }
+
+  .video-chapter__header h1 {
+    font-size: clamp(2rem, 11vw, 3.8rem);
   }
 
   .text-box {

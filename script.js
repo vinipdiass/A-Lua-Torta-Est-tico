@@ -188,11 +188,32 @@ const CHAPTER_FOUR_SCENES = [
   },
 ];
 
+const VIDEO_CHAPTERS = {
+  "ghostlight-express": {
+    code: "O Expresso da Luz Fantasma",
+    title: "O Expresso da Luz Fantasma",
+    youtubeId: "to0kBSNsqj8",
+  },
+  "wickermoor-village": {
+    code: "A Vila Wickermoor",
+    title: "A Vila Wickermoor",
+    youtubeId: "iGp2dwQp98Q",
+  },
+};
+
+const STORY_ACCESS_CODES = {
+  druskenvald: { type: "story", chapter: 1, label: "Druskenvald" },
+  "fios do destino": { type: "story", chapter: 2, label: "Fios do Destino" },
+  "brilho esquecido": { type: "story", chapter: 3, label: "Brilho Esquecido" },
+  "ossos que rangem": { type: "story", chapter: 4, label: "Ossos que Rangem" },
+};
+
 const ACCESS_CODES = {
-  druskenvald: 1,
-  "fios do destino": 2,
-  "brilho esquecido": 3,
-  "ossos que rangem": 4,
+  ...STORY_ACCESS_CODES,
+  ...Object.fromEntries(Object.entries(VIDEO_CHAPTERS).map(([videoKey, videoChapterData]) => [
+    normalizeAccessCode(videoChapterData.code ?? videoChapterData.title),
+    { type: "video", videoKey },
+  ])),
 };
 const HOME_VIDEO = window.luaTortaAssetPath("videos/inicial/inicial.webm");
 const TRANSITION_VIDEO = window.luaTortaAssetPath("videos/inicial/transição.webm");
@@ -304,6 +325,11 @@ const threadCallToAdventure = document.querySelector("#thread-call-to-adventure"
 const threadBackgroundLink = document.querySelector("#thread-background-link");
 const threadStatus = document.querySelector("#thread-status");
 const chapterThreeMenu = document.querySelector("#chapter-three-menu");
+const videoChapter = document.querySelector("#video-chapter");
+const videoChapterEyebrow = document.querySelector("#video-chapter-eyebrow");
+const videoChapterTitle = document.querySelector("#video-chapter-title");
+const videoChapterPlayer = document.querySelector("#video-chapter-player");
+const videoChapterHome = document.querySelector("#video-chapter-home");
 const volumeControl = document.querySelector("#volume-control");
 const volumeControlIcon = document.querySelector("#volume-control-icon");
 const volumeControlValue = document.querySelector("#volume-control-value");
@@ -319,12 +345,12 @@ const MUSIC_VOLUME = 0.15;
 const VOLUME_LEVELS = [1, 0.75, 0.5, 0.25, 0];
 const VOLUME_STORAGE_KEY = "a-lua-torta-volume";
 const DISCOVERED_CODES_STORAGE_KEY = "a-lua-torta-discovered-codes";
-const ACCESS_CODE_LABELS = {
-  druskenvald: "Druskenvald",
-  "ossos que rangem": "Ossos que Rangem",
-  "fios do destino": "Fios do Destino",
-  "brilho esquecido": "Brilho Esquecido",
-};
+const ACCESS_CODE_LABELS = Object.fromEntries(Object.entries(ACCESS_CODES)
+  .map(([code, accessEntry]) => [
+    code,
+    accessEntry.type === "video" ? VIDEO_CHAPTERS[accessEntry.videoKey]?.title : accessEntry.label,
+  ])
+  .filter(([, label]) => Boolean(label)));
 
 let sceneIndex = 0;
 let scenePageIndex = 0;
@@ -949,6 +975,57 @@ function startHomeReverse() {
   homeReverseFrame = window.requestAnimationFrame(rewindFrame);
 }
 
+function hideVideoChapter() {
+  videoChapter.classList.add("is-hidden");
+  videoChapterPlayer.removeAttribute("src");
+  videoChapterPlayer.title = "";
+}
+
+function getVideoChapterEmbedUrl(videoChapterData) {
+  const params = new URLSearchParams({
+    rel: "0",
+    modestbranding: "1",
+  });
+
+  return `https://www.youtube-nocookie.com/embed/${encodeURIComponent(videoChapterData.youtubeId)}?${params}`;
+}
+
+function showVideoChapter(videoKey) {
+  const videoChapterData = VIDEO_CHAPTERS[videoKey];
+  if (!videoChapterData) return;
+
+  window.clearTimeout(accessSfxTimer);
+  accessSfxTimer = null;
+  accessSfx.pause();
+  enteringChapterSfx.pause();
+  stopHomeReverse();
+  appMode = "video-chapter";
+  renderDiscoveredCodes();
+  story.classList.remove("is-chapter");
+  story.classList.remove("is-chapter-two");
+  story.classList.remove("is-chapter-three");
+  story.classList.remove("is-chapter-four");
+  accessPanel.classList.add("is-hidden");
+  chapterComplete.classList.add("is-hidden");
+  chapterTwoCopy.classList.add("is-hidden");
+  threadCarousel.classList.add("is-hidden");
+  chapterThreeMenu.classList.add("is-hidden");
+  finishReading.classList.add("is-hidden");
+  textBox.classList.add("is-hidden");
+  chapterFourOverlay.classList.remove("is-active");
+  videoPlayers.forEach((player) => player.pause());
+  soundtrack.pause();
+  chapterTwoSoundtrack.pause();
+  chapterThreeSoundtrack.pause();
+  chapterFourSoundtrack.pause();
+  chapterCode.blur();
+  videoChapterEyebrow.textContent = "CAPÍTULO EM VÍDEO";
+  videoChapterTitle.textContent = videoChapterData.title;
+  videoChapterPlayer.title = `Vídeo do capítulo ${videoChapterData.title}`;
+  videoChapterPlayer.src = getVideoChapterEmbedUrl(videoChapterData);
+  videoChapter.classList.remove("is-hidden");
+}
+
 function showHome() {
   window.clearTimeout(accessSfxTimer);
   accessSfxTimer = null;
@@ -965,6 +1042,7 @@ function showHome() {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideVideoChapter();
   finishReading.classList.add("is-hidden");
   textBox.classList.add("is-hidden");
   sceneText.textContent = "";
@@ -982,6 +1060,7 @@ function startHomeExit(chapterNumber) {
   appMode = "home-exit";
   renderDiscoveredCodes();
   accessPanel.classList.add("is-hidden");
+  hideVideoChapter();
   finishReading.classList.add("is-hidden");
   chapterCode.blur();
   soundtrack.pause();
@@ -1060,6 +1139,7 @@ function startChapterOne() {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideVideoChapter();
   finishReading.classList.add("is-hidden");
   chapterTwoSoundtrack.pause();
   chapterTwoSoundtrack.currentTime = 0;
@@ -1085,6 +1165,7 @@ function startChapterTwo() {
   textBox.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideVideoChapter();
   chapterTwoCopy.classList.remove("is-hidden");
   finishReading.classList.remove("is-hidden");
   chapterTwoCopyIndex = 0;
@@ -1115,6 +1196,7 @@ function startChapterThree() {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   textBox.classList.add("is-hidden");
+  hideVideoChapter();
   finishReading.classList.add("is-hidden");
   chapterThreeMenu.classList.remove("is-hidden");
   soundtrack.pause();
@@ -1141,6 +1223,7 @@ function startChapterFour() {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideVideoChapter();
   finishReading.classList.add("is-hidden");
   soundtrack.pause();
   chapterTwoSoundtrack.pause();
@@ -1177,6 +1260,7 @@ function showChapterComplete(code = "Ossos que Rangem") {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideVideoChapter();
   chapterComplete.classList.remove("is-hidden");
   chapterCompleteEyebrow.textContent = "CÓDIGO PARA A PRÓXIMA FASE";
   chapterCompleteCode.textContent = code;
@@ -1214,9 +1298,9 @@ function handleAccessSubmit(event) {
   if (appMode !== "home") return;
 
   const submittedCode = normalizeAccessCode(chapterCode.value);
-  const chapterNumber = ACCESS_CODES[submittedCode];
+  const accessEntry = ACCESS_CODES[submittedCode];
 
-  if (!chapterNumber) {
+  if (!accessEntry) {
     chapterCode.classList.add("is-invalid");
     chapterCode.setAttribute("aria-invalid", "true");
     accessFeedback.textContent = "Código não reconhecido.";
@@ -1229,7 +1313,13 @@ function handleAccessSubmit(event) {
   chapterCode.removeAttribute("aria-invalid");
   accessFeedback.textContent = "";
   discoverAccessCode(submittedCode);
-  startHomeExit(chapterNumber);
+
+  if (accessEntry.type === "video") {
+    showVideoChapter(accessEntry.videoKey);
+    return;
+  }
+
+  startHomeExit(accessEntry.chapter);
 }
 
 function playTypingBlip(character) {
@@ -1527,6 +1617,11 @@ finishReading.addEventListener("click", (event) => {
 });
 copyChapterCode.addEventListener("click", copyFinalChapterCode);
 chapterCompleteHome.addEventListener("click", (event) => {
+  event.stopPropagation();
+  window.history.replaceState({}, "", "index.html");
+  showHome();
+});
+videoChapterHome.addEventListener("click", (event) => {
   event.stopPropagation();
   window.history.replaceState({}, "", "index.html");
   showHome();
