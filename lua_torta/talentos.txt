@@ -1,0 +1,113 @@
+ALTERADO
+Talento de Origem
+
+Você foi transformado por magia, ciência ou uma combinação instável das duas. Você possui uma alteração física evidente à sua escolha entre as opções abaixo. A alteração é óbvia — como costuras, enxertos de partes do corpo de outras criaturas ou implantes — a menos que esteja disfarçada.
+
+Adaptação Aquática. Você possui guelras ou membranas mucosas que permitem respirar debaixo d’água, e possui extremidades com membranas que concedem a você um Deslocamento de Natação igual ao seu Deslocamento.
+
+Armadura Natural. Você possui escamas, placas ou couro espesso que concede a você uma CA de 13 + seu modificador de Destreza ou Constituição. Escolha o atributo ao selecionar este talento.
+
+Armas Naturais. Você possui garras, presas, chifres ou alguma outra arma natural que pode usar para realizar Ataques Desarmados que causam 1d8 de dano ao atingir. O dano é Contundente, Perfurante ou Cortante, conforme apropriado à forma da arma.
+
+Visão Noturna. Você possui Visão no Escuro com alcance de 60 pés. Se já possuir Visão no Escuro, o alcance dela aumenta em 30 pés.
+--
+TRANÇADOR DE AMULETOS
+Talento de Origem
+
+Você conhece remédios rústicos e maldições transmitidos pelos ensinamentos dos Velhos Caminhos, e consegue imbuí-los em pequenos amuletos de vime que você tece. Você recebe os seguintes benefícios.
+
+Bênção Antiga. Você pode conjurar a magia Bênção uma vez usando este benefício, tendo como alvo apenas criaturas que estejam carregando um amuleto de vime tecido por você, e não pode fazer isso novamente até terminar um Descanso Longo. Você também pode conjurar a magia usando quaisquer espaços de magia que possua. Seu atributo de conjuração para conjurar a magia dessa forma é Inteligência, Sabedoria ou Carisma. Escolha o atributo ao selecionar este talento.
+
+Maldição Retorcida. Como uma ação Mágica, você pode entrelaçar rancor em um amuleto de vime que esteja tocando. Escolha um atributo. Quando outra criatura estiver carregando o amuleto, ou enquanto este amuleto estiver dentro de uma área que a criatura considere seu lar, ela tem Desvantagem em testes de atributo e jogadas de ataque que usem o atributo escolhido. Quando a criatura falhar em uma dessas rolagens, ela pode fazer uma salvaguarda de Carisma, destruindo o amuleto em caso de sucesso. A CD é igual a 8 + seu Bônus de Proficiência + o modificador do atributo que você escolheu para Bênção Antiga. Você só pode ter um amuleto de Maldição Retorcida por vez. Se criar um novo, o anterior perde sua magia.
+--
+RITUALISTA CARMESIM
+Talento de Origem
+
+Seu estudo da magia de sangue e da força vital deu frutos, concedendo a você os seguintes benefícios.
+
+Chicote de Sangue. Você aprende o truque Raio de Sangue*. Seu atributo de conjuração para ele é Inteligência, Sabedoria ou Carisma. Escolha o atributo ao selecionar este talento.
+
+Vida Engarrafada. Quando terminar um Descanso Longo, você pode realizar um ritual de 1 minuto para transferir parte de sua essência vital para um recipiente, para uso posterior. Gaste uma quantidade de Dados de Vida de até o seu Bônus de Proficiência e sangre dentro de um frasco com água ou outro líquido. Como uma Ação Bônus, uma criatura pode beber o frasco para rolar os Dados de Vida que você gastou. A criatura recupera uma quantidade de Pontos de Vida igual ao total rolado + seu modificador de Constituição. O frasco permanece potente até você terminar um Descanso Longo.
+--
+INICIADO DO CULTO
+Talento de Origem
+
+Seu culto instrui você em ritos sobrenaturais, concedendo a você os seguintes benefícios.
+
+Dois Truques. Você aprende dois truques à sua escolha da lista de magias de Bruxo. Inteligência, Sabedoria ou Carisma é seu atributo de conjuração para as magias deste talento. Escolha o atributo ao selecionar este talento.
+
+Magia de Nível 1. Escolha uma magia de nível 1 da lista de magias de Bruxo. Você sempre tem essa magia preparada. Você pode conjurá-la uma vez sem gastar um espaço de magia, e recupera a capacidade de conjurá-la dessa forma quando termina um Descanso Curto ou Longo. Você também pode conjurar a magia usando quaisquer espaços de magia que possua.
+
+Troca de Magia. Sempre que ganhar um novo nível, você pode substituir uma das magias que escolheu para este talento por uma magia diferente do mesmo nível da lista de magias de Bruxo.
+--
+FALA PAVOROSA
+Talento de Origem
+
+Você articulou algumas palavras de verdade proibida que ressoam com o tecido da criação — e o desfiam —, concedendo a você os seguintes benefícios.
+
+Palavra Sobrenatural. Como uma Ação Bônus, você pode pronunciar em voz alta uma palavra mágica para forçar uma criatura a até 60 pés de você a fazer uma salvaguarda de Sabedoria. A CD é igual a 8 + seu Bônus de Proficiência + seu modificador de Inteligência, Sabedoria ou Carisma. Escolha o atributo ao selecionar este talento. Em uma falha, o alvo recebe a condição Amedrontado até o início do seu próximo turno. Você pode usar este benefício com segurança uma vez, e recupera a capacidade de fazê-lo quando termina um Descanso Curto ou Longo. Você pode usá-lo novamente antes de descansar, mas sofre 1d6 de dano Necrótico, que não pode ser reduzido ou prevenido de nenhuma forma.
+
+Dilacerar o Destino. Seus segredos pavorosos podem desfazer o destino de seus inimigos. Você sempre tem a magia Perdição preparada, e seu atributo de conjuração para ela é o atributo que você escolheu para Palavra Sobrenatural. Você pode conjurá-la uma vez sem componentes Materiais ou espaço de magia, e recupera a capacidade de conjurá-la dessa forma quando termina um Descanso Longo. Você também pode conjurar a magia usando quaisquer espaços de magia que possua.
+--
+APOSTADOR DO DESTINO
+Talento de Origem
+
+Sair por cima, seja em jogos de azar ou em disputas de vida ou morte, preenche você com determinação e vigor. Você recebe os seguintes benefícios.
+
+Aposte Alto. Se ainda não a tiver, você recebe Inspiração Heroica sempre que tiver sucesso em um teste de atributo feito contra outra criatura, quando reduzir uma criatura a 0 Pontos de Vida ou quando uma criatura falhar em uma salvaguarda que você a forçou a fazer. Se, em qualquer um desses casos, a criatura tiver ND 0 ou não possuir ND, como outro personagem de jogador, você não recebe Inspiração Heroica.
+
+Ganhe Alto. Como uma Ação Bônus, você pode gastar sua Inspiração Heroica para receber uma quantidade de Pontos de Vida Temporários igual ao seu nível.
+--
+MÉDIUM DO EXRESSO DA LUZ FANTASMA
+Talento de Origem
+
+Você formou uma conexão mística com o Expresso da Luz Fantasma, que concede a você discernimento sobre a natureza dos espíritos, concedendo os seguintes benefícios.
+
+Toque Fantasmagórico. Quando causar dano a uma criatura com o traço Movimento Incorpóreo, você pode ignorar as Resistências a dano da criatura, se houver.
+
+Sentido Espiritual. Como uma Ação Bônus, você pode sentir quaisquer Mortos-vivos a até 60 pés de você, ou quaisquer criaturas no Plano Etéreo que se sobreponham a essa área. Você descobre a distância e a direção de quaisquer criaturas que detectar, ou a posição equivalente de uma criatura Etérea em seu plano. Depois de detectar uma criatura com este benefício, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+--
+GUARDIÃO DE TÚMULOS
+Talento de Origem
+
+Estudar ritos funerários e zelar pelo repouso dos mortos transformou você em um canal entre os mundos dos vivos e dos mortos. Você recebe os seguintes benefícios.
+
+Canal Divino. Você recebe um uso da característica Canalizar Divindade da classe Clérigo, e pode criar o efeito Expulsar Mortos-vivos com ele. Se já possuir Canalizar Divindade, você adiciona este uso à característica de uma classe à sua escolha. A CD da salvaguarda para este benefício é igual a 8 + seu modificador de Sabedoria + seu Bônus de Proficiência.
+
+Últimos Ritos. Você pode realizar um ritual de 10 minutos para preparar o cadáver de uma criatura Média ou menor, gastando pelo menos 10 PO em incenso, óleos, faixas de linho ou adornos semelhantes. O cadáver preparado não pode se tornar Morto-vivo.
+--
+CAÇADOR DE CAÇADORES
+Talento de Origem
+
+Você é hábil em caçar presas monstruosas, concedendo a você os seguintes benefícios.
+
+Mira Mortal. Como uma Ação Bônus, você pode examinar uma criatura para identificar seus pontos vulneráveis. Na próxima vez que causar dano à criatura antes do início do seu próximo turno, você ignora as Resistências a dano da criatura, se houver.
+
+Presa Estudada. Você tem Vantagem em testes de atributo feitos para recordar informações sobre uma criatura.
+--
+FAMINTO POR MEMÓRIAS
+Talento de Origem
+
+Sua mente reúne detalhes vorazmente e se agarra desesperadamente às suas memórias e faculdades, concedendo a você os seguintes benefícios.
+
+Detalhe Desesperado. Você tem Vantagem em testes de Inteligência (Investigação).
+
+Mente de Ferro. Você tem Vantagem em salvaguardas feitas para evitar ou encerrar a condição Enfeitiçado e para evitar que suas memórias sejam lidas ou alteradas.
+--
+BOBO FOLIÃO
+Talento de Origem
+
+Você se juntou a uma trupe de foliões alucinados e aprendeu a assumir a aparência de um bobo, canalizando risos e jovialidade sobrenaturais. Você recebe os seguintes benefícios.
+
+Máscara do Bobo. Ao vestir uma máscara jovial e um traje de bobo, bufão ou palhaço, você assume uma nova identidade que oculta a sua própria. Sob o disfarce do bobo, você consegue se safar de pequenas transgressões contra pessoas em posições de autoridade ou prestígio.
+
+Resposta do Bufão. Você sempre tem a magia Riso Histérico preparada, e seu atributo de conjuração para ela é Inteligência, Sabedoria ou Carisma. Escolha o atributo ao selecionar este talento. Você pode conjurá-la uma vez sem componentes Materiais ou espaço de magia, e recupera a capacidade de conjurá-la dessa forma quando termina um Descanso Longo. Você também pode conjurar a magia usando quaisquer espaços de magia que possua.
+--
+SEM REFLEXO
+Talento de Origem
+
+Sua imagem está separada de você, fazendo com que você seja incapaz de projetar reflexo ou sombra, mas permitindo que passe despercebido com facilidade. Você recebe os seguintes benefícios.
+
+Inescrutável. Criaturas têm Desvantagem em testes de Sabedoria (Intuição) feitos contra você.
+
+Imperceptível. A perda de alguma parte de si mesmo permite que você desapareça em meio ao cenário. Enquanto estiver em um grupo com pelo menos duas outras criaturas do seu tipo, e desde que elas não sejam mais de uma categoria de tamanho maiores ou menores que você, você pode realizar a ação Esconder-se de criaturas fora desse grupo fazendo um teste de Carisma (Enganação) em vez de Destreza (Furtividade), sem precisar estar atrás de cobertura ou Fortemente Obscurecido. Se, em algum momento, você estiver a mais de 5 pés de pelo menos duas dessas criaturas enquanto estiver escondido dessa forma, você é revelado.

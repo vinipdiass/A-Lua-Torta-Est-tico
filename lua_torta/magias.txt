@@ -1,0 +1,473 @@
+COMUNHÃO ANCESTRAL (ANCESTRAL COMMUNION)
+Adivinhação de Nível 1 (Clérigo, Druida, Patrulheiro, Feiticeiro)
+Tempo de Conjuração: Ação
+Alcance: Pessoal
+Componentes: V, S
+Duração: Concentração, até 1 minuto
+
+Você invoca a sabedoria de seus ancestrais para obter discernimento diante de suas provações. Quando você conjura a magia, e no início de cada um dos seus turnos pela duração, você ganha Inspiração Heroica se ainda não a tiver.
+
+RAIO DE SANGUE (BLOOD BOLT)
+Truque de Necromancia (Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 90 pés
+Componentes: V, S
+Duração: Instantânea
+
+Você arremessa um raio retorcido de sangue contra uma criatura dentro do alcance. Faça um ataque mágico à distância contra o alvo. Em um acerto, o alvo sofre 1d6 de dano Necrótico, e você ganha um número de Pontos de Vida Temporários igual ao seu Bônus de Proficiência.
+
+Melhoria do Truque. O dano aumenta em 1d6 quando você alcança os níveis 5 (2d6), 11 (3d6) e 17 (4d6).
+
+SACRIFÍCIO DE SANGUE (BLOOD SACRIFICE)
+Necromancia de Nível 2 (Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação Bônus
+Alcance: Pessoal
+Componentes: V, S, M (uma gota do seu próprio sangue)
+Duração: 1 minuto
+
+Você sacrifica uma parcela de sua força vital para ampliar seu poder mágico. Quando conjura esta magia, você sofre 1d6 de dano Necrótico, que não pode ser reduzido ou prevenido de nenhuma forma. Pela duração, quando você conjura uma magia que causa dano, um alvo da magia, à sua escolha, sofre 1d6 de dano extra do mesmo tipo do dano normal da magia. Se houver múltiplos tipos de dano, você escolhe qual deles será usado.
+
+Usando um Espaço de Magia de Nível Superior. O dano que você sofre e o dano extra causado por suas magias aumentam em 1d6 para cada nível do espaço de magia acima do 2º.
+
+ENTERRADO VIVO (BURIED ALIVE)
+Transmutação de Nível 4 (Druida, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 60 pés
+Componentes: V, S, M (uma pitada de terra de cemitério)
+Duração: Instantânea
+
+Você envia seus inimigos para a sepultura, mesmo que ainda não estejam mortos. Uma criatura que você possa ver dentro do alcance e que esteja sobre o chão deve realizar uma salvaguarda de Força. Em uma falha, o solo se abre e engole o alvo, enterrando-o a até 10 pés de profundidade. Enquanto estiver enterrado, o alvo tem Cobertura Total, fica com as condições Contido e Cego, e não consegue respirar. Em um sucesso, o alvo fica com a condição Caído, e seu Deslocamento se torna 0 até o final do próximo turno dele.
+
+Uma criatura enterrada pode cavar para sair da cova usando sua ação para realizar um teste de Força (Atletismo) CD 15. Em um sucesso, ela cava 5 pés em direção à superfície. Se obtiver sucesso por 5 ou mais, ela alcança a superfície. Quando a criatura alcança a superfície, ela sai do solo com a condição Caído.
+
+O alvo obtém sucesso automaticamente na salvaguarda se estiver sobre qualquer espessura de pedra ou metal, ou sobre pelo menos 2 polegadas de madeira.
+
+CHAMADO DA SELVA (CALL OF THE WILD)
+Encantamento de Nível 4 (Bardo, Druida, Patrulheiro, Bruxo)
+Tempo de Conjuração: Ação
+Alcance: Pessoal
+Componentes: V, S, M (um pedaço de pelo ou couro animal)
+Duração: Concentração, até 1 minuto
+
+Você solta um uivo primal que convoca criaturas inferiores ao seu comando. Cada Besta em uma Emanação de 100 pés originada de você quando conjura a magia deve realizar uma salvaguarda de Sabedoria. Em uma falha, o alvo fica com a condição Enfeitiçado, consegue entender seus comandos e os segue no próximo turno dele da melhor forma possível.
+
+Em seus turnos subsequentes, você pode realizar uma ação Mágica para emitir um novo comando. Em um sucesso na salvaguarda, o alvo fica com a condição Enfeitiçado até o início do seu próximo turno, mas você não ganha nenhuma capacidade adicional de comandá-lo.
+
+O uivo pode ser ouvido a até 300 pés.
+
+CATIVAR MORTO-VIVO (CAPTIVATE UNDEAD)
+Necromancia de Nível 1 (Bardo, Clérigo, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 60 pés
+Componentes: V, S, M (uma pitada de pó de osso)
+Duração: Concentração, até 1 hora
+
+Você usurpa a energia negativa que anima uma criatura Morta-Viva que você possa ver dentro do alcance, tentando assumir o controle dela. O alvo deve realizar uma salvaguarda de Carisma. Em uma falha, pela duração, o alvo fica com a condição Enfeitiçado, ignorando qualquer Imunidade a essa condição, e se torna Amigável em relação a você. Em um sucesso, o alvo tem Desvantagem na próxima jogada de ataque que fizer contra você antes do início do seu próximo turno.
+
+Se você ou qualquer um de seus aliados causar dano ao alvo ou forçá-lo a realizar uma salvaguarda, a magia termina.
+
+Usando um Espaço de Magia de Nível Superior. Você pode escolher uma criatura adicional como alvo para cada nível do espaço de magia acima do 1º.
+
+CORRENTE DA CONVICÇÃO (CHAIN OF CONVICTION)
+Conjuração de Nível 2 (Paladino, Bruxo)
+Tempo de Conjuração: Ação Bônus
+Alcance: 30 pés
+Componentes: S
+Duração: 1 minuto
+
+Você arremessa uma corrente espectral e farpada contra uma criatura que você possa ver dentro do alcance. O alvo realiza uma salvaguarda de Força. Em uma falha, o alvo sofre 2d6 de dano Energético, é puxado até 30 pés em sua direção e fica preso pela corrente.
+
+Enquanto estiver preso pela corrente, a criatura fica atada a você e não pode se mover nem se teleportar para um espaço a mais de 30 pés de você. Além disso, você tem Vantagem nas jogadas de ataque feitas contra a criatura.
+
+Em um sucesso na salvaguarda, o alvo sofre apenas metade do dano. O alvo preso repete a salvaguarda no final de cada um dos turnos dele, encerrando a magia sobre si mesmo em um sucesso. Se você alguma vez estiver a mais de 30 pés do alvo, a magia termina.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d6 para cada nível do espaço de magia acima do 2º.
+
+CORO DOS PERDIDOS (CHORUS OF THE LOST)
+Necromancia de Nível 2 (Bardo, Clérigo, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 60 pés
+Componentes: V, S, M (um sino de prata no valor de 10+ PO)
+Duração: Concentração, até 1 minuto
+
+Você invoca a canção sinistra e os lamentos de almas perdidas a partir de um ponto que você possa ver dentro do alcance. Cada criatura em uma Esfera de 15 pés de raio centrada nesse ponto deve realizar uma salvaguarda de Sabedoria. Em uma falha, o alvo sofre 2d6 de dano Psíquico e fica com a condição Amedrontado pela duração. Em um sucesso, ele sofre metade do dano e fica com a condição Amedrontado até o final do próximo turno dele.
+
+Um alvo Amedrontado repete a salvaguarda no final de cada um dos turnos dele, encerrando a magia sobre si mesmo em um sucesso.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d6 para cada nível do espaço de magia acima do 2º.
+
+PIRA CONSUMIDORA (CONSUMING PYRE)
+Evocação de Nível 4 (Druida, Paladino, Bruxo)
+Tempo de Conjuração: Ação
+Alcance: 90 pés
+Componentes: V, S
+Duração: Concentração, até 1 minuto
+
+Você faz com que uma criatura que você possa ver dentro do alcance irrompa em chamas consumidoras e implacáveis. O alvo deve realizar uma salvaguarda de Destreza. Em uma falha, o alvo sofre 2d8 de dano Ígneo e 2d8 de dano Necrótico ou Radiante, à sua escolha quando conjura a magia, e as chamas radiantes permanecem. Em um sucesso, ele sofre apenas metade do dano.
+
+Enquanto as chamas permanecerem, a criatura sofre o dano novamente no início de cada um dos turnos dela. O alvo, ou outra criatura ao alcance do alvo, pode realizar uma ação para permitir que o alvo repita a salvaguarda, encerrando a magia em um sucesso.
+
+Uma criatura morta pelo dano desta magia é reduzida a cinzas, junto com qualquer equipamento não mágico que esteja vestindo ou carregando.
+
+PODRIDÃO RASTEJANTE (CREEPING ROT)
+Necromancia de Nível 3 (Druida, Patrulheiro, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 90 pés
+Componentes: V, S
+Duração: 1 minuto
+
+Você envia gavinhas de podridão negra e cinzenta em direção a um alvo que você possa ver dentro do alcance. Três gavinhas então saltam desse alvo para até três outros alvos à sua escolha, cada um deles devendo estar a até 30 pés do primeiro alvo. Um alvo pode ser uma criatura ou uma planta não mágica que não seja uma criatura, como uma árvore ou arbusto. Em ambos os casos, cada alvo só pode ser atingido por uma das gavinhas.
+
+Um alvo que seja uma criatura deve realizar uma salvaguarda de Constituição. Em uma falha, ele sofre 3d8 de dano Necrótico e fica com a condição Envenenado pela duração. Em um sucesso, ele sofre apenas metade do dano.
+
+Uma criatura Envenenada dessa forma sofre 1d8 de dano Necrótico no início de cada um dos turnos dela. Uma criatura Envenenada repete a salvaguarda no final de cada um dos turnos dela, encerrando a magia sobre si mesma em um sucesso.
+
+Uma criatura Planta falha automaticamente na salvaguarda inicial, e uma planta não mágica que não seja uma criatura simplesmente murcha e morre.
+
+Usando um Espaço de Magia de Nível Superior. Uma gavinha adicional salta do primeiro alvo para outro alvo para cada nível do espaço de magia acima do 3º.
+
+COLHEITA CARMESIM (CRIMSON HARVEST)
+Necromancia de Nível 3 (Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: Pessoal
+Componentes: V, S, M (um frasco de sangue)
+Duração: Instantânea
+
+Uma onda de sangue se espalha a partir de você em uma Emanação de 15 pés. Cada criatura à sua escolha na onda deve realizar uma salvaguarda de Destreza, sofrendo 3d10 de dano Necrótico em uma falha, ou metade desse dano em um sucesso.
+
+Se você causar dano a pelo menos uma criatura Pequena ou maior, uma criatura à sua escolha que você possa ver dentro da Emanação recupera um número de Pontos de Vida igual à metade da rolagem de dano.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d10 para cada nível do espaço de magia acima do 3º.
+
+PROTEÇÃO RETORCIDA (CROOKED WARD)
+Abjuração de Nível 3 (Druida, Patrulheiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: Toque
+Componentes: V, S, M (uma estrela de vime de cinco pontas)
+Duração: Concentração, até 10 minutos
+
+Você toca uma superfície imóvel e marca um símbolo que causa agonia em criaturas distorcidas. Uma Esfera Invisível de 30 pés de raio surge a partir do ponto que você tocou. Cada Aberração, Feérico, Ínfero, Monstruosidade ou Morto-Vivo na Esfera tem Desvantagem em testes de atributo e jogadas de ataque.
+
+Quando uma criatura afetada entra na Esfera pela primeira vez em um turno ou começa seu turno ali, ela deve ser bem-sucedida em uma salvaguarda de Sabedoria ou ficará com a condição Amedrontado até o início do próximo turno dela.
+
+Usando um Espaço de Magia de Nível Superior. Você pode manter a Concentração nesta magia por mais tempo se conjurá-la usando um espaço de magia de nível 4, até 1 hora, ou de nível 5, até 8 horas. Se usar um espaço de magia de nível 6 ou superior, a magia não exige Concentração, e a duração se torna 24 horas.
+
+FOICE CEIFADORA (CULLING SICKLE)
+Necromancia de Nível 3 (Druida, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação Bônus
+Alcance: Pessoal
+Componentes: V, S
+Duração: Concentração, até 1 minuto
+
+Você cria uma foice fantasmagórica que dura pela duração e pode atacar seus inimigos. A foice aparece pairando em seu espaço e se move com você. Quando você conjura esta magia e como uma Ação Bônus em cada um dos seus turnos, você pode direcioná-la para voar até uma criatura a até 30 pés de você e atacá-la.
+
+Faça um ataque mágico à distância. Em um acerto, o alvo sofre 2d8 de dano Necrótico, e você ganha Pontos de Vida Temporários iguais à metade do dano causado. Depois que a foice acerta ou erra, ela retorna para pairar em seu espaço.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d8 para cada nível do espaço de magia acima do 3º.
+
+CACOFONIA AMALDIÇOADA (CURSED CACOPHONY)
+Encantamento de Nível 3 (Bardo, Feiticeiro, Bruxo)
+Tempo de Conjuração: Ação ou Ritual
+Alcance: Especial
+Componentes: S, M (uma folha de partitura)
+Duração: Concentração, até 10 minutos
+
+Você se concentra em uma criatura com a qual esteja familiarizado e que esteja no mesmo plano de existência que você. O alvo deve ser bem-sucedido em uma salvaguarda de Sabedoria ou ficará amaldiçoado pela duração. Depois que um alvo falha em sua salvaguarda contra esta magia, você não pode escolhê-lo como alvo de uma conjuração ritual desta magia por 24 horas.
+
+Enquanto estiver amaldiçoado, o alvo ouve uma música assombrosa e dissonante, e tem Desvantagem em Testes de D20. A primeira vez que o alvo falhar em um Teste de D20 durante um turno, ele repete a salvaguarda contra esta magia sem Vantagem nem Desvantagem, encerrando a magia antecipadamente em um sucesso.
+
+DÍVIDA DO DIABO (DEVIL'S DUE)
+Necromancia de Nível 1 (Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Reação, que você realiza quando outra criatura dentro do alcance sofre dano
+Alcance: 30 pés
+Componentes: S, M (um glóbulo de piche)
+Duração: Instantânea
+
+Você absorve uma parcela do sofrimento de uma criatura e da essência vital que escapa dela. Gaste e role um Dado de Vida. Você recupera um número de Pontos de Vida igual ao resultado rolado mais seu modificador de habilidade de conjuração.
+
+Se a criatura sofreu dano de um Acerto Crítico, dobre o número de Pontos de Vida que você recupera.
+
+Usando um Espaço de Magia de Nível Superior. Você pode gastar um Dado de Vida adicional para cada nível do espaço de magia acima do 1º.
+
+DISSOLUÇÃO (DISSOLUTION)
+Truque de Transmutação (Mago)
+Tempo de Conjuração: Ação
+Alcance: Toque
+Componentes: V, S
+Duração: Instantânea
+
+Você toca uma criatura ou objeto não mágico e decompõe a substância do alvo em seus componentes mais fundamentais. Faça um ataque mágico corpo a corpo. Em um acerto, o alvo sofre 1d8 de dano Energético, e sua CA é reduzida em 1 contra a próxima jogada de ataque feita contra ele antes do final do seu próximo turno.
+
+Melhoria do Truque. O dano aumenta em 1d8 quando você alcança os níveis 5 (2d8), 11 (3d8) e 17 (4d8).
+
+QUEIMA-OLHOS (EYE BURN)
+Truque de Transmutação (Druida, Bruxo, Mago)
+Tempo de Conjuração: Reação, que você realiza quando uma criatura que você possa ver dentro do alcance escolhe você como alvo de um ataque
+Alcance: 30 pés
+Componentes: V, S, M (uma mancha de cânfora)
+Duração: 1 rodada
+
+Você arde os olhos de uma criatura que está atacando você. O alvo deve realizar uma salvaguarda de Constituição. Uma criatura com Percepção às Cegas ou Imunidade à condição Cego obtém sucesso automaticamente. Em uma falha, o alvo fica com a condição Cego até o final do turno. Em um sucesso, ele deve subtrair 1d4 da jogada de ataque que desencadeou a magia.
+
+O alvo obtém sucesso automaticamente em suas salvaguardas contra conjurações subsequentes desta magia feitas por você por 24 horas.
+
+CAMPO DA CEIFA (FIELD OF REAPING)
+Necromancia de Nível 5 (Clérigo, Druida, Bruxo)
+Tempo de Conjuração: Ação
+Alcance: 90 pés
+Componentes: V, S, M (uma palha de milho seca ou casca de trigo)
+Duração: Concentração, até 1 minuto
+
+Você cria um campo sombrio que ceifa a força vital em fuga em um Cubo de 30 pés originado de um ponto dentro do alcance. Uma criatura Hostil a você que esteja no campo quando ele aparece, que entre no campo pela primeira vez em um turno ou que termine seu turno ali, fica amaldiçoada até o final do próximo turno dela.
+
+Enquanto estiver amaldiçoada, a primeira vez que a criatura sofrer dano durante um turno, ela sofre 1d6 de dano Necrótico extra, e uma criatura à sua escolha dentro do campo que não esteja amaldiçoada por ele recupera um número de Pontos de Vida igual ao dano Necrótico sofrido.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d6 para cada nível do espaço de magia acima do 5º.
+
+INVESTIDA ESPECTRAL (GHASTLY CHARGE)
+Necromancia de Nível 6 (Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: Pessoal
+Componentes: V, S, M (um retalho de um estandarte)
+Duração: Instantânea
+
+Você convoca os espíritos de cavaleiros mortos há muito tempo, que investem à frente a partir de você em uma Linha de 90 pés de comprimento e 20 pés de largura, e então desaparecem. Cada criatura à sua escolha na Linha deve realizar uma salvaguarda de Sabedoria. Em uma falha, o alvo sofre 5d12 de dano Necrótico, fica com a condição Amedrontado até o início do seu próximo turno e deve usar imediatamente sua Reação, se disponível, para se mover o mais longe possível de você, usando a rota mais segura. Em um sucesso, a criatura sofre apenas metade do dano.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d12 para cada nível do espaço de magia acima do 6º.
+
+LUAR DA COLHEITA (HARVEST MOONGLOW)
+Evocação de Nível 3 (Clérigo, Druida, Patrulheiro)
+Tempo de Conjuração: Ação
+Alcance: 60 pés
+Componentes: V, S, M (um pedaço de pedra-da-lua)
+Duração: 1 hora
+
+Você invoca a luz da lua da colheita para iluminar uma Esfera de 20 pés de raio centrada em um ponto dentro do alcance. A área é banhada por Penumbra prateada. Criaturas e objetos com a condição Invisível dentro da luz se tornam visíveis como imagens translúcidas e cintilantes.
+
+Quando um de seus aliados está dentro da luz, ele pode usar uma Ação Bônus para absorver parte da luz e ganhar 2d6 Pontos de Vida Temporários.
+
+Usando um Espaço de Magia de Nível Superior. Os Pontos de Vida Temporários aumentam em 1d6 para cada nível do espaço de magia acima do 3º.
+
+BALADA ANGUSTIANTE (HARROWING BALLAD)
+Encantamento de Nível 2 (Bardo, Feiticeiro, Mago)
+Tempo de Conjuração: Ação Bônus
+Alcance: 120 pés
+Componentes: V, S
+Duração: Concentração, até 1 minuto
+
+Você inflige uma canção corrosiva à mente de uma criatura que você possa ver dentro do alcance. Se a criatura tiver Inteligência 4 ou maior, ela deve ser bem-sucedida em uma salvaguarda de Inteligência ou ficará com a condição Enfeitiçado pela duração.
+
+Enquanto estiver Enfeitiçado dessa forma, o alvo é atingido por uma balada que se repete rapidamente e que apenas ele pode ouvir. Ele sofre 1d6 de dano Psíquico no início de cada um dos turnos dele, e tem Desvantagem em testes de Sabedoria (Percepção) e em salvaguardas de Constituição feitas para manter sua Concentração. O alvo repete a salvaguarda no final de cada um dos turnos dele, encerrando a magia em um sucesso.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d6 para cada nível do espaço de magia acima do 2º.
+
+LÂMINA FAMINTA (HUNGERING BLADE)
+Necromancia de Nível 1 (Paladino, Patrulheiro, Bruxo)
+Tempo de Conjuração: Ação Bônus
+Alcance: Pessoal
+Componentes: V, S
+Duração: 1 minuto
+
+Você imbui uma arma que esteja segurando, ou seus Ataques Desarmados, com energia negativa voraz. Pela duração, quando você acerta uma criatura com um ataque usando a arma fortalecida ou um Ataque Desarmado pela primeira vez em um turno, o alvo sofre dano Necrótico igual ao seu modificador de habilidade de conjuração, e você ganha um número de Pontos de Vida Temporários igual ao dano Necrótico causado.
+
+DESESPERO INTRUSIVO (INTRUSIVE DESPAIR)
+Encantamento de Nível 4 (Bardo, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 90 pés
+Componentes: V, S, M (uma flor de trombeta-do-diabo)
+Duração: Concentração, até 1 minuto
+
+Você amaldiçoa uma criatura dentro do alcance, enchendo a mente dela com paranoia rastejante e desespero. Quando o alvo realiza a ação Atacar ou Mágica, ele deve ser bem-sucedido em uma salvaguarda de Sabedoria ou desperdiçará sua ação. Quando o alvo obtiver sucesso em três salvaguardas contra esta magia, a magia termina.
+
+ISOLAMENTO (ISOLATION)
+Encantamento de Nível 3 (Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 120 pés
+Componentes: V, S, M (um pequeno cubo de metal)
+Duração: Concentração, até 1 minuto
+
+Uma criatura que você possa ver dentro do alcance deve ser bem-sucedida em uma salvaguarda de Sabedoria ou terá sua mente envolta pelo pavor do isolamento total. Pela duração, todas as outras criaturas têm a condição Invisível em relação ao alvo, e o alvo não consegue enxergá-las, mesmo com Percepção às Cegas, Visão Verdadeira ou magia como Ver Invisibilidade. Além disso, o alvo não consegue perceber outras criaturas com nenhum de seus outros sentidos.
+
+O alvo se move ao redor de outras criaturas, ou racionaliza de outra forma o fato de não se mover através de espaços ocupados por elas, como perceber uma porta fechada ou uma parede caso outra criatura esteja bloqueando o caminho. O alvo ainda sente dor, mas não consegue identificar a fonte de qualquer ferimento causado por outra criatura.
+
+O alvo repete a salvaguarda no final de cada um dos turnos dele, encerrando a magia sobre si mesmo em um sucesso.
+
+AMULETO DA SORTE (LUCKY CHARM)
+Transmutação de Nível 5 (Bardo, Paladino, Patrulheiro, Bruxo)
+Tempo de Conjuração: Ação
+Alcance: Toque
+Componentes: V, S, M (um trevo de quatro folhas e um fragmento de espelho quebrado)
+Duração: Concentração, até 1 hora
+
+Você toca um objeto Miúdo e não mágico, infundindo-o com uma parcela de sua própria sorte pela duração. Enquanto outra criatura carregar o objeto, essa criatura tem Vantagem em Testes de D20, e você tem Desvantagem em Testes de D20.
+
+MÁRTIR (MARTYR)
+Necromancia de Nível 3 (Clérigo, Paladino, Mago)
+Tempo de Conjuração: Ação
+Alcance: Toque
+Componentes: V, S, M (uma Adaga no valor de pelo menos 1 PC)
+Duração: Instantânea
+
+Você toca uma criatura morta que morreu no último minuto e transfere sua essência vital para ela. O alvo retorna à vida com Pontos de Vida iguais ao seu total atual de Pontos de Vida. Você imediatamente cai para 0 Pontos de Vida, o que nada pode prevenir, com duas falhas em Salvaguardas contra a Morte, e deve realizar imediatamente uma Salvaguarda contra a Morte. Você não pode recuperar Pontos de Vida nem ficar Estável até depois de realizar essa salvaguarda.
+
+AGONIA ESPELHADA (MIRRORED AGONY)
+Abjuração de Nível 5 (Bardo, Feiticeiro, Mago)
+Tempo de Conjuração: Reação, que você realiza quando uma criatura que você possa ver a até 60 pés de você causa dano a um aliado seu
+Alcance: 60 pés
+Componentes: V, S, M (um alfinete ou agulha)
+Duração: Instantânea
+
+A criatura que desencadeou a magia realiza uma salvaguarda de Sabedoria. Em uma falha, ela sofre uma quantidade de dano Psíquico igual ao dano que causou ao seu aliado. Em um sucesso, ela sofre metade desse dano.
+
+NÉVOA DO LUTO (MIST OF MOURNING)
+Encantamento de Nível 3 (Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 60 pés
+Componentes: V, S, M (um frasco de lágrimas)
+Duração: Concentração, até 10 minutos
+
+Você invoca uma névoa fina que drena alegria e vigor em uma Esfera de 20 pés de raio centrada em um ponto dentro do alcance. Cada criatura na névoa quando ela aparece, ou que entre na névoa pela primeira vez em um turno ou termine seu turno ali, deve ser bem-sucedida em uma salvaguarda de Carisma ou será preenchida por uma melancolia profunda até o final do próximo turno dela.
+
+O Deslocamento de uma criatura afetada é reduzido à metade, ela tem Desvantagem em jogadas de ataque e subtrai 1d8 de todas as suas rolagens de dano.
+
+REVOADA DE CORVOS (MURDER OF CROWS)
+Conjuração de Nível 4 (Druida, Patrulheiro, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: Pessoal
+Componentes: V, S, M (uma pena de corvo)
+Duração: Instantânea
+
+Você invoca e liberta uma revoada de corvos mortais. Cada criatura à sua escolha em um Cone de 30 pés originado de você realiza uma salvaguarda de Destreza. Em uma falha, o alvo sofre 5d6 de dano Energético e fica com a condição Cego. Em um sucesso, ele sofre apenas metade do dano.
+
+Uma criatura Cega repete a salvaguarda no final de cada um dos turnos dela, encerrando o efeito sobre si mesma em um sucesso. O efeito também termina se a criatura recuperar quaisquer Pontos de Vida. Os corvos se dispersam e desaparecem depois de atacar.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d6 para cada nível do espaço de magia acima do 4º.
+
+PRESENÇA MISTERIOSA (MYSTERIOUS PRESENCE)
+Truque de Ilusão (Bardo, Druida, Feiticeiro)
+Tempo de Conjuração: Ação
+Alcance: Toque
+Componentes: V, S
+Duração: Concentração, até 1 minuto
+
+Você toca uma criatura voluntária e encobre sua presença. Até a magia terminar, outras criaturas devem subtrair 1d4 de quaisquer testes de Sabedoria (Intuição ou Percepção) feitos contra o alvo.
+
+MESTRE DAS MARIONETES (PUPPET MASTER)
+Encantamento de Nível 4 (Bardo, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 60 pés
+Componentes: V, S, M (um fio de marionete)
+Duração: Concentração, até 1 minuto
+
+Uma criatura que você possa ver dentro do alcance deve ser bem-sucedida em uma salvaguarda de Sabedoria ou ficará com a condição Enfeitiçado pela duração.
+
+Fios mágicos de marionete se prendem aos membros ou ao corpo da criatura Enfeitiçada, e ela deve usar sua ação no próprio turno para realizar um ataque corpo a corpo contra uma criatura diferente dela mesma que você escolha mentalmente, movendo-se para alcançar o alvo, se necessário. O alvo pode agir normalmente em seu turno se você não escolher outra criatura, ou se a criatura não estiver ao alcance do alvo depois de se mover.
+
+O alvo repete a salvaguarda no final de cada um dos turnos dele, encerrando a magia sobre si mesmo em um sucesso.
+
+Em seus turnos posteriores, você deve realizar uma Ação Bônus para manter o controle do alvo, ou a magia termina.
+
+SIFÃO SACRIFICIAL (SACRIFICIAL SIPHON)
+Necromancia de Nível 4 (Clérigo, Paladino, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: Toque
+Componentes: S
+Duração: Concentração, até 1 minuto
+
+Você toca outra criatura e lança uma maldição que drena a vitalidade do alvo e a transfere para você. O alvo deve realizar uma salvaguarda de Carisma. Em uma falha, o alvo fica amaldiçoado pela duração.
+
+Enquanto estiver amaldiçoado, o alvo deve subtrair 1d4 de suas jogadas de ataque e testes de atributo. Além disso, quando o alvo sofre dano, você pode realizar uma Reação para ganhar 10 Pontos de Vida Temporários.
+
+Em um sucesso na salvaguarda, você ganha 5 Pontos de Vida Temporários, e o alvo deve subtrair 1d4 de seus testes de atributo até o início do seu próximo turno.
+
+SANTUÁRIO DO PASTOR (SANCTUM OF THE SHEPHERD)
+Abjuração de Nível 4 (Clérigo, Paladino, Mago)
+Tempo de Conjuração: 1 minuto
+Alcance: 5 pés
+Componentes: V, S, M (pó de adamante ou diamante no valor de 200+ PO, que a magia consome)
+Duração: 24 horas
+
+Você cria uma Esfera de 20 pés de raio de luz fraca e cintilante, centrada em um ponto dentro do alcance. Você e um número de criaturas à sua escolha até o seu modificador de habilidade de conjuração, mínimo de 1 outra criatura, podem absorver magia protetora da Esfera.
+
+Quando qualquer uma das criaturas escolhidas termina um Descanso Longo na área, a Esfera desaparece, e essas criaturas ganham um bônus de +1 na CA pelo restante da duração. Criaturas escolhidas que não terminarem um Descanso Longo na Esfera não recebem nenhum benefício.
+
+SANTUÁRIO DO REBANHO (SANCTUM OF THE FLOCK)
+Transmutação de Nível 3 (Bardo, Clérigo, Paladino)
+Tempo de Conjuração: 1 minuto
+Alcance: 5 pés
+Componentes: V, S, M (prata em pó no valor de 25+ PO, que a magia consome)
+Duração: 24 horas
+
+Você cria uma Esfera de 20 pés de raio de luz fraca e cintilante, centrada em um ponto dentro do alcance. Você e um número de criaturas à sua escolha até o seu modificador de habilidade de conjuração, mínimo de 1 outra criatura, podem absorver magia fortalecedora da Esfera.
+
+Quando qualquer uma das criaturas escolhidas termina um Descanso Longo na área, a Esfera desaparece, e essas criaturas ganham 2d10 Pontos de Vida Temporários. Pelo restante da duração, elas têm Vantagem em testes de Carisma que usem uma de suas proficiências em perícias. Criaturas escolhidas que não terminarem um Descanso Longo na Esfera não recebem nenhum benefício.
+
+SEGREDOS SANGUÍNEOS (SANGUINE SECRETS)
+Adivinhação de Nível 2 (Patrulheiro, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação Bônus
+Alcance: 30 pés
+Componentes: V, S, M (uma gota de sangue, que a magia consome)
+Duração: 1 rodada
+
+Você extrai conhecimento por meio do poder do sangue sobre uma criatura que você possa ver dentro do alcance. Você descobre a espécie e o tipo de criatura do alvo, seus Pontos de Vida atuais e quaisquer condições que o estejam afetando. Você também descobre se ele possui qualquer Vulnerabilidade, Resistência ou Imunidade a dano ou condições e, se possuir, quais são.
+
+Além disso, o próximo teste de atributo ou jogada de ataque que você fizer contra o alvo antes do final do seu próximo turno tem Vantagem.
+
+ALVORADA ESCARLATE (SCARLET DAWN)
+Evocação de Nível 3 (Clérigo, Druida, Paladino, Patrulheiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 120 pés
+Componentes: V, S
+Duração: Instantânea
+
+Uma luz carmesim brilha em um Cilindro de 20 pés de raio e 60 pés de altura, centrado em um ponto dentro do alcance. Cada criatura nessa área que não seja um Constructo ou Morto-Vivo deve realizar uma salvaguarda de Constituição, sofrendo 4d10 de dano Necrótico em uma falha, ou metade desse dano em um sucesso. Constructos e Mortos-Vivos na área recuperam 4d10 Pontos de Vida.
+
+Se qualquer parte da área desta magia se sobrepuser a uma área de Escuridão criada por uma magia de nível 3 ou inferior, essa outra magia é dissipada.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d10, e o nível da magia que pode ser dissipada aumenta em 1 para cada nível do espaço de magia acima do 3º.
+
+DRENAGEM SOMBRIA (SHADOW DRAIN)
+Necromancia de Nível 3 (Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: Pessoal
+Componentes: V, S
+Duração: Concentração, até 1 minuto
+
+Você sifona a vitalidade e o senso de identidade através das sombras de criaturas próximas em uma Emanação de 15 pés originada de você.
+
+Quando conjura esta magia, você pode designar criaturas para não serem afetadas por ela. Sempre que qualquer outra criatura entra na Emanação ou começa seu turno nela, ou quando a Emanação entra no espaço de uma criatura, essa criatura deve realizar uma salvaguarda de Carisma. Em uma falha, a criatura sofre 2d6 de dano Necrótico e tem Desvantagem em jogadas de ataque e testes de atributo até o final do próximo turno dela. Em um sucesso, a criatura sofre apenas metade do dano. Uma criatura realiza essa salvaguarda apenas uma vez por turno.
+
+Usando um Espaço de Magia de Nível Superior. O dano aumenta em 1d6 para cada nível do espaço de magia acima do 3º.
+
+VENTOS DE VERÃO (SUMMER WINDS)
+Evocação de Nível 2 (Clérigo, Druida, Paladino, Patrulheiro)
+Tempo de Conjuração: Ação
+Alcance: Pessoal
+Componentes: V, S
+Duração: Instantânea
+
+Você libera uma rajada de luz e vento em um Cone de 15 pés. Seus aliados no Cone recuperam 2d6 Pontos de Vida. Mortos-Vivos dentro do Cone que sejam Hostis a você devem realizar uma salvaguarda de Constituição, sofrendo 2d6 de dano Radiante em uma falha, ou metade desse dano em um sucesso.
+
+Usando um Espaço de Magia de Nível Superior. O dano e a cura aumentam em 2d6 para cada nível do espaço de magia acima do 2º.
+
+SUSSURRO DESAGREGADOR (UNRAVELING WHISPER)
+Encantamento de Nível 2 (Bardo, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação
+Alcance: 30 pés
+Componentes: V, S
+Duração: 1 rodada
+
+Escolha uma criatura que você possa ver dentro do alcance e sussurre uma frase aterrorizante que apenas o alvo possa ouvir. O alvo deve realizar uma salvaguarda de Sabedoria. Em uma falha, o alvo sofre 2d6 de dano Psíquico e fica com a condição Amedrontado até o início do seu próximo turno. Em um sucesso, o alvo sofre apenas metade do dano.
+
+Enquanto estiver Amedrontada dessa forma, a criatura tem Vulnerabilidade a dano Contundente, Perfurante ou Cortante, à sua escolha.
+
+Usando um Espaço de Magia de Nível Superior. Você pode escolher uma criatura adicional como alvo para cada nível do espaço de magia acima do 2º.
+
+VÉU DO CEIFADOR (VEIL OF THE REAPER)
+Ilusão de Nível 2 (Patrulheiro, Feiticeiro, Bruxo, Mago)
+Tempo de Conjuração: Ação Bônus
+Alcance: Pessoal
+Componentes: V, S, M (uma palha de milho seca ou haste de trigo)
+Duração: Concentração, até 1 minuto
+
+Você se envolve em sombras que o ocultam entre os golpes. No final de qualquer turno em que você acertar uma criatura com uma jogada de ataque, você ganha a condição Invisível até o início do seu próximo turno.

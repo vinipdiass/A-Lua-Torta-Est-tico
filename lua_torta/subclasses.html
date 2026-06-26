@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#160b04">
+    <title>Subclasses | Brilho Esquecido</title>
+    <link rel="stylesheet" href="racas.css">
+    <link rel="stylesheet" href="subclasses.css">
+  </head>
+  <body class="subclass-theme">
+    <video class="species-background" autoplay muted loop playsinline preload="metadata">
+      <source src="capitulos_historia/background_chap3.webm" type="video/webm">
+    </video>
+    <audio id="chapter-three-soundtrack" src="soundtrack/14 - Creaking Bones.mp3" preload="metadata" loop></audio>
+    <div class="species-veil" aria-hidden="true"></div>
+
+    <header class="species-header">
+      <a class="species-header__back" href="index.html?view=chapter3">← Voltar ao Capítulo 3</a>
+      <div class="species-header__title">
+        <span>BRILHO ESQUECIDO</span>
+        <strong>Subclasses de Druskenvald</strong>
+      </div>
+      <button id="volume-control" class="volume-control" type="button" aria-label="Volume: 100%. Clique para diminuir.">
+        <span id="volume-control-icon" class="volume-control__icon" aria-hidden="true">🔊</span>
+        <span id="volume-control-value" class="volume-control__value">100%</span>
+      </button>
+    </header>
+
+    <main class="species-carousel" aria-label="Carrossel de subclasses">
+      <button id="subclass-prev" class="species-carousel__nav species-carousel__nav--prev" type="button" aria-label="Subclasse anterior">‹</button>
+
+      <aside class="species-preview species-preview--prev" aria-hidden="true">
+        <img id="subclass-prev-image" alt="">
+        <span id="subclass-prev-name"></span>
+      </aside>
+
+      <section class="species-focus">
+        <figure class="species-portrait">
+          <div class="species-portrait__halo" aria-hidden="true"></div>
+          <img id="subclass-image" alt="">
+          <figcaption id="subclass-position"></figcaption>
+        </figure>
+
+        <article class="species-card" aria-live="polite">
+          <header class="species-card__header">
+            <span id="subclass-class" class="species-card__original"></span>
+            <h1 id="subclass-name"></h1>
+            <p id="subclass-tagline" class="subclass-tagline"></p>
+          </header>
+
+          <div id="subclass-card-scroll" class="species-card__scroll">
+            <div id="subclass-introduction" class="species-introduction"></div>
+            <div id="subclass-sections" class="subclass-sections"></div>
+          </div>
+        </article>
+      </section>
+
+      <aside class="species-preview species-preview--next" aria-hidden="true">
+        <img id="subclass-next-image" alt="">
+        <span id="subclass-next-name"></span>
+      </aside>
+
+      <button id="subclass-next" class="species-carousel__nav species-carousel__nav--next" type="button" aria-label="Próxima subclasse">›</button>
+      <p id="subclass-status" class="species-status" role="status">Consultando os caminhos…</p>
+    </main>
+
+    <script src="subclasses.js"></script>
+    <script src="chapter3-ambience.js"></script>
+  </body>
+</html>

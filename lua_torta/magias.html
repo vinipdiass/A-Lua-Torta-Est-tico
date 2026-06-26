@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#071625">
+    <title>Magias | Brilho Esquecido</title>
+    <link rel="stylesheet" href="magias.css">
+  </head>
+  <body>
+    <video class="magic-background" autoplay muted loop playsinline preload="metadata">
+      <source src="capitulos_historia/background_chap3.webm" type="video/webm">
+    </video>
+    <audio id="chapter-three-soundtrack" src="soundtrack/14 - Creaking Bones.mp3" preload="metadata" loop></audio>
+    <div class="magic-veil" aria-hidden="true"></div>
+
+    <header class="magic-header">
+      <a class="magic-back" href="index.html?view=chapter3">← Voltar ao Capítulo 3</a>
+      <div class="magic-header__title">
+        <span>BRILHO ESQUECIDO</span>
+        <strong>Grimório de Classes</strong>
+      </div>
+      <button id="volume-control" class="magic-volume" type="button" aria-label="Volume: 100%. Clique para diminuir.">
+        <span id="volume-control-icon" aria-hidden="true">🔊</span>
+        <span id="volume-control-value">100%</span>
+      </button>
+    </header>
+
+    <main class="spell-library">
+      <nav id="class-selector" class="class-selector" aria-label="Classes"></nav>
+
+      <section class="class-grimoire" aria-live="polite">
+        <header class="class-grimoire__header">
+          <div class="class-grimoire__identity">
+            <img id="active-class-icon" alt="">
+            <div>
+              <span>LISTA DE MAGIAS</span>
+              <h1 id="active-class-name"></h1>
+            </div>
+          </div>
+          <p id="active-class-count"></p>
+        </header>
+
+        <div class="spell-legend" aria-label="Legenda">
+          <span><b>C</b> Concentração</span>
+          <span><b>M</b> Material especial</span>
+          <span><b>R</b> Ritual</span>
+        </div>
+
+        <div id="spell-groups" class="spell-groups"></div>
+        <p id="spell-list-status" class="magic-status" role="status">Abrindo o grimório…</p>
+      </section>
+    </main>
+
+    <script src="magias-data.js"></script>
+    <script src="magias.js"></script>
+    <script src="chapter3-ambience.js"></script>
+  </body>
+</html>

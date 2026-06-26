@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#050505">
+    <title>A Lua Torta</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main id="story" class="story" aria-label="A Lua Torta">
+      <video
+        id="scene-video"
+        class="scene-video is-active"
+        autoplay
+        muted
+        playsinline
+        preload="auto"
+      ></video>
+
+      <video
+        id="scene-video-buffer"
+        class="scene-video"
+        muted
+        playsinline
+        preload="auto"
+        aria-hidden="true"
+      ></video>
+
+      <img id="scene-image" class="scene-image" alt="" aria-hidden="true">
+      <img id="scene-image-buffer" class="scene-image" alt="" aria-hidden="true">
+      <img id="chapter-four-overlay" class="chapter-four-overlay" alt="" aria-hidden="true">
+
+      <audio
+        id="soundtrack"
+        src="soundtrack/12 Songs We've Borrowed.mp3"
+        preload="auto"
+        loop
+      ></audio>
+
+      <audio
+        id="chapter-two-soundtrack"
+        src="soundtrack/09 - Rotted Rings.mp3"
+        preload="metadata"
+        loop
+      ></audio>
+
+      <audio
+        id="chapter-three-soundtrack"
+        src="soundtrack/14 - Creaking Bones.mp3"
+        preload="metadata"
+        loop
+      ></audio>
+
+      <audio
+        id="chapter-four-soundtrack"
+        src="soundtrack/15 - Bluring Faces.mp3"
+        preload="metadata"
+        loop
+      ></audio>
+
+      <audio id="access-sfx" src="sfx/pagesbook.mp3" preload="auto"></audio>
+      <audio id="entering-chapter-sfx" src="sfx/entering_chapter.mp3" preload="auto"></audio>
+
+      <button id="volume-control" class="volume-control" type="button" aria-label="Volume: 100%. Clique para diminuir.">
+        <span id="volume-control-icon" class="volume-control__icon" aria-hidden="true">🔊</span>
+        <span id="volume-control-value" class="volume-control__value">100%</span>
+      </button>
+
+      <button id="finish-reading" class="finish-reading is-hidden" type="button">Finalizar Leitura</button>
+
+      <aside id="discovered-codes" class="discovered-codes is-hidden" aria-label="Códigos descobertos">
+        <div id="discovered-codes-panel" class="discovered-codes__panel" aria-hidden="true">
+          <span class="discovered-codes__eyebrow">ARQUIVO PESSOAL</span>
+          <h2>Códigos descobertos</h2>
+          <p>Guardados neste navegador.</p>
+          <ol id="discovered-codes-list" class="discovered-codes__list"></ol>
+        </div>
+
+        <button
+          id="discovered-codes-toggle"
+          class="discovered-codes__toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="discovered-codes-panel"
+        >
+          <span>Códigos descobertos</span>
+          <span id="discovered-codes-count" class="discovered-codes__count" aria-hidden="true"></span>
+        </button>
+      </aside>
+
+      <section id="access-panel" class="access-panel" aria-labelledby="access-title">
+        <div class="access-card">
+          <img
+            class="access-card__logo"
+            src="assets/A Lua Torta Render.png"
+            alt="A Lua Torta"
+          >
+          <h1 id="access-title" class="access-card__title"></h1>
+
+          <form id="access-form" class="access-form" novalidate>
+            <label class="access-form__label" for="chapter-code">Código do capítulo</label>
+            <div class="access-form__controls">
+              <input
+                id="chapter-code"
+                class="access-form__input"
+                name="chapter-code"
+                type="text"
+                placeholder="Digite o código"
+                autocomplete="off"
+                autocapitalize="off"
+                spellcheck="false"
+                aria-describedby="access-feedback"
+              >
+              <button class="access-form__button" type="submit">Entrar</button>
+            </div>
+            <p id="access-feedback" class="access-form__feedback" aria-live="polite"></p>
+          </form>
+        </div>
+      </section>
+
+      <section id="text-box" class="text-box" aria-live="polite">
+        <span class="text-box__label">A LUA TORTA</span>
+        <p id="scene-text" class="text-box__text"></p>
+        <span id="text-page-hint" class="text-box__page-hint" aria-hidden="true">CLIQUE OU ENTER PARA CONTINUAR</span>
+      </section>
+
+      <section id="chapter-two-copy" class="chapter-two-copy is-hidden" aria-live="polite">
+        <p id="chapter-two-text" class="chapter-two-copy__text"></p>
+        <span class="chapter-two-copy__hint">CLIQUE OU PRESSIONE ENTER</span>
+      </section>
+
+      <section id="thread-carousel" class="thread-carousel is-hidden" aria-label="Fios do Destino">
+        <button id="thread-prev" class="thread-carousel__nav thread-carousel__nav--prev" type="button" aria-label="Fio anterior">‹</button>
+
+        <div class="thread-preview thread-preview--prev" aria-hidden="true">
+          <img id="thread-prev-icon" alt="">
+        </div>
+
+        <article class="thread-card" aria-live="polite">
+          <span id="thread-position" class="thread-card__position"></span>
+          <img id="thread-icon" class="thread-card__icon" alt="">
+          <h2 id="thread-name" class="thread-card__name"></h2>
+
+          <div id="thread-content" class="thread-card__content">
+            <p id="thread-description" class="thread-card__description"></p>
+
+            <section class="thread-detail">
+              <h3>Objetivo</h3>
+              <p id="thread-objective"></p>
+            </section>
+
+            <section class="thread-detail">
+              <h3>Personalização</h3>
+              <p id="thread-customization"></p>
+            </section>
+
+            <section class="thread-detail">
+              <h3>Chamado à Aventura</h3>
+              <p id="thread-call-to-adventure"></p>
+            </section>
+
+            <section class="thread-detail">
+              <h3>Antecedente Associado</h3>
+              <a id="thread-background-link" class="thread-background-link" href="#" target="_blank" rel="noopener noreferrer" title="Abrir página do antecedente em uma nova guia"></a>
+            </section>
+          </div>
+        </article>
+
+        <div class="thread-preview thread-preview--next" aria-hidden="true">
+          <img id="thread-next-icon" alt="">
+        </div>
+
+        <button id="thread-next" class="thread-carousel__nav thread-carousel__nav--next" type="button" aria-label="Próximo fio">›</button>
+
+        <p id="thread-status" class="thread-carousel__status" role="status"></p>
+      </section>
+
+      <section id="chapter-three-menu" class="chapter-three-menu is-hidden" aria-labelledby="chapter-three-title">
+        <header class="chapter-three-menu__header">
+          <span class="chapter-three-menu__eyebrow">CAPÍTULO 3</span>
+          <h1 id="chapter-three-title">Brilho Esquecido</h1>
+          <p>Escolha qual tomo deseja consultar.</p>
+        </header>
+
+        <div class="chapter-three-categories">
+          <a class="chapter-category chapter-category--active" href="racas.html">
+            <img src="assets/raças.webp" alt="">
+            <span class="chapter-category__number">I</span>
+            <strong>Raças</strong>
+            <small>Explorar as treze linhagens de Druskenvald</small>
+          </a>
+
+          <a class="chapter-category chapter-category--active chapter-category--orange" href="subclasses.html">
+            <img src="assets/subclasses.webp" alt="">
+            <span class="chapter-category__number">II</span>
+            <strong>Subclasses</strong>
+            <small>Explorar quinze caminhos de poder</small>
+          </a>
+
+          <a class="chapter-category chapter-category--active chapter-category--light" href="magias.html">
+            <img src="assets/magias.webp" alt="">
+            <span class="chapter-category__number">III</span>
+            <strong>Magias</strong>
+            <small>Consultar os sortilégios de cada classe</small>
+          </a>
+        </div>
+      </section>
+
+      <section id="chapter-complete" class="chapter-complete is-hidden" aria-live="polite">
+        <div class="chapter-complete__content">
+          <span id="chapter-complete-eyebrow" class="chapter-complete__eyebrow">CÓDIGO PARA A PRÓXIMA FASE</span>
+          <p id="chapter-complete-code" class="chapter-complete__code">Fios do Destino</p>
+          <button id="copy-chapter-code" class="chapter-complete__copy" type="button">Copiar código</button>
+          <button id="chapter-complete-home" class="chapter-complete__home" type="button">Voltar para a Home</button>
+          <span id="copy-chapter-code-status" class="chapter-complete__copy-status" role="status"></span>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

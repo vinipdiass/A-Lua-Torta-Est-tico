@@ -1,0 +1,179 @@
+LISTAS DE MAGIAS
+
+Legenda:
+C = Concentração
+M = Componente material consumido ou com custo
+R = Ritual
+— = Nenhum
+
+MAGIAS DE BARDO
+
+Nível | Magia | Escola | Especial
+0 | Presença Misteriosa (Mysterious Presence) | Ilusão | C
+1 | Cativar Morto-Vivo (Captivate Undead) | Necromancia | C
+2 | Coro dos Perdidos (Chorus of the Lost) | Necromancia | C, M
+2 | Balada Angustiante (Harrowing Ballad) | Encantamento | C
+2 | Sussurro Desagregador (Unraveling Whisper) | Encantamento | —
+3 | Cacofonia Amaldiçoada (Cursed Cacophony) | Encantamento | C, R
+3 | Santuário do Rebanho (Sanctum of the Flock) | Transmutação | M
+4 | Chamado da Selva (Call of the Wild) | Encantamento | C
+4 | Desespero Intrusivo (Intrusive Despair) | Encantamento | C
+4 | Mestre das Marionetes (Puppet Master) | Encantamento | C
+5 | Amuleto da Sorte (Lucky Charm) | Transmutação | C
+5 | Agonia Espelhada (Mirrored Agony) | Abjuração | —
+
+MAGIAS DE CLÉRIGO
+
+Nível | Magia | Escola | Especial
+1 | Comunhão Ancestral (Ancestral Communion) | Adivinhação | C
+1 | Cativar Morto-Vivo (Captivate Undead) | Necromancia | C
+2 | Coro dos Perdidos (Chorus of the Lost) | Necromancia | C, M
+2 | Ventos de Verão (Summer Winds) | Evocação | —
+3 | Luar da Colheita (Harvest Moonglow) | Evocação | —
+3 | Mártir (Martyr) | Necromancia | M
+3 | Santuário do Rebanho (Sanctum of the Flock) | Transmutação | M
+3 | Alvorada Escarlate (Scarlet Dawn) | Evocação | —
+4 | Sifão Sacrificial (Sacrificial Siphon) | Necromancia | C
+4 | Santuário do Pastor (Sanctum of the Shepherd) | Abjuração | M
+5 | Campo da Ceifa (Field of Reaping) | Necromancia | C
+
+MAGIAS DE DRUIDA
+
+Nível | Magia | Escola | Especial
+0 | Queima-Olhos (Eye Burn) | Transmutação | —
+0 | Presença Misteriosa (Mysterious Presence) | Ilusão | C
+1 | Comunhão Ancestral (Ancestral Communion) | Adivinhação | C
+2 | Ventos de Verão (Summer Winds) | Evocação | —
+3 | Podridão Rastejante (Creeping Rot) | Necromancia | —
+3 | Proteção Retorcida (Crooked Ward) | Abjuração | C
+3 | Foice Ceifadora (Culling Sickle) | Necromancia | C
+3 | Luar da Colheita (Harvest Moonglow) | Evocação | —
+3 | Alvorada Escarlate (Scarlet Dawn) | Evocação | —
+4 | Enterrado Vivo (Buried Alive) | Transmutação | —
+4 | Chamado da Selva (Call of the Wild) | Encantamento | C
+4 | Pira Consumidora (Consuming Pyre) | Evocação | C
+4 | Revoada de Corvos (Murder of Crows) | Conjuração | —
+5 | Campo da Ceifa (Field of Reaping) | Necromancia | C
+
+MAGIAS DE PALADINO
+
+Nível | Magia | Escola | Especial
+1 | Lâmina Faminta (Hungering Blade) | Necromancia | —
+2 | Corrente da Convicção (Chain of Conviction) | Conjuração | —
+2 | Ventos de Verão (Summer Winds) | Evocação | —
+3 | Mártir (Martyr) | Necromancia | M
+3 | Santuário do Rebanho (Sanctum of the Flock) | Transmutação | M
+3 | Alvorada Escarlate (Scarlet Dawn) | Evocação | —
+4 | Pira Consumidora (Consuming Pyre) | Evocação | C
+4 | Sifão Sacrificial (Sacrificial Siphon) | Necromancia | C
+4 | Santuário do Pastor (Sanctum of the Shepherd) | Abjuração | M
+5 | Amuleto da Sorte (Lucky Charm) | Transmutação | C
+
+MAGIAS DE PATRULHEIRO
+
+Nível | Magia | Escola | Especial
+1 | Comunhão Ancestral (Ancestral Communion) | Adivinhação | C
+1 | Lâmina Faminta (Hungering Blade) | Necromancia | —
+2 | Segredos Sanguíneos (Sanguine Secrets) | Adivinhação | M
+2 | Ventos de Verão (Summer Winds) | Evocação | —
+2 | Véu do Ceifador (Veil of the Reaper) | Ilusão | C
+3 | Podridão Rastejante (Creeping Rot) | Necromancia | —
+3 | Proteção Retorcida (Crooked Ward) | Abjuração | C
+3 | Luar da Colheita (Harvest Moonglow) | Evocação | —
+3 | Alvorada Escarlate (Scarlet Dawn) | Evocação | —
+4 | Chamado da Selva (Call of the Wild) | Encantamento | C
+4 | Revoada de Corvos (Murder of Crows) | Conjuração | —
+5 | Amuleto da Sorte (Lucky Charm) | Transmutação | C
+
+MAGIAS DE FEITICEIRO
+
+Nível | Magia | Escola | Especial
+0 | Raio de Sangue (Blood Bolt) | Necromancia | —
+0 | Presença Misteriosa (Mysterious Presence) | Ilusão | C
+1 | Comunhão Ancestral (Ancestral Communion) | Adivinhação | C
+1 | Cativar Morto-Vivo (Captivate Undead) | Necromancia | C
+1 | Dívida do Diabo (Devil’s Due) | Necromancia | —
+2 | Sacrifício de Sangue (Blood Sacrifice) | Necromancia | —
+2 | Coro dos Perdidos (Chorus of the Lost) | Necromancia | C, M
+2 | Balada Angustiante (Harrowing Ballad) | Encantamento | C
+2 | Segredos Sanguíneos (Sanguine Secrets) | Adivinhação | M
+2 | Sussurro Desagregador (Unraveling Whisper) | Encantamento | —
+2 | Véu do Ceifador (Veil of the Reaper) | Ilusão | C
+3 | Podridão Rastejante (Creeping Rot) | Necromancia | —
+3 | Colheita Carmesim (Crimson Harvest) | Necromancia | —
+3 | Foice Ceifadora (Culling Sickle) | Necromancia | C
+3 | Cacofonia Amaldiçoada (Cursed Cacophony) | Encantamento | C, R
+3 | Névoa do Luto (Mist of Mourning) | Encantamento | C
+3 | Drenagem Sombria (Shadow Drain) | Necromancia | C
+4 | Enterrado Vivo (Buried Alive) | Transmutação | —
+4 | Desespero Intrusivo (Intrusive Despair) | Encantamento | C
+4 | Revoada de Corvos (Murder of Crows) | Conjuração | —
+4 | Mestre das Marionetes (Puppet Master) | Encantamento | C
+5 | Agonia Espelhada (Mirrored Agony) | Abjuração | —
+6 | Investida Espectral (Ghastly Charge) | Necromancia | —
+
+MAGIAS DE BRUXO
+
+Nível | Magia | Escola | Especial
+0 | Raio de Sangue (Blood Bolt) | Necromancia | —
+0 | Queima-Olhos (Eye Burn) | Transmutação | —
+1 | Cativar Morto-Vivo (Captivate Undead) | Necromancia | C
+1 | Dívida do Diabo (Devil’s Due) | Necromancia | —
+1 | Lâmina Faminta (Hungering Blade) | Necromancia | —
+2 | Sacrifício de Sangue (Blood Sacrifice) | Necromancia | —
+2 | Corrente da Convicção (Chain of Conviction) | Conjuração | —
+2 | Coro dos Perdidos (Chorus of the Lost) | Necromancia | C, M
+2 | Segredos Sanguíneos (Sanguine Secrets) | Adivinhação | M
+2 | Sussurro Desagregador (Unraveling Whisper) | Encantamento | —
+2 | Véu do Ceifador (Veil of the Reaper) | Ilusão | C
+3 | Podridão Rastejante (Creeping Rot) | Necromancia | —
+3 | Colheita Carmesim (Crimson Harvest) | Necromancia | —
+3 | Proteção Retorcida (Crooked Ward) | Abjuração | C
+3 | Foice Ceifadora (Culling Sickle) | Necromancia | C
+3 | Cacofonia Amaldiçoada (Cursed Cacophony) | Encantamento | C, R
+3 | Isolamento (Isolation) | Encantamento | C
+3 | Névoa do Luto (Mist of Mourning) | Encantamento | C
+3 | Alvorada Escarlate (Scarlet Dawn) | Evocação | —
+3 | Drenagem Sombria (Shadow Drain) | Necromancia | C
+4 | Enterrado Vivo (Buried Alive) | Transmutação | —
+4 | Chamado da Selva (Call of the Wild) | Encantamento | C
+4 | Pira Consumidora (Consuming Pyre) | Evocação | C
+4 | Desespero Intrusivo (Intrusive Despair) | Encantamento | C
+4 | Revoada de Corvos (Murder of Crows) | Conjuração | —
+4 | Mestre das Marionetes (Puppet Master) | Encantamento | C
+4 | Sifão Sacrificial (Sacrificial Siphon) | Necromancia | C
+5 | Amuleto da Sorte (Lucky Charm) | Transmutação | C
+5 | Campo da Ceifa (Field of Reaping) | Necromancia | C
+6 | Investida Espectral (Ghastly Charge) | Necromancia | —
+
+MAGIAS DE MAGO
+
+Nível | Magia | Escola | Especial
+0 | Raio de Sangue (Blood Bolt) | Necromancia | —
+0 | Dissolução (Dissolution) | Transmutação | —
+0 | Queima-Olhos (Eye Burn) | Transmutação | —
+1 | Cativar Morto-Vivo (Captivate Undead) | Necromancia | C
+1 | Dívida do Diabo (Devil’s Due) | Necromancia | —
+2 | Sacrifício de Sangue (Blood Sacrifice) | Necromancia | —
+2 | Coro dos Perdidos (Chorus of the Lost) | Necromancia | C, M
+2 | Balada Angustiante (Harrowing Ballad) | Encantamento | C
+2 | Segredos Sanguíneos (Sanguine Secrets) | Adivinhação | M
+2 | Sussurro Desagregador (Unraveling Whisper) | Encantamento | —
+2 | Véu do Ceifador (Veil of the Reaper) | Ilusão | C
+3 | Podridão Rastejante (Creeping Rot) | Necromancia | —
+3 | Colheita Carmesim (Crimson Harvest) | Necromancia | —
+3 | Proteção Retorcida (Crooked Ward) | Abjuração | C
+3 | Foice Ceifadora (Culling Sickle) | Necromancia | C
+3 | Isolamento (Isolation) | Encantamento | C
+3 | Mártir (Martyr) | Necromancia | M
+3 | Névoa do Luto (Mist of Mourning) | Encantamento | C
+3 | Alvorada Escarlate (Scarlet Dawn) | Evocação | —
+3 | Drenagem Sombria (Shadow Drain) | Necromancia | C
+4 | Enterrado Vivo (Buried Alive) | Transmutação | —
+4 | Desespero Intrusivo (Intrusive Despair) | Encantamento | C
+4 | Revoada de Corvos (Murder of Crows) | Conjuração | —
+4 | Mestre das Marionetes (Puppet Master) | Encantamento | C
+4 | Sifão Sacrificial (Sacrificial Siphon) | Necromancia | C
+4 | Santuário do Pastor (Sanctum of the Shepherd) | Abjuração | M
+5 | Agonia Espelhada (Mirrored Agony) | Abjuração | —
+6 | Investida Espectral (Ghastly Charge) | Necromancia | —

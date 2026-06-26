@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#090706">
+    <title>Antecedente | A Lua Torta</title>
+    <link rel="stylesheet" href="antecedente.css">
+  </head>
+  <body>
+    <video class="background-video" autoplay muted loop playsinline preload="metadata">
+      <source src="videos/fios_do_destino/background.webm" type="video/webm">
+    </video>
+
+    <div class="background-veil" aria-hidden="true"></div>
+
+    <header class="page-header">
+      <a id="back-link" class="back-link" href="index.html?view=fios">← Voltar aos Fios</a>
+
+      <div class="page-header__actions">
+        <nav class="background-nav" aria-label="Navegação entre antecedentes">
+          <a id="previous-background" class="background-nav__arrow" href="#" aria-label="Antecedente anterior">‹</a>
+          <span id="background-position" class="background-nav__position"></span>
+          <a id="next-background" class="background-nav__arrow" href="#" aria-label="Próximo antecedente">›</a>
+        </nav>
+
+        <button id="volume-control" class="volume-control" type="button" aria-label="Volume: 100%. Clique para diminuir.">
+          <span id="volume-control-icon" class="volume-control__icon" aria-hidden="true">🔊</span>
+          <span id="volume-control-value" class="volume-control__value">100%</span>
+        </button>
+      </div>
+    </header>
+
+    <a class="finish-reading" href="index.html">Finalizar Leitura</a>
+
+    <main class="background-page">
+      <section class="background-hero">
+        <div class="background-hero__icon-frame">
+          <img id="background-icon" class="background-hero__icon" alt="">
+        </div>
+
+        <div class="background-hero__heading">
+          <span class="background-hero__eyebrow">ANTECEDENTE</span>
+          <h1 id="background-title">Carregando…</h1>
+        </div>
+      </section>
+
+      <p id="background-status" class="background-status" role="status">Consultando os registros…</p>
+
+      <div id="background-content" class="background-content is-hidden">
+        <section id="background-overview" class="background-overview">
+          <p id="background-original-title" class="background-overview__original-title"></p>
+          <div id="background-introduction" class="background-prose"></div>
+          <dl id="background-traits" class="background-traits"></dl>
+        </section>
+
+        <section id="talent-section" class="talent-section">
+          <div id="talent-icon-frame" class="talent-section__icon-frame">
+            <img id="talent-icon" class="talent-section__icon" alt="">
+          </div>
+
+          <div class="talent-section__content">
+            <span id="talent-type" class="talent-section__eyebrow">TALENTO DE ORIGEM</span>
+            <h2 id="talent-name"></h2>
+            <div id="talent-introduction" class="talent-section__introduction"></div>
+            <div id="talent-features" class="talent-features"></div>
+          </div>
+        </section>
+
+        <div id="background-sections" class="background-sections"></div>
+      </div>
+    </main>
+
+    <footer class="page-footer">
+      <span>A LUA TORTA</span>
+      <span>Os caminhos do passado ainda respiram.</span>
+    </footer>
+
+    <script src="antecedente.js"></script>
+  </body>
+</html>

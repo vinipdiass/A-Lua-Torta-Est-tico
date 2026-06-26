@@ -1,0 +1,393 @@
+ASHBORN
+
+NASCIDOS DAS CINZAS
+
+Os Nascidos das Cinzas são uma espécie semelhante a diabretes, nativa de Chernabos (veja a página 22), geralmente formados a partir das cinzas sulfúricas dos vulcões de fogo infernal e enxofre da província. Imbuído com o poder infernal dos Infernos, este povo conseguiu sobreviver e até prosperar nas terras áridas e ermas da província por meio de astúcia, ousadia e laboriosidade. Diz-se que são favorecidos pela própria sorte, e os Nascidos das Cinzas contam com ela para torcer o equilíbrio nas situações mais desesperadoras.
+
+Sua baixa estatura varia de esguia a robusta, mas isso não os torna menos perigosos, pois cada Nascido das Cinzas possui uma cauda venenosa semelhante à de um escorpião, sempre pronta para atacar. Eles exibem chifres e tons de pele em variadas nuances de vermelho e cinza, refletindo sua origem diabólica, e normalmente vivem até 100 anos.
+
+TRAÇOS DOS NASCIDOS DAS CINZAS
+
+Tipo de Criatura: Ínfero
+
+Tamanho: Pequeno (cerca de 60 a 90 centímetros de altura)
+
+Deslocamento: 9 metros
+
+Como um Nascido das Cinzas, você possui os seguintes traços especiais.
+
+Legado Cinéreo. Você conhece o truque Ilusão Menor. Além disso, a partir do nível 3 de personagem, você sempre tem a magia Enfeitiçar Pessoa preparada, e a partir do nível 5 de personagem, você sempre tem a magia Invisibilidade preparada. Você pode conjurar cada uma delas uma vez sem gastar espaço de magia, e recupera a capacidade de conjurá-las dessa forma ao terminar um Descanso Longo. Você também pode conjurá-las usando quaisquer espaços de magia que possua do nível apropriado.
+
+Inteligência, Sabedoria ou Carisma é sua habilidade de conjuração para as magias que você conjura com este traço. Você escolhe a habilidade quando seleciona esta espécie.
+
+Visão no Escuro. Você possui Visão no Escuro com alcance de 18 metros.
+
+Fortuna Infernal. Quando você é atingido por uma jogada de ataque que não seja um Acerto Crítico, você pode usar uma Reação para fazer com que, magicamente, o ataque erre você. Uma criatura à sua escolha a até 1,5 metro de você sofre dano de Energia igual ao seu Bônus de Proficiência. Depois de usar este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+
+Ferrão de Escorpião. Você possui um ferrão na cauda que pode usar para realizar Ataques Desarmados, usando sua Força ou Destreza, à sua escolha, nas jogadas de ataque e dano. Em um acerto, você causa 1d4 de dano Perfurante, e pode causar 1d6 de dano Venenoso adicional. Você pode causar esse dano adicional um número de vezes igual ao seu Bônus de Proficiência. Você recupera um uso gasto ao terminar um Descanso Curto, e recupera todos os usos gastos ao terminar um Descanso Longo.
+
+Quando você alcança o nível 10 de personagem, esse dano adicional aumenta para 2d6.
+--
+AZUREBORN
+
+NASCIDOS DO AZUL
+
+Os Nascidos do Azul (A-jer-born) são uma espécie semelhante a harpias, nativa de Astramar (veja a página 16), frequentemente materializando-se a partir do céu noturno azul-vivo, repleto de estrelas cintilantes e ventos de poder arcano. Portadores de uma conexão com o aíter que percorre o ar e a terra da província, eles são um povo naturalmente presciente, capaz de adivinhar o futuro ao observar o cosmos. Eles construíram uma sociedade de maravilhas mágicas por meio de grande visão, curiosidade infinita e dedicação ao estudo.
+
+Com penas brotando por todo o corpo e asas ligadas a cada um de seus braços, este povo diverso pode se assemelhar a todo tipo de criatura aviária, desde aves de rapina de tons terrosos até pássaros tropicais de plumagem vibrante e colorida. Eles normalmente vivem até 100 anos, embora muitos dos mais sábios entre eles tenham vivido até 400.
+
+TRAÇOS DOS NASCIDOS DO AZUL
+
+Tipo de Criatura: Humanoide
+
+Tamanho: Médio (cerca de 1,20 a 2,10 metros de altura)
+
+Deslocamento: 9 metros, Deslocamento de Voo igual ao seu Deslocamento
+
+Como um Nascido do Azul, você possui os seguintes traços especiais.
+
+Legado Azulado. Você conhece o truque Orientação. A partir do nível 3 de personagem, você sempre tem a magia Augúrio preparada e pode conjurá-la uma vez sem gastar espaço de magia ou Componentes Materiais. Você recupera a capacidade de conjurá-la dessa forma ao terminar um Descanso Longo. Você também pode conjurá-la usando quaisquer espaços de magia que possua do nível apropriado.
+
+Inteligência, Sabedoria ou Carisma é sua habilidade de conjuração para as magias que você conjura com este traço. Você escolhe a habilidade quando seleciona esta espécie.
+
+Visão no Escuro. Você possui Visão no Escuro com alcance de 18 metros.
+
+Vislumbre do Destino. Quando você rola Iniciativa, se não estiver surpreso, pode escolher um número de criaturas que você possa ver igual ao seu Bônus de Proficiência. Os alvos têm Vantagem em suas rolagens de Iniciativa. Depois de usar este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+
+Ventos da Magia. Como uma Ação Bônus, você pode realizar a ação Disparada e aumentar seu Deslocamento de Voo em 3 metros até o final do turno. Você pode usar este traço um número de vezes igual ao seu Bônus de Proficiência, e recupera todos os usos gastos ao terminar um Descanso Longo.
+--
+BOGBORN
+
+NASCIDOS DO BREJO
+
+Os Nascidos do Brejo são uma espécie semelhante a trolls, nativa de Zulrogg (veja a página 49), geralmente emergindo das águas paradas e escuras da província pantanosa. Desde o momento de seu renascimento, eles possuem uma relação simbiótica com a flora e a fauna do lamaçal selvagem — e frequentemente traiçoeiro. Sua capacidade de sobrevivência é ainda mais aprimorada pela biologia naturalmente regenerativa comum aos trolls.
+
+Altos o bastante para se erguerem sobre a maioria, este povo vigoroso é capaz de enfrentar qualquer provação da natureza, e frequentemente usa seu atletismo em atividades de caça e sobrevivência. Com narizes e presas proeminentes, suas peles resistentes geralmente apresentam tons de verde ou azul. Os Nascidos do Brejo normalmente vivem até 100 anos antes de seguirem para o mundo espiritual.
+
+TRAÇOS DOS NASCIDOS DO BREJO
+
+Tipo de Criatura: Gigante
+
+Tamanho: Médio (cerca de 2,10 a 2,40 metros de altura)
+
+Deslocamento: 9 metros
+
+Como um Nascido do Brejo, você possui os seguintes traços especiais.
+
+Corpulência do Brejo. Você tem Vantagem em qualquer teste de habilidade que faça para encerrar a condição Agarrado. Você também conta como uma categoria de tamanho maior ao determinar sua capacidade de carga.
+
+Visão no Escuro. Você possui Visão no Escuro com alcance de 18 metros.
+
+Vínculo Guiador. Como uma Ação Bônus, você pode colocar magicamente uma marca em uma criatura que possa ver a até 18 metros de você. A marca dura 1 minuto e assume a forma de plantas efêmeras, musgo, fungos ou animais do pântano que apenas você consegue ver.
+
+Enquanto a marca durar, você pode adicionar 1d4 aos testes de habilidade e jogadas de ataque que fizer contra a criatura marcada. Você pode usar esta Ação Bônus um número de vezes igual ao seu Bônus de Proficiência, e recupera todos os usos gastos ao terminar um Descanso Longo.
+
+Sentidos Aguçados. Você tem proficiência na perícia Percepção ou Sobrevivência.
+
+Regeneração. Como uma Ação Bônus, você pode gastar um de seus Dados de Vida, rolar o dado e recuperar um número de Pontos de Vida igual ao resultado rolado mais seu modificador de Constituição, com um mínimo de 1 Ponto de Vida.
+
+Se você sofrer dano Ácido ou de Fogo, este traço não funciona até o final do seu próximo turno.
+--
+CURSEBORN
+
+NASCIDOS DA MALDIÇÃO
+
+Os Nascidos da Maldição são uma espécie semelhante a lobisomens, nativa de Edwardia (veja a página 25), frequentemente emergindo da névoa densa e amaldiçoada que se espalha pela província. Compartilhando uma forte conexão com uma maldição chamada Cinzento, que exige equilíbrio sob a ameaça de uma ruína inevitável, eles conseguiram construir uma civilização de avanço e progresso, contraposta por conflitos constantes, poluição e fome.
+
+Coberta da cabeça aos pés por uma pelagem espessa e portando dentes e garras afiadas, esta espécie lupina evoca as marcas e a aparência dos lobos, mas com uma fisiologia claramente humanoide. Se não forem levados a uma sepultura precoce pelo Cinzento, eles normalmente vivem até 100 anos, embora o avanço tecnológico tenha permitido que certos indivíduos se aproximem dos 200 anos de idade.
+
+TRAÇOS DOS NASCIDOS DA MALDIÇÃO
+
+Tipo de Criatura: Humanoide
+
+Tamanho: Médio (cerca de 1,50 a 1,80 metro de altura)
+
+Deslocamento: 10,5 metros
+
+Como um Nascido da Maldição, você possui os seguintes traços especiais.
+
+Garras Amaldiçoadas. Você possui garras que pode usar para realizar Ataques Desarmados, causando 1d6 de dano Cortante em um acerto. Você pode usar Força ou Destreza nas jogadas de ataque e dano com suas garras.
+
+Quando você acerta uma criatura com suas garras, pode amaldiçoar o alvo até o início do seu próximo turno. Enquanto estiver amaldiçoado, o alvo emite fiapos de névoa e tem Desvantagem em Testes de D20. Você pode amaldiçoar uma criatura um número de vezes igual ao seu Bônus de Proficiência, e recupera todos os usos gastos ao terminar um Descanso Longo.
+
+Visão no Escuro. Você possui Visão no Escuro com alcance de 18 metros.
+
+Equilíbrio do Cinzento. Quando você falha em um teste de resistência, pode usar uma Reação para ter sucesso no lugar. Quando faz isso, você tem Desvantagem em Testes de D20 até o final do seu próximo turno. Você pode usar este traço uma vez, e recupera a capacidade de usá-lo ao terminar um Descanso Longo.
+
+Sentido Lupino. Você tem proficiência na perícia Investigação, Percepção ou Sobrevivência.
+--
+DEEPBORN
+
+NASCIDOS DAS PROFUNDEZAS
+
+Os Nascidos das Profundezas são uma espécie semelhante a peixes, nativa de Olmarsh (veja a página 37), geralmente emergindo das profundezas abissais do mar negro da província — lar de terrores além da imaginação conhecidos como os Famintos. Imersos em uma presença sobrenatural quase constante, que emerge das profundezas e desce de além das estrelas, este povo lida com seu estado de paranoia abraçando e dominando o estranho e o cósmico.
+
+Embora sua anatomia seja principalmente pisciforme, eles podem possuir características encontradas em uma ampla variedade de criaturas marinhas, incluindo cefalópodes e crustáceos. Eles normalmente vivem cerca de 150 anos, mas certos membros de ordens ocultistas são conhecidos por viver até 600 anos.
+
+TRAÇOS DOS NASCIDOS DAS PROFUNDEZAS
+
+Tipo de Criatura: Aberração
+
+Tamanho: Médio (cerca de 1,50 a 2,10 metros de altura)
+
+Deslocamento: 9 metros, Deslocamento de Natação igual ao seu Deslocamento
+
+Como um Nascido das Profundezas, você possui os seguintes traços especiais.
+
+Anfíbio. Você pode respirar ar e água.
+
+Visão no Escuro. Você possui Visão no Escuro com alcance de 18 metros.
+
+Balbucio Sobrenatural. Graças à sua conexão sobrenatural com os Famintos, você fala Fala Profunda. Como uma Ação Mágica, você pode balbuciar nesse idioma. Cada criatura à sua escolha em uma Emanação de 9 metros originada de você deve ser bem-sucedida em um teste de resistência de Sabedoria (CD 8 + seu Bônus de Proficiência + seu modificador de Inteligência, Sabedoria ou Carisma; escolha a habilidade quando selecionar esta espécie) ou rolar 1d6 e consultar a tabela abaixo. O efeito dura até o início do seu próximo turno. Depois que qualquer alvo falha no teste de resistência contra este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+
+1d6 | Efeito
+1–2 | O alvo tem Desvantagem em jogadas de ataque.
+3–4 | O Deslocamento do alvo se torna 0.
+5–6 | O alvo não pode usar Reações.
+
+Fome Infinita. Como uma Ação Bônus, você pode abraçar sua conexão com os Famintos. Até o início do seu próximo turno, você sabe a localização de quaisquer criaturas que não sejam Constructos ou Mortos-vivos a até 18 metros de você, e suas jogadas de ataque contra essas criaturas não podem ter Desvantagem. Depois de usar este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+--
+GNARLBORN
+
+NASCIDOS DO LENHO RETORCIDO
+
+Os Nascidos do Lenho Retorcido (NAR-ul-born) são uma espécie semelhante a árvores, nativa de Ardengloom (veja a página 13), geralmente brotando do solo da floresta sombria e retorcida. Seu lar é eternamente assombrado pelas almas de Feéricos há muito mortos, que habitam as árvores enormes e portadoras de rostos conhecidas como Árvores Anciãs. Este povo comunga com esses seres para receber sabedoria primordial.
+
+Semelhantes a árvores nodosas, com rostos luminosos escavados na casca, seus padrões individuais de galhos, musgo e líquen podem resultar em uma ampla diversidade de aparências. A maioria dos Nascidos do Lenho Retorcido vive por mais de 500 anos, mas diz-se que aqueles com a conexão mais forte com as Árvores Anciãs podem viver por milhares de anos.
+
+TRAÇOS DOS NASCIDOS DO LENHO RETORCIDO
+
+Tipo de Criatura: Planta
+
+Tamanho: Médio (cerca de 1,50 a 2,40 metros de altura)
+
+Deslocamento: 9 metros
+
+Como um Nascido do Lenho Retorcido, você possui os seguintes traços especiais.
+
+Raízes Profundas. Você tem Vantagem em testes de habilidade e testes de resistência contra ser movido contra sua vontade ou para evitar a condição Caído.
+
+Sussurros das Árvores Anciãs. Você pode recorrer à memória dos espíritos das Árvores Anciãs. Quando termina um Descanso Longo, você ganha proficiência em uma perícia, com uma ferramenta, ou aprende um idioma à sua escolha até terminar seu próximo Descanso Longo.
+
+Galhos Agarradores. Como uma Ação Bônus, você pode liberar magicamente o poder aprisionador do bosque sombrio. Escolha uma criatura Grande ou menor a até 9 metros de você. A criatura deve realizar um teste de resistência de Força (CD 8 + seu modificador de Constituição + seu Bônus de Proficiência). Em uma falha, o alvo fica com a condição Contido por 1 minuto, conforme galhos surgem e o enredam. Em um sucesso, seu Deslocamento é reduzido pela metade até o final do próximo turno dele.
+
+Uma criatura Contida repete o teste de resistência no final de cada um de seus turnos, encerrando o efeito sobre si mesma em um sucesso. Os galhos desaparecem quando a condição termina.
+
+Depois de usar este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+
+Sentido das Raízes. Como uma Ação Bônus, você ganha Sentido Sísmico com alcance de 18 metros por 10 minutos. Depois de usar este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+
+Tamanho Imponente. Você tem Vantagem em qualquer teste de habilidade que faça para encerrar a condição Agarrado. Você também conta como uma categoria de tamanho maior ao determinar sua capacidade de carga.
+--
+GRAVEBORN
+
+NASCIDOS DA TUMBA
+
+Os Nascidos da Tumba são uma espécie semelhante a carniçais, nativa de Syndramas (veja a página 46), geralmente erguendo-se de uma das incontáveis sepulturas que marcam os campos de batalha congelados da província. Eles foram criados pela primeira vez em um ritual realizado por todo o reino, que retorceu incontáveis humanos em novas criaturas Mortas-vivas que mal se pareciam com quem haviam sido um dia.
+
+Hoje, os Nascidos da Tumba travam guerra sem fim e perpetuam uma cultura de proeza marcial, implacabilidade e honra fúnebre. Este povo é imbuído com a essência necrótica e dracônica do poderoso metal Drakkonita, encontrado por toda a província, o que lhes concedeu um estranho gosto por carne estragada de qualquer tipo.
+
+Parecendo cadáveres de Humanoides retorcidos, os Nascidos da Tumba possuem focinhos e mandíbulas poderosas, com dentes alongados e línguas que auxiliam no consumo de carne e osso. Sua fisiologia é robusta, como se tivesse sido magicamente projetada e aperfeiçoada para a guerra. Se não forem mortos em batalha, destino comum para muitos de sua espécie, eles podem viver até 300 anos antes de apodrecerem por completo.
+
+TRAÇOS DOS NASCIDOS DA TUMBA
+
+Tipo de Criatura: Morto-vivo
+
+Tamanho: Médio (cerca de 1,20 a 1,80 metro de altura)
+
+Deslocamento: 9 metros
+
+Como um Nascido da Tumba, você possui os seguintes traços especiais.
+
+Visão no Escuro. Você possui Visão no Escuro com alcance de 18 metros.
+
+Devorar Cadáver. Você pode comer comida estragada e apodrecida como se estivesse fresca. Além disso, se passar 1 minuto comendo carne do cadáver de uma criatura Pequena ou maior que não seja um Constructo, role um de seus Dados de Vida sem gastá-lo, mesmo que não tenha nenhum restante. Você recupera um número de Pontos de Vida igual ao resultado rolado mais seu modificador de Constituição, com um mínimo de 1 Ponto de Vida. Depois de recuperar Pontos de Vida usando este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+
+Ermo Congelado. Você possui Resistência a dano de Frio.
+
+Drakkonita Infundida. Quando você causa dano a uma criatura, pode ignorar quaisquer Resistências que ela possua, e ela sofre dano Necrótico adicional igual ao seu Bônus de Proficiência. Depois de usar este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+--
+HARVESTBORN
+
+NASCIDOS DA COLHEITA
+
+Os Nascidos da Colheita são uma espécie semelhante a espantalhos, nativa de Enoch (veja a página 28), na maioria das vezes cuidadosamente criados por Methuselah, o senhor da província. Imbuídos com a magia vital e verdejante que pulsa pela terra imensamente fértil, eles possuem uma forte conexão com o ciclo da colheita, bem como com a vida, a morte e o renascimento.
+
+Eles alimentam grande parte de Druskenvald com as plantações que cultivam em uma sociedade relativamente pacífica, voltada para a comunidade, a família e a camaradagem.
+
+Como uma espécie construída que pode se assemelhar a qualquer tipo de espantalho, seus corpos são compostos por uma mistura de madeira, metal, palha e outros utensílios. Suas cabeças de olhos brilhantes podem ser feitas de um saco de estopa ou de uma plantação, como uma abóbora ou um nabo. Fiéis ao ciclo, eles geralmente vivem 100 anos antes de aceitarem o próximo passo da morte e renascerem mais uma vez.
+
+TRAÇOS DOS NASCIDOS DA COLHEITA
+
+Tipo de Criatura: Constructo
+
+Tamanho: Médio (cerca de 1,20 a 2,10 metros de altura)
+
+Deslocamento: 9 metros
+
+Como um Nascido da Colheita, você possui os seguintes traços especiais.
+
+Ceifa. Quando você causa dano a uma criatura Ensanguentada, pode causar 1d12 de dano Necrótico adicional a ela. Você pode usar este traço um número de vezes igual ao seu Bônus de Proficiência, e recupera todos os usos gastos ao terminar um Descanso Longo.
+
+Dádiva do Verde. Como uma Ação Bônus, você pode tocar o chão e escolher uma criatura que também esteja tocando o chão a até 9 metros de você. Essa criatura pode gastar e rolar um Dado de Vida, recuperando um número de Pontos de Vida igual ao resultado rolado mais seu Bônus de Proficiência.
+
+Você pode usar este traço um número de vezes igual ao seu Bônus de Proficiência. Você recupera um uso gasto ao terminar um Descanso Curto, e recupera todos os usos gastos ao terminar um Descanso Longo.
+
+Lanterna de Abóbora. Você conhece o truque Luzes Dançantes. Inteligência, Sabedoria ou Carisma é sua habilidade de conjuração para ele. Você escolhe a habilidade quando seleciona esta espécie.
+
+Natureza de Espantalho. Você não precisa de ar, comida ou bebida.
+
+Descanso Vigilante. Você não precisa dormir, e magia não pode colocá-lo para dormir. Além disso, você pode terminar um Descanso Longo em 4 horas se passar esse tempo em um estado inativo e imóvel, durante o qual permanece consciente.
+--
+PLAGUEBORN
+
+NASCIDOS DA PRAGA
+
+Os Nascidos da Praga são uma espécie semelhante a ratos, nativa de Bubonia (veja a página 19), geralmente formando-se na névoa pestilenta que paira sobre a província. Eles são profundamente conectados à praga virulenta e mortal que aflige e molda sua sociedade, a qual persiste por meio de astúcia, crueldade e pura vontade de viver. Eles são a espécie mais adaptável de Druskenvald, descobrindo rapidamente meios de sobreviver até mesmo nos ambientes mais hostis.
+
+Com aparência de grandes ratos pestilentos dotados de fisiologia humanoide, sua pelagem curta varia entre cinzas, marrons e diversos tons de verde. Eles possuem dentes e garras serrilhados, todos carregando uma cepa de praga à qual são imunes, mas que pode se provar mortal para outros. Suas caudas ágeis podem variar muito em comprimento e espessura, frequentemente refletindo sua família, clã ou guilda. Os Nascidos da Praga geralmente não vivem mais de 100 anos.
+
+TRAÇOS DOS NASCIDOS DA PRAGA
+
+Tipo de Criatura: Humanoide
+
+Tamanho: Médio (cerca de 1,20 a 1,80 metro de altura) ou Pequeno (cerca de 60 centímetros a 1,20 metro de altura), escolhido quando você seleciona esta espécie
+
+Deslocamento: 9 metros, Deslocamento de Escalada igual ao seu Deslocamento
+
+Como um Nascido da Praga, você possui os seguintes traços especiais.
+
+Nascido na Imundície. Você tem Vantagem em testes de resistência para evitar ou encerrar a condição Envenenado ou contágios mágicos.
+
+Visão no Escuro. Você possui Visão no Escuro com alcance de 18 metros.
+
+Astúcia Infectada. A praga que você carrega o vincula aos ratos e lhe transmite sua astúcia. Você ganha proficiência na perícia Enganação ou Furtividade.
+
+Portador da Praga. Quando você acerta uma criatura com uma jogada de ataque, pode espalhar seu contágio mágico para o alvo. O alvo deve ser bem-sucedido em um teste de resistência de Constituição (CD 8 + seu modificador de Constituição + seu Bônus de Proficiência) ou será afligido por sua praga por 1 minuto.
+
+Enquanto estiver afligido, o alvo tem Desvantagem em jogadas de ataque e testes de habilidade, e sofre 1d4 de dano Venenoso no início de cada um de seus turnos. O alvo repete o teste de resistência no final de cada um de seus turnos, encerrando a praga sobre si mesmo em um sucesso.
+
+Depois de usar este traço, você não pode usá-lo novamente até terminar um Descanso Longo.
+--
+RELICBORN
+
+NASCIDOS DA RELÍQUIA
+
+Os Nascidos da Relíquia são uma espécie semelhante a esqueletos, nativa de Kalero (veja a página 31), geralmente emergindo das numerosas tumbas e criptas que revestem as paredes dos cânions da província. Eles prosperam em uma cultura de celebração e lembrança, que infunde a própria essência de cada membro da espécie. Dançando entre a energia de uma festa vibrante e a serenidade de uma reflexão pacífica, este povo nutre uma profunda apreciação tanto pelos vivos quanto pelos mortos.
+
+Eles se parecem com esqueletos decorados com uma ampla variedade de cores, padrões e estilos vibrantes, e seus ossos são envoltos por uma substância translúcida e brilhante que lhes confere massa e forma semelhantes às de outras espécies Humanoides, permitindo que usem roupas e armaduras confortavelmente. Alguns Nascidos da Relíquia podem até fazer crescer cabelos a partir de seus crânios, geralmente moldados em estilos extravagantes.
+
+Os Nascidos da Relíquia normalmente vivem por 250 anos antes de perderem sua forma e desabarem em uma pilha de ossos.
+
+TRAÇOS DOS NASCIDOS DA RELÍQUIA
+
+Tipo de Criatura: Morto-vivo
+
+Tamanho: Médio (cerca de 1,20 a 1,80 metro de altura)
+
+Deslocamento: 9 metros
+
+Como um Nascido da Relíquia, você possui os seguintes traços especiais.
+
+Dança da Morte. Como uma Ação Bônus, você pode realizar um teste de Carisma (Instrumento Musical ou Atuação) CD 15. Se for bem-sucedido, a próxima jogada de ataque que fizer antes do final do seu turno tem Vantagem. Se for bem-sucedido no teste por 5 ou mais, você pode rolar um de seus Dados de Vida sem gastá-lo e ganhar Pontos de Vida Temporários iguais ao resultado rolado.
+
+Festa Eterna. Você não precisa dormir, e pode terminar um Descanso Longo em 4 horas se passar esse tempo desfrutando de festejos, como contando histórias ou tocando música.
+
+Momento de Lembrança. Quando outra criatura que você possa ver a até 9 metros de você falha em um Teste de D20, você pode usar uma Reação para permitir que o alvo adicione 1d4 ao total, potencialmente fazendo com que tenha sucesso. Depois que este traço transforma uma rolagem fracassada em um sucesso, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+
+Alma da Folia. Você ganha proficiência na perícia Atuação ou com um tipo de Instrumento Musical.
+--
+SILKBORN
+
+NASCIDOS DA SEDA
+
+Os Nascidos da Seda são uma espécie semelhante a aranhas, nativa de Nerukhet (veja a página 34), geralmente emergindo de casulos sedosos em meio às grossas teias que preenchem quilômetros de túneis por toda a província subterrânea. Eles possuem um profundo parentesco e conexão com os aracnídeos e insetos cravejados de joias que os auxiliaram a construir a mais grandiosa civilização de Druskenvald.
+
+Este povo também canaliza as grandes gemas que preenchem as cavernas da província com luz e poder, aproximando-os cada vez mais dos deuses que pouparam sua espécie de uma calamidade antiga.
+
+Embora esta espécie possua proporções humanoides, eles apresentam características aracnídeas: pele de carapaça endurecida, numerosos olhos, membros segmentados que crescem de suas costas e mandíbulas que brotam de suas bocas. Eles geralmente vivem por 250 anos, mas aqueles nos escalões mais altos de suas civilizações são conhecidos por viver quase 800 anos.
+
+TRAÇOS DOS NASCIDOS DA SEDA
+
+Tipo de Criatura: Humanoide
+
+Tamanho: Médio (cerca de 1,50 a 1,80 metro de altura)
+
+Deslocamento: 9 metros, Deslocamento de Escalada igual ao seu Deslocamento
+
+Como um Nascido da Seda, você possui os seguintes traços especiais.
+
+Carapaça Cravejada. Quando você é atingido por uma jogada de ataque, pode usar uma Reação para adicionar seu Bônus de Proficiência à sua CA contra esse ataque, potencialmente fazendo com que ele erre. Depois de usar este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+
+Visão no Escuro. Você possui Visão no Escuro com alcance de 18 metros.
+
+Legado Sedoso. Você conhece o truque Taumaturgia. A partir do nível 3 de personagem, você sempre tem a magia Encontrar Familiar preparada. O familiar assume a forma de um inseto ou aracnídeo adornado de joias. A partir do nível 5 de personagem, você sempre tem a magia Teia preparada.
+
+Você pode conjurar cada uma dessas magias uma vez sem gastar espaço de magia ou Componentes Materiais. Você recupera a capacidade de conjurá-las dessa forma ao terminar um Descanso Longo. Você também pode conjurar qualquer uma dessas magias usando quaisquer espaços de magia que possua do nível apropriado.
+
+Inteligência, Sabedoria ou Carisma é sua habilidade de conjuração para as magias que você conjura com este traço. Você escolhe a habilidade quando seleciona esta espécie.
+
+Escalada Aracnídea. Você pode escalar superfícies difíceis, incluindo tetos, sem precisar realizar um teste de habilidade e mantendo as mãos livres.
+--
+STONEBORN
+
+NASCIDOS DA PEDRA
+
+Os Nascidos da Pedra são uma espécie semelhante a gárgulas, nativa de Pholsense (veja a página 40), geralmente meticulosamente esculpidos pelo senhor da província, Arcebispo Danton Alexandre Renault. Abençoados pelo poder divino conhecido como Caminho Prateado, este povo pode invocar a divindade que permeia sua própria construção. Em um domínio de trevas, eles voltaram-se para a luz de seu deus para construir uma civilização que tenta sustentar o que é bom e ordeiro a qualquer custo.
+
+Sua pele pétrea possui o mesmo tom e padrão da pedra da qual foram esculpidos. Embora todos de sua espécie possuam asas largas que carregam seus corpos densos e pesados, sua biologia pode evocar uma ampla variedade de criaturas — incluindo morcegos, ínferos, dragões, aves, anjos, cães e lagartos — frequentemente combinando características em uma mistura quimérica. Eles geralmente vivem por 300 anos antes de se desfazerem em escombros.
+
+TRAÇOS DOS NASCIDOS DA PEDRA
+
+Tipo de Criatura: Constructo
+
+Tamanho: Médio (cerca de 1,20 a 2,10 metros de altura) ou Pequeno (cerca de 90 centímetros a 1,20 metro de altura), escolhido quando você seleciona esta espécie
+
+Deslocamento: 9 metros, Deslocamento de Voo igual à metade do seu Deslocamento
+
+Como um Nascido da Pedra, você possui os seguintes traços especiais.
+
+Brilho Argênteo. Como uma Ação Bônus, você pode canalizar uma centelha da luz do Caminho Prateado, escolhendo uma das seguintes opções:
+
+Graça do Caminho. Você conjura a magia Benção, sem exigir Componentes Materiais.
+
+Investida Zelosa. Você realiza a ação Disparada. Na primeira vez que fizer uma jogada de ataque antes do final do seu turno, acertando ou errando, o alvo sofre 2d6 de dano Radiante adicional.
+
+Depois de usar a Ação Bônus deste traço, você não pode usá-la novamente até terminar um Descanso Longo.
+
+Baluarte Prateado. Você pode invocar o Caminho Prateado para protegê-lo. Quando sofre dano Contundente, Perfurante ou Cortante, você pode usar uma Reação para ganhar Resistência a esses três tipos de dano até o início do seu próximo turno. Depois de usar este traço, você não pode usá-lo novamente até terminar um Descanso Curto ou Longo.
+
+Sentidos Vigilantes. Você ganha proficiência na perícia Intuição, Percepção ou Sobrevivência.
+--
+THREADBORN
+
+NASCIDOS DO FIO
+
+Os Nascidos do Fio são uma espécie semelhante a bonecos, nativa de Picco (veja a página 43), na maioria das vezes construídos com amor por Blinski II, o mestre fabricante de brinquedos e senhor da província. Em uma terra quase inteiramente fabricada e construída para maximizar a diversão de todos que vivem ali, a essência da alegria, da emoção e da amizade é tecida na própria natureza de um Nascido do Fio.
+
+Eles valorizam os laços formados entre entes queridos e sempre mantêm um encanto e uma fantasia infantis, não importa a idade.
+
+Como bonecos vivos, este povo é construído com uma variedade de materiais, incluindo tecido, madeira, metal, porcelana, enchimento, lã e qualquer outra coisa da qual um brinquedo possa ser feito. Com as formas corporais mais variadas entre todas as espécies de Druskenvald, cada Nascido do Fio representa uma manifestação única de diversão. Eles geralmente vivem por 100 anos antes de se desfazerem e precisarem ser reconstruídos.
+
+TRAÇOS DOS NASCIDOS DO FIO
+
+Tipo de Criatura: Constructo
+
+Tamanho: Médio (cerca de 1,20 a 2,10 metros de altura) ou Pequeno (cerca de 60 centímetros a 1,20 metro de altura), escolhido quando você seleciona esta espécie
+
+Deslocamento: 9 metros
+
+Como um Nascido do Fio, você possui os seguintes traços especiais.
+
+Articulações Esféricas. Você pode se mover por um espaço tão estreito quanto 30 centímetros de largura como se fosse Terreno Difícil.
+
+Mente Inocente. Você possui Resistência a dano Psíquico.
+
+Natureza Costurada. Você não precisa de ar, comida ou bebida.
+
+Coração Reconfortante. Você conhece o truque Orientação. A partir do nível 3 de personagem, você sempre tem a magia Santuário preparada, e a partir do nível 5 de personagem, você sempre tem a magia Acalmar Emoções preparada. Você pode conjurar cada uma dessas magias uma vez sem gastar espaço de magia. Quando conjura Acalmar Emoções dessa forma, ela pode ter como alvo criaturas de qualquer tipo. Você recupera a capacidade de conjurá-las usando este traço ao terminar um Descanso Longo. Você também pode conjurar qualquer uma dessas magias usando quaisquer espaços de magia que possua do nível apropriado.
+
+Inteligência, Sabedoria ou Carisma é sua habilidade de conjuração para as magias que você conjura com este traço. Você escolhe a habilidade quando seleciona esta espécie.
+
+Você Tem um Amigo. Quando uma criatura que você possa ver a até 9 metros de você falha em um teste de habilidade usando uma perícia, você pode usar uma Reação para conjurar Orientação na criatura, ignorando o alcance normal da magia. A criatura pode adicionar o 1d4 da magia ao teste de habilidade, potencialmente fazendo com que tenha sucesso, e então a magia termina. Você pode usar este traço um número de vezes igual ao seu Bônus de Proficiência, e recupera todos os usos gastos ao terminar um Descanso Longo.
+--

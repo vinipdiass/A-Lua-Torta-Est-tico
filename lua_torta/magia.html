@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#071625">
+    <title>Magia | Brilho Esquecido</title>
+    <link rel="stylesheet" href="magias.css">
+  </head>
+  <body>
+    <video class="magic-background" autoplay muted loop playsinline preload="metadata">
+      <source src="capitulos_historia/background_chap3.webm" type="video/webm">
+    </video>
+    <audio id="chapter-three-soundtrack" src="soundtrack/14 - Creaking Bones.mp3" preload="metadata" loop></audio>
+    <div class="magic-veil" aria-hidden="true"></div>
+
+    <header class="magic-header">
+      <a id="spell-back-link" class="magic-back" href="magias.html">← Voltar às Magias</a>
+      <div class="magic-header__title">
+        <span>BRILHO ESQUECIDO</span>
+        <strong>Registro Arcano</strong>
+      </div>
+      <button id="volume-control" class="magic-volume" type="button" aria-label="Volume: 100%. Clique para diminuir.">
+        <span id="volume-control-icon" aria-hidden="true">🔊</span>
+        <span id="volume-control-value">100%</span>
+      </button>
+    </header>
+
+    <main class="spell-detail-page">
+      <article id="spell-detail" class="spell-detail">
+        <div class="spell-detail__visual">
+          <img id="spell-icon" alt="">
+        </div>
+
+        <div class="spell-detail__content">
+          <header>
+            <span id="spell-level" class="spell-detail__eyebrow"></span>
+            <h1 id="spell-name">Consultando…</h1>
+            <p id="spell-original-name" class="spell-detail__original"></p>
+            <div id="spell-summary" class="spell-detail__summary"></div>
+          </header>
+
+          <div class="spell-detail__scroll">
+            <dl id="spell-metadata" class="spell-detail__metadata"></dl>
+            <div id="spell-description" class="spell-detail__description"></div>
+          </div>
+        </div>
+      </article>
+      <p id="spell-status" class="magic-status" role="status">Decifrando a magia…</p>
+    </main>
+
+    <script src="magias-data.js"></script>
+    <script src="magia.js"></script>
+    <script src="chapter3-ambience.js"></script>
+  </body>
+</html>

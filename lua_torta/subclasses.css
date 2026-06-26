@@ -1,0 +1,126 @@
+:root {
+  --glow: #e69b50;
+  --glow-bright: #ffd29b;
+  --paper: #f3e9dc;
+  --paper-muted: #cebba8;
+  --panel: rgba(18, 8, 3, 0.92);
+  --line: rgba(224, 139, 61, 0.32);
+}
+
+.subclass-theme .species-veil {
+  background:
+    linear-gradient(90deg, rgba(12, 5, 1, 0.95), rgba(30, 13, 4, 0.46) 48%, rgba(12, 5, 1, 0.95)),
+    linear-gradient(to bottom, rgba(15, 7, 2, 0.54), rgba(8, 3, 1, 0.92)),
+    radial-gradient(circle at 42% 43%, rgba(221, 107, 36, 0.24), transparent 40%);
+}
+
+.subclass-theme .volume-control,
+.subclass-theme .species-carousel__nav {
+  border-color: rgba(230, 155, 80, 0.58);
+  background: rgba(20, 8, 2, 0.78);
+}
+
+.subclass-theme .volume-control:hover,
+.subclass-theme .volume-control:focus-visible,
+.subclass-theme .species-carousel__nav:hover,
+.subclass-theme .species-carousel__nav:focus-visible {
+  border-color: var(--glow-bright);
+  background: rgba(105, 43, 10, 0.8);
+}
+
+.subclass-theme .species-focus {
+  border-color: rgba(224, 139, 61, 0.34);
+  background:
+    linear-gradient(115deg, rgba(205, 92, 26, 0.14), transparent 42%),
+    rgba(17, 7, 2, 0.7);
+  box-shadow: 0 32px 90px rgba(0, 0, 0, 0.62), inset 0 0 60px rgba(55, 20, 3, 0.3);
+}
+
+.subclass-theme .species-preview {
+  filter: sepia(0.24) saturate(1.14) brightness(0.8);
+}
+
+.subclass-theme .species-portrait {
+  background:
+    linear-gradient(to top, rgba(12, 5, 1, 0.9), transparent 42%),
+    radial-gradient(circle at 50% 55%, rgba(223, 117, 45, 0.22), transparent 48%);
+}
+
+.subclass-theme .species-portrait__halo {
+  border-color: rgba(230, 155, 80, 0.2);
+  box-shadow: 0 0 85px rgba(220, 103, 30, 0.16), inset 0 0 60px rgba(220, 103, 30, 0.1);
+}
+
+.subclass-theme .species-card {
+  border-left-color: rgba(224, 139, 61, 0.28);
+}
+
+.subclass-tagline {
+  margin: 13px 0 0;
+  color: rgba(255, 210, 155, 0.72);
+  font-size: clamp(0.82rem, 1.1vw, 0.98rem);
+  font-style: italic;
+  letter-spacing: 0.035em;
+  line-height: 1.45;
+}
+
+.subclass-sections {
+  margin-top: 30px;
+}
+
+.subclass-section {
+  padding: 23px 0 5px;
+  border-top: 1px solid var(--line);
+}
+
+.subclass-section:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.subclass-section h2 {
+  margin: 0 0 14px;
+  color: var(--glow-bright);
+  font-size: clamp(1rem, 1.45vw, 1.25rem);
+  font-weight: 400;
+  letter-spacing: 0.025em;
+}
+
+.subclass-section h3 {
+  margin: 18px 0 9px;
+  color: #f2b56f;
+  font-size: 0.98rem;
+  font-weight: 400;
+}
+
+.subclass-section p {
+  margin: 0 0 16px;
+  color: #e2d7ca;
+  font-size: clamp(0.92rem, 1.15vw, 1.04rem);
+  line-height: 1.68;
+}
+
+.subclass-section p strong {
+  color: #f3c28b;
+  font-weight: 700;
+}
+
+.subclass-theme .species-table th,
+.subclass-theme .species-table td {
+  border-color: rgba(224, 139, 61, 0.24);
+}
+
+.subclass-theme .species-table th {
+  background: rgba(174, 76, 20, 0.24);
+  color: var(--glow-bright);
+}
+
+.subclass-theme .species-table td {
+  color: #e2d7ca;
+}
+
+@media (max-width: 900px) {
+  .subclass-theme .species-card {
+    border-top-color: rgba(224, 139, 61, 0.28);
+  }
+}

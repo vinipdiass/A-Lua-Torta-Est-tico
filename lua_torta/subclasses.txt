@@ -1,0 +1,1413 @@
+BÁRBARO:
+CAMINHO DO EXPERIMENTO
+
+Aumente o Corpo com Soros Voláteis
+
+Bárbaros que seguem o Caminho do Experimento complementam sua fúria com coquetéis alquímicos que percorrem seus corpos por meio de seringas e tubos de cobre, aço e vidro. Essas fórmulas ampliam sua capacidade de canalizar força primal — ou talvez, por causa de sua fúria, eles sejam as únicas pessoas capazes de sobreviver às substâncias químicas inundando suas veias.
+
+Um Bárbaro pode ter criado os implantes e soros por meio de seus próprios experimentos, ou pode ter sido submetido ao trabalho insidioso de outras pessoas. Seja qual for a origem, o processo pode ter sido bem-intencionado, feito para aprimorar ou preservar a vida do Bárbaro, ou pode ter sido uma exploração alquímica completamente desvairada.
+
+NÍVEL 3: EXPERIMENTOS ALQUÍMICOS
+
+Você recebe um conjunto de Suprimentos de Alquimista e tem proficiência com ele. Além disso, você pode usar Suprimentos de Alquimista em vez de um Kit de Herbalismo para fabricar Poções de Cura.
+
+NÍVEL 3: SORO VOLÁTIL
+
+Você possui uma série implantada de seringas e reservatórios que armazenam soros alquímicos e os liberam em seu corpo. Quando entra em Fúria, escolha um dos seus soros para injetar e receber seus benefícios.
+
+O soro escolhido dura pela duração da sua Fúria, ou até você escolher um novo soro como uma Ação Bônus. Você possui as seguintes opções de soro.
+
+Ferocidade. Este soro lança você em um frenesi energizado. Você ignora Terreno Difícil e, quando acerta com uma arma Corpo a Corpo ou com um Ataque Desarmado, pode ativar a propriedade de maestria Fenda, além de uma propriedade de maestria diferente que você esteja usando.
+
+Monstruosidade. O soro expande seu corpo a proporções monstruosas e pode alterar sua aparência de formas cosméticas, como mudando traços faciais, tom de pele e comprimento ou cor do cabelo. Seu alcance aumenta em 1,5 metro, e uma vez por turno, quando você erra uma jogada de ataque que dependa de Força, pode adicionar seu bônus de Dano de Fúria ao total, possivelmente fazendo o ataque acertar. Se você for menor que Grande, torna-se Grande, junto com tudo que estiver vestindo ou carregando. Se não houver espaço suficiente para acomodar a mudança de tamanho, seu tamanho não muda.
+
+Reconstrução. O soro entorpece a dor e força os ferimentos a se fecharem rapidamente. Ao ativá-lo e no início de cada um dos seus turnos, você pode gastar e rolar um Dado de Vida. Você recupera uma quantidade de Pontos de Vida igual ao número rolado mais seu modificador de Constituição, com um mínimo de 1 Ponto de Vida. Qualquer valor excedente além do seu máximo de Pontos de Vida é recebido como Pontos de Vida Temporários. Se você sofrer dano Ácido ou de Fogo, este soro não funciona no início do seu próximo turno.
+
+NÍVEL 6: COMPOSTOS DE APRIMORAMENTO
+
+Por meio de experimentação contínua ou de sua adaptação natural aos implantes, você agora pode ativar uma das opções de composto abaixo, além de um soro, quando entra em Fúria ou troca o soro escolhido. O composto escolhido dura pela duração da sua Fúria, ou até você escolher um novo composto.
+
+Sentidos Estimulados. Você ganha Percepção às Cegas com alcance de 9 metros. Se você já tiver Percepção às Cegas, o alcance dela aumenta em 9 metros.
+
+Vapores Enlouquecedores. Sua pele emite vapores que intensificam a agressividade em uma Emanação de 9 metros. Enquanto estiver na Emanação, o Deslocamento de um inimigo é reduzido pela metade e, se ele começar o turno nela, deve ser bem-sucedido em uma salvaguarda de Sabedoria (CD 8 + seu modificador de Constituição + seu Bônus de Proficiência) ou terá Desvantagem em jogadas de ataque contra alvos que não sejam você até o início do próximo turno dele.
+
+Expulsão Corrosiva. Quando você realiza a ação Atacar no seu turno, pode substituir um de seus ataques por um jato de substâncias químicas cáusticas de seus implantes, em um Cone de 4,5 metros ou em uma Linha de 9 metros com 1,5 metro de largura, escolhendo a forma a cada uso. Cada criatura nessa área deve realizar uma salvaguarda de Destreza (CD 8 + seu modificador de Constituição + seu Bônus de Proficiência). Role uma quantidade de d8 igual ao seu bônus de Dano de Fúria. Em uma falha, o alvo sofre dano Ácido igual ao total rolado, ou metade desse dano em um sucesso.
+
+NÍVEL 10: CATALISADOR REATIVO
+
+Seus implantes agora são sensíveis à sua resposta ao perigo e inundam seu corpo com substâncias estimulantes. Quando você sofre dano, ou quando recebe a condição Cego, Surdo, Envenenado ou Atordoado, pode usar uma Reação para entrar em Fúria antes que o dano ou as condições sejam aplicados. Quando você entra em Fúria, encerra em si mesmo qualquer uma dessas condições, incluindo quaisquer condições que tenham ativado essa reação.
+
+Além disso, enquanto sua Fúria estiver ativa, você tem Vantagem em salvaguardas de Constituição.
+
+NÍVEL 14: MISTURA BIOQUÍMICA
+
+Seu corpo concentra e combina a força dos seus soros. Quando você ativa uma opção do seu Soro Volátil, ativa duas opções em vez de uma.
+
+Além disso, quando uma criatura a até 1,5 metro de você causa dano a você com um ataque corpo a corpo enquanto sua Fúria estiver ativa, essa criatura sofre 1d12 de dano Ácido. Uma criatura só pode sofrer esse dano uma vez por turno.
+
+FORMAS DE IMPLANTES
+
+A tabela Implantes Experimentais oferece exemplos das diferentes formas que seus implantes podem assumir.
+
+IMPLANTES EXPERIMENTAIS
+
+1d6 - Implante
+
+1 - Injetor Alquímico.
+Cilindros de vidro usados como reservatórios, encaixados em estruturas de latão e ferro, armazenam fluidos alquímicos multicoloridos, borbulhantes ou luminosos.
+
+2 - Enxertos Alienígenas.
+Partes do seu corpo foram substituídas por partes de um dragão, de um licantropo ou pelos tentáculos borrachentos de uma Aberração. Quando você entra em Fúria, os enxertos tomam uma porção ainda maior do seu corpo.
+
+3 - Prótese de Constructo.
+Você possui membros protéticos, olhos ou outras substituições feitas de metal, pedra ou madeira. Quando você entra em Fúria, essas partes entram em intensa atividade.
+
+4 - Formações Cristalinas.
+Cristais crescem a partir do seu corpo, espalhando-se pelos ombros e descendo pelos membros. Quando você entra em Fúria, os cristais brilham, tilintam ou ressoam.
+
+5 - Inoculação Fúngica.
+Cogumelos e outros crescimentos fúngicos tomam partes do seu corpo, e micélios semelhantes a veias percorrem sua pele a partir deles. Quando você entra em Fúria, essas veias pulsam e se retorcem.
+
+6 - Aprimoramento Tecnofaísca.
+Bobinas de cobre, prata e latão em suas costas e braços conduzem fios pela sua pele até conectores. Quando você entra em Fúria, relâmpagos crepitam pelo metal.
+--
+BARDO:
+COLÉGIO DOS ASSOBIOS
+
+Vague com Espíritos Errantes
+
+Antigas histórias falam dos perigos de assobiar: os tons ocos e assombrados chamam os espíritos dos mortos e os convidam de volta ao mundo dos vivos. Bardos do Colégio dos Assobios tomam essas histórias e as transformam em suas próprias melodias trêmulas, assobiando sua magia bárdica e convocando espíritos para auxiliá-los em suas jornadas.
+
+Esses Bardos vagam ainda mais do que a maioria de seus semelhantes, atraídos por viagens e pela coleta de histórias e fantasmas, como remendos costurados em roupas esfarrapadas.
+
+NÍVEL 3: ASSOMBRAÇÕES PRESTATIVAS
+
+Você pode convocar almas penadas — espíritos vagabundos. Quando você inspira uma criatura com Inspiração de Bardo, pode invocar uma aparição fantasmagórica que flutua ao redor do alvo inspirado.
+
+A assombração cria uma aura em uma Emanação de 4,5 metros a partir do alvo. A assombração desaparece após 1 minuto, quando você invoca uma nova assombração, quando usa a Reação que ela concede a você, ou se você ficar Incapacitado ou morrer. Quando invoca uma assombração, escolha sua forma: Rabugento, Coitado ou Pestinha.
+
+Rabugento. Este espírito idoso, tingido de vermelho e vestido com trapos puídos, ameaça seus inimigos e importuna seus aliados para que façam melhor. A criatura inspirada e seus aliados dentro da aura têm Vantagem em testes de Carisma (Intimidação) e salvaguardas de Força. Além disso, quando uma criatura dentro da aura causa dano, você pode usar uma Reação para aumentar o dano causado a um alvo em uma quantidade igual a uma rolagem do seu dado de Inspiração de Bardo + seu modificador de Carisma.
+
+Coitado. Este espírito azulado e melancólico drena o fervor de seus inimigos. A criatura inspirada e seus aliados dentro da aura têm Meia Cobertura contra ataques à distância. Além disso, quando uma criatura dentro da aura sofre dano, você pode usar uma Reação para reduzir o dano sofrido em uma quantidade igual a uma rolagem do seu dado de Inspiração de Bardo + seu modificador de Carisma.
+
+Pestinha. Este espírito dourado e infantil encanta e revigora seus aliados. Quando a criatura inspirada ou um de seus aliados começa o turno dentro da aura, o Deslocamento dessa criatura aumenta em 3 metros até o fim do próximo turno dela. Além disso, quando uma criatura dentro da aura falha em uma salvaguarda, você pode usar uma Reação para permitir que a criatura role novamente o d20.
+
+NÍVEL 3: ANDARILHO ASSOBIADOR
+
+Você moldou a superstição de assobiar para os mortos em um instrumento potente. Você recebe os seguintes benefícios.
+
+Trouxa de Andarilho. Quando termina um Descanso Longo, você pode tocar uma bolsa, saco ou recipiente similar não mágico e transformá-lo em um recipiente mágico chamado trouxa. Esse recipiente funciona como uma Mochila Prestativa. Se você criar uma segunda trouxa, se sua trouxa estiver a mais de 1,6 quilômetro de você, ou quando você morrer, a trouxa perde sua magia, e tudo que estiver dentro dela aparece nos espaços desocupados mais próximos do recipiente.
+
+Magias Assobiadas. Você pode assobiar no lugar dos componentes Verbais de suas magias de Bardo. Observadores que não conheçam essa tradição devem ser bem-sucedidos em um teste de Inteligência (Arcanismo) CD 15 para reconhecer sua conjuração pelo que ela é, usando apenas componentes Verbais assobiados.
+
+NÍVEL 6: DE VOLTA PARA CASA
+
+Você pode assobiar para conjurar um trem fantasmagórico que leva você e seus companheiros de volta a um destino conhecido. Quando termina um Descanso Longo, você pode deixar uma marca naquele local usando tinta, giz, entalhe ou algum outro meio. Essa marca pode ser apagada, desfigurada ou destruída normalmente.
+
+Depois disso, você pode usar esta característica para conjurar Círculo de Teletransporte usando a marca como destino. Quando conjura a magia dessa forma, um trem fantasma arrebata as criaturas que entram no círculo, e você não pode fazer isso novamente até terminar um Descanso Longo.
+
+Você pode ter um número de locais marcados igual ao seu modificador de Carisma ao mesmo tempo, com um mínimo de 1 local. Se você marcar um local além do seu máximo, uma das marcas anteriores à sua escolha desaparece.
+
+Quando alcança o nível 9 nesta classe, você sempre tem Círculo de Teletransporte preparado e pode usar qualquer um de seus locais marcados como destino quando conjura a magia.
+
+NÍVEL 6: PEGAR OS TRILHOS
+
+Você pode assobiar como uma Ação Mágica para invocar uma locomotiva espectral. Ela avança disparada em uma Linha de 36 metros de comprimento e 3 metros de largura a partir de você, atravessando objetos e criaturas.
+
+Você e até seis criaturas voluntárias à sua escolha a até 9 metros de você podem pegar carona no trem. Você se teletransporta para um espaço desocupado à sua escolha dentro da Linha, e quaisquer criaturas que tenham acompanhado você aparecem nos espaços desocupados mais próximos de você.
+
+Cada outra criatura na Linha deve ser bem-sucedida em uma salvaguarda de Sabedoria contra sua CD de salvaguarda de magia ou recebe a condição Surdo até o início do seu próximo turno, é empurrada até 3 metros diretamente para longe do ponto de origem da Linha e sofre uma quantidade de dano Psíquico igual a três rolagens do seu dado de Inspiração de Bardo.
+
+Depois de usar esta característica, você não pode usá-la novamente até terminar um Descanso Longo, a menos que gaste um espaço de magia de nível 3 ou superior, sem exigir ação, para recuperar seu uso.
+
+NÍVEL 14: ÚLTIMA PARADA
+
+O guincho fantasmagórico do seu assobio agora atrai os vivos para mais perto do mundo dos mortos. Como uma Ação Mágica, você sopra um assobio audível a até 90 metros de distância. Até seis criaturas à sua escolha que você possa ver dentro desse alcance devem ser bem-sucedidas em uma salvaguarda de Carisma contra sua CD de salvaguarda de magia ou ficam amaldiçoadas.
+
+Quando um alvo amaldiçoado sofre dano Psíquico, ele fica Amedrontado pela fonte desse dano até o fim do próximo turno dele. Na primeira vez que um alvo amaldiçoado sofre dano Psíquico, ele tem Vulnerabilidade a dano Psíquico. O alvo repete a salvaguarda no fim de cada um de seus turnos, encerrando o efeito sobre si em um sucesso. Após 1 minuto, ele obtém sucesso automaticamente.
+
+Depois de usar esta característica, você não pode usá-la novamente até terminar um Descanso Longo, a menos que gaste um espaço de magia de nível 7 ou superior, sem exigir ação, para recuperar seu uso.
+
+ASSOBIOS E ANDANÇAS
+
+A tabela Visitas Errantes oferece sugestões de lugares que você visitou durante suas viagens, onde encontrou os vários espíritos atraídos por seus assobios. Você pode usar os exemplos como estão, misturar os locais e os espíritos, ou criar os seus próprios.
+
+VISITAS ERRANTES
+
+1d6 - Local
+
+1 - Você encontrou uma taverna abandonada com um único lugar ainda posto em uma mesa no canto. Um espírito melancólico esperava ali por alguém que nunca chegaria.
+
+2 - Fundações chamuscadas são os únicos restos de uma cabana que queimou há muito tempo. O eco de uma criança cantando vigiava os viajantes que paravam ali.
+
+3 - Você ficou nos aposentos assombrados da torre de uma mansão. O espírito furioso daquele lugar é o vestígio de alguém que morreu velho e enfermo, incapaz de impedir a maldade que observava de longe.
+
+4 - A canção pesarosa de uma alma persistente atraiu você até uma velha ponte coberta — o único lugar onde o espírito encontrou esperança em vida.
+
+5 - Um orfanato de boa reputação abrigava a sombra esperançosa de uma criança que morreu de doença. Ela servia de companhia para outros órfãos até que crescessem ou fossem acolhidos por lares.
+
+6 - Um prado enevoado à beira da estrada já foi o local de uma batalha terrível. O espírito de um soldado que morreu ali descarregava sua fúria contra golpistas e bandidos que atacavam viajantes na estrada.
+--
+CLÉRIGO:
+DOMÍNIO DA COLHEITA
+
+Semeie, Cultive e Ceife no Ciclo da Colheita
+
+O Domínio da Colheita se inspira no ciclo que começa com a criação, alcança a abundância e termina com a ceifa, antes de se repetir eternamente. Divindades da agricultura e das plantações podem se concentrar em um dos aspectos da colheita, mas a maioria extrai poder de cada fase do ciclo. Clérigos deste domínio são atraídos pela natureza cíclica da existência e muitas vezes assumem o papel de pastores de diferentes ciclos.
+
+NÍVEL 3: ALMANAQUE COMUNITÁRIO
+
+Você recebe um Kit de Herbalismo e tem proficiência com ele. Você também ganha proficiência na perícia Natureza ou Sobrevivência.
+
+NÍVEL 3: MAGIAS DO DOMÍNIO DA COLHEITA
+
+Sempre que termina um Descanso Curto ou Longo, escolha um aspecto do ciclo da colheita: Semeadura, Crescimento ou Ceifa. Consulte a tabela Magias do Domínio da Colheita; você tem preparadas as magias listadas na coluna do aspecto escolhido para seu nível de Clérigo e níveis inferiores.
+
+MAGIAS DO DOMÍNIO DA COLHEITA
+
+Nível de Clérigo | Semeadura | Crescimento | Ceifa
+
+3 | Druidismo, Bom Fruto, Restauração Menor | Orientação, Enredar, Ventos de Verão* | Toque Arrepiante, Infligir Ferimentos, Imobilizar Pessoa
+
+5 | Luar da Colheita* | Crescimento de Plantas | Foice da Ceifa*
+
+7 | Proteção contra a Morte | Santuário do Pastor* | Pira Consumidora*
+
+9 | Despertar | Curar Ferimentos em Massa | Campo da Ceifa*
+
+NÍVEL 3: CORNUCÓPIA
+
+Se você não estiver Incapacitado quando inicia um Descanso Curto, pode criar magicamente uma cornucópia cheia de comida suficiente para um número de criaturas igual ao dobro do seu Bônus de Proficiência. Quando criaturas que comeram essa comida terminam um Descanso Curto, você pode distribuir uma quantidade de d4 igual ao seu nível de Clérigo entre as criaturas que comeram o alimento. Cada criatura rola imediatamente os dados que recebeu e recupera Pontos de Vida iguais ao total. A cornucópia e qualquer comida não consumida desaparecem quando o Descanso Curto termina.
+
+Depois de usar esta característica, você não pode usá-la novamente até terminar um Descanso Longo.
+
+NÍVEL 3: COLHEITA ABUNDANTE
+
+Como uma Ação Mágica, você apresenta seu Símbolo Sagrado e gasta um uso de Canalizar Divindade para invocar o espírito da colheita. Até seis criaturas à sua escolha a até 18 metros de você recebem Inspiração Heroica. Uma criatura deve terminar um Descanso Longo antes de poder receber Inspiração Heroica desta característica novamente.
+
+Além disso, você concede a todos os alvos um dos benefícios a seguir. Se seu aspecto atual da colheita for diferente, ele muda para corresponder à escolha.
+
+Semeadura. Um alvo recebe uma quantidade de Pontos de Vida Temporários igual ao seu Bônus de Proficiência + seu modificador de Sabedoria.
+
+Crescimento. Até o fim do seu próximo turno, quando um alvo realiza uma jogada de ataque ou teste de atributo, ele adiciona 1d4 ao total.
+
+Ceifa. Um alvo causa dano Necrótico extra igual ao seu Bônus de Proficiência na primeira vez que causar dano a uma criatura antes do fim do seu próximo turno.
+
+NÍVEL 6: BÊNÇÃO DAS ESTAÇÕES
+
+Você pode recorrer aos poderes do ciclo da colheita para possivelmente evitar um desastre. Quando uma criatura que você possa ver a até 9 metros de você falha em uma salvaguarda de um tipo determinado pelo seu aspecto atual, você pode usar uma Reação para permitir que ela role novamente o d20 e use a nova rolagem.
+
+Os tipos de salvaguarda que você pode afetar são os seguintes:
+
+Semeadura. Destreza e Carisma.
+
+Crescimento. Constituição e Inteligência.
+
+Ceifa. Sabedoria e Força.
+
+Além disso, depois que a salvaguarda for bem-sucedida ou falhar, role uma quantidade de d4 igual ao seu Bônus de Proficiência. O alvo recupera Pontos de Vida iguais ao total rolado.
+
+Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria, com um mínimo de uma vez, e recupera todos os usos gastos quando termina um Descanso Longo.
+
+NÍVEL 17: RODA ETERNA
+
+Quando usa sua Colheita Abundante, você pode invocar o ciclo infinito da vida, da morte e do renascimento para conceder a si mesmo e às criaturas afetadas por sua Canalizar Divindade um benefício adicional baseado no seu aspecto atual:
+
+Semeadura. Os alvos recebem os efeitos da magia Regeneração por 1 minuto, ou até você perder a Concentração.
+
+Crescimento. Os alvos recebem Vantagem em salvaguardas e testes de atributo por até 1 hora, ou até você perder a Concentração, como se estivesse se concentrando em uma magia.
+
+Ceifa. Os alvos recebem Resistência a dano Necrótico, Psíquico e Venenoso por 1 hora.
+
+Depois de usar esta característica, você não pode usá-la novamente até terminar um Descanso Longo, a menos que gaste um espaço de magia de nível 7 ou superior, sem exigir ação, para recuperar seu uso.
+
+RITOS DA COLHEITA
+
+Use a tabela Ritos da Colheita como inspiração para cerimônias baseadas em cada aspecto do ciclo da colheita.
+
+RITOS DA COLHEITA
+
+Ritos de Semeadura
+
+Enterrar uma oferenda sacrificial em um campo recém-arado, como palhas de milho secas, peixes mortos, ovo de tordo ou pata de lebre.
+
+Preparar misturas e poções abençoadas para consumo ou irrigação, aumentando a fertilidade das plantações, do gado ou das pessoas.
+
+Dar uma bolsa de sementes a viajantes no início de uma jornada, para garantir que cheguem ao destino.
+
+Ritos de Crescimento
+
+Cuidar dos doentes ou feridos com remédios naturais que utilizam água pura, solo fértil, cinzas ricas ou cataplasmas de frutas para acelerar a cura.
+
+Abençoar plantações ou rebanhos para atrair clima favorável e uma estação de crescimento que produza uma colheita forte e saudável.
+
+Presidir casamentos, unindo os prometidos com hastes de grãos trançadas ou cordões de linho.
+
+Ritos de Ceifa
+
+Realizar ritos funerários que devolvem o corpo ou as cinzas do falecido aos campos, misturando terra de sua casa e plantações em decomposição para enriquecer o solo.
+
+Afiar lâminas abençoadas pelos deuses da colheita antes de uma batalha ou antes de uma colheita, garantindo que tudo que for ceifado seja oferecido ao divino.
+
+Abater animais adultos ou colher plantações maduras para um banquete em celebração à fartura da natureza.
+--
+DRUIDA:
+CÍRCULO DOS ANTIGOS CAMINHOS
+
+Torne-se Um com a Floresta Ancestral
+
+Habitando preferencialmente o coração das florestas mais sombrias, Druidas do Círculo dos Antigos Caminhos comungam com entidades antigas e esquecidas que espreitam em seu interior, convocando um poder verdadeiramente primevo para servir como defensores dos lugares mais velhos e selvagens.
+
+Eles canalizam o poder das árvores Anciãs, que abrigam as almas de fadas mortas há muito tempo e compartilham sua sabedoria e força primordiais quando chamadas.
+
+NÍVEL 3: MAGIAS DO CÍRCULO DOS ANTIGOS CAMINHOS
+
+Quando você alcança um nível de Druida especificado na tabela Magias do Círculo dos Antigos Caminhos, a partir de então você sempre tem as magias listadas preparadas.
+
+MAGIAS DO CÍRCULO DOS ANTIGOS CAMINHOS
+
+Nível de Druida | Magias Preparadas
+
+3 | Orientação Ancestral*, Pele de Árvore, Escudo da Fé, Bordão Místico, Crescimento de Espinhos
+
+5 | Círculo Mágico, Crescimento de Plantas
+
+7 | Movimentação Livre, Santuário Particular
+
+9 | Despertar, Caminhar em Árvores
+
+NÍVEL 3: GALHO E RAMO
+
+Até a mais humilde de suas armas canaliza a força da velha floresta. Quando você conjura Bordão Místico, pode fazer com que um Escudo feito de madeira retorcida cresça em sua mão livre, se você tiver uma. Nenhuma ação é necessária para empunhá-lo, e ele desaparece quando a magia termina. Você não pode ser forçado a largar a arma ou o Escudo afetado, a menos que esteja Incapacitado.
+
+Além disso, pela duração da magia, você ignora os componentes Somáticos de suas magias de Druida, e a arma aprimorada pela magia se torna um Foco Druídico para você.
+
+NÍVEL 3: WOSE DA MATA
+
+Como uma Ação Bônus, ou como parte da conjuração de Bordão Místico, você pode gastar um uso de sua Forma Selvagem para se infundir com o poder das matas primordiais, recebendo os seguintes benefícios.
+
+Baluarte de Casca. Enquanto não estiver usando armadura, sua Classe de Armadura base é 10 + seus modificadores de Destreza e Sabedoria.
+
+Seiva Anciã. Quando você acerta uma criatura com uma jogada de ataque usando a arma aprimorada por Bordão Místico, o alvo fica coberto de Seiva Anciã até o início do seu próximo turno. Enquanto estiver coberto, o alvo tem Desvantagem em jogadas de ataque contra alvos que não sejam você.
+
+Resolução do Carvalho. Você tem Vantagem em salvaguardas de Força e Constituição.
+
+Este efeito dura por 10 minutos. Ele termina antes se você o dispensar, sem exigir ação, se ficar Incapacitado ou se morrer.
+
+NÍVEL 6: CARVALHO E ESPINHO
+
+A ira das árvores Anciãs impulsiona você e pune seus inimigos. Quando ativa seu Wose da Mata, você recebe os seguintes benefícios adicionais pela duração.
+
+Punho de Carvalho. Você pode atacar duas vezes, em vez de uma, sempre que realiza a ação Atacar no seu turno.
+
+Espinhos Retorcidos. Uma vez em cada um de seus turnos, quando você acerta uma criatura com uma jogada de ataque corpo a corpo usando uma arma, o alvo sofre 1d6 de dano Perfurante extra.
+
+NÍVEL 10: ANCIÃO DA MATA PROFUNDA
+
+Sua conexão com as árvores Anciãs se fortalece. Quando ativa seu Wose da Mata, você agora recebe benefícios adicionais pela duração.
+
+Ira Primeva. Uma vez por turno, quando você acerta uma criatura com um ataque corpo a corpo, pode forçar o alvo a ser bem-sucedido em uma salvaguarda de Força contra sua CD de salvaguarda de magia ou receber a condição Caído.
+
+Casca de Sarça. Quando uma criatura a até 1,5 metro de você acerta você com um ataque corpo a corpo, o atacante sofre 1d8 de dano Perfurante. Uma criatura só pode sofrer esse dano uma vez por turno.
+
+Crescimento Desenfreado. Quando você ativa Wose da Mata e no início de cada um de seus turnos seguintes, recebe uma quantidade de Pontos de Vida Temporários igual ao seu modificador de Sabedoria + seu Bônus de Proficiência.
+
+NÍVEL 14: PROTETOR ANCESTRAL
+
+Quando desperta sua conexão com as árvores Anciãs, você agora se torna uma encarnação de sua força antiga. Quando ativa seu Wose da Mata, você agora recebe benefícios adicionais pela duração.
+
+Crescimento Antigo. Seu tamanho aumenta para Grande, junto com tudo que estiver vestindo ou carregando, se houver espaço para acomodar seu crescimento, e seu alcance aumenta em 1,5 metro.
+
+Tronco Poderoso. Você recebe Resistência a dano Contundente e Perfurante.
+
+Vingança dos Anciões. Quando uma criatura coberta de Seiva Anciã e dentro do seu alcance realiza uma jogada de ataque, você pode usar uma Reação para realizar um ataque corpo a corpo contra essa criatura.
+
+LOCAIS SAGRADOS DOS ANTIGOS CAMINHOS
+
+A tabela Locais Sagrados dos Antigos Caminhos oferece exemplos para escolher ou usar como inspiração na criação de lugares impregnados pelos Antigos Caminhos, onde seu círculo pode se reunir ou onde você pode comungar com poderes primevos.
+
+LOCAIS SAGRADOS DOS ANTIGOS CAMINHOS
+
+1d6 - Local Sagrado
+
+1 - Um anel de pedras erguidas no topo de uma colina remota, cada uma marcada com runas e símbolos que representam espíritos animais.
+
+2 - Um rio perpetuamente congelado no fundo de uma ravina profunda, com uma abundância de peixes enormes e aparentemente inteligentes sob o gelo.
+
+3 - Uma caverna escondida, soterrada sob uma duna chamuscada, revelada pelas areias movediças por uma única noite, quatro vezes ao ano.
+
+4 - Uma poça de maré turbulenta à beira da costa, com águas sem fundo repletas de flora, fauna e formações cristalinas luminosas.
+
+5 - Um círculo de árvores ancestrais com casca branco-fantasma e folhas vermelho-sangue, cada uma carregando o rosto de um druida morto há muito tempo.
+
+6 - Um imenso túmulo em colina nas profundezas da floresta, contendo os espíritos de incontáveis fadas e dos antigos deuses do mundo natural.
+--
+DRUIDA:
+CÍRCULO DO VIME
+
+Crie Efígies de Sacrifício e Proteção
+
+Astutos em sua arte ancestral, Druidas do Círculo do Vime moldam bonecos de gravetos e efígies, vinculando sua magia a essas formas rudimentares. Essas criações frequentemente se parecem com animais, formas rúnicas, símbolos naturais ou pessoas.
+
+Amuletos protetores e promessas de retaliação contra invasores são o ofício desses Druidas. Você pode entrelaçar a magia da terra em suas criações de vime, oferecendo dádivas aos seus amigos e maldições aos seus inimigos.
+
+NÍVEL 3: EFÍGIE ENFEITIÇADA
+
+Sua magia primal pode se manifestar como uma efígie de vime e irradiar a partir dela. Como uma Ação Bônus, você pode gastar um uso de sua Forma Selvagem para criar uma efígie de vime em um espaço desocupado que você possa ver a até 9 metros de você.
+
+A efígie é um objeto Pequeno (CA 15; PV iguais a cinco vezes seu nível de Druida; Vulnerabilidade a dano de Fogo; Imunidade a dano Venenoso e Psíquico). A efígie desaparece após 1 minuto, quando é reduzida a 0 Pontos de Vida, ou quando você usa esta característica novamente. Ela irradia uma das seguintes auras, escolhida quando você cria a efígie, em uma Emanação de 9 metros preenchida por Meia-luz.
+
+Sacrifício. Quando uma criatura na aura sofre dano, você pode usar uma Reação para causar dano de Fogo à criatura igual a 1d8 + seu modificador de Sabedoria.
+
+Alívio. Quando você cria a efígie, e como uma Ação Bônus em turnos subsequentes enquanto a efígie permanecer, uma criatura que você possa ver dentro da aura recupera 1d6 Pontos de Vida. Você pode usar esta efígie para restaurar Pontos de Vida um número de vezes igual ao dobro do seu modificador de habilidade de conjuração.
+
+Proteção. Você e seus aliados dentro da aura recebem +1 de bônus na CA.
+
+NÍVEL 3: MAGIAS DO CÍRCULO DO VIME
+
+Quando você alcança um nível de Druida especificado na tabela Magias do Círculo do Vime, a partir de então você sempre tem as magias listadas preparadas.
+
+MAGIAS DO CÍRCULO DO VIME
+
+Nível de Druida | Magias Preparadas
+
+3 | Perdição, Bênção, Ventos de Verão*, Zona da Verdade
+
+5 | Rogar Maldição, Pequena Cabana
+
+7 | Proteção contra a Morte, Santuário do Pastor*
+
+9 | Imobilizar Monstro, Amuleto da Sorte*
+
+NÍVEL 3: AMULETO DE VIME
+
+Você pode tecer amuletos de vime que carregam um toque de sua magia. Quando termina um Descanso Longo, você pode criar um número de amuletos igual ao seu Bônus de Proficiência. Os amuletos são objetos Minúsculos (CA 5; PV 1; Imunidade a dano Venenoso e Psíquico). Os amuletos desaparecem quando você termina seu próximo Descanso Longo.
+
+Você pode conjurar magias com alcance de toque em uma criatura carregando um de seus amuletos enquanto vocês dois estiverem no mesmo plano de existência.
+
+NÍVEL 6: ASCENSÃO DO VIME
+
+A energia que você canaliza através de sua efígie de vime se torna mais forte, aprimorando seus benefícios.
+
+Sacrifício. O dano de Fogo aumenta para 2d8 + seu modificador de Sabedoria.
+
+Alívio. A cura de sua efígie aumenta para 1d8 e, quando você mira uma criatura com a efígie, pode gastar 5 Pontos de Vida da efígie para remover uma das seguintes condições do alvo: Enfeitiçado, Amedrontado, Paralisado, Envenenado ou Atordoado.
+
+Proteção. Escolha um tipo de dano que não seja Energia. Você e seus aliados na aura têm Resistência ao tipo escolhido.
+
+NÍVEL 10: BONECO VINCULADO À ALMA
+
+Como uma Ação Mágica, você pode gastar um uso de sua Forma Selvagem e escolher uma criatura que você possa ver a até 18 metros de você para criar um boneco de vime que se pareça vagamente com o alvo.
+
+O boneco é um objeto Minúsculo (CA 10; PV 10; Vulnerabilidade a dano de Fogo; Imunidade a dano Venenoso e Psíquico). O boneco desaparece após 1 minuto ou quando é reduzido a 0 Pontos de Vida.
+
+Enquanto o boneco existir, o alvo tem Desvantagem em jogadas de ataque contra uma criatura que esteja carregando o boneco. Além disso, quando uma criatura carregando o boneco causa dano ao alvo pela primeira vez em um turno, o alvo sofre 2d10 de dano Necrótico extra.
+
+NÍVEL 14: ZÊNITE DO VIME
+
+Suas efígies de vime alcançam o ápice de seu poder. No início do seu turno, você pode mudar a aura de sua efígie para outra. Além disso, todas as auras se tornam mais fortes das seguintes formas.
+
+Sacrifício. O dano de Fogo aumenta para 3d8 + seu modificador de Sabedoria.
+
+Alívio. Quando você ou seus aliados começam um turno na aura, a condição Enfeitiçado ou Amedrontado, à escolha do alvo, termina sobre ele.
+
+Proteção. Escolha uma habilidade. Você e cada um de seus aliados dentro da aura têm Vantagem em salvaguardas feitas com a habilidade escolhida.
+
+EFÍGIES DE VIME
+
+As efígies, encantos e amuletos que você tece podem assumir diversas formas, cada uma com a intenção de produzir um efeito ritualístico. Use a tabela Efígies de Vime como inspiração ao determinar a aparência do seu amuleto de vime.
+
+EFÍGIES DE VIME
+
+1d12 - Efígie
+
+1 - Arqueiro com chifres para garantir uma caçada bem-sucedida.
+
+2 - Espantalho com cabeça de pássaro para proteger plantações de pragas e ferrugem.
+
+3 - Deusa da fertilidade adornada com maçãs para uma colheita abundante.
+
+4 - Figuras inquietantes de gravetos para afastar intrusos de moradias escondidas.
+
+5 - Cabra com chifres curvados para garantir um inverno seguro.
+
+6 - Cabeça de lobo para proteger contra os perigos da noite.
+
+7 - Lua crescente com o rosto de uma anciã para amplificar rituais mágicos.
+
+8 - Máscara temível com presas para conceder ferocidade em batalha.
+
+9 - Explosão solar espiralada com um sorriso para anunciar um verão longo e quente.
+
+10 - Pirâmide de três lados com bordas em degraus para marcar o local de um sacrifício.
+
+11 - Troll empunhando uma clava para guardar estradas, pontes e outras passagens.
+
+12 - Anel intricado que representa o ciclo do ano, garantindo vida, morte e renascimento.
+--
+GUERREIRO:
+GUARDA TUMULAR
+
+Comande o Poder da Sepultura
+
+Guardas Tumulares são guerreiros que canalizam o poder dos mortos, tomando para si energias espectrais normalmente proibidas aos vivos. Alguns Guardas Tumulares são aqueles que retornaram da morte por meio de milagres mágicos ou pelos caprichos dos deuses. Outros permanecem diante das portas de criptas sagradas, prontos para repelir qualquer um que tente profanar os mortos.
+
+Não importa sua origem, esses sentinelas estoicos não se preocupam com os assuntos dos vivos. Eles são separados, diferentes e presos ao dever de guardiões de cripta, garantindo que os mortos — heróis e vilões igualmente — permaneçam em repouso.
+
+NÍVEL 3: CAVALEIRO DA MORTE
+
+Você abriga dentro de si os resquícios persistentes de almas há muito partidas, e o conhecimento e a experiência delas infundem você com energia necromântica. Isso é representado pelos Dados Draugr, que alimentam os poderes que você recebe desta subclasse. A tabela Dados Draugr do Guarda Tumular mostra o tamanho do dado e a quantidade desses dados que você possui ao alcançar certos níveis de Guerreiro.
+
+DADOS DRAUGR DO GUARDA TUMULAR
+
+Nível de Guerreiro | Tamanho do Dado | Quantidade
+
+3 | d6 | 4
+
+5 | d8 | 6
+
+9 | d8 | 8
+
+11 | d10 | 8
+
+13 | d10 | 10
+
+17 | d12 | 12
+
+Alguns de seus poderes gastam um Dado Draugr, conforme especificado na descrição da característica, e você não pode usar um poder se ele exigir o uso de um dado quando todos os seus Dados Draugr tiverem sido gastos.
+
+Você recupera um Dado Draugr gasto quando termina um Descanso Curto, e recupera todos eles quando termina um Descanso Longo.
+
+A CD de salvaguarda para qualquer um de seus poderes é 8 + seu modificador de Constituição + seu Bônus de Proficiência.
+
+Cavaleiro Sombrio. Como uma Ação Bônus, você manifesta uma montaria fantasmagórica que apenas você pode montar. A montaria usa o bloco de estatísticas do Cavalo de Guerra, mas seu tipo de criatura é Morto-vivo, ela tem Resistência a dano Contundente, Perfurante e Cortante, e só pode realizar as ações Correr, Desengajar e Esquivar. Quando a montaria realiza a ação Correr, você pode gastar e rolar um Dado Draugr. Durante o movimento dessa ação, o Deslocamento da montaria aumenta em uma quantidade de metros igual a 1,5 vezes o número rolado. A montaria desaparece após 1 hora, se for reduzida a 0 Pontos de Vida, se você ficar Incapacitado ou se morrer.
+
+Depois de realizar esta Ação Bônus, você não pode fazê-lo novamente até terminar um Descanso Curto ou Longo, a menos que gaste um Dado Draugr, sem exigir ação, para recuperar o uso dela.
+
+Guarda da Sepultura. Quando você sofre dano, pode usar uma Reação para gastar e rolar um Dado Draugr. Reduza o dano sofrido pelo número rolado + seu modificador de Constituição.
+
+Ceifador de Almas. Quando realiza a ação Atacar, você pode renunciar a um de seus ataques para convocar magicamente mãos fantasmagóricas ao redor de uma criatura a até 18 metros de você. Gaste e role um Dado Draugr. O alvo deve realizar uma salvaguarda de Força. Em uma falha, ele sofre dano Necrótico igual ao número rolado no Dado Draugr + seu modificador de Constituição, e recebe a condição Agarrado por 1 minuto. A CD para escapar é igual à CD de salvaguarda dos seus poderes de Cavaleiro da Morte. Em um sucesso, ele sofre apenas metade desse dano.
+
+NÍVEL 7: SUGAR ALMAS
+
+Você pode capturar a essência fugidia das almas que partem para extrair conhecimento e proeza. Você recebe os seguintes benefícios.
+
+Invólucro Mortal. Quando um inimigo que não seja um Constructo ou Morto-vivo morre a até 9 metros de você, você pode usar uma Reação para recuperar um Dado Draugr gasto.
+
+Sussurro dos Falecidos. Quando realiza um teste de atributo, você pode gastar e rolar um Dado Draugr e adicionar o número rolado ao total.
+
+NÍVEL 10: CASTELÃO DA TUMBA
+
+Os poderes de sua característica Cavaleiro da Morte melhoram das seguintes formas.
+
+Corcel Fantasma. A montaria fantasmagórica do seu poder Cavaleiro Sombrio agora ignora Terreno Difícil. Além disso, quando sua montaria realiza a ação Correr, Desengajar ou Esquivar, você pode gastar e rolar um Dado Draugr. Sua montaria se teletransporta magicamente, levando você junto se estiver montado nela, para um espaço desocupado que você possa ver a até 18 metros da montaria.
+
+Cada criatura à sua escolha a até 3 metros da montaria quando ela aparece deve ser bem-sucedida em uma salvaguarda de Constituição, sofrendo dano Necrótico igual ao número rolado no Dado Draugr + seu modificador de Constituição em uma falha, ou metade desse dano em um sucesso.
+
+Dobre de Morte. Quando você usa seu poder Guarda da Sepultura em resposta a uma criatura causando dano a você, essa criatura sofre dano Psíquico igual à metade da quantidade de dano reduzida pelo poder.
+
+Grito Espectral. Quando uma criatura Agarrada pelo seu poder Ceifador de Almas começa o turno dela, ela sofre dano Psíquico igual ao seu Bônus de Proficiência. Quando isso acontece, você pode usar uma Reação para gastar e rolar um Dado Draugr, adicionando o número rolado ao dano.
+
+NÍVEL 15: SENHOR DA SEPULTURA
+
+Você não é mais um mero receptáculo de energia espectral, mas um senhor dela. Seus poderes melhoram das seguintes formas.
+
+Sobre um Cavalo Pálido. Quando usa seu poder Cavaleiro Sombrio, você pode permitir que uma criatura à sua escolha monte a montaria além de você.
+
+Além disso, quando você gasta um Dado Draugr durante a ação Correr da montaria, ela pode se mover através de objetos sólidos e criaturas como se fossem Terreno Difícil, levando consigo quaisquer cavaleiros. Se a montaria terminar seu turno dentro de um objeto sólido, ela e quaisquer cavaleiros sofrem 1d10 de dano de Energia e são expelidos para o espaço desocupado mais próximo.
+
+Escudo Sepulcral. Quando usa seu poder Guarda da Sepultura, escolha um dos tipos de dano que ativaram a reação. Você tem Resistência a esse tipo de dano, incluindo o dano que ativou a reação, até o início do seu próximo turno.
+
+Aperto da Morte. Uma criatura Agarrada pelo seu poder Ceifador de Almas também recebe a condição Contido até o agarrão terminar.
+
+NÍVEL 18: PODER DA NECRÓPOLE
+
+Seu comando dos segredos transmitidos a você é absoluto. Você recebe os seguintes benefícios.
+
+Vigília Eterna. Você não sofre mais os efeitos do envelhecimento, não pode ser envelhecido magicamente e não morre de velhice. Além disso, você não precisa mais de ar, comida, bebida ou sono.
+
+Mortos Inquietos. Quando você rola Iniciativa, se tiver menos de 3 Dados Draugr, recupera dados gastos até ficar com 3.
+--
+MONGE:
+GUERREIRO DA NÉVOA PESTILENTA
+
+Espalhe Pragas Virulentas com um Toque
+
+Guerreiros da Névoa Pestilenta atraem a praga para dentro de seus próprios corpos, entrelaçando-a à sua energia e tornando-se unos com a doença. Monges que seguem esta tradição vagam pelo mundo, muitas vezes seguindo — ou até precedendo — ondas de pestilência.
+
+Alguns caminham com cautela, usando seu toque com precisão e liberando enfermidade apenas onde populações numerosas precisam ser ceifadas. Outros se deleitam no miasma se espalhando o mais longe e rápido possível.
+
+NÍVEL 3: DISCIPLINA CONTAGIOSA
+
+Você preparou e concentrou doença dentro de si, e agora pode projetar suas manifestações para fora. Você recebe os seguintes benefícios.
+
+Garras da Pestilência. Suas unhas crescem e se tornam um conjunto de garras semelhantes às de vermes. Você pode causar dano Cortante quando acerta com um Ataque Desarmado em vez de dano Contundente. Quando acerta uma criatura com um ataque concedido por sua Rajada de Golpes, causa dano Necrótico extra igual a uma rolagem do seu dado de Artes Marciais.
+
+Praga Miasmática. Quando acerta uma criatura com um Ataque Desarmado, você pode gastar 1 Ponto de Foco para forçar a criatura a ser bem-sucedida em uma salvaguarda de Constituição ou ficar amaldiçoada por 1 minuto. Enquanto estiver amaldiçoada, a criatura recebe a condição Envenenado, e sofre dano Necrótico extra de seus Ataques Desarmados igual a uma rolagem do seu dado de Artes Marciais. Uma criatura só pode sofrer esse dano uma vez por turno.
+
+A criatura repete a salvaguarda no fim de cada um de seus turnos, encerrando o efeito sobre si em um sucesso.
+
+Se você abrir mão do dano extra concedido por Garras da Pestilência, pode usar Praga Miasmática sem pagar seu custo de Ponto de Foco.
+
+NÍVEL 3: DÁDIVA DA PESTILÊNCIA
+
+Por meio de sua observação e meditação, você se sintonizou com a natureza da pestilência e das criaturas que se acredita carregá-la. Você recebe os seguintes benefícios.
+
+Inoculação. Você tem Vantagem em salvaguardas para evitar ou encerrar a condição Envenenado ou contágios mágicos, e tem Resistência a dano Venenoso e Necrótico.
+
+Afinidade com Vermes. Por meio de sons chiados e gestos com as mãos, você pode comunicar conceitos simples a vermes, como ratos, pombos e insetos, e ganha a capacidade de decifrar seus ruídos e movimentos. Vermes não possuem inteligência suficiente para transmitir ou compreender conceitos sofisticados, mas vermes Amistosos podem relatar o que viram ou ouviram no passado recente.
+
+Além disso, você pode conjurar Mensageiro Animal usando Sabedoria como habilidade de conjuração, mirando uma Besta Minúscula considerada um verme ou criatura associada à propagação de pragas e doenças. Depois de conjurar a magia dessa forma, você não pode fazê-lo novamente até terminar um Descanso Longo.
+
+NÍVEL 6: PRAGA POTENTE
+
+A cepa de sua praga se torna mais virulenta e mortal. Quando causa dano Necrótico ou Venenoso, você ignora a Resistência do alvo a esses tipos de dano, se houver.
+
+NÍVEL 6: INCENSÁRIO DO DOBRE
+
+Você pode liberar uma nuvem de miasma sobre seus inimigos. Como uma Ação Mágica, você pode gastar 2 Pontos de Foco para liberar uma nuvem de miasma em uma Emanação de 6 metros originada de você.
+
+Cada criatura à sua escolha nessa área deve realizar uma salvaguarda de Constituição. Em uma falha, uma criatura sofre dano Necrótico igual a duas rolagens do seu dado de Artes Marciais e é amaldiçoada por sua Praga Miasmática. Em um sucesso, ela sofre apenas metade desse dano.
+
+NÍVEL 11: CONTÁGIO MIASMÁTICO
+
+A força de sua Praga Miasmática aumentou, concedendo a você os seguintes benefícios.
+
+Miasma Sufocante. Salvaguardas de Constituição contra sua Praga Miasmática são feitas com Desvantagem.
+
+Disseminação Rastejante. Quando você gasta 1 Ponto de Foco para usar seu Passo do Vento, até o fim do turno, quando entra em um espaço a até 1,5 metro de qualquer criatura à sua escolha, ela deve ser bem-sucedida em uma salvaguarda de Constituição ou ser amaldiçoada por sua Praga Miasmática. Uma criatura realiza essa salvaguarda apenas uma vez por turno.
+
+NÍVEL 17: EPIDEMIA
+
+Sua praga alcançou o auge de sua potência, e seus sintomas afligem rapidamente seus inimigos. Sua Praga Miasmática ignora a Imunidade de um alvo à condição Envenenado.
+
+Além disso, quando você causa dano Necrótico a um alvo amaldiçoado por sua Praga Miasmática, ele sofre dano Necrótico extra igual a uma rolagem do seu dado de Artes Marciais.
+
+MANIFESTAÇÕES DA PRAGA MIASMÁTICA
+
+Sua Praga Miasmática é um contágio mágico único, capaz de assumir muitas formas que você entrelaça por meio de sua profunda conexão com a aflição. A tabela Manifestações da Praga oferece sugestões para a forma mágica que sua doença característica assume ao se espalhar, bem como seus sintomas marcantes.
+
+MANIFESTAÇÕES DA PRAGA
+
+1d10 - Manifestação
+
+1 - Hálito de Sangue.
+Miasma da cor de hematomas, cujas bordas formam tentáculos rastejantes — marcas doloridas e uma tosse rouca e sanguinolenta.
+
+2 - Vômito Zumbidor.
+Um enxame de moscas monstruosas e mutantes que zumbem com um som horrível — ouvidos sangrando e vômitos intensos.
+
+3 - Ventre Purulento.
+Água viscosa e cinzenta de esgoto que deixa uma película sobre as superfícies — dor intensa no estômago, desidratação e perda de sangue.
+
+4 - Varíola da Sarjeta.
+Glóbulos de lodo tóxico esverdeado que escorrem de forma errática ao toque — pápulas verdes e inchadas, além de acúmulo opressivo de muco.
+
+5 - Febre do Dobre.
+Vento quente que arrepia a pele e uiva com o som de um sino fúnebre — bolhas de calor e alucinações febris.
+
+6 - Rosto Podre.
+Numerosos esporos fúngicos espinhentos que flutuam pelo ar — apodrecimento rápido da carne, especialmente ao redor dos olhos e da boca.
+
+7 - O Imundo.
+Massa ondulante de carne pálida, dentes e línguas — crescimentos grotescos e mutantes, como novos apêndices semelhantes a tentáculos e bocas rangentes.
+
+8 - Escama de Sapo.
+Chuvas infectadas cheias de sapos espectrais venenosos — placas endurecidas e irritantes de pele escamosa que se tornam vividamente coloridas, além de acessos de coaxos agonizantes.
+
+9 - Praga dos Vermes.
+Massa rastejante de ratos espectrais pestilentos e famintos que roem e arranham as vítimas — furúnculos e pústulas dolorosas, além de uma tosse chiada incessante.
+
+10 - Morte Amarela.
+Nuvens ondulantes de vapores fétidos em forma de crânio, com um tom amarelo doentio — fadiga debilitante, dores musculares e pele encovada e amarelada.
+--
+PALADINO:
+JURAMENTO DA CASTIGAÇÃO
+
+Busque e Queime a Maldade até Restarem Cinzas
+
+O mal e a perversidade são vastos e antigos, mas não infinitos. Paladinos que juram o Juramento da Castigação extirpam o mal para queimá-lo por completo, trazendo luz a tudo que é inocente e bom. Seja vinculados às leis dos mortais, à sua divindade ou ao próprio código pessoal, eles caçam implacavelmente o mal onde quer que ele prospere. Paladinos deste juramento sabem que o mal não pode se esconder em nenhum lugar pútrido depois que começa a queimar.
+
+Estes paladinos compartilham os seguintes preceitos:
+
+• Queime toda dúvida na busca pelo dever.
+
+• Expurgue os perversos e corruptos; poupe os inocentes.
+
+• O pecado é perdoado por meio de sofrimento igual à dor que causou.
+
+NÍVEL 3: CASTIGAR
+
+Como uma Ação Mágica, você pode gastar um uso de seu Canalizar Divindade para prender aqueles que levaria à justiça em grilhões flamejantes. Escolha um número de criaturas até seu modificador de Carisma, com um mínimo de 1 criatura, que você possa ver a até 9 metros de você. Cada criatura deve ser bem-sucedida em uma salvaguarda de Força ou será envolvida por grilhões flamejantes e terá seu Deslocamento reduzido a 0.
+
+Como uma Ação Bônus, você pode fazer os grilhões arderem intensamente. Cada criatura presa pelos grilhões sofre 2d6 de dano de Fogo. Uma criatura agrilhoada repete a salvaguarda no fim de cada um de seus turnos, encerrando o efeito sobre si em um sucesso. Após 1 minuto, ela obtém sucesso automaticamente.
+
+NÍVEL 3: INCITAR
+
+Como uma Ação Mágica, você pode gastar um uso de seu Canalizar Divindade para buscar melhor a perversidade e a corrupção. Pelos próximos 10 minutos, você tem Vantagem em testes de Inteligência (Investigação) e Sabedoria (Intuição).
+
+Durante esse período, você pode usar uma Ação Bônus para escolher uma criatura que você possa ver a até 3 metros de você. O alvo deve ser bem-sucedido em uma salvaguarda de Carisma ou recebe a condição Amedrontado por 1 minuto. Enquanto estiver Amedrontado dessa forma, o alvo não pode dizer uma mentira deliberada. A condição termina antes se o alvo sofrer dano ou se você usar esta Ação Bônus novamente.
+
+NÍVEL 3: MAGIAS DO JURAMENTO DA CASTIGAÇÃO
+
+A magia de seu juramento garante que você sempre tenha certas magias prontas. Quando você alcança um nível de Paladino especificado na tabela Magias do Juramento da Castigação, a partir de então você sempre tem as magias listadas preparadas.
+
+MAGIAS DO JURAMENTO DA CASTIGAÇÃO
+
+Nível de Paladino | Magias
+
+3 | Favor Divino, Infligir Ferimentos
+
+5 | Corrente da Convicção*, Imobilizar Pessoa
+
+9 | Contramágica, Falar com os Mortos
+
+13 | Pira Consumidora*, Localizar Criatura
+
+17 | Coluna de Chamas, Imobilizar Monstro
+
+NÍVEL 7: AURA DE IGNIÇÃO
+
+Você e seus aliados dentro de sua Aura de Proteção ignoram a Resistência das criaturas a dano de Fogo e Radiante. Além disso, quando uma criatura afetada acerta com um ataque com arma, ela pode causar dano de Fogo em vez do tipo de dano normal da arma.
+
+Além disso, você e as criaturas afetadas na aura podem adicionar seu modificador de Carisma, com um mínimo de +1, a testes de Inteligência (Investigação) e Sabedoria (Intuição).
+
+NÍVEL 15: INQUISIDOR FERVOROSO
+
+Sempre que uma criatura causar dano a você ou a um de seus aliados que você possa ver a até 9 metros de você, você pode usar uma Reação para ganhar Vantagem em sua próxima jogada de ataque contra a criatura que causou o dano.
+
+Além disso, sempre que você causar dano de Fogo ou Radiante a uma criatura Sangrando, você toma conhecimento de quaisquer mentiras que a criatura tenha dito a você voluntária e conscientemente nas últimas 24 horas.
+
+NÍVEL 20: FOGO E ENXOFRE
+
+Como uma Ação Bônus, você encarna uma chama purificadora e recebe os benefícios abaixo por 10 minutos, ou até encerrá-los, sem exigir ação. Depois de usar esta característica, você não pode usá-la novamente até terminar um Descanso Longo. Você também pode recuperar seu uso gastando um espaço de magia de nível 5, sem exigir ação.
+
+Ardor Flamejante. Você ganha Imunidade a dano de Fogo.
+
+Julgamento Implacável. Chicotes de chama divina aumentam seu alcance em 3 metros, e seus ataques corpo a corpo ignoram Meia Cobertura e Cobertura de Três Quartos.
+
+Punir os Perversos. Quando você acerta uma criatura com um Ataque de Oportunidade, ou quando uma criatura Hostil termina o turno dela dentro do seu alcance, ela deve ser bem-sucedida em uma salvaguarda de Carisma ou recebe a condição Caído e tem seu Deslocamento reduzido a 0 até o início do próximo turno dela.
+
+NÊMESES PERVERSAS
+
+A tabela Nêmeses Perversas oferece exemplos de malfeitores, vilões e outros seres malignos que você extirpou e purgou no passado, ou talvez um que ainda esteja caçando. Enfrentar essas nêmeses pode ter colocado você no caminho de purgar a perversidade onde quer que ela espreite.
+
+NÊMESES PERVERSAS
+
+1d12 - Nêmesis
+
+1 - Um nobre vampiro apodrecido que espalha uma praga mortal por meio do comando de incontáveis vermes.
+
+2 - Um assassino de aluguel brutal que vende seus serviços para vários cultos e organizações sombrias.
+
+3 - Um líder de culto carismático que domina uma ilha remota, realizando sacrifícios sazonais de mortais para garantir uma colheita abundante a cada ano.
+
+4 - Um golem de carne imensamente inteligente que matou seu criador para seguir seu próprio trabalho sinistro com ciência estranha e experimentos grotescos.
+
+5 - Uma bruxa da floresta, amarga e invejosa, que corrompe os jovens de pequenas aldeias e os manipula para cometer atrocidades horríveis.
+
+6 - Um herege orgulhoso e vaidoso que reúne seguidores zelosos após um cisma sangrento para iniciar uma cruzada brutal em nome de suas crenças distorcidas.
+
+7 - Um caçador outrora renomado, agora amaldiçoado com licantropia, que passou a cometer ataques sangrentos.
+
+8 - Um necromante implacável que vasculha ruínas antigas em busca de magia proibida para libertar seu mestre extraplanar de uma prisão sobrenatural.
+
+9 - Uma estranha criatura anfíbia que emerge das profundezas para sequestrar inocentes e arrastá-los para baixo da superfície da água por motivos desconhecidos.
+
+10 - Um médico brilhante que aperfeiçoou um soro capaz de transformá-lo em uma criatura bruta e gigantesca, usado para cometer uma série de assassinatos por toda uma cidade.
+
+11 - Um revenante sedento por sangue que já foi um cavaleiro sombrio e agora reúne outros cavaleiros Mortos-vivos para trazer morte e decadência.
+
+12 - Um artista torturado usando uma máscara de comédia e tragédia, que busca criar sua obra-prima por meio da mutilação dos cadáveres de suas vítimas.
+--
+GUARDIÃO:
+ARAUTO SOMBRIO
+
+Sele o Destino como um Presságio de Ruína
+
+Arautos Sombrios vagam por lugares tocados pela morte, servindo tanto como vigias dos mortos quanto como heraldos da ruína para aqueles cujas vidas estão chegando ao fim. Ao seu lado está um espírito guardião e presságio de morte conhecido como sombrio, um companheiro constante que auxilia no cumprimento de seu dever compartilhado e fúnebre.
+
+NÍVEL 3: MAGIAS DO ARAUTO SOMBRIO
+
+Quando você alcança um nível de Guardião especificado na tabela Magias do Arauto Sombrio, a partir de então você sempre tem a magia listada preparada.
+
+MAGIAS DO ARAUTO SOMBRIO
+
+Nível de Guardião | Magias
+
+3 | Perdição
+
+5 | Imobilizar Pessoa
+
+9 | Medo
+
+13 | Desespero Intrusivo*
+
+17 | Sonho
+
+NÍVEL 3: PRESSÁGIO DE RUÍNA
+
+Como uma Ação Bônus, você mira uma criatura que possa ver a até 27 metros de você e sela magicamente sua ruína por 1 hora. Uma vez por turno, quando você acerta o alvo condenado com um ataque, ele sofre 1d6 de dano Necrótico extra.
+
+Além disso, uma criatura fantasmagórica chamada Sombrio* aparece em um espaço desocupado a até 9 metros do alvo. Sombrios geralmente aparecem como cães espectrais negros, mas você pode escolher uma aparência apropriada ao bloco de estatísticas dele.
+
+O sombrio é Amistoso a você e seus aliados, e obedece aos seus comandos. Ele desaparece se você morrer, quando a criatura condenada morre, quando é reduzido a 0 Pontos de Vida, ou quando você usa esta característica novamente.
+
+Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria, com um mínimo de uma vez, e recupera todos os usos gastos quando termina um Descanso Curto ou Longo. Você também pode gastar um espaço de magia para recuperar um uso gasto, sem exigir ação.
+
+O Sombrio em Combate. Em combate, o sombrio age durante o seu turno. Ele pode se mover e usar sua Reação por conta própria, mas a única ação que realiza é a ação Esquivar, a menos que você use uma Ação Bônus para comandá-lo a realizar uma ação de seu bloco de estatísticas ou alguma outra ação. Você também pode comandá-lo como parte da Ação Bônus usada para utilizar Presságio de Ruína, ou pode sacrificar um de seus ataques quando realiza a ação Atacar para comandar o sombrio a realizar a ação Rasgo Agourento. Se você estiver Incapacitado, o sombrio age por conta própria e não fica limitado à ação Esquivar.
+
+NÍVEL 7: ARAUTO DA RUÍNA
+
+Seu controle sobre a ruína se torna mais forte, concedendo os seguintes benefícios.
+
+Caçador de Cemitérios. A ação Rasgo Agourento do Sombrio causa 1d6 de dano Necrótico extra em um acerto.
+
+Lembrete Mortal. Quando você causa dano a uma criatura condenada por seu Presságio de Ruína, pode mudar o tipo de dano para Necrótico.
+
+Pavor Crescente. Dano Necrótico causado por você ou pelo sombrio ignora Resistência.
+
+NÍVEL 11: VÍNCULO SEPULCRAL
+
+Você extrai força mais profunda da sepultura. Você recebe os seguintes benefícios.
+
+Cão Espectral. O sombrio ganha Resistência a dano Contundente, Perfurante e Cortante.
+
+Fortitude da Sepultura. Você ganha Resistência a dano Necrótico.
+
+Destino Inescapável. Quando o alvo de seu Presságio de Ruína é bem-sucedido em uma salvaguarda, você pode usar uma Reação para forçá-lo a rolar novamente a salvaguarda com Desvantagem e usar a nova rolagem. Depois que fizer uma salvaguarda falhar com este benefício, você não pode usá-lo novamente até que o Presságio de Ruína atual termine.
+
+NÍVEL 15: DESTINO SELADO
+
+A força de seu Presságio de Ruína alcança seu auge, concedendo os seguintes benefícios enquanto ele estiver ativo.
+
+Mandíbulas da Ruína. A ação Rasgo Agourento do Sombrio causa 1d6 de dano Necrótico extra, para um total de 2d6 de dano extra.
+
+Marcado para a Morte. Quando usa Presságio de Ruína, você pode forçar o alvo a realizar uma salvaguarda de Carisma contra sua CD de salvaguarda de magia. Em uma falha, até que o Presságio de Ruína atual termine, o alvo tem Vulnerabilidade ao dano causado pelo sombrio e ao dano extra que você causa com Presságio de Ruína.
+
+Depois de usar este benefício, você não pode usá-lo novamente até terminar um Descanso Longo. Você também pode recuperar seu uso gastando um espaço de magia de nível 4 ou superior, sem exigir ação.
+
+SOMBRIO
+
+Morto-vivo Médio, Neutro
+
+CA: 13 + seu modificador de Sabedoria
+
+PV: 5 + cinco vezes seu nível de Guardião. O sombrio tem um número de Dados de Vida [d8] igual ao seu nível de Guardião.
+
+Deslocamento: 12 metros
+
+ATRIBUTOS
+
+Força 16
+Modificador +3
+Salvaguarda +3
+
+Destreza 16
+Modificador +3
+Salvaguarda +3
+
+Constituição 14
+Modificador +2
+Salvaguarda +2
+
+Inteligência 14
+Modificador +2
+Salvaguarda +2
+
+Sabedoria 10
+Modificador +0
+Salvaguarda +0
+
+Carisma 10
+Modificador +0
+Salvaguarda +0
+
+Imunidades: Necrótico; Amedrontado, Agarrado, Petrificado, Envenenado, Caído, Contido.
+
+Sentidos: Visão no Escuro 18 metros, Percepção Passiva 10.
+
+Idiomas: Compreende os idiomas que você conhece.
+
+ND: Nenhum. XP 0. O Bônus de Proficiência dele é igual ao seu Bônus de Proficiência.
+
+TRAÇOS
+
+Movimento Incorpóreo. O sombrio pode se mover através de outras criaturas e objetos como se fossem Terreno Difícil. O sombrio sofre 1d10 de dano de Energia se terminar seu turno dentro de um objeto.
+
+Destino Compartilhado. Adicione seu Bônus de Proficiência a qualquer teste de atributo ou salvaguarda que o sombrio realizar.
+
+AÇÕES
+
+Rasgo Agourento. Jogada de Ataque Corpo a Corpo: bônus igual ao seu modificador de ataque mágico, alcance 1,5 metro. Acerto: 1d6 + 3 + seu modificador de Sabedoria de dano Necrótico e, se o alvo for uma criatura, ele recebe a condição Amedrontado até o início do seu próximo turno.
+
+REAÇÕES
+
+Uivo Funesto. Gatilho: uma criatura sai do alcance do sombrio. Resposta — Salvaguarda de Sabedoria: sua CD de salvaguarda de magia, feita pela criatura que ativou o gatilho. Falha: o Deslocamento do alvo se torna 0 até o fim do turno.
+--
+LADINO:
+PECADOR
+
+Negocie com Vícios para Azarar Inimigos e Dobrar a Sorte
+
+O vício se agarra aos Pecadores como uma segunda pele — trapaça, bebedeira e jogos de azar são seu pão e sangue. Canalhas por natureza, eles ouvem o chamado do pecado, e quando sussurros de poderes maléficos chegam aos seus ouvidos, eles escutam. Esses poderes oferecem mais do que tentação; concedem ferramentas para enganar, roubar e até matar com uma precisão que esses ladinos jamais imaginaram.
+
+Talvez tudo comece com uma reunião em um salão decadente, um ritual sob o céu do deserto, ou um templo amaldiçoado encontrado nas profundezas da selva. Não importa a estrada, o fim é sempre o mesmo: a Azararia. Por meio de agouros, maldições e magia imunda, Pecadores abandonam julgamento e retidão. As leis dos homens e dos deuses nada significam para eles. Resta apenas o frio conforto do caminho do pecado.
+
+NÍVEL 3: LANÇADOR DE AGOUROS
+
+Quando você causa dano a uma criatura com seu Ataque Furtivo, pode liberar o poder de sua Azararia. Quando rolar seus dados de Ataque Furtivo, designe dois desses dados antes da rolagem, como rolando-os separadamente ou usando dados de cores diferentes. O total rolado nesses dados determina o efeito de sua Azararia, conforme indicado na tabela Agouros do Lançador de Agouros.
+
+Você pode usar esta característica um número de vezes igual ao seu modificador de Carisma, com um mínimo de 1, e recupera todos os usos gastos quando termina um Descanso Curto.
+
+NÍVEL 3: AZARADO SEJA
+
+Você aprendeu a arte secreta da Azararia — extraindo poder mágico dos atos sombrios e pactos pecaminosos. Você recebe os seguintes benefícios.
+
+Cartas e Ossos. Você ganha proficiência com dois Conjuntos de Jogo à sua escolha. Cartas de baralho e dados são recomendados.
+
+Arma Agourenta. Como um ritual de 1 hora usando um Conjunto de Jogo, você cria magicamente uma arma agourenta que canaliza sua Azararia. Essa arma assume a forma de uma Pistola ou de um Conjunto de Jogo, que usa as estatísticas de jogo de uma Pistola. Para você, a arma agourenta ignora a propriedade Recarga e cria sua própria munição, que causa dano de Energia.
+
+Na forma de Conjunto de Jogo, você arremessa cartas, dados ou outras peças de jogo, ou os usa para liberar rajadas de magia de maldição. Alternativamente, você pode imbuir Azararia em uma arma Simples ou Marcial com a qual tenha proficiência, transformando-a em sua arma agourenta. A arma agourenta imbuída causa dano de Energia em vez de seu tipo normal. Se você criar uma segunda arma agourenta, a primeira desaparece ou sua Azararia se encerra.
+
+Truque de Salão. Você aprende um dos seguintes truques à sua escolha: Luzes Dançantes, Mãos Mágicas, Ilusão Menor, Presença Misteriosa* ou Prestidigitação. Carisma é sua habilidade de conjuração para ele.
+
+AGOUROS DO LANÇADOR DE AGOUROS
+
+2d6 - Agouro
+
+2 - Olhos de Cobra.
+No próximo turno do alvo, ele só pode fazer uma das seguintes coisas: mover-se, realizar uma ação ou realizar uma Ação Bônus. Se ele mirar você ou seus aliados com um ataque nesse turno, sofre 2d6 de dano Psíquico.
+
+3–4 - O Pesadelo.
+O alvo recebe a condição Amedrontado até o fim do próximo turno dele, e deve imediatamente usar uma Reação para se mover o máximo que puder para longe de você, até o limite de seu Deslocamento.
+
+5–6 - Garrafa de Uísque.
+O alvo larga tudo que estiver segurando. Até o fim do próximo turno dele, quando o alvo pegar um item, deve ser bem-sucedido em uma salvaguarda de Destreza CD 15 ou largará o item imediatamente.
+
+7 - Golpe Baixo.
+Até o fim do próximo turno do alvo, o Deslocamento dele é reduzido pela metade e, durante esse período, jogadas de ataque contra ele têm Vantagem.
+
+8–9 - Braço Definhado.
+Até o fim do próximo turno do alvo, ele tem Desvantagem em Testes de d20 que dependam de Força.
+
+10–11 - Má Sorte.
+Até o fim do próximo turno do alvo, quando ele realizar uma jogada de ataque ou uma salvaguarda, subtrai 1d6 do total.
+
+12 - Homem Morto.
+Se a próxima jogada de ataque que você fizer antes do fim do seu próximo turno errar, ela acerta em vez disso. Se essa primeira jogada de ataque acertar, o ataque é automaticamente um Acerto Crítico. Se você rolar um 20 no d20, role os dados de dano do ataque três vezes em vez de duas.
+
+NÍVEL 9: SORTE ROUBADA
+
+Quando usa Lançador de Agouros, você drena um fragmento da sorte do alvo. Você ganha Inspiração Heroica se ainda não a tiver. Se já tiver Inspiração Heroica, pode gastá-la em vez de gastar um uso de Lançador de Agouros.
+
+NÍVEL 13: ESCOLHA SEU VENENO
+
+Quando usa Lançador de Agouros, você pode rolar os dados designados de Ataque Furtivo duas vezes e escolher qual total usar.
+
+Se a rolagem escolhida tiver o mesmo número em ambos os dados, o alvo sofre dano Psíquico igual à metade do seu nível. Se a rolagem escolhida for 2 ou 12, você não gasta esse uso de Lançador de Agouros.
+
+NÍVEL 17: O OUTRO LADO
+
+Você pode recorrer aos seus amigos sobrenaturais em lugares baixos para mudar as chances de qualquer coisa que faça a seu favor. Você recebe os seguintes benefícios.
+
+Diabrura da Encruzilhada. Quando erra uma jogada de ataque ou falha em uma salvaguarda, você pode gastar e rolar qualquer quantidade de seus dados de Ataque Furtivo, escolhendo a quantidade antes de rolar, e adicionar o total rolado ao ataque ou à salvaguarda. Isso pode transformar um erro em acerto ou uma falha em sucesso. Os dados gastos retornam depois que você usar seu Ataque Furtivo novamente.
+
+O Sorriso da Dama Sorte. Quando uma criatura acerta você com uma jogada de ataque, você pode gastar e rolar qualquer quantidade de seus dados de Ataque Furtivo, escolhendo a quantidade antes de rolar, e adicionar o total rolado à sua CA contra esse ataque. Isso pode fazer o ataque errar. Os dados gastos retornam depois que você usar seu Ataque Furtivo novamente.
+
+FORMAS DE ARMAS AGOURADAS
+
+Pecadores empunham sua Azararia por meio de uma grande variedade de itens amaldiçoados que servem como armas mágicas. A tabela Formas de Armas Agouradas oferece sugestões de como sua arma agourenta pode parecer.
+
+FORMAS DE ARMAS AGOURADAS
+
+1d4 - Forma da Arma
+
+1 - Um talismã de madeira coberto de glifos, esculpido no formato de uma pistola que dispara rajadas magentas.
+
+2 - Um par de dados de osso que dispara explosões verde-espectrais de Azararia a partir de seus pontos.
+
+3 - Cartas de baralho encantadas que podem ser arremessadas com poder mágico explosivo.
+
+4 - Uma moeda da sorte que se lança contra inimigos quando jogada para o alto e sempre retorna.
+--
+FEITICEIRO:
+FEITIÇARIA CARMESIM
+
+Controle o Poder Vital do Seu Sangue
+
+Feiticeiros Carmesins canalizam a magia ancestral do sangue e da essência vital. Eles torcem e guiam o fluxo dessa energia essencial enquanto uma fome cresce no fundo de seus corpos.
+
+Eles manipulam seu poder para infundir vitalidade em outros, ou podem arrancá-la e roubá-la para si mesmos.
+
+A Feitiçaria Carmesim pode ser adquirida de várias formas. Alguns que possuem esse poder nasceram com ele. Outros foram infundidos por meio de um ritual sombrio ou de um evento terrível. Há também aqueles que o descobrem através de segredos perdidos. Consulte a tabela Origens Carmesins para uma possível origem do seu poder.
+
+NÍVEL 3: POÇO DE SANGUE
+
+Você possui uma reserva de energia vital chamada Poço de Sangue, que pode usar para fortalecer sua magia e alimentar outros poderes desta subclasse. Quando causa dano ou restaura Pontos de Vida de uma criatura, você pode gastar seu Poço de Sangue para adicionar 1d8 ao total para um alvo.
+
+Você recupera seu Poço de Sangue gasto quando termina um Descanso Longo, ou quando uma criatura sofre 10 ou mais de dano Necrótico causado por você de uma só vez.
+
+NÍVEL 3: MAGIAS CARMESINS
+
+Quando você alcança um nível de Feiticeiro especificado na tabela Magias Carmesins, a partir de então você sempre tem as magias listadas preparadas.
+
+MAGIAS CARMESINS
+
+Nível de Feiticeiro | Magias
+
+3 | Ajuda, Raio de Sangue*, Curar Ferimentos, Infligir Ferimentos, Sacrifício de Sangue*
+
+5 | Colheita Carmesim*, Toque Vampírico
+
+7 | Proteção contra a Morte, Sifão Sacrificial*
+
+9 | Campo da Ceifa*, Curar Ferimentos em Massa
+
+NÍVEL 6: POÇA DE SANGUE
+
+Como uma Ação Bônus, você pode gastar seu Poço de Sangue para se dissolver magicamente em uma poça de sangue, junto com tudo que estiver vestindo ou carregando, por 1 hora. A transformação termina antes se você cair a 0 Pontos de Vida ou se escolher encerrá-la, sem exigir ação.
+
+Enquanto você for uma poça de sangue, usa suas estatísticas de jogo com as seguintes alterações:
+
+• Seu Deslocamento se torna 3 metros.
+
+• Você ganha Deslocamento de Escalada e Natação iguais ao seu Deslocamento, e pode escalar superfícies difíceis, incluindo tetos, sem precisar realizar um teste de atributo.
+
+• Você tem Resistência a dano Contundente, Perfurante e Cortante.
+
+• Você tem Imunidade à condição Caído.
+
+• Você tem Vantagem em salvaguardas de Força, Destreza e Constituição.
+
+• Você pode passar por buracos pequenos, aberturas estreitas e até simples rachaduras.
+
+• Você pode entrar e ocupar o espaço de outra criatura.
+
+• Você não pode largar, usar ou interagir de outra forma com nada que estivesse carregando ou segurando.
+
+• Você não pode falar, manipular objetos, atacar ou conjurar magias.
+
+NÍVEL 6: VIGOR ESCARLATE
+
+Você tem Resistência a dano Necrótico. Além disso, quando termina um Descanso Curto, pode gastar seu Poço de Sangue para reduzir seu nível de Exaustão, se houver, em 1.
+
+NÍVEL 14: SIFONAGEM VITAL
+
+Você pode se alimentar de sua própria essência vital para abastecer sua magia. Como uma Ação Bônus, você pode gastar um Dado de Vida e escolher um dos seguintes benefícios.
+
+Sangue Fervente. Você recupera o uso de seu Poço de Sangue.
+
+Pulso Carmesim. Gaste seu Poço de Sangue para fazer com que a próxima opção de Metamagia que você usar neste turno não custe Pontos de Feitiçaria.
+
+NÍVEL 18: BANQUETE SANGUÍNEO
+
+Sua fome por essência vital é insaciável. Como uma Ação Mágica, você pode liberar gavinhas de sangue que açoitam quaisquer criaturas à sua escolha a até 9 metros de você. Um alvo deve realizar uma salvaguarda de Constituição, sofrendo 5d8 de dano Necrótico em uma falha, ou metade desse dano em um sucesso.
+
+Se seu Poço de Sangue já estiver gasto quando você usa esta ação, os alvos têm Desvantagem na salvaguarda. Se ao menos uma criatura sofrer dano de Banquete Sanguíneo, você recupera uma quantidade de Pontos de Vida igual à rolagem de dano.
+
+Depois de usar esta característica, você não pode usá-la novamente até terminar um Descanso Longo, a menos que gaste 5 Pontos de Feitiçaria para usá-la novamente.
+
+VARIANTE: FEITICEIROS CARMESINS SEM SANGUE
+
+Se estiver jogando com um personagem de uma espécie que não possui sangue no sentido tradicional, ainda pode escolher a subclasse Feitiçaria Carmesim. A essência da Feitiçaria Carmesim é a força vital, ou uma energia animadora que se aproxima da vida.
+
+ORIGENS CARMESINS
+
+Existem várias formas pelas quais você pode ter recebido a capacidade de canalizar sua Feitiçaria Carmesim para manipular vitalidade e essência vital. A tabela Origens Carmesins oferece sugestões de onde seu poder vem.
+
+ORIGENS CARMESINS
+
+1d6 - Origem
+
+1 - Um de seus pais era um vampiro. Embora você não seja um, herdou a fome dele, e ela impulsiona sua magia.
+
+2 - Você estudou ritos de sangue em um monastério que infundiu seu próprio sangue com poder.
+
+3 - Você sobreviveu à mordida de um vampiro, embora ela tenha deixado você mudado para sempre e despertado sua feitiçaria.
+
+4 - Sua família sofre sob uma maldição geracional que se manifestou em você, levando-o a drenar energia vital.
+
+5 - Você estudou os segredos da vida e da morte, talvez para salvar a si mesmo ou alguém amado. Ao fazer isso, desbloqueou o poder carmesim em seu sangue.
+
+6 - Você morreu, e uma entidade astuta ofereceu a você uma segunda chance de vida. Você aceitou e despertou com a feitiçaria carmesim correndo por suas veias.
+--
+BRUXO:
+PATRONO DO GRANDE TOLO
+
+Ria na Cara do Perigo com Palhaçadas Insensatas
+
+Que horrores e tristezas não podem ser remediados por uma gargalhada maníaca? Bruxos que fizeram um pacto com o Grande Tolo extraem seu poder enigmático de uma poderosa entidade extraplanar de folia jovial, cujo senso de humor distorcido escapa à compreensão mortal.
+
+Eles são um espelho zombeteiro, feito para humilhar os arrogantes e poderosos, embora os desígnios finais do Grande Tolo sejam frequentemente absurdos e incompreensíveis.
+
+NÍVEL 3: MAGIAS DO GRANDE TOLO
+
+A magia de seu patrono garante que você sempre tenha certas magias prontas. Quando você alcança um nível de Bruxo especificado na tabela Magias do Grande Tolo, a partir de então você sempre tem as magias listadas preparadas.
+
+MAGIAS DO GRANDE TOLO
+
+Nível de Bruxo | Magias
+
+3 | Disfarçar-se, Riso Nefasto, Truque de Corda, Arma Espiritual, Zombaria Viciosa
+
+5 | Intermitência, Nuvem Fétida
+
+7 | Assassino Fantasmagórico, Mestre de Marionetes*
+
+9 | Mão Arcana, Despistar
+
+NÍVEL 3: PIADA MORTAL
+
+Você vê humor em tudo — especialmente no fim das coisas. Quando uma criatura que você possa ver a até 18 metros de você sofre dano ou falha em uma salvaguarda, você pode usar uma Reação para conjurar Zombaria Viciosa nessa criatura.
+
+Você pode usar esta Reação um número de vezes igual ao seu modificador de Carisma, com um mínimo de uma vez. Você recupera um uso gasto quando termina um Descanso Curto, e recupera todos os usos gastos quando termina um Descanso Longo.
+
+NÍVEL 6: TRAVESSURAS DO BUFÃO
+
+Ao invocar um aspecto do Grande Tolo, você pode amaldiçoar seus inimigos. Como uma Ação Mágica, você mira uma criatura que possa ver a até 18 metros de você e a força a ser bem-sucedida em uma salvaguarda de Carisma contra sua CD de salvaguarda de magia ou sofrer uma das seguintes maldições, à sua escolha.
+
+Jato de Flor. Você espirra um líquido estranho nos olhos da criatura, causando a condição Cego.
+
+Sapatos de Palhaço. Os pés da criatura, ou apêndices similares, crescem até proporções desajeitadamente exageradas. O Deslocamento da criatura é reduzido pela metade, e ela tem Desvantagem em testes de atributo e salvaguardas que dependam de Destreza.
+
+Fon-Fon. A criatura emite sons, como buzinas, sinos ou guinchos, audíveis a até 30 metros a cada movimento, por menor que seja. A criatura não pode se beneficiar da condição Invisível.
+
+Braços Cômicos. Qualquer arma ou Ataque Desarmado com que a criatura ataque, incluindo armas naturais como presas e garras, assume uma aparência cômica, como se fosse feito de madeira, pano acolchoado ou balões. O alvo causa metade do dano com ataques com arma e Ataques Desarmados.
+
+A maldição dura por 1 minuto. A criatura repete a salvaguarda no fim de cada um de seus turnos, encerrando a maldição em um sucesso.
+
+Depois de usar esta característica, você não pode usá-la novamente até terminar um Descanso Curto ou Longo.
+
+NÍVEL 10: ZOMBARIA AFIADA
+
+Seus gracejos espirituosos e insultuosos se tornam tão mordazes que ferem a própria mente de seus inimigos. Quando uma criatura causa dano a você, você pode usar uma Reação para forçar a criatura a realizar uma salvaguarda de Sabedoria contra sua CD de salvaguarda de magia.
+
+Em uma falha, a criatura sofre dano Psíquico igual ao dano que você sofreu do gatilho, ou metade desse dano em um sucesso.
+
+Depois de usar esta Reação, você não pode usá-la novamente até terminar um Descanso Curto ou Longo.
+
+NÍVEL 14: QUE ENTREM OS PALHAÇOS
+
+Você pode invocar os espíritos risonhos e zombeteiros dos seguidores do Grande Tolo para derrubar seus inimigos. Como uma Ação Mágica, você invoca três tolos fantasmagóricos.
+
+Os tolos são translúcidos e intangíveis, e se parecem com palhaços, bufões ou artistas semelhantes. Faça até três ataques mágicos corpo a corpo contra criaturas a até 18 metros de você. Em um acerto, um alvo sofre 2d10 de dano Psíquico e recebe a condição Amedrontado até o fim do próximo turno dele, ou a condição Caído, à sua escolha.
+
+Você pode usar sua ação em turnos subsequentes para repetir os ataques.
+
+Os tolos permanecem por 1 minuto, ou até você ficar Incapacitado ou morrer. Depois de usar esta característica, você não pode usá-la novamente até terminar um Descanso Longo.
+
+PERSONAS TOLAS
+
+Muitos Bruxos do Grande Tolo adotam uma estética e um estilo de apresentação característicos, que melhor representam sua própria insensatez. A tabela Personas Tolas oferece arquétipos de tolos, com sugestões de trajes e performances correspondentes.
+
+PERSONAS TOLAS
+
+1d6 - Persona
+
+1 - O Arlequim.
+Um traje elegante de losangos coloridos com uma máscara pintada — realiza danças, faz discursos eloquentes e prega peças.
+
+2 - O Bufão.
+Um traje bicolor xadrez de bobo da corte, com gorro e sinos — prefere feitos acrobáticos, cambalhotas e malabarismo.
+
+3 - O Coringa.
+Um terno vibrante e colorido, com cabelo desgrenhado e chapéu-coco — prefere piadas bobas, comédia física e autodepreciação desajeitada.
+
+4 - O Mímico.
+Uma camisa listrada em preto e branco, com boina baixa e suspensórios vermelhos — encena situações cômicas por pantomima, sem falar.
+
+5 - O Palhaço Triste.
+Um traje monocromático de peça única, com chapéu pontudo e botões de pompom — utiliza melancolia melodramática e canções.
+
+6 - O Andarilho.
+Um casaco coberto de remendos, cachecol esfarrapado, sapatos gastos e charuto — usa humor sardônico, insultos e observações zombeteiras.
+--
+BRUXO:
+PATRONO DO REI CHIFRUDO
+
+Viva Deliciosamente com Poder Enfeitiçante
+
+Seja por desespero ou astúcia, bruxos que assinaram seu nome no livro do Rei Chifrudo escolheram viver deliciosamente em um pacto selado com sangue e uma alma corrompida. Agraciados com o poder da bruxaria pela fera que espreita nas florestas mais profundas e nos corações mais sombrios, eles aperfeiçoam rituais antigos e tecem maldições em direção a objetivos que só eles conhecem.
+
+A cada vítima de seus feitiços malignos preenchida por podridão, ódio e agonia, eles se tornam mais parecidos com seu patrono, até empunharem sem esforço sua majestosa força real.
+
+NÍVEL 3: MAGIAS DO REI CHIFRUDO
+
+A magia de seu patrono garante que você sempre tenha certas magias prontas. Quando você alcança um nível de Bruxo especificado na tabela Magias do Rei Chifrudo, a partir de então você sempre tem as magias listadas preparadas.
+
+MAGIAS DO REI CHIFRUDO
+
+Nível de Bruxo | Magias
+
+3 | Amizade Animal, Perdição, Crescimento de Espinhos, Sugestão
+
+5 | Rogar Maldição, Voo
+
+7 | Assassino Fantasmagórico, Polimorfia
+
+9 | Dominar Pessoa, Vidência
+
+NÍVEL 3: MARCA DE BRUXARIA
+
+Quando termina um Descanso Longo, você pode imbuir magia em um objeto Minúsculo não mágico que esteja segurando. Escolha uma de suas magias de Bruxo preparadas que tenha tempo de conjuração de uma ação.
+
+Uma criatura segurando o objeto marcado pode realizar uma Ação Mágica para conjurar a magia, usando seu modificador de Carisma, seu bônus de ataque mágico ou sua CD de salvaguarda de magia. A marca desaparece quando a magia é conjurada a partir dela ou quando você termina um Descanso Longo.
+
+NÍVEL 3: MALDIÇÃO
+
+Você pode invocar a malícia do Rei Chifrudo para manipular a sorte e o destino. Como uma Ação Mágica, você pode amaldiçoar uma criatura que possa ver a até 18 metros de você até o fim do próximo turno dela.
+
+Alternativamente, quando uma criatura dentro do alcance mira você com uma jogada de ataque ou uma magia, você pode usar uma Reação para amaldiçoar essa criatura com uma das maldições abaixo, à sua escolha.
+
+Você pode usar esta característica um número de vezes igual ao seu modificador de Carisma, com um mínimo de uma vez. Você recupera todos os usos gastos quando termina um Descanso Longo.
+
+Agonia. O alvo tem Desvantagem em sua próxima jogada de ataque ou salvaguarda de Constituição para manter Concentração, à sua escolha.
+
+Ódio. O alvo tem Desvantagem em sua próxima salvaguarda de Inteligência, Sabedoria ou Carisma, à sua escolha.
+
+Podridão. Na próxima vez que o alvo sofrer dano, ele sofre 1d10 de dano Necrótico extra, e não pode recuperar Pontos de Vida até o fim do próximo turno dele.
+
+NÍVEL 6: MALDIÇÃO RANCOROSA
+
+Quando usa Maldição, você agora pode conjurar Rogar Maldição uma vez sem gastar espaço de magia como a ação ou Reação dessa característica, e recupera a capacidade de conjurá-la dessa forma quando termina um Descanso Longo. Se o alvo for bem-sucedido na salvaguarda contra a magia, seu uso desta característica não é gasto.
+
+Quando conjura a magia dessa forma, o alcance dela se torna 18 metros, e ela dura 1 minuto sem exigir Concentração. Se o alvo for bem-sucedido na salvaguarda contra a magia, escolha uma das maldições de Maldição, e o alvo sofre essa maldição em vez disso.
+
+NÍVEL 10: COROA DE CHIFRES
+
+Como uma Ação Bônus, você pode manifestar a majestosa força do Rei Chifrudo por 1 minuto. Pela duração, uma marca visível aparece em você — como uma coroa feita de chifres surgindo sobre sua cabeça, ou grandes galhadas crescendo em você — e você recebe os benefícios listados abaixo.
+
+Depois de usar esta Ação Bônus, você não pode usá-la novamente até terminar um Descanso Longo, a menos que gaste um espaço de magia de Magia de Pacto, sem exigir ação, para recuperar seu uso.
+
+Coração Sombrio. Uma vez em cada um de seus turnos, quando causa dano a uma criatura, o alvo sofre 1d8 de dano Necrótico extra.
+
+Rei de Todos. Você irradia uma aura de poder em uma Emanação de 6 metros originada de você. Quando ativa esta característica, e no início de cada um de seus turnos, você pode escolher uma criatura que possa ver na aura. O alvo deve ser bem-sucedido em uma salvaguarda de Carisma contra sua CD de salvaguarda de magia ou sofrer um dos seguintes efeitos, à sua escolha, até o início do seu próximo turno:
+
+Sedução. O alvo recebe a condição Enfeitiçado.
+
+Perversidade. O alvo tem Desvantagem em jogadas de ataque e testes de atributo.
+
+Terror. O alvo recebe a condição Amedrontado e deve se afastar de você pela rota mais segura durante o turno dele, a menos que não haja para onde se mover.
+
+NÍVEL 14: REUNIR O COVEN
+
+Você agora pode compartilhar o poder do Rei Chifrudo com aqueles que considera dignos. Você realiza um ritual de 1 hora, que pode ser feito durante um descanso, formando um vínculo com até seis criaturas voluntárias que devem permanecer a até 3 metros de você durante o ritual.
+
+Você pode encerrar o vínculo com qualquer número dessas criaturas, sem exigir ação, e o vínculo termina quando você morre. O vínculo concede os seguintes benefícios.
+
+Bruxaria. Escolha uma das maldições de sua característica Maldição. As criaturas vinculadas agora podem usar essa opção de Reação uma vez cada, e recuperam a capacidade de fazê-lo quando terminam um Descanso Longo.
+
+Voar pela Noite. Como uma Ação Bônus, escolha uma das criaturas vinculadas. Se você e o alvo estiverem no mesmo plano de existência, você se teletransporta magicamente para o espaço desocupado mais próximo ao lado da criatura. Você pode usar este benefício uma vez, e recupera a capacidade de fazê-lo quando termina um Descanso Curto ou Longo. Se sua característica Coroa de Chifres estiver ativa quando você usa esta Ação Bônus, o uso não é gasto.
+
+Mão do Rei. Enquanto sua característica Coroa de Chifres estiver ativa, na primeira vez que uma criatura vinculada causa dano a outra criatura durante o turno dela, o alvo sofre 1d10 de dano Necrótico extra.
+
+IMPLEMENTOS DE BRUXARIA
+
+Bruxos do Rei Chifrudo preferem implementos específicos ao trabalhar sua magia. A tabela Implementos de Bruxaria oferece opções para seus reagentes favoritos.
+
+IMPLEMENTOS DE BRUXARIA
+
+1d6 - Implementos
+
+1 - Velas feitas de sebo misturado com sangue.
+
+2 - Feixes secos de ervas ou cogumelos.
+
+3 - Crânios ou ossos longos entalhados com glifos.
+
+4 - Frutos silvestres ou raízes esmagadas e misturadas em uma pasta.
+
+5 - Caldeirão de ferro marcado com símbolos.
+
+6 - Lâmina curva para oferecer sacrifícios animais.
+--
+MAGO:
+OCULTISTA
+
+Busque Além das Estrelas por Conhecimento Proibido
+
+A magia arcana incentiva a busca implacável por conhecimento, empurrando todos os limites em busca de maior poder e compreensão, mas alguns limites jamais deveriam ser cruzados. Ocultistas não se importam com essas restrições, espiando por trás dos véus cósmicos, devorando segredos proibidos e levando sua compreensão da conjuração até que a própria realidade se rasgue.
+
+É dos reinos estranhos e alienígenas revelados por essas rupturas que eles extraem poder ainda maior, despedaçando todos os limites, não importa quais consequências sobrenaturais isso traga.
+
+NÍVEL 3: CONHECIMENTO PROIBIDO
+
+Em seu estudo de poderes proscritos, você aprende Fala Profunda ou outro idioma à sua escolha.
+
+Além disso, escolha uma magia de nível 1 da lista de magias de Bruxo. Você sempre tem essa magia preparada. Você pode mudar a magia escolhida quando termina um Descanso Longo.
+
+NÍVEL 3: INTRUSÃO
+
+Sua busca pelo proibido alcança além do universo, concedendo grande poder, mas trazendo o risco de permitir que algo de fora invada sua realidade.
+
+Você possui um Dado de Intrusão, que começa como um d6 e pode mudar conforme você usa suas características. O dado pode aumentar ou diminuir seguindo esta progressão de tamanhos:
+
+d2, d3, d4, d6, d8, d10, d12.
+
+O tamanho máximo do seu Dado de Intrusão é seu tamanho inicial, que aumenta em um passo quando você alcança os níveis de Mago 5 (d8), 11 (d10) e 17 (d12).
+
+Quando usa uma característica que arrisca Intrusão, role seu Dado de Intrusão. Em um resultado de 2 ou mais, nenhuma Intrusão ocorre, e o Dado de Intrusão reduz seu tamanho em um passo na progressão.
+
+Em um resultado de 1, o Dado de Intrusão aumenta seu tamanho em um passo, e você rola na tabela Intrusão para determinar o que acontece quando a realidade se fratura. Intrusões usam sua CD de salvaguarda de magia.
+
+O Dado de Intrusão aumenta seu tamanho em um passo, até seu tamanho inicial, quando você termina um Descanso Curto, e retorna ao seu tamanho inicial quando você termina um Descanso Longo.
+
+Além disso, você pode concentrar potência alienígena em suas magias. Quando conjura uma magia usando um espaço de magia, pode arriscar Intrusão para escolher uma das opções a seguir.
+
+Mente Esmagadora. Um alvo da magia tem Desvantagem na primeira salvaguarda realizada contra ela.
+
+Olho Buscador. Você tem Vantagem na primeira jogada de ataque que fizer para a magia.
+
+NÍVEL 6: RASGO NA REALIDADE
+
+Escolha uma magia de nível 3 ou inferior da lista de magias de Bruxo. Você sempre tem essa magia preparada. Você pode mudar a magia escolhida quando termina um Descanso Longo.
+
+Quando conjura essa magia, você pode arriscar Intrusão para remover a necessidade de se Concentrar nela, e a magia termina após 1 minuto ou em sua duração normal, o que for menor.
+
+Além disso, você pode causar uma Intrusão automática, aumentando o tamanho do dado em um passo, até seu tamanho inicial, para conjurar essa magia uma vez sem gastar espaço de magia. Você recupera a capacidade de fazer isso quando termina um Descanso Longo.
+
+INTRUSÃO
+
+1d12 - Efeito
+
+1 - Você sente uma presença atrás de você sussurrando coisas incompreensíveis em sua alma. Até o fim do seu próximo turno, você só pode fazer uma das seguintes coisas em um turno: realizar uma ação, uma Ação Bônus ou se mover.
+
+2 - O espaço se torce e derrete em uma Emanação de 9 metros ao seu redor. Cada criatura, incluindo você, na área luta contra a deformação da realidade. O Deslocamento de uma criatura afetada é reduzido pela metade até o fim do seu próximo turno.
+
+3 - A outra criatura mais próxima a até 18 metros de você deve ser bem-sucedida em uma salvaguarda de Constituição ou sofrer dano Necrótico igual a duas rolagens do seu Dado de Intrusão, usando seu tamanho inicial. Você recupera uma quantidade de Pontos de Vida igual ao dano causado.
+
+4 - A realidade se rasga no seu espaço até o fim do seu próximo turno. Você e cada criatura que possa ver o rasgo devem ser bem-sucedidos em uma salvaguarda de Sabedoria ou recebem a condição Amedrontado enquanto o rasgo existir.
+
+5 - Um de seus braços se deforma em um apêndice alienígena, como uma versão distorcida de um braço ou um tentáculo retorcido, por 1 minuto. Você pode realizar Ataques Desarmados com o membro usando seu bônus de ataque mágico. Em vez do dano normal, role uma quantidade de Dados de Intrusão, usando seu tamanho inicial, igual ao seu Bônus de Proficiência. O alvo sofre dano Ácido igual ao total rolado.
+
+6 - Paisagens alienígenas se sobrepõem à sua visão, causando a condição Cego até o fim do seu próximo turno.
+
+7 - Pensamentos antinaturais desorientam você, causando a condição Incapacitado até o fim do seu próximo turno.
+
+8 - Você experimenta um instante de clareza terrível. Você sofre dano Psíquico igual a duas rolagens do seu Dado de Intrusão, usando seu tamanho inicial, e por 1 minuto sua CD de salvaguarda de magia aumenta em 2.
+
+9 - Você recupera um espaço de magia gasto de nível 5 ou inferior, à sua escolha, e sofre dano Necrótico igual ao dobro do nível do espaço. Esse dano não pode ser reduzido ou prevenido de nenhuma forma.
+
+10 - Quando você causa esta Intrusão e no fim de cada um de seus turnos por 1 minuto, pulsos no tecido do espaço preenchem uma Emanação de 4,5 metros originada de você, causando a condição Caído em você e em cada criatura dentro dela.
+
+11 - Por 1 hora, você ouve pensamentos sussurrados e incorpóreos de desprezo odioso dirigidos a você. Enquanto puder ouvir os sussurros, você tem Desvantagem em testes de atributo e salvaguardas que dependam de Sabedoria.
+
+12 - Uma Aberração ou um Corruptor com ND igual ou inferior ao seu nível de Mago, à escolha do Mestre, aparece em um espaço desocupado a até 9 metros de você. O Mestre decide a atitude da criatura — Hostil, Indiferente ou Amistosa — e suas ações.
+
+NÍVEL 10: PRESENÇA OCULTA
+
+Quando causa uma Intrusão, você pode rolar duas vezes na tabela Intrusão e escolher qual resultado usar. Você também pode negar a Intrusão ganhando 1 nível de Exaustão.
+
+Além disso, você ganha um dos benefícios abaixo, e pode mudar o benefício escolhido quando termina um Descanso Longo. Como uma Ação Bônus, você pode causar uma Intrusão automática, aumentando o tamanho do dado em um passo, até seu tamanho inicial, para mudar o benefício escolhido.
+
+Consciência Alienígena. Você ganha Imunidade às condições Enfeitiçado e Amedrontado, e não pode ser possuído.
+
+Resistência Cósmica. Você ganha Resistência a dano Necrótico e Psíquico.
+
+Dominação Espacial. Você ganha Deslocamento de Voo igual ao seu Deslocamento e pode pairar.
+
+NÍVEL 14: ALÉM DO ESPAÇO
+
+A natureza da distância e da localização é revelada como a mentira que ela é. Você sempre tem a magia Vidência preparada.
+
+Quando conjura Vidência, você pode arriscar Intrusão para escolher uma das opções a seguir.
+
+Onisciente. Trate sua conexão com uma criatura-alvo como se você tivesse uma parte do corpo dela.
+
+Onividente. Conjure a magia como uma ação em vez de seu tempo de conjuração normal.
+
+Quando conjura Vidência, durante a duração da magia, você pode causar uma Intrusão automática, aumentando o tamanho do dado em um passo, até seu tamanho inicial, para teletransportar a si mesmo e quaisquer criaturas voluntárias a até 3 metros de você para espaços desocupados que você possa ver através do sensor de vidência.
+
+Depois de se teletransportar dessa forma, você não pode fazê-lo novamente até terminar um Descanso Longo.
+--
+MAGO:
+FILÓSOFO
+
+Destile a Essência da Criação
+
+Filósofos concentraram seu estudo da magia arcana na natureza fundamental da existência e da realidade. Eles buscam as verdades mais essenciais da criação e manipulam essas forças e substâncias por meio da prática alquímica.
+
+Por meio da compreensão, da desconstrução e da reconstrução, eles dominam as energias naturais do mundo ao seu redor e as alteram segundo sua vontade.
+
+NÍVEL 3: CONHECIMENTO ALQUÍMICO
+
+Você recebe um conjunto de Suprimentos de Alquimista. Você tem proficiência com ele e pode usá-lo como Foco Arcano.
+
+Além disso, você pode usar Suprimentos de Alquimista em vez da ferramenta normal para fabricar um item mágico.
+
+NÍVEL 3: QUINTESSÊNCIA
+
+Você aprendeu o processo fundamental da dissolução. Você conhece o truque Dissolução*. Uma criatura ou objeto que você reduza a 0 Pontos de Vida com esse truque é destruído. Se o alvo era Pequeno ou maior, ele se dissolve em uma medida, cerca de 28 gramas, de pó cristalino chamado Quintessência.
+
+Você pode ter uma quantidade máxima de Quintessência igual ao dobro do seu modificador de Inteligência ao mesmo tempo, com um mínimo de 2 medidas. Se criar mais do que isso, a medida mais antiga desaparece.
+
+Você pode usar a Quintessência que estiver tocando das seguintes formas.
+
+Componente Material. Quando conjura uma magia, você pode gastar Quintessência para servir como os componentes Materiais da magia até o valor de 100 PO por Quintessência gasta.
+
+Reagente. Quando transcreve uma magia para seu livro de magias, ou quando usa Suprimentos de Alquimista para fabricar um item mágico, você pode gastar Quintessência para servir como 50 PO em materiais para a tarefa por Quintessência gasta.
+
+Aprimoramento Vitriólico. Quando conjura uma magia que causa dano, você pode gastar 1 Quintessência como um componente Material adicional para alterar um tipo de dano causado pela magia para Energia.
+
+NÍVEL 6: ALBEDO
+
+Você pode purificar sua Quintessência para amplificar suas magias. Quando conjura uma magia usando um espaço de magia, você pode gastar 1 Quintessência como componente Material para aumentar o nível do espaço de magia em 1, até o nível 9.
+
+O máximo de Quintessência que você pode gastar dessa forma em uma determinada magia é igual à metade do seu Bônus de Proficiência, arredondado para cima.
+
+NÍVEL 10: CITRINITAS
+
+Você agora pode manipular Quintessência para criar, não apenas para purificar. Você sempre tem as magias Criação e Fabricar preparadas, e pode conjurar cada uma delas uma vez sem gastar espaço de magia, recuperando a capacidade de fazê-lo quando termina um Descanso Longo.
+
+Quando conjura uma magia usando esta característica, você pode conjurar a magia como uma ação em vez de seu tempo de conjuração normal. Você também pode conjurar as magias normalmente usando espaços de magia do nível apropriado.
+
+Além disso, quando conjura Criação, você pode gastar uma quantidade de Quintessência até seu modificador de Inteligência, com um mínimo de 1, para multiplicar a duração da magia por 1 + a quantidade gasta.
+
+NÍVEL 14: RUBEDO
+
+Como culminação de sua grande obra, você agora pode destilar seu conhecimento aperfeiçoado da existência em uma forma física. Quando termina um Descanso Curto ou Longo, você pode gastar 10 Quintessências para criar uma pedra filosofal — um cristal vermelho translúcido.
+
+A pedra é um objeto mágico Minúsculo com CA 19, PV 20 e Imunidade a todo dano, exceto dano de Energia. Se você criar uma segunda pedra filosofal, a primeira desaparece.
+
+Enquanto estiver carregando a pedra, ela concede a você os seguintes benefícios.
+
+Amplificação. Quando conjura uma magia, você pode gastar até 2 Quintessências como componente Material adicional para aumentar sua CD de salvaguarda de magia para aquela magia na mesma quantidade.
+
+Troca Equivalente. Quando falha em uma salvaguarda, você pode usar uma Reação para gastar 5 Quintessências e ser bem-sucedido na salvaguarda em vez disso.
+
+Longevidade. Você para de envelhecer e não sofre quaisquer efeitos da velhice, incluindo morrer por ela.
+
+Simpatia. A pedra conta como parte do seu corpo para o propósito da magia Vidência e para magias que restaurem você à vida caso morra. A própria pedra serve como componente Material da magia, se houver, e é destruída quando a magia é conjurada.
+
+BUSCAS FILOSÓFICAS
+
+Todo Mago que trilha os passos do Filósofo o faz para resolver algum problema específico, ao menos no início. A tabela Buscas Filosóficas oferece desafios ou objetivos que colocaram você no estudo da magia alquímica.
+
+BUSCAS FILOSÓFICAS
+
+1d12 - Objetivo Orientador
+
+1 - Alguém próximo a você está perdido no tempo, nos planos ou em algum outro estado esotérico de existência. Desvendar a natureza da realidade é seu caminho para encontrá-lo.
+
+2 - Você sofreu uma enfermidade ou ferimento debilitante e se voltou ao estudo da magia para desconstruir a natureza dessa limitação e transmutá-la.
+
+3 - Seu professor foi morto por um Filósofo rival, e você deve aprender tudo que puder sobre essa disciplina para se proteger e levá-lo à justiça.
+
+4 - A pesquisa redescoberta de um mago desaparecido revelou os primeiros segredos de sua compreensão, mas contém muitos outros que você ainda não consegue decifrar.
+
+5 - A magia arcana oferece um caminho para poder imenso, mas você sabe que um estado de existência ainda maior aguarda sua ascensão.
+
+6 - Você encontrou um material com propriedades milagrosas, e não consegue descansar até descobrir o segredo de sua criação.
+
+7 - A alma de seu irmão ou irmã foi separada do corpo em uma magia que deu errado, e você não consegue se perdoar até torná-lo inteiro novamente.
+
+8 - Você era um artista de palco que impressionava plateias com atos mágicos, e busca o truque mágico definitivo para se tornar uma lenda.
+
+9 - Você vem de uma terra natal empobrecida e deseja utilizar a transmutação de metais para trazer prosperidade à sua comunidade.
+
+10 - Em sua busca para se aproximar dos deuses, você procurou os segredos da criação de novas formas de vida à sua própria imagem.
+
+11 - Você foi criado para reverenciar os quatro elementos e criou a hipótese de que dominar a matéria da existência trará harmonia a todos eles.
+
+12 - Você tinha aspirações de entrar para o exército e subir na hierarquia, acreditando que a magia da realidade pode ser usada como arma de guerra.
