@@ -1,17 +1,19 @@
+window.luaTortaAssetPath ??= (path) => path;
+
 const SPECIES_IMAGES = {
-  ASHBORN: "assets/raças/SPECIES_Ashborn.png",
-  AZUREBORN: "assets/raças/SPECIES_Azureborn.png",
-  BOGBORN: "assets/raças/SPECIES_Bogborn.png",
-  CURSEBORN: "assets/raças/SPECIES_Curseborn.png",
-  DEEPBORN: "assets/raças/SPECIES_Deepborn.png",
-  GNARLBORN: "assets/raças/SPECIES_Gnarlborn.png",
-  GRAVEBORN: "assets/raças/SPECIES_Graveborn.png",
-  HARVESTBORN: "assets/raças/SPECIES_Harvestborn.png",
-  PLAGUEBORN: "assets/raças/SPECIES_Plagueborn.png",
-  RELICBORN: "assets/raças/SPECIES_Relicborn.png",
-  SILKBORN: "assets/raças/SPECIES_Silkborn.png",
-  STONEBORN: "assets/raças/SPECIES_Stoneborn.png",
-  THREADBORN: "assets/raças/SPECIES_Threadborn.png",
+  ASHBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Ashborn.png"),
+  AZUREBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Azureborn.png"),
+  BOGBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Bogborn.png"),
+  CURSEBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Curseborn.png"),
+  DEEPBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Deepborn.png"),
+  GNARLBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Gnarlborn.png"),
+  GRAVEBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Graveborn.png"),
+  HARVESTBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Harvestborn.png"),
+  PLAGUEBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Plagueborn.png"),
+  RELICBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Relicborn.png"),
+  SILKBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Silkborn.png"),
+  STONEBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Stoneborn.png"),
+  THREADBORN: window.luaTortaAssetPath("assets/raças/SPECIES_Threadborn.png"),
 };
 
 const speciesPrev = document.querySelector("#species-prev");
@@ -268,7 +270,7 @@ async function initializeSpecies() {
   speciesNext.disabled = true;
 
   try {
-    const response = await fetch("raças.txt");
+    const response = await fetch(window.luaTortaAssetPath("raças.txt"));
     if (!response.ok) throw new Error("Não foi possível carregar o arquivo raças.txt.");
     species = parseSpecies(await response.text());
     if (species.length !== 13) throw new Error(`Foram encontradas ${species.length} de 13 raças.`);

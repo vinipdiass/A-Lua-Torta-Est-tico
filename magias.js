@@ -1,3 +1,5 @@
+window.luaTortaAssetPath ??= (path) => path;
+
 const classSelector = document.querySelector("#class-selector");
 const activeClassIcon = document.querySelector("#active-class-icon");
 const activeClassName = document.querySelector("#active-class-name");
@@ -119,7 +121,7 @@ function renderActiveClass() {
 
 async function initialize() {
   try {
-    const response = await fetch("lista_de_magias.txt");
+    const response = await fetch(window.luaTortaAssetPath("lista_de_magias.txt"));
     if (!response.ok) throw new Error("Não foi possível carregar lista_de_magias.txt.");
     classLists = SpellData.parseSpellLists(await response.text());
     if (classLists.length !== 8) throw new Error(`Foram encontradas ${classLists.length} de 8 listas de classe.`);

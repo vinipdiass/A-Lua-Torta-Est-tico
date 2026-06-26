@@ -1,3 +1,5 @@
+window.luaTortaAssetPath ??= (path) => path;
+
 const spellBackLink = document.querySelector("#spell-back-link");
 const spellIcon = document.querySelector("#spell-icon");
 const spellLevel = document.querySelector("#spell-level");
@@ -92,7 +94,7 @@ async function initialize() {
   const requestedSlug = params.get("spell");
   const classId = params.get("classe");
   try {
-    const response = await fetch("magias.txt");
+    const response = await fetch(window.luaTortaAssetPath("magias.txt"));
     if (!response.ok) throw new Error("Não foi possível carregar magias.txt.");
     const spells = SpellData.parseSpells(await response.text());
     const spell = spells.find((entry) => entry.slug === requestedSlug);

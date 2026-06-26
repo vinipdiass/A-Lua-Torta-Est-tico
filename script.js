@@ -1,3 +1,5 @@
+window.luaTortaAssetPath ??= (path) => path;
+
 const CHAPTER_ONE_SCENES = [
   {
     text: "Druskenvald.",
@@ -9,7 +11,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "uma terra de bosques antigos…",
-    video: "videos/1.webm",
+    video: window.luaTortaAssetPath("videos/1.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -17,7 +19,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "…superstição…",
-    video: "videos/2.webm",
+    video: window.luaTortaAssetPath("videos/2.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -25,7 +27,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "…bruxaria…",
-    video: "videos/3.webm",
+    video: window.luaTortaAssetPath("videos/3.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -33,7 +35,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "e segredos que não deveriam ser desenterrados.",
-    video: "videos/4.webm",
+    video: window.luaTortaAssetPath("videos/4.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -42,7 +44,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "O medo não vem só do que espreita no escuro",
-    video: "videos/5.webm",
+    video: window.luaTortaAssetPath("videos/5.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -50,7 +52,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "Vem do que a vila sussurra",
-    video: "videos/6.webm",
+    video: window.luaTortaAssetPath("videos/6.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -58,7 +60,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "Da floresta que te observa",
-    video: "videos/7.webm",
+    video: window.luaTortaAssetPath("videos/7.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -66,7 +68,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "E do que parece humano…",
-    video: "videos/8.webm",
+    video: window.luaTortaAssetPath("videos/8.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: true,
@@ -75,7 +77,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "…até você olhar novamente.",
-    video: "videos/9.webm",
+    video: window.luaTortaAssetPath("videos/9.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -83,7 +85,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "A Lua torta está sempre observando.",
-    video: "videos/10.webm",
+    video: window.luaTortaAssetPath("videos/10.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -92,7 +94,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "",
-    video: "videos/11.webm",
+    video: window.luaTortaAssetPath("videos/11.webm"),
     blackScreen: false,
     hideTextBox: true,
     mustFinishVideo: true,
@@ -101,7 +103,7 @@ const CHAPTER_ONE_SCENES = [
   },
   {
     text: "",
-    video: "videos/12.webm",
+    video: window.luaTortaAssetPath("videos/12.webm"),
     blackScreen: false,
     hideTextBox: true,
     mustFinishVideo: true,
@@ -118,7 +120,7 @@ const CHAPTER_FOUR_SCENES = [
       "Como consequência, serão levados para outro mundo: o cenário onde nossa aventura realmente acontece.",
     ],
     pageTypingDelays: [null, 86],
-    video: "videos/chap4/1.webm",
+    video: window.luaTortaAssetPath("videos/chap4/1.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -126,7 +128,7 @@ const CHAPTER_FOUR_SCENES = [
   },
   {
     text: "Esse lugar se chama Druskenvald, uma terra esquecida, perdida em algum ponto entre os reinos da vida e da morte.",
-    video: "videos/chap4/2.webm",
+    video: window.luaTortaAssetPath("videos/chap4/2.webm"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -137,8 +139,8 @@ const CHAPTER_FOUR_SCENES = [
       "Nos primeiros minutos da sessão inicial, vocês ainda existirão como fantasmas em seu mundo de origem.",
       "Pouco depois, porém, reencarnarão em novos corpos, os corpos de nível 1 de seus personagens.",
     ],
-    video: "videos/chap4/2.webm",
-    overlayImage: "videos/chap4/fantasma.png",
+    video: window.luaTortaAssetPath("videos/chap4/2.webm"),
+    overlayImage: window.luaTortaAssetPath("videos/chap4/fantasma.png"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -151,7 +153,7 @@ const CHAPTER_FOUR_SCENES = [
       "costumes bizarros e a constante sensação de que há algo profundamente errado em determinado lugar.",
       "Acima de tudo, o medo do desconhecido estará sempre presente.",
     ],
-    image: "videos/chap4/3.jpeg",
+    image: window.luaTortaAssetPath("videos/chap4/3.jpeg"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -164,7 +166,7 @@ const CHAPTER_FOUR_SCENES = [
       "o horror rapidamente ganha espaço. Conforme a história avança, os elementos perturbadores se intensificam,",
       "explorando cada vez mais o psicológico dos personagens e revelando as facetas mais sombrias desse mundo.",
     ],
-    image: "videos/chap4/4.jpeg",
+    image: window.luaTortaAssetPath("videos/chap4/4.jpeg"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -178,7 +180,7 @@ const CHAPTER_FOUR_SCENES = [
       "Ainda assim, suas histórias anteriores continuam importantes, pois ajudam a definir quem eles são,",
       "quais valores carregam e como encaram os desafios que encontrarão em Druskenvald.",
     ],
-    image: "videos/chap4/5.jpeg",
+    image: window.luaTortaAssetPath("videos/chap4/5.jpeg"),
     blackScreen: false,
     hideTextBox: false,
     mustFinishVideo: false,
@@ -192,32 +194,32 @@ const ACCESS_CODES = {
   "brilho esquecido": 3,
   "ossos que rangem": 4,
 };
-const HOME_VIDEO = "videos/inicial/inicial.webm";
-const TRANSITION_VIDEO = "videos/inicial/transição.webm";
-const CHAPTER_ONE_INTRO = "videos/inicial/chap1.webm";
-const CHAPTER_TWO_INTRO = "videos/inicial/chap2.webm";
-const CHAPTER_THREE_INTRO = "videos/inicial/chap3.webm";
-const CHAPTER_TWO_BACKGROUND = "videos/fios_do_destino/background.webm";
-const CHAPTER_THREE_BACKGROUND = "capitulos_historia/background_chap3.webm";
+const HOME_VIDEO = window.luaTortaAssetPath("videos/inicial/inicial.webm");
+const TRANSITION_VIDEO = window.luaTortaAssetPath("videos/inicial/transição.webm");
+const CHAPTER_ONE_INTRO = window.luaTortaAssetPath("videos/inicial/chap1.webm");
+const CHAPTER_TWO_INTRO = window.luaTortaAssetPath("videos/inicial/chap2.webm");
+const CHAPTER_THREE_INTRO = window.luaTortaAssetPath("videos/inicial/chap3.webm");
+const CHAPTER_TWO_BACKGROUND = window.luaTortaAssetPath("videos/fios_do_destino/background.webm");
+const CHAPTER_THREE_BACKGROUND = window.luaTortaAssetPath("capitulos_historia/background_chap3.webm");
 const CHAPTER_TWO_COPY = [
   "<strong>Fios do Destino</strong> são treze possíveis arcos de história pessoal que podem ser entrelaçados à aventura de <em>The Crooked Moon</em>. Cada jogador deve escolher um fio, e apenas um fio pode ser escolhido por jogador.",
   "Cada <strong>Fio</strong> oferece um objetivo para o personagem perseguir, elementos de enredo para incorporar ao seu passado, escolhas do jogador que personalizam a experiência e o chamado à aventura que coloca o personagem no caminho para <strong>Druskenvald</strong>.",
   "Cada <strong>Fio</strong> concede também um <strong>Antecedente</strong>, e cada antecedente concede um talento de origem. Verifique isso antes de escolher o fio.",
 ];
 const THREAD_META = {
-  apocalipse: { name: "Fio do Apocalipse", icon: "assets/fios_do_destino/apocalipse.png", backgroundId: "amnesico" },
-  ascensao: { name: "Fio da Ascensão", icon: "assets/fios_do_destino/ascenção.png", backgroundId: "foliao" },
-  salvacao: { name: "Fio da Salvação", icon: "assets/fios_do_destino/salvação.png", backgroundId: "passageiro-luz-fantasma" },
-  dualidade: { name: "Fio da Dualidade", icon: "assets/fios_do_destino/dualidade.png", backgroundId: "andarilho-refletido" },
-  evolucao: { name: "Fio da Evolução", icon: "assets/fios_do_destino/evolução.png", backgroundId: "experimento" },
-  imortalidade: { name: "Fio da Imortalidade", icon: "assets/fios_do_destino/imortalidade.png", backgroundId: "aspirante-carmesim" },
-  parentesco: { name: "Fio do Parentesco", icon: "assets/fios_do_destino/parentesco.png", backgroundId: "habitante-druskenvald" },
-  libertacao: { name: "Fio da Libertação", icon: "assets/fios_do_destino/libertação.png", backgroundId: "apostador-encruzilhada" },
-  maldicao: { name: "Fio da Maldição", icon: "assets/fios_do_destino/maldição.png", backgroundId: "erudito-proibido" },
-  peregrinacao: { name: "Fio da Peregrinação", icon: "assets/fios_do_destino/peregrinação.png", backgroundId: "guardiao-descanso" },
-  arrebatamento: { name: "Fio do Arrebatamento", icon: "assets/fios_do_destino/arrebatamento.png", backgroundId: "cultista" },
-  rejuvenescimento: { name: "Fio do Rejuvenescimento", icon: "assets/fios_do_destino/rejuvenescimento.png", backgroundId: "tecelao-vime" },
-  abate: { name: "Fio do Abate", icon: "assets/fios_do_destino/abate.png", backgroundId: "espreitador-noturno" },
+  apocalipse: { name: "Fio do Apocalipse", icon: window.luaTortaAssetPath("assets/fios_do_destino/apocalipse.png"), backgroundId: "amnesico" },
+  ascensao: { name: "Fio da Ascensão", icon: window.luaTortaAssetPath("assets/fios_do_destino/ascenção.png"), backgroundId: "foliao" },
+  salvacao: { name: "Fio da Salvação", icon: window.luaTortaAssetPath("assets/fios_do_destino/salvação.png"), backgroundId: "passageiro-luz-fantasma" },
+  dualidade: { name: "Fio da Dualidade", icon: window.luaTortaAssetPath("assets/fios_do_destino/dualidade.png"), backgroundId: "andarilho-refletido" },
+  evolucao: { name: "Fio da Evolução", icon: window.luaTortaAssetPath("assets/fios_do_destino/evolução.png"), backgroundId: "experimento" },
+  imortalidade: { name: "Fio da Imortalidade", icon: window.luaTortaAssetPath("assets/fios_do_destino/imortalidade.png"), backgroundId: "aspirante-carmesim" },
+  parentesco: { name: "Fio do Parentesco", icon: window.luaTortaAssetPath("assets/fios_do_destino/parentesco.png"), backgroundId: "habitante-druskenvald" },
+  libertacao: { name: "Fio da Libertação", icon: window.luaTortaAssetPath("assets/fios_do_destino/libertação.png"), backgroundId: "apostador-encruzilhada" },
+  maldicao: { name: "Fio da Maldição", icon: window.luaTortaAssetPath("assets/fios_do_destino/maldição.png"), backgroundId: "erudito-proibido" },
+  peregrinacao: { name: "Fio da Peregrinação", icon: window.luaTortaAssetPath("assets/fios_do_destino/peregrinação.png"), backgroundId: "guardiao-descanso" },
+  arrebatamento: { name: "Fio do Arrebatamento", icon: window.luaTortaAssetPath("assets/fios_do_destino/arrebatamento.png"), backgroundId: "cultista" },
+  rejuvenescimento: { name: "Fio do Rejuvenescimento", icon: window.luaTortaAssetPath("assets/fios_do_destino/rejuvenescimento.png"), backgroundId: "tecelao-vime" },
+  abate: { name: "Fio do Abate", icon: window.luaTortaAssetPath("assets/fios_do_destino/abate.png"), backgroundId: "espreitador-noturno" },
 };
 const BACKGROUND_LABELS = {
   amnesico: { title: "Amnésico", englishTitle: "Amnesiac" },
@@ -593,7 +595,7 @@ function parseDestinyThreads(source) {
 }
 
 function loadDestinyThreads() {
-  destinyThreadsPromise ??= fetch("fios_do_destino.txt")
+  destinyThreadsPromise ??= fetch(window.luaTortaAssetPath("fios_do_destino.txt"))
     .then((response) => {
       if (!response.ok) throw new Error("Não foi possível carregar os Fios do Destino.");
       return response.text();

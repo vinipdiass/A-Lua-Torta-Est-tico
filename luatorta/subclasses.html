@@ -5,14 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#160b04">
     <title>Subclasses | Brilho Esquecido</title>
-    <link rel="stylesheet" href="racas.css">
-    <link rel="stylesheet" href="subclasses.css">
+    <link rel="icon" type="image/webp" href="../assets/icone.webp">
+    <link rel="stylesheet" href="../racas.css">
+    <link rel="stylesheet" href="../subclasses.css">
   </head>
   <body class="subclass-theme">
     <video class="species-background" autoplay muted loop playsinline preload="metadata">
-      <source src="capitulos_historia/background_chap3.webm" type="video/webm">
+      <source src="../capitulos_historia/background_chap3.webm" type="video/webm">
     </video>
-    <audio id="chapter-three-soundtrack" src="soundtrack/14 - Creaking Bones.mp3" preload="metadata" loop></audio>
+    <audio id="chapter-three-soundtrack" src="../soundtrack/14 - Creaking Bones.mp3" preload="metadata" loop></audio>
     <div class="species-veil" aria-hidden="true"></div>
 
     <header class="species-header">
@@ -65,7 +66,9 @@
       <p id="subclass-status" class="species-status" role="status">Consultando os caminhos…</p>
     </main>
 
-    <script src="subclasses.js"></script>
-    <script src="chapter3-ambience.js"></script>
+    <script>window.LUA_TORTA_ASSET_BASE = "../";</script>
+    <script src="../asset-paths.js"></script>
+    <script src="../subclasses.js"></script>
+    <script src="../chapter3-ambience.js"></script>
   </body>
 </html>

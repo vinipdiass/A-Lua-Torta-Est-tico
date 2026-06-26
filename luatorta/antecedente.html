@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#090706">
     <title>Antecedente | A Lua Torta</title>
-    <link rel="stylesheet" href="antecedente.css">
+    <link rel="icon" type="image/webp" href="../assets/icone.webp">
+    <link rel="stylesheet" href="../antecedente.css">
   </head>
   <body>
     <video class="background-video" autoplay muted loop playsinline preload="metadata">
-      <source src="videos/fios_do_destino/background.webm" type="video/webm">
+      <source src="../videos/fios_do_destino/background.webm" type="video/webm">
     </video>
 
     <div class="background-veil" aria-hidden="true"></div>
@@ -76,6 +77,8 @@
       <span>Os caminhos do passado ainda respiram.</span>
     </footer>
 
-    <script src="antecedente.js"></script>
+    <script>window.LUA_TORTA_ASSET_BASE = "../";</script>
+    <script src="../asset-paths.js"></script>
+    <script src="../antecedente.js"></script>
   </body>
 </html>

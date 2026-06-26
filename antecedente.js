@@ -1,33 +1,35 @@
+window.luaTortaAssetPath ??= (path) => path;
+
 const BACKGROUNDS = [
-  { id: "amnesico", title: "Amnésico", englishTitle: "Amnesiac", sourceTitle: "AMNÉSICO", icon: "assets/backgrounds/075-04-012.amnesiac.webp" },
-  { id: "foliao", title: "Folião", englishTitle: "Reveler", sourceTitle: "FOLIÃO", icon: "assets/backgrounds/085-04-009.reveler.webp" },
-  { id: "passageiro-luz-fantasma", title: "Passageiro da Luz Fantasma", englishTitle: "Ghostlight Passenger", sourceTitle: "PASSAGEIRO DO EXPRESSO DA LUZ FANTASMA", icon: "assets/backgrounds/081-04-005.ghostlight-passenger.webp" },
-  { id: "andarilho-refletido", title: "Andarilho Refletido", englishTitle: "Reflected Wanderer", sourceTitle: "ANDARILHO REFLETIDO", icon: "assets/backgrounds/083-04-007.reflected-wanderer.webp" },
-  { id: "experimento", title: "Experimento", englishTitle: "Experiment", sourceTitle: "EXPERIMENTO", icon: "assets/backgrounds/080-04-004.experiment.webp" },
-  { id: "aspirante-carmesim", title: "Aspirante Carmesim", englishTitle: "Crimson Aspirant", sourceTitle: "ASPIRANTE CARMESIM", icon: "assets/backgrounds/076-04-002.crimson-aspirant.webp" },
-  { id: "habitante-druskenvald", title: "Habitante de Druskenvald", englishTitle: "Druskenvald Dweller", sourceTitle: "HABITANTE DE DRUSKENVALD", icon: "assets/backgrounds/079-04-014.druskenvald-dweller.webp" },
-  { id: "apostador-encruzilhada", title: "Apostador da Encruzilhada", englishTitle: "Crossroads Gambler", sourceTitle: "APOSTADOR DA ENCRUZILHADA", icon: "assets/backgrounds/077-04-003.crossroad-gambler.webp" },
-  { id: "erudito-proibido", title: "Estudante do Proibido", englishTitle: "Scholar of the Forbidden", sourceTitle: "ERUDITO DO PROIBIDO", icon: "assets/backgrounds/086-04-010.scholar-of-the-forbidden.webp" },
-  { id: "guardiao-descanso", title: "Guardião do Descanso", englishTitle: "Rest Warden", sourceTitle: "GUARDIÃO DO DESCANSO", icon: "assets/backgrounds/084-04-008.rest-warden.webp" },
-  { id: "cultista", title: "Cultista", englishTitle: "Cultist", sourceTitle: "CULTISTA", icon: "assets/backgrounds/078-04-013.cultist.webp" },
-  { id: "tecelao-vime", title: "Tecelão de Vime", englishTitle: "Wicker Weaver", sourceTitle: "TECELÃO DE VIME", icon: "assets/backgrounds/087-04-011.wicker-weaver.webp" },
-  { id: "espreitador-noturno", title: "Espreitador Noturno", englishTitle: "Night Stalker", sourceTitle: "ESPREITADOR NOTURNO", icon: "assets/backgrounds/082-04-006.night-stalker.webp" },
+  { id: "amnesico", title: "Amnésico", englishTitle: "Amnesiac", sourceTitle: "AMNÉSICO", icon: window.luaTortaAssetPath("assets/backgrounds/075-04-012.amnesiac.webp") },
+  { id: "foliao", title: "Folião", englishTitle: "Reveler", sourceTitle: "FOLIÃO", icon: window.luaTortaAssetPath("assets/backgrounds/085-04-009.reveler.webp") },
+  { id: "passageiro-luz-fantasma", title: "Passageiro da Luz Fantasma", englishTitle: "Ghostlight Passenger", sourceTitle: "PASSAGEIRO DO EXPRESSO DA LUZ FANTASMA", icon: window.luaTortaAssetPath("assets/backgrounds/081-04-005.ghostlight-passenger.webp") },
+  { id: "andarilho-refletido", title: "Andarilho Refletido", englishTitle: "Reflected Wanderer", sourceTitle: "ANDARILHO REFLETIDO", icon: window.luaTortaAssetPath("assets/backgrounds/083-04-007.reflected-wanderer.webp") },
+  { id: "experimento", title: "Experimento", englishTitle: "Experiment", sourceTitle: "EXPERIMENTO", icon: window.luaTortaAssetPath("assets/backgrounds/080-04-004.experiment.webp") },
+  { id: "aspirante-carmesim", title: "Aspirante Carmesim", englishTitle: "Crimson Aspirant", sourceTitle: "ASPIRANTE CARMESIM", icon: window.luaTortaAssetPath("assets/backgrounds/076-04-002.crimson-aspirant.webp") },
+  { id: "habitante-druskenvald", title: "Habitante de Druskenvald", englishTitle: "Druskenvald Dweller", sourceTitle: "HABITANTE DE DRUSKENVALD", icon: window.luaTortaAssetPath("assets/backgrounds/079-04-014.druskenvald-dweller.webp") },
+  { id: "apostador-encruzilhada", title: "Apostador da Encruzilhada", englishTitle: "Crossroads Gambler", sourceTitle: "APOSTADOR DA ENCRUZILHADA", icon: window.luaTortaAssetPath("assets/backgrounds/077-04-003.crossroad-gambler.webp") },
+  { id: "erudito-proibido", title: "Estudante do Proibido", englishTitle: "Scholar of the Forbidden", sourceTitle: "ERUDITO DO PROIBIDO", icon: window.luaTortaAssetPath("assets/backgrounds/086-04-010.scholar-of-the-forbidden.webp") },
+  { id: "guardiao-descanso", title: "Guardião do Descanso", englishTitle: "Rest Warden", sourceTitle: "GUARDIÃO DO DESCANSO", icon: window.luaTortaAssetPath("assets/backgrounds/084-04-008.rest-warden.webp") },
+  { id: "cultista", title: "Cultista", englishTitle: "Cultist", sourceTitle: "CULTISTA", icon: window.luaTortaAssetPath("assets/backgrounds/078-04-013.cultist.webp") },
+  { id: "tecelao-vime", title: "Tecelão de Vime", englishTitle: "Wicker Weaver", sourceTitle: "TECELÃO DE VIME", icon: window.luaTortaAssetPath("assets/backgrounds/087-04-011.wicker-weaver.webp") },
+  { id: "espreitador-noturno", title: "Espreitador Noturno", englishTitle: "Night Stalker", sourceTitle: "ESPREITADOR NOTURNO", icon: window.luaTortaAssetPath("assets/backgrounds/082-04-006.night-stalker.webp") },
 ];
 
 const TALENTS_BY_BACKGROUND = {
-  amnesico: { title: "Faminto por Memórias", sourceTitle: "FAMINTO POR MEMÓRIAS", icon: "assets/talentos/Memory Starved.webp" },
-  foliao: { title: "Bobo Folião", sourceTitle: "BOBO FOLIÃO", icon: "assets/talentos/Reveling Fool.webp" },
-  "passageiro-luz-fantasma": { title: "Médium do Expresso da Luz Fantasma", sourceTitle: "MÉDIUM DO EXRESSO DA LUZ FANTASMA", icon: "assets/talentos/Ghostlight Medium.webp" },
-  "andarilho-refletido": { title: "Sem Reflexo", sourceTitle: "SEM REFLEXO", icon: "assets/talentos/Unreflected.webp" },
-  experimento: { title: "Alterado", sourceTitle: "ALTERADO", icon: "assets/talentos/Altered.webp" },
-  "aspirante-carmesim": { title: "Ritualista Carmesim", sourceTitle: "RITUALISTA CARMESIM", icon: "assets/talentos/Crimson Ritualist.webp" },
+  amnesico: { title: "Faminto por Memórias", sourceTitle: "FAMINTO POR MEMÓRIAS", icon: window.luaTortaAssetPath("assets/talentos/Memory Starved.webp") },
+  foliao: { title: "Bobo Folião", sourceTitle: "BOBO FOLIÃO", icon: window.luaTortaAssetPath("assets/talentos/Reveling Fool.webp") },
+  "passageiro-luz-fantasma": { title: "Médium do Expresso da Luz Fantasma", sourceTitle: "MÉDIUM DO EXRESSO DA LUZ FANTASMA", icon: window.luaTortaAssetPath("assets/talentos/Ghostlight Medium.webp") },
+  "andarilho-refletido": { title: "Sem Reflexo", sourceTitle: "SEM REFLEXO", icon: window.luaTortaAssetPath("assets/talentos/Unreflected.webp") },
+  experimento: { title: "Alterado", sourceTitle: "ALTERADO", icon: window.luaTortaAssetPath("assets/talentos/Altered.webp") },
+  "aspirante-carmesim": { title: "Ritualista Carmesim", sourceTitle: "RITUALISTA CARMESIM", icon: window.luaTortaAssetPath("assets/talentos/Crimson Ritualist.webp") },
   "habitante-druskenvald": { title: "Escolha um Talento de Origem", isChoice: true },
-  "apostador-encruzilhada": { title: "Apostador do Destino", sourceTitle: "APOSTADOR DO DESTINO", icon: "assets/talentos/Fate Gambler.webp" },
-  "erudito-proibido": { title: "Fala Pavorosa", sourceTitle: "FALA PAVOROSA", icon: "assets/talentos/Dread Speech.webp" },
-  "guardiao-descanso": { title: "Guardião de Túmulos", sourceTitle: "GUARDIÃO DE TÚMULOS", icon: "assets/talentos/Grave Keeper.webp" },
-  cultista: { title: "Iniciado do Culto", sourceTitle: "INICIADO DO CULTO", icon: "assets/talentos/Cult Initiate.webp" },
-  "tecelao-vime": { title: "Trançador de Amuletos", sourceTitle: "TRANÇADOR DE AMULETOS", icon: "assets/talentos/Charm Twister.webp" },
-  "espreitador-noturno": { title: "Caçador de Caçadores", sourceTitle: "CAÇADOR DE CAÇADORES", icon: "assets/talentos/Hunter of Hunters.webp" },
+  "apostador-encruzilhada": { title: "Apostador do Destino", sourceTitle: "APOSTADOR DO DESTINO", icon: window.luaTortaAssetPath("assets/talentos/Fate Gambler.webp") },
+  "erudito-proibido": { title: "Fala Pavorosa", sourceTitle: "FALA PAVOROSA", icon: window.luaTortaAssetPath("assets/talentos/Dread Speech.webp") },
+  "guardiao-descanso": { title: "Guardião de Túmulos", sourceTitle: "GUARDIÃO DE TÚMULOS", icon: window.luaTortaAssetPath("assets/talentos/Grave Keeper.webp") },
+  cultista: { title: "Iniciado do Culto", sourceTitle: "INICIADO DO CULTO", icon: window.luaTortaAssetPath("assets/talentos/Cult Initiate.webp") },
+  "tecelao-vime": { title: "Trançador de Amuletos", sourceTitle: "TRANÇADOR DE AMULETOS", icon: window.luaTortaAssetPath("assets/talentos/Charm Twister.webp") },
+  "espreitador-noturno": { title: "Caçador de Caçadores", sourceTitle: "CAÇADOR DE CAÇADORES", icon: window.luaTortaAssetPath("assets/talentos/Hunter of Hunters.webp") },
 };
 
 const backgroundIcon = document.querySelector("#background-icon");
@@ -237,7 +239,7 @@ async function loadBackgroundSource() {
 
   for (const candidate of candidates) {
     try {
-      const response = await fetch(candidate);
+      const response = await fetch(window.luaTortaAssetPath(candidate));
       if (response.ok) return response.text();
     } catch {
       // Tenta a próxima variação de nome do arquivo.
@@ -248,7 +250,7 @@ async function loadBackgroundSource() {
 }
 
 async function loadTalentSource() {
-  const response = await fetch("talentos.txt");
+  const response = await fetch(window.luaTortaAssetPath("talentos.txt"));
   if (!response.ok) throw new Error("Não foi possível carregar o arquivo de talentos.");
   return response.text();
 }

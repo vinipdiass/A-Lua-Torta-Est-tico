@@ -1,19 +1,21 @@
+window.luaTortaAssetPath ??= (path) => path;
+
 const SUBCLASS_ASSETS = [
-  { id: "barbaro-experimento", image: "assets/subclasses/CLASS_Barbarian_Path_of_the_Experiment.png" },
-  { id: "bardo-assobios", image: "assets/subclasses/CLASS_Bard_College_of_Whistles.png" },
-  { id: "clerigo-colheita", image: "assets/subclasses/CLASS_Cleric_Harvest_Domain.png" },
-  { id: "druida-antigos-caminhos", image: "assets/subclasses/CLASS_Druid_Old_Ways.png" },
-  { id: "druida-vime", image: "assets/subclasses/CLASS_Druid_Wicker.png" },
-  { id: "guerreiro-guarda-tumular", image: "assets/subclasses/CLASS_Fighter_Barrowguard.png" },
-  { id: "monge-nevoa-pestilenta", image: "assets/subclasses/CLASS_Monk_Way_Pestilent_Haze.png" },
-  { id: "paladino-castigacao", image: "assets/subclasses/CLASS_Paladin_Oath_of_Castigation.png" },
-  { id: "guardiao-arauto-sombrio", image: "assets/subclasses/CLASS_Ranger_Grim_Harbinger.png" },
-  { id: "ladino-pecador", image: "assets/subclasses/CLASS_Rogue_Sinner.png" },
-  { id: "feiticeiro-carmesim", image: "assets/subclasses/CLASS_Sorcerer_Crimson_Sorcery.png" },
-  { id: "bruxo-grande-tolo", image: "assets/subclasses/CLASS_Warlock_Great_Fool.png" },
-  { id: "bruxo-rei-chifrudo", image: "assets/subclasses/CLASS_Warlock_Horned_King.png" },
-  { id: "mago-ocultista", image: "assets/subclasses/CLASS_Wizard_Occultist.png" },
-  { id: "mago-filosofo", image: "assets/subclasses/CLASS_Wizard_Philosopher.png" },
+  { id: "barbaro-experimento", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Barbarian_Path_of_the_Experiment.png") },
+  { id: "bardo-assobios", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Bard_College_of_Whistles.png") },
+  { id: "clerigo-colheita", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Cleric_Harvest_Domain.png") },
+  { id: "druida-antigos-caminhos", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Druid_Old_Ways.png") },
+  { id: "druida-vime", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Druid_Wicker.png") },
+  { id: "guerreiro-guarda-tumular", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Fighter_Barrowguard.png") },
+  { id: "monge-nevoa-pestilenta", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Monk_Way_Pestilent_Haze.png") },
+  { id: "paladino-castigacao", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Paladin_Oath_of_Castigation.png") },
+  { id: "guardiao-arauto-sombrio", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Ranger_Grim_Harbinger.png") },
+  { id: "ladino-pecador", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Rogue_Sinner.png") },
+  { id: "feiticeiro-carmesim", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Sorcerer_Crimson_Sorcery.png") },
+  { id: "bruxo-grande-tolo", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Warlock_Great_Fool.png") },
+  { id: "bruxo-rei-chifrudo", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Warlock_Horned_King.png") },
+  { id: "mago-ocultista", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Wizard_Occultist.png") },
+  { id: "mago-filosofo", image: window.luaTortaAssetPath("assets/subclasses/CLASS_Wizard_Philosopher.png") },
 ];
 
 const subclassPrev = document.querySelector("#subclass-prev");
@@ -292,7 +294,7 @@ async function initializeSubclasses() {
   subclassPrev.disabled = true;
   subclassNext.disabled = true;
   try {
-    const response = await fetch("subclasses.txt");
+    const response = await fetch(window.luaTortaAssetPath("subclasses.txt"));
     if (!response.ok) throw new Error("Não foi possível carregar subclasses.txt.");
     subclasses = parseSubclasses(await response.text());
     if (subclasses.length !== 15) throw new Error(`Foram encontradas ${subclasses.length} de 15 subclasses.`);

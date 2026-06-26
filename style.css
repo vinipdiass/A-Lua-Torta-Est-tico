@@ -976,8 +976,7 @@ body {
 
 @media (max-width: 700px) {
   .volume-control {
-    top: max(12px, env(safe-area-inset-top));
-    right: max(12px, env(safe-area-inset-right));
+    display: none;
   }
 
   .finish-reading {
@@ -990,17 +989,27 @@ body {
   .discovered-codes {
     right: max(12px, env(safe-area-inset-right));
     bottom: max(12px, env(safe-area-inset-bottom));
+    pointer-events: none;
   }
 
   .discovered-codes__toggle {
     min-height: 40px;
     padding: 0 10px 0 12px;
     font-size: 0.57rem;
+    pointer-events: auto;
   }
 
   .discovered-codes__panel {
     width: min(310px, calc(100vw - 24px));
     max-height: 54vh;
+  }
+
+  .discovered-codes:not(.is-open) .discovered-codes__panel {
+    display: none;
+  }
+
+  .discovered-codes.is-open .discovered-codes__panel {
+    pointer-events: auto;
   }
 
   .access-panel {

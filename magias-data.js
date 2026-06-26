@@ -1,13 +1,15 @@
+window.luaTortaAssetPath ??= (path) => path;
+
 (function exposeSpellData() {
   const CLASS_META = {
-    bardo: { name: "Bardo", icon: "assets/icones_classes/Bardo.jpeg" },
-    clerigo: { name: "Clérigo", icon: "assets/icones_classes/Clerigo.jpeg" },
-    druida: { name: "Druida", icon: "assets/icones_classes/Druida.jpeg" },
-    paladino: { name: "Paladino", icon: "assets/icones_classes/Paladino.jpeg" },
-    patrulheiro: { name: "Patrulheiro", icon: "assets/icones_classes/Ranger.jpeg" },
-    feiticeiro: { name: "Feiticeiro", icon: "assets/icones_classes/Feiticeiro.jpeg" },
-    bruxo: { name: "Bruxo", icon: "assets/icones_classes/Bruxo.jpeg" },
-    mago: { name: "Mago", icon: "assets/icones_classes/Mago.jpeg" },
+    bardo: { name: "Bardo", icon: window.luaTortaAssetPath("assets/icones_classes/Bardo.jpeg") },
+    clerigo: { name: "Clérigo", icon: window.luaTortaAssetPath("assets/icones_classes/Clerigo.jpeg") },
+    druida: { name: "Druida", icon: window.luaTortaAssetPath("assets/icones_classes/Druida.jpeg") },
+    paladino: { name: "Paladino", icon: window.luaTortaAssetPath("assets/icones_classes/Paladino.jpeg") },
+    patrulheiro: { name: "Patrulheiro", icon: window.luaTortaAssetPath("assets/icones_classes/Ranger.jpeg") },
+    feiticeiro: { name: "Feiticeiro", icon: window.luaTortaAssetPath("assets/icones_classes/Feiticeiro.jpeg") },
+    bruxo: { name: "Bruxo", icon: window.luaTortaAssetPath("assets/icones_classes/Bruxo.jpeg") },
+    mago: { name: "Mago", icon: window.luaTortaAssetPath("assets/icones_classes/Mago.jpeg") },
   };
 
   function normalize(value) {
@@ -137,7 +139,7 @@
       .split(/\s+/)
       .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
       .join("-");
-    return `assets/magias/${baseName}.webp`;
+    return window.luaTortaAssetPath(`assets/magias/${baseName}.webp`);
   }
 
   window.SpellData = { CLASS_META, normalize, parseSpellLists, parseSpells, getSpellIcon };
