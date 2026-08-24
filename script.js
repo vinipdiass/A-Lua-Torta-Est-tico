@@ -946,12 +946,53 @@ function renderPlainParagraphs(container, paragraphs) {
     const paragraph = document.createElement("p");
     const text = typeof entry === "string" ? entry : entry.text;
 
-    paragraph.textContent = text;
+    renderDarkBargainText(paragraph, text);
     if (typeof entry === "object" && entry?.className) {
       paragraph.className = entry.className;
     }
     container.append(paragraph);
   });
+}
+
+function renderDarkBargainText(element, text, options = {}) {
+  const fragments = [];
+  const highlights = [
+    ...(options.highlightDarkBargain === false ? [] : [
+      { pattern: /Barganhas? Sombrias?/gi, className: "dark-bargain__gold-text" },
+    ]),
+    { pattern: /retornará à vida/gi, className: "dark-bargain__life-glitch" },
+  ];
+
+  highlights.forEach((highlight) => {
+    for (const match of text.matchAll(highlight.pattern)) {
+      fragments.push({
+        start: match.index,
+        end: match.index + match[0].length,
+        className: highlight.className,
+      });
+    }
+  });
+
+  fragments.sort((first, second) => first.start - second.start || second.end - first.end);
+  element.replaceChildren();
+
+  let cursor = 0;
+  fragments.forEach((fragment) => {
+    if (fragment.start < cursor) return;
+    if (fragment.start > cursor) {
+      element.append(document.createTextNode(text.slice(cursor, fragment.start)));
+    }
+
+    const span = document.createElement("span");
+    span.className = fragment.className;
+    span.textContent = text.slice(fragment.start, fragment.end);
+    element.append(span);
+    cursor = fragment.end;
+  });
+
+  if (cursor < text.length) {
+    element.append(document.createTextNode(text.slice(cursor)));
+  }
 }
 
 function getDarkBargainWhatsappUrl(message) {
@@ -1064,7 +1105,7 @@ function renderDarkBargainPage() {
 
   if (isReveal) {
     darkBargainEyebrow.textContent = "BARGANHA REVELADA";
-    darkBargainTitle.textContent = "";
+    darkBargainTitle.replaceChildren();
     darkBargainCopy.replaceChildren();
     darkBargainAdvance.textContent = "Continuar";
     renderDarkBargainReveal();
@@ -1072,7 +1113,7 @@ function renderDarkBargainPage() {
   }
 
   darkBargainEyebrow.textContent = page.eyebrow ?? "";
-  darkBargainTitle.textContent = page.title;
+  renderDarkBargainText(darkBargainTitle, page.title, { highlightDarkBargain: phase !== "terms" });
   renderPlainParagraphs(
     darkBargainCopy,
     page.paragraphs.map((text, index) => ({
@@ -1143,7 +1184,7 @@ async function showDarkBargain(bargainKey) {
   renderDarkBargainMood(activeDarkBargain);
   setDarkBargainPhase("summoning");
   darkBargainEyebrow.textContent = "";
-  darkBargainTitle.textContent = "";
+  darkBargainTitle.replaceChildren();
   darkBargainCopy.replaceChildren();
   renderDarkBargainStage(null);
   darkBargainPanel.classList.remove("is-revealed", "is-line", "is-glitching", "has-handshake");
@@ -1168,9 +1209,9 @@ async function showDarkBargain(bargainKey) {
     if (appMode !== "dark-bargain" || activeDarkBargain?.key !== bargainKey) return;
 
     darkBargainEyebrow.textContent = "BARGANHA SOMBRIA";
-    darkBargainTitle.textContent = "Nada responde";
+    renderDarkBargainText(darkBargainTitle, "Nada responde");
     renderPlainParagraphs(darkBargainCopy, ["A entidade recuou antes que o pacto pudesse ser lido."]);
-    darkBargainStatus.textContent = error.message;
+    renderDarkBargainText(darkBargainStatus, error.message);
     darkBargainAdvance.classList.add("is-hidden");
     setDarkBargainDecisionsVisible(false);
     darkBargainHome.classList.add("is-visible");
