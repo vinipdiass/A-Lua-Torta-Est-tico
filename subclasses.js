@@ -37,6 +37,10 @@ const volumeControl = document.querySelector("#volume-control");
 const volumeControlIcon = document.querySelector("#volume-control-icon");
 const volumeControlValue = document.querySelector("#volume-control-value");
 
+[subclassPrevImage, subclassNextImage, subclassImage].forEach((image) => {
+  image.decoding = "async";
+});
+
 const VOLUME_LEVELS = [1, 0.75, 0.5, 0.25, 0];
 const VOLUME_STORAGE_KEY = "a-lua-torta-volume";
 

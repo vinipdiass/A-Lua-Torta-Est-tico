@@ -1,0 +1,160 @@
+DESPERTAR BESTIAL
+
+O mundo selvagem chama por sua alma, uivando para que você se junte a ele. Você pode ceder ao chamado e se transformar em uma fera, mas o toque da prata o fere mais profundamente que a presa mais afiada.
+
+Pele Bestial. Você sempre tem a magia Metamorfose preparada. Você pode conjurá-la uma vez sem gastar um espaço de magia nem usar componentes materiais, mas pode escolher apenas a si mesmo como alvo. Você recupera a capacidade de conjurá-la dessa forma ao terminar um Descanso Longo. Você também pode conjurá-la usando espaços de magia do nível apropriado. Inteligência, Sabedoria ou Carisma é o seu atributo de conjuração para essa magia quando você a conjura sem gastar um espaço de magia; escolha o atributo ao selecionar esta Barganha Sombria.
+
+Prata Abrasadora. O dano causado por Armas Prateadas ignora qualquer Resistência ou Imunidade a dano que você possua. Caso sofra dano de uma Arma Prateada ou toque em prata com a pele desprotegida — ou seu equivalente —, você não pode recuperar Pontos de Vida até terminar um Descanso Curto ou Longo.
+-
+CHAMADO DO SOLITÁRIO
+
+Nas profundezas de sua solidão, quando sua esperança definhou no galho, foi-lhe concedido um companheiro que você pode invocar. Você nunca mais precisa ficar sozinho.
+
+Esse companheiro é Amigável com você, mas causa profunda inquietação em seus aliados.
+
+Nunca Sozinho. Quando nenhuma outra criatura puder vê-lo, você pode usar uma Ação Bônus para chamar seu companheiro, que aparece em um espaço desocupado a até 3 metros de você. Ele assume a forma de uma pessoa ou de uma silhueta indistinta e usa o bloco de estatísticas do Doppelganger. Ele é Amigável com você, age como seu aliado e realiza seu turno na sua Iniciativa durante o combate. Ele desaparece após 1 hora, quando morre, quando você morre ou quando você usa uma ação para dispensá-lo educadamente. Ao desaparecer, ele deixa cair tudo o que estiver vestindo ou carregando.
+
+Após usar essa Ação Bônus, você não pode usá-la novamente até terminar um Descanso Longo.
+
+Amigo Precoce. Às vezes, o companheiro aparece com bugigangas, Curiosidades Amaldiçoadas* ou outros itens. Ele pode contar onde os conseguiu — ou talvez não conte, à escolha do Mestre. Caso tenha pegado o objeto de alguém que sente falta dele ou o queira de volta, isso pode causar problemas para você.
+
+Presença Perturbadora. Enquanto seu companheiro estiver invocado, tanto ele quanto você emanam uma aura aterrorizante que perturba seus aliados. Enquanto o companheiro estiver invocado, uma criatura que não seja Hostil com você e que comece o turno dela podendo ver você ou o companheiro deve ser bem-sucedida em uma salvaguarda de Sabedoria CD 15. Em caso de falha, ela fica Amedrontada até o início do próximo turno dela.
+-
+COLECIONADOR DE HISTÓRIAS
+
+Você possui um desejo insaciável de reunir as histórias do mundo. Às vezes, sem querer, você toma para si a história de ter conhecido outra pessoa e a guarda consigo para sempre.
+
+Histórias Reunidas. Você sempre tem a magia Lendas e Histórias preparada. Você pode conjurá-la uma vez sem gastar um espaço de magia nem usar componentes de magia, recuperando a capacidade de conjurá-la dessa forma ao terminar um Descanso Longo. Você também pode conjurá-la usando espaços de magia do nível apropriado. Inteligência, Sabedoria ou Carisma é o seu atributo de conjuração para essa magia quando você a conjura sem gastar um espaço de magia; escolha o atributo ao selecionar esta Barganha Sombria.
+
+Histórias Guardadas. Quando você usa esta barganha para conjurar Lendas e Histórias sem gastar um espaço de magia, um NPC Amigável, escolhido pelo Mestre, esquece que algum dia conheceu você. Você pode encontrá-lo novamente e tentar reconstruir a relação, mas sua presença sempre lhe causa um desconforto perturbador.
+
+A atitude desse NPC em relação a você nunca pode melhorar além de Indiferente, e você tem Desvantagem em todos os testes de Carisma realizados contra ele.
+-
+FORTUNA TORTUOSA
+
+O destino tortuoso que governa Druskenvald afeiçoou-se a você. Você pode evitar uma calamidade, mas, cedo ou tarde, terá de pagar por sua boa sorte.
+
+Enganar o Destino. Quando falhar em uma salvaguarda, você pode escolher ser bem-sucedido em vez disso. Ao fazer isso, caso normalmente sofresse metade do dano com uma salvaguarda bem-sucedida, você não sofre dano algum.
+
+Após usar Enganar o Destino, você não pode usá-lo novamente até pagar o preço descrito abaixo.
+
+Preço Adiado. Depois de usar Enganar o Destino, suas próximas três salvaguardas são realizadas com Desvantagem e não podem receber Vantagem. Além disso, você ganha 1 nível de Exaustão quando for bem-sucedido em uma dessas salvaguardas.
+
+Após ser bem-sucedido ou falhar na terceira salvaguarda, você recupera o uso de Enganar o Destino.
+
+Os poderes que governam a trama e a urdidura do destino não toleram quem tenta trapacear fora dos termos estabelecidos. A critério do Mestre, salvaguardas realizadas intencionalmente ou sem consequências verdadeiras, apenas para pagar esse preço sem sofrimento, não contam.
+-
+CULTO À PERSONALIDADE
+
+Você é uma força de charme e fascínio que não pode ser ignorada. Enquanto os outros se atropelam para conquistar sua simpatia, você pode acabar descobrindo que precisa mais deles do que eles precisam de você.
+
+Palavras Melífluas. Como uma Ação Mágica, você pode dirigir palavras doces a uma criatura a até 18 metros de você. A criatura fica Enfeitiçada por 24 horas, até você usar esta característica novamente ou até que você ou seus aliados causem qualquer dano ao alvo ou o obriguem a realizar uma salvaguarda.
+
+O alvo Enfeitiçado é seu aliado e segue suas ordens, desde que elas não exijam que ele cause dano a si mesmo. Caso o alvo cumpra uma ordem que considere repugnante, ele realiza uma salvaguarda de Sabedoria CD 15, encerrando a condição sobre si em caso de sucesso. Quando a condição termina, o alvo fica imune a esta característica por 24 horas.
+
+Caso o alvo seja Imune à condição Enfeitiçado, ele sofre Desvantagem em Testes de D20 até o início do seu próximo turno, e você recebe uma quantidade de Pontos de Vida Temporários igual ao seu nível.
+
+Após usar esta característica, você não pode usá-la novamente até terminar um Descanso Curto ou Longo.
+
+Fraqueza Solitária. Caso comece seu turno sem nenhum aliado que possa ver ou ouvir a até 6 metros de você, você perde todos os Pontos de Vida Temporários que possua, independentemente da fonte, e sofre Desvantagem em Testes de D20 até o início do seu próximo turno.
+-
+MÃO DA MORTE
+
+A morte não tem poder sobre você. Em troca de conter sua mão gélida sem permitir que ela se feche, você se torna uma goela pela qual a morte se alimenta do mundo ao seu redor.
+
+Resistência Adamantina. Você tem Vantagem em salvaguardas de Constituição.
+
+Apegar-se à Vida. Quando estiver com 0 Pontos de Vida no início do seu turno ou quando morrer, você pode escolher recuperar uma quantidade de Pontos de Vida igual à metade do seu máximo. Após usar esta característica, você não pode usá-la novamente.
+
+Depois de usá-la, sempre que recuperar Pontos de Vida por qualquer meio, você recupera apenas metade da quantidade normal. Quando um Humanoide que não seja você morrer a até 9 metros de você, você recupera o uso desta característica e volta a recuperar Pontos de Vida normalmente.
+
+Dobre Fúnebre. Outras criaturas a até 3 metros de você têm Desvantagem em Salvaguardas contra a Morte, e você não pode restaurar Pontos de Vida de uma criatura com 0 Pontos de Vida por nenhum meio.
+-
+PODER DOS ANTIGOS
+
+Um poder ancestral e primevo habita as florestas mais antigas de Druskenvald. Essas forças derramam seu vigor sobre você, mas podem dominá-lo com sua natureza imutável.
+
+Poder Ancestral. Seu valor de Força aumenta em 2, até o máximo de 22, e seu valor de Destreza diminui em 2.
+
+Força Primeva. Como uma Ação Bônus, você pode invocar o poder dos antigos para aumentar seu valor de Força para 25 durante 1 minuto. Durante esse período, você causa o dobro de dano a objetos. Após usar esta Ação Bônus, você não pode usá-la novamente até terminar um Descanso Longo.
+
+Preço da Pira. Quando você ativa Força Primeva, sua pele adquire uma textura semelhante à casca de uma árvore. Enquanto estiver dessa forma, você tem Vulnerabilidade a dano de Fogo. Sua pele volta ao normal quando você termina um Descanso Longo.
+-
+SACRIFÍCIO EGOÍSTA
+
+Você pode arrancar outras pessoas das garras da morte, mas seu próprio domínio sobre elas permanece forte demais. A sensação de salvar os outros do sofrimento enche você de determinação, mesmo enquanto drena o vigor daqueles que resgata.
+
+Salvador em Momento Crítico. Quando uma criatura a até 36 metros de você sofre um Acerto Crítico ou é reduzida a 0 Pontos de Vida, você pode usar sua Reação para trocar magicamente de lugar com o alvo. Cada um de vocês se teletransporta para o espaço do outro.
+
+Role uma quantidade de d6 igual à metade do seu nível. Você sofre uma quantidade de dano de Energia igual ao total obtido, recebe Inspiração Heroica e reduz seu nível de Exaustão em 1, caso possua algum. O alvo recupera uma quantidade de Pontos de Vida igual ao total obtido e recebe 1 nível de Exaustão.
+
+Após usar esta característica, você não pode usá-la novamente até terminar um Descanso Curto ou Longo.
+
+Presença Drenante. Quando você termina um Descanso Curto ou Longo, cada criatura a até 30 metros de você perde um Dado de Vida. No caso de um Descanso Curto, isso acontece antes que as criaturas gastem Dados de Vida.
+
+Sacrifício Final. Você pode usar esta barganha para conjurar Ressurreição Verdadeira sem gastar um espaço de magia nem usar componentes de magia. Inteligência, Sabedoria ou Carisma é seu atributo de conjuração para essa magia; escolha o atributo ao selecionar esta Barganha Sombria.
+
+Quando conjura a magia dessa forma, você morre, e nada pode impedir sua morte. Sua alma fica condenada a atormentar a criatura que você trouxe de volta à vida, e você não pode ser ressuscitado por nenhum meio.
+
+Quando essa criatura realiza um Descanso Longo, ela deve rolar um d20 ao atingir a metade da duração do descanso. Caso obtenha 1, sua alma assume a forma de uma Aparição a até 30 metros da criatura e tenta matá-la. A Aparição desaparece após 8 horas ou quando morre. Depois que a Aparição surge, ela não pode aparecer novamente durante 30 dias.
+-
+ESPÍRITO AMORTALHADO
+
+O manto da morte recobre você como a Mortalha de Druskenvald. Essa mortalha o protege das atrocidades dos Mortos-Vivos, mas também o aproxima cada vez mais de seu abraço gélido.
+
+Habituado à Não Morte. Você tem Resistência a dano Necrótico e Vantagem em salvaguardas contra magias e efeitos criados por Mortos-Vivos.
+
+Apetite Profano. Você deve consumir meio quilo de carne crua por dia — ela não precisa estar fresca — ou sofrerá de Desnutrição.
+
+Alma Definhante. Características que detectam seu tipo de criatura, como o Sentido Divino de um Paladino ou a magia Detectar o Bem e Mal, consideram você um Morto-Vivo caso seu tipo de criatura ainda não seja Morto-Vivo.
+-
+PELE DE PREGOS FÚNEBRES
+
+Seu corpo se torna tão frio e implacável quanto os pregos de ferro que selam os mortos em seus caixões. Você consegue suportar castigos devastadores, mas as águas do mundo já não o acolhem, como se desprezassem sua resistência.
+
+Tenacidade de Ferro. Você recebe Resistência a dano Contundente, Perfurante ou Cortante, à sua escolha quando seleciona esta Barganha Sombria. Você pode mudar o tipo de dano escolhido para uma das outras opções ao terminar um Descanso Curto ou Longo.
+
+Quando você sofre um Acerto Crítico do tipo de dano escolhido, ele se torna um acerto normal.
+
+Condenação Aquática. Quando você fica imerso em água ou é atingido por pelo menos 4 litros de água — como ao receber um balde de água ou ficar sob a chuva —, sua pele se contrai e adquire uma aparência enferrujada até você terminar um Descanso Curto ou Longo.
+
+Durante esse período, seu Deslocamento e o tempo pelo qual consegue prender a respiração são reduzidos pela metade, e sua Resistência ao tipo de dano escolhido para Tenacidade de Ferro se transforma em Vulnerabilidade.
+
+A critério do Mestre, outros líquidos também podem ativar esta característica.
+-
+FOMES SILENCIADAS
+
+Comida, bebida e as enfermidades da carne perderam o domínio sobre você, mas são justamente essas coisas que mantêm uma alma vigorosa enquanto ela permanece no mundo dos vivos. Sem esses impulsos, sua mente se torna voraz — seus pensamentos se fragmentam sob medos corrosivos, e seus sonhos definham em pesadelos distorcidos.
+
+Desejos Saciados. Ficar sem comida ou bebida não faz com que você receba níveis de Exaustão. Você tem Resistência a dano de Veneno e Vantagem em salvaguardas para evitar ou encerrar a condição Envenenado.
+
+Psique Frágil. Você tem Vulnerabilidade a dano Psíquico e Desvantagem em salvaguardas para evitar ou encerrar a condição Amedrontado. A magia Acalmar Emoções conjurada sobre você suprime esta característica enquanto durar.
+-
+FÚRIA INEXTINGUÍVEL
+
+A raiva é uma ferramenta poderosa. Esta barganha a alimenta até transformá-la em um incêndio formidável, mas que ameaça consumir tudo em seu caminho.
+
+Investida Furiosa. Como uma Ação Bônus, ou quando você realiza a ação Atacar em seu turno, você pode escolher entrar em fúria. Enquanto estiver em fúria, pode realizar um ataque corpo a corpo adicional sempre que executar a ação Atacar em seu turno, e reduz todo dano que sofrer em uma quantidade igual ao seu Bônus de Proficiência.
+
+A fúria termina caso você fique Incapacitado, morra ou termine seu turno sem nenhuma criatura que possa ver ou ouvir a até 18 metros de você.
+
+Após usar esta característica, você não pode usá-la novamente até terminar um Descanso Longo. Você também recupera o uso desta característica quando mata um Humanoide.
+
+Névoa Rubra. Enquanto estiver em fúria, você deve realizar uma salvaguarda de Sabedoria CD 15 no início de cada um de seus turnos. Em caso de sucesso, você pode escolher encerrar sua fúria ou continuar nela.
+
+Em caso de falha, você deixa de realizar essa salvaguarda no início de seus turnos e passa a considerar como inimiga a criatura mais próxima que possa ver ou ouvir. Caso haja várias criaturas à mesma distância, escolha uma aleatoriamente.
+
+Em cada um de seus turnos, você deve se mover o mais próximo possível dessa criatura e realizar a ação Atacar, escolhendo-a como alvo de seus ataques corpo a corpo. Caso não consiga se aproximar o suficiente para atacá-la, seu turno termina depois que você gastar todo o seu movimento disponível.
+
+Se a criatura morrer ou você não puder mais vê-la nem ouvi-la, a próxima criatura mais próxima que você possa ver ou ouvir se torna seu novo alvo.
+-
+ASAS DE SUSSURROS
+
+Você recebeu segredos que pode invocar na forma de corvos e gralhas para carregá-lo pelos ares, mas corre o risco de revelar seus próprios segredos em troca.
+
+Voo Assassino. Como uma Ação Bônus, você pode receber magicamente um Deslocamento de Voo igual ao seu Deslocamento por 10 minutos, podendo pairar. Durante esse período, uma massa de sombras assume a forma de um bando de corvos e gralhas, embora essas aves não sejam criaturas verdadeiras. Elas surgem em uma Emanação de 6 metros originada em você, levantando voo e girando ao seu redor enquanto você voa.
+
+Após usar esta característica, você não pode usá-la novamente até terminar um Descanso Curto ou Longo, a menos que receba 1 nível de Exaustão para usá-la novamente antes disso.
+
+Segredos Sussurrados. As aves que surgem quando você ativa Voo Assassino permanecem e continuam seguindo você até que termine um Descanso Curto ou Longo. Enquanto elas estiverem presentes, você tem Desvantagem em testes de Destreza (Furtividade), e as aves sussurram seus segredos na mente de outras criaturas, concedendo a elas Vantagem em testes de Sabedoria (Intuição ou Percepção) realizados contra você.
+-

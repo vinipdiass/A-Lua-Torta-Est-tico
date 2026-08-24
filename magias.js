@@ -55,6 +55,8 @@ function renderClassTabs() {
     button.className = `class-tab${index === activeClassIndex ? " is-active" : ""}`;
     button.setAttribute("aria-pressed", String(index === activeClassIndex));
     const image = document.createElement("img");
+    image.loading = "lazy";
+    image.decoding = "async";
     image.src = entry.icon;
     image.alt = "";
     const label = document.createElement("span");
@@ -92,6 +94,7 @@ function createSpellLink(spell, classId) {
 function renderActiveClass() {
   const active = classLists[activeClassIndex];
   if (!active) return;
+  activeClassIcon.decoding = "async";
   activeClassIcon.src = active.icon;
   activeClassIcon.alt = `Ícone da classe ${active.name}`;
   activeClassName.textContent = active.name;

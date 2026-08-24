@@ -16,7 +16,7 @@
         autoplay
         muted
         playsinline
-        preload="auto"
+        preload="metadata"
       ></video>
 
       <video
@@ -24,7 +24,7 @@
         class="scene-video"
         muted
         playsinline
-        preload="auto"
+        preload="metadata"
         aria-hidden="true"
       ></video>
 
@@ -35,33 +35,33 @@
       <audio
         id="soundtrack"
         src="../soundtrack/12 Songs We've Borrowed.mp3"
-        preload="auto"
+        preload="none"
         loop
       ></audio>
 
       <audio
         id="chapter-two-soundtrack"
         src="../soundtrack/09 - Rotted Rings.mp3"
-        preload="metadata"
+        preload="none"
         loop
       ></audio>
 
       <audio
         id="chapter-three-soundtrack"
         src="../soundtrack/14 - Creaking Bones.mp3"
-        preload="metadata"
+        preload="none"
         loop
       ></audio>
 
       <audio
         id="chapter-four-soundtrack"
         src="../soundtrack/15 - Bluring Faces.mp3"
-        preload="metadata"
+        preload="none"
         loop
       ></audio>
 
-      <audio id="access-sfx" src="../sfx/pagesbook.mp3" preload="auto"></audio>
-      <audio id="entering-chapter-sfx" src="../sfx/entering_chapter.mp3" preload="auto"></audio>
+      <audio id="access-sfx" src="../sfx/pagesbook.mp3" preload="none"></audio>
+      <audio id="entering-chapter-sfx" src="../sfx/entering_chapter.mp3" preload="none"></audio>
 
       <button id="volume-control" class="volume-control" type="button" aria-label="Volume: 100%. Clique para diminuir.">
         <span id="volume-control-icon" class="volume-control__icon" aria-hidden="true">🔊</span>
@@ -96,6 +96,8 @@
             class="access-card__logo"
             src="../assets/A Lua Torta Render.png"
             alt="A Lua Torta"
+            decoding="async"
+            fetchpriority="high"
           >
           <h1 id="access-title" class="access-card__title"></h1>
 
@@ -186,21 +188,21 @@
 
         <div class="chapter-three-categories">
           <a class="chapter-category chapter-category--active" href="racas.html">
-            <img src="../assets/raças.webp" alt="">
+            <img data-src="../assets/raças.webp" alt="" loading="lazy" decoding="async" fetchpriority="low">
             <span class="chapter-category__number">I</span>
             <strong>Raças</strong>
             <small>Explorar as treze linhagens de Druskenvald</small>
           </a>
 
           <a class="chapter-category chapter-category--active chapter-category--orange" href="subclasses.html">
-            <img src="../assets/subclasses.webp" alt="">
+            <img data-src="../assets/subclasses.webp" alt="" loading="lazy" decoding="async" fetchpriority="low">
             <span class="chapter-category__number">II</span>
             <strong>Subclasses</strong>
             <small>Explorar quinze caminhos de poder</small>
           </a>
 
           <a class="chapter-category chapter-category--active chapter-category--light" href="magias.html">
-            <img src="../assets/magias.webp" alt="">
+            <img data-src="../assets/magias.webp" alt="" loading="lazy" decoding="async" fetchpriority="low">
             <span class="chapter-category__number">III</span>
             <strong>Magias</strong>
             <small>Consultar os sortilégios de cada classe</small>
@@ -227,6 +229,48 @@
 
           <button id="video-chapter-home" class="video-chapter__home" type="button">Voltar para a Home</button>
         </article>
+      </section>
+
+      <section id="dark-bargain" class="dark-bargain is-hidden" aria-live="polite">
+        <div class="dark-bargain__mood" aria-hidden="true">
+          <img id="dark-bargain-mood-primary" class="dark-bargain__mood-image dark-bargain__mood-image--primary" alt="" loading="lazy" decoding="async" fetchpriority="low">
+          <img id="dark-bargain-mood-secondary" class="dark-bargain__mood-image dark-bargain__mood-image--secondary" alt="" loading="lazy" decoding="async" fetchpriority="low">
+          <img id="dark-bargain-mood-tertiary" class="dark-bargain__mood-image dark-bargain__mood-image--tertiary" alt="" loading="lazy" decoding="async" fetchpriority="low">
+        </div>
+
+        <article id="dark-bargain-panel" class="dark-bargain__panel">
+          <span id="dark-bargain-eyebrow" class="dark-bargain__eyebrow"></span>
+          <h1 id="dark-bargain-title" class="dark-bargain__title"></h1>
+          <div id="dark-bargain-copy" class="dark-bargain__copy"></div>
+
+          <figure id="dark-bargain-stage" class="dark-bargain__stage" aria-hidden="true">
+            <img id="dark-bargain-stage-image" alt="" loading="lazy" decoding="async" fetchpriority="low">
+          </figure>
+
+          <figure id="dark-bargain-handshake" class="dark-bargain__handshake" aria-hidden="true">
+            <img data-src="../assets/dark_bargains/aperto_de_mãos.png" alt="" loading="lazy" decoding="async" fetchpriority="low">
+          </figure>
+
+          <div id="dark-bargain-reveal" class="dark-bargain__reveal">
+            <figure class="dark-bargain__portrait">
+              <img id="dark-bargain-image" alt="" loading="lazy" decoding="async" fetchpriority="low">
+            </figure>
+
+            <div class="dark-bargain__details">
+              <span id="dark-bargain-position" class="dark-bargain__position"></span>
+              <h2 id="dark-bargain-name" class="dark-bargain__name"></h2>
+              <div id="dark-bargain-description" class="dark-bargain__description"></div>
+              <div id="dark-bargain-features" class="dark-bargain__features"></div>
+            </div>
+          </div>
+        </article>
+
+        <div class="dark-bargain__actions">
+          <button id="dark-bargain-advance" class="dark-bargain__advance" type="button">Continuar</button>
+          <a id="dark-bargain-accept" class="dark-bargain__seal dark-bargain__seal--accept" href="#" target="_blank" rel="noopener noreferrer">Aceitar a barganha</a>
+          <button id="dark-bargain-home" class="dark-bargain__home" type="button">Voltar para a Home</button>
+        </div>
+        <p id="dark-bargain-status" class="dark-bargain__status" role="status" aria-live="polite"></p>
       </section>
 
       <section id="chapter-complete" class="chapter-complete is-hidden" aria-live="polite">

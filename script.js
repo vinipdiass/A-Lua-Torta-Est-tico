@@ -208,8 +208,28 @@ const STORY_ACCESS_CODES = {
   "ossos que rangem": { type: "story", chapter: 4, label: "Ossos que Rangem" },
 };
 
+const DARK_BARGAIN_META = [
+  { key: "despertar-bestial", title: "Despertar Bestial", sourceTitle: "DESPERTAR BESTIAL", image: window.luaTortaAssetPath("assets/dark_bargains/Bestial Awakening.webp") },
+  { key: "chamado-do-solitario", title: "Chamado do Solitário", sourceTitle: "CHAMADO DO SOLITÁRIO", image: window.luaTortaAssetPath("assets/dark_bargains/Call of the Lonely.webp") },
+  { key: "colecionador-de-historias", title: "Colecionador de Histórias", sourceTitle: "COLECIONADOR DE HISTÓRIAS", image: window.luaTortaAssetPath("assets/dark_bargains/Collector of Stories.webp") },
+  { key: "fortuna-tortuosa", title: "Fortuna Tortuosa", sourceTitle: "FORTUNA TORTUOSA", image: window.luaTortaAssetPath("assets/dark_bargains/Crooked Fortune.webp") },
+  { key: "culto-a-personalidade", title: "Culto à Personalidade", sourceTitle: "CULTO À PERSONALIDADE", image: window.luaTortaAssetPath("assets/dark_bargains/Cult of Personality.webp") },
+  { key: "mao-da-morte", title: "Mão da Morte", sourceTitle: "MÃO DA MORTE", image: window.luaTortaAssetPath("assets/dark_bargains/Hand of Death.webp") },
+  { key: "poder-dos-antigos", title: "Poder dos Antigos", sourceTitle: "PODER DOS ANTIGOS", image: window.luaTortaAssetPath("assets/dark_bargains/Might of the Old.webp") },
+  { key: "sacrificio-egoista", title: "Sacrifício Egoísta", sourceTitle: "SACRIFÍCIO EGOÍSTA", image: window.luaTortaAssetPath("assets/dark_bargains/Self-Serving Sacrifice.webp") },
+  { key: "espirito-amortalhado", title: "Espírito Amortalhado", sourceTitle: "ESPÍRITO AMORTALHADO", image: window.luaTortaAssetPath("assets/dark_bargains/Shrouded Spirit.webp") },
+  { key: "pele-de-pregos-funebres", title: "Pele de Pregos Fúnebres", sourceTitle: "PELE DE PREGOS FÚNEBRES", image: window.luaTortaAssetPath("assets/dark_bargains/Skin of Coffin Nails.webp") },
+  { key: "fomes-silenciadas", title: "Fomes Silenciadas", sourceTitle: "FOMES SILENCIADAS", image: window.luaTortaAssetPath("assets/dark_bargains/Stilled Hungers.webp") },
+  { key: "furia-inextinguivel", title: "Fúria Inextinguível", sourceTitle: "FÚRIA INEXTINGUÍVEL", image: window.luaTortaAssetPath("assets/dark_bargains/Unquenchable Fury.webp") },
+  { key: "asas-de-sussurros", title: "Asas de Sussurros", sourceTitle: "ASAS DE SUSSURROS", image: window.luaTortaAssetPath("assets/dark_bargains/Wing of Whispers.webp") },
+];
+
 const ACCESS_CODES = {
   ...STORY_ACCESS_CODES,
+  ...Object.fromEntries(DARK_BARGAIN_META.map((bargain) => [
+    normalizeAccessCode(bargain.title),
+    { type: "dark-bargain", bargainKey: bargain.key, label: bargain.title },
+  ])),
   ...Object.fromEntries(Object.entries(VIDEO_CHAPTERS).map(([videoKey, videoChapterData]) => [
     normalizeAccessCode(videoChapterData.code ?? videoChapterData.title),
     { type: "video", videoKey },
@@ -222,6 +242,91 @@ const CHAPTER_TWO_INTRO = window.luaTortaAssetPath("videos/inicial/chap2.webm");
 const CHAPTER_THREE_INTRO = window.luaTortaAssetPath("videos/inicial/chap3.webm");
 const CHAPTER_TWO_BACKGROUND = window.luaTortaAssetPath("videos/fios_do_destino/background.webm");
 const CHAPTER_THREE_BACKGROUND = window.luaTortaAssetPath("capitulos_historia/background_chap3.webm");
+const DARK_BARGAIN_MOOD_IMAGES = [
+  window.luaTortaAssetPath("assets/dark_bargains/assets/008-01-005.the-crooked-queen.webp"),
+  window.luaTortaAssetPath("assets/dark_bargains/assets/009-01-006.the-horned-king.webp"),
+  window.luaTortaAssetPath("assets/dark_bargains/assets/010-01-007.the-crooked-man.webp"),
+  window.luaTortaAssetPath("assets/dark_bargains/assets/011-01-008.the-vermintol-coven.webp"),
+  window.luaTortaAssetPath("assets/dark_bargains/assets/012-01-009.noose.webp"),
+  window.luaTortaAssetPath("assets/dark_bargains/assets/021-02-002.fated-tarot-reading.webp"),
+  window.luaTortaAssetPath("assets/dark_bargains/assets/022-02-003.major-arcana.webp"),
+];
+const DARK_BARGAIN_HANDSHAKE_IMAGE = window.luaTortaAssetPath("assets/dark_bargains/aperto_de_mãos.png");
+const DARK_BARGAIN_STORY_ART = {
+  crookedQueen: DARK_BARGAIN_MOOD_IMAGES[0],
+  hornedKing: DARK_BARGAIN_MOOD_IMAGES[1],
+  handshake: DARK_BARGAIN_HANDSHAKE_IMAGE,
+};
+const DARK_BARGAIN_WHATSAPP_PHONE = "999943187";
+const DARK_BARGAIN_ACCEPT_MESSAGE = "Mestre, eu aceito a barganha.";
+const DARK_BARGAIN_TEMPLATE_PAGES = [
+  {
+    phase: "line-threshold",
+    title: "Se você está aqui...",
+    paragraphs: [],
+  },
+  {
+    phase: "line-death",
+    title: "Você morreu.",
+    paragraphs: [],
+  },
+  {
+    phase: "line-fall",
+    title: "No instante em que sua vida terminou",
+    paragraphs: [],
+  },
+  {
+    phase: "line-watched",
+    title: "Alguma coisa voltou sua atenção para você",
+    paragraphs: [],
+    art: DARK_BARGAIN_STORY_ART.crookedQueen,
+  },
+  {
+    phase: "line-warning",
+    title: "Não pergunte o nome dela.",
+    paragraphs: [],
+  },
+  {
+    phase: "line-warning",
+    title: "Não tente compreender o que ela deseja.",
+    paragraphs: [],
+  },
+  {
+    phase: "line-offer",
+    title: "Essa entidade está oferecendo uma Barganha Sombria: um pacto capaz de devolver você ao mundo dos vivos.",
+    paragraphs: [],
+  },
+  {
+    phase: "line-cost",
+    title: "Não por bondade",
+    paragraphs: [],
+  },
+  {
+    phase: "line-cost",
+    title: "E certamente não de graça.",
+    paragraphs: [],
+  },
+  {
+    phase: "terms",
+    title: "A BARGANHA SOMBRIA",
+    paragraphs: [
+      "Qualquer barganha é oferecida por um poder completamente incognoscível e insondável, e devem ser cuidadosamente consideradas por você e por seu personagem. Esses dons não devem ser aceitos sem cautela; sua mera presença deve anunciar oportunidades significativas de interpretação/roleplay, tanto no presente quanto no futuro.",
+    ],
+    art: DARK_BARGAIN_STORY_ART.hornedKing,
+  },
+  {
+    phase: "handshake",
+    title: "APERTE MINHA MÃO",
+    paragraphs: [
+      "Ao aceitar uma Barganha Sombria, você retornará à vida e receberá o dom concedido.",
+      "Esse poder será marcado pelas circunstâncias de sua morte, pela natureza da entidade que o trouxe de volta e pelo preço exigido em troca.",
+    ],
+    handshake: true,
+    glitchLines: [1],
+    art: DARK_BARGAIN_STORY_ART.handshake,
+  },
+  { phase: "reveal", reveal: true },
+];
 const CHAPTER_TWO_COPY = [
   "<strong>Fios do Destino</strong> são treze possíveis arcos de história pessoal que podem ser entrelaçados à aventura de <em>The Crooked Moon</em>. Cada jogador deve escolher um fio, e apenas um fio pode ser escolhido por jogador.",
   "Cada <strong>Fio</strong> oferece um objetivo para o personagem perseguir, elementos de enredo para incorporar ao seu passado, escolhas do jogador que personalizam a experiência e o chamado à aventura que coloca o personagem no caminho para <strong>Druskenvald</strong>.",
@@ -286,6 +391,9 @@ const videoPlayers = [video, bufferVideo];
 let sceneImage = document.querySelector("#scene-image");
 let bufferSceneImage = document.querySelector("#scene-image-buffer");
 const sceneImagePlayers = [sceneImage, bufferSceneImage];
+sceneImagePlayers.forEach((image) => {
+  image.decoding = "async";
+});
 const chapterFourOverlay = document.querySelector("#chapter-four-overlay");
 const soundtrack = document.querySelector("#soundtrack");
 const chapterTwoSoundtrack = document.querySelector("#chapter-two-soundtrack");
@@ -330,6 +438,30 @@ const videoChapterEyebrow = document.querySelector("#video-chapter-eyebrow");
 const videoChapterTitle = document.querySelector("#video-chapter-title");
 const videoChapterPlayer = document.querySelector("#video-chapter-player");
 const videoChapterHome = document.querySelector("#video-chapter-home");
+const darkBargain = document.querySelector("#dark-bargain");
+const darkBargainMoodPrimary = document.querySelector("#dark-bargain-mood-primary");
+const darkBargainMoodSecondary = document.querySelector("#dark-bargain-mood-secondary");
+const darkBargainMoodTertiary = document.querySelector("#dark-bargain-mood-tertiary");
+const darkBargainPanel = document.querySelector("#dark-bargain-panel");
+const darkBargainEyebrow = document.querySelector("#dark-bargain-eyebrow");
+const darkBargainTitle = document.querySelector("#dark-bargain-title");
+const darkBargainCopy = document.querySelector("#dark-bargain-copy");
+const darkBargainStage = document.querySelector("#dark-bargain-stage");
+const darkBargainStageImage = document.querySelector("#dark-bargain-stage-image");
+const darkBargainHandshake = document.querySelector("#dark-bargain-handshake");
+const darkBargainReveal = document.querySelector("#dark-bargain-reveal");
+const darkBargainImage = document.querySelector("#dark-bargain-image");
+const darkBargainPosition = document.querySelector("#dark-bargain-position");
+const darkBargainName = document.querySelector("#dark-bargain-name");
+const darkBargainDescription = document.querySelector("#dark-bargain-description");
+const darkBargainFeatures = document.querySelector("#dark-bargain-features");
+const darkBargainAdvance = document.querySelector("#dark-bargain-advance");
+const darkBargainAccept = document.querySelector("#dark-bargain-accept");
+const darkBargainHome = document.querySelector("#dark-bargain-home");
+const darkBargainStatus = document.querySelector("#dark-bargain-status");
+[darkBargainMoodPrimary, darkBargainMoodSecondary, darkBargainMoodTertiary, darkBargainStageImage, darkBargainImage].forEach((image) => {
+  image.decoding = "async";
+});
 const volumeControl = document.querySelector("#volume-control");
 const volumeControlIcon = document.querySelector("#volume-control-icon");
 const volumeControlValue = document.querySelector("#volume-control-value");
@@ -362,6 +494,10 @@ let chapterTwoCopyIndex = 0;
 let destinyThreads = [];
 let destinyThreadsPromise = null;
 let activeThreadIndex = 0;
+let darkBargains = [];
+let darkBargainsPromise = null;
+let activeDarkBargain = null;
+let activeDarkBargainPageIndex = 0;
 let videoEnded = true;
 let textFinished = false;
 let isTyping = false;
@@ -385,6 +521,28 @@ videoPlayers.forEach((player) => {
   player.loop = false;
 });
 
+function releaseVideoPlayer(player) {
+  if (!player) return;
+
+  player.pause();
+  player.removeAttribute("src");
+  player.load();
+  player.preload = "metadata";
+  delete player.dataset.source;
+}
+
+function loadDeferredImage(image) {
+  const source = image?.dataset.src;
+  if (!source || image.getAttribute("src")) return;
+
+  image.src = source;
+  delete image.dataset.src;
+}
+
+function loadDeferredImages(container = document) {
+  container.querySelectorAll("img[data-src]").forEach(loadDeferredImage);
+}
+
 function getSavedVolumeLevelIndex() {
   try {
     const savedVolume = Number.parseFloat(window.localStorage.getItem(VOLUME_STORAGE_KEY));
@@ -396,7 +554,12 @@ function getSavedVolumeLevelIndex() {
 }
 
 function normalizeAccessCode(value) {
-  return String(value).trim().toLowerCase().replace(/\s+/g, " ");
+  return String(value)
+    .trim()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/\s+/g, " ");
 }
 
 function getSavedDiscoveredCodes() {
@@ -503,6 +666,7 @@ function cycleGlobalVolume(event) {
 
 applyGlobalVolume();
 renderDiscoveredCodes();
+setDarkBargainDecisionLinks();
 
 function scheduleAccessSfx() {
   window.clearTimeout(accessSfxTimer);
@@ -694,6 +858,325 @@ async function showThreadCarousel(initialBackgroundId = null) {
   }
 }
 
+function parseDarkBargainFeature(paragraph) {
+  const match = paragraph.match(/^([^.\n]{2,52})\.\s+([\s\S]+)$/);
+  if (!match) return null;
+
+  const featureTitle = match[1].trim();
+  const featureBody = match[2].trim();
+  const wordCount = featureTitle.split(/\s+/).length;
+
+  if (wordCount > 5 || /[,;:]/.test(featureTitle) || !/^[A-ZÀ-Ý]/.test(featureTitle)) {
+    return null;
+  }
+
+  return { title: featureTitle, body: featureBody };
+}
+
+function parseDarkBargains(source) {
+  return source
+    .split(/^\s*-\s*$/m)
+    .map((section) => section.trim())
+    .filter(Boolean)
+    .map((section, index) => {
+      const paragraphs = section
+        .split(/\r?\n\s*\r?\n/)
+        .map((paragraph) => paragraph.replace(/\s*\r?\n\s*/g, " ").trim())
+        .filter(Boolean);
+      const sourceTitle = paragraphs.shift();
+      const meta = DARK_BARGAIN_META.find((bargain) => (
+        normalizeAccessCode(bargain.sourceTitle) === normalizeAccessCode(sourceTitle)
+      ));
+      const darkBargain = {
+        key: meta?.key ?? normalizeAccessCode(sourceTitle).replace(/[^a-z0-9]+/g, "-"),
+        title: meta?.title ?? sourceTitle,
+        sourceTitle,
+        image: meta?.image ?? "",
+        position: index + 1,
+        description: [],
+        features: [],
+      };
+      let isReadingFeatures = false;
+
+      paragraphs.forEach((paragraph) => {
+        const feature = parseDarkBargainFeature(paragraph);
+
+        if (feature) {
+          isReadingFeatures = true;
+          darkBargain.features.push(feature);
+          return;
+        }
+
+        if (isReadingFeatures && darkBargain.features.length) {
+          const lastFeature = darkBargain.features[darkBargain.features.length - 1];
+          lastFeature.body = `${lastFeature.body}\n\n${paragraph}`;
+          return;
+        }
+
+        darkBargain.description.push(paragraph);
+      });
+
+      return darkBargain;
+    });
+}
+
+function loadDarkBargains() {
+  darkBargainsPromise ??= fetch(window.luaTortaAssetPath("dark_bargains.txt"))
+    .then((response) => {
+      if (!response.ok) throw new Error("Não foi possível carregar as Barganhas Sombrias.");
+      return response.text();
+    })
+    .then((source) => {
+      const parsedBargains = parseDarkBargains(source);
+
+      if (parsedBargains.length !== DARK_BARGAIN_META.length) {
+        throw new Error(`Foram encontradas ${parsedBargains.length} de ${DARK_BARGAIN_META.length} Barganhas Sombrias.`);
+      }
+
+      return parsedBargains;
+    });
+
+  return darkBargainsPromise;
+}
+
+function renderPlainParagraphs(container, paragraphs) {
+  container.replaceChildren();
+
+  paragraphs.forEach((entry) => {
+    const paragraph = document.createElement("p");
+    const text = typeof entry === "string" ? entry : entry.text;
+
+    paragraph.textContent = text;
+    if (typeof entry === "object" && entry?.className) {
+      paragraph.className = entry.className;
+    }
+    container.append(paragraph);
+  });
+}
+
+function getDarkBargainWhatsappUrl(message) {
+  const params = new URLSearchParams({
+    phone: DARK_BARGAIN_WHATSAPP_PHONE,
+    text: message,
+  });
+
+  return `https://web.whatsapp.com/send?${params.toString()}`;
+}
+
+function setDarkBargainDecisionLinks() {
+  darkBargainAccept.href = getDarkBargainWhatsappUrl(DARK_BARGAIN_ACCEPT_MESSAGE);
+}
+
+function setDarkBargainDecisionsVisible(isVisible) {
+  darkBargainAccept.classList.toggle("is-visible", isVisible);
+}
+
+function getDarkBargainPageArt(page) {
+  if (!page) return "";
+  if (page.art === "bargain") return activeDarkBargain?.image ?? "";
+  return page.art ?? "";
+}
+
+function renderDarkBargainStage(page, isReveal = false) {
+  const imageSource = getDarkBargainPageArt(page);
+  const shouldShow = Boolean(imageSource) && !isReveal && !page?.handshake;
+
+  darkBargainStage.classList.toggle("is-visible", shouldShow);
+
+  if (!shouldShow) {
+    darkBargainStageImage.removeAttribute("src");
+    darkBargainStageImage.alt = "";
+    return;
+  }
+
+  darkBargainStageImage.src = imageSource;
+  darkBargainStageImage.alt = "";
+  darkBargainPanel.style.setProperty("--dark-bargain-art", `url("${imageSource}")`);
+}
+
+function renderDarkBargainMood(bargain) {
+  const metaIndex = Math.max(DARK_BARGAIN_META.findIndex((meta) => meta.key === bargain.key), 0);
+  const moodSlots = [darkBargainMoodPrimary, darkBargainMoodSecondary, darkBargainMoodTertiary];
+
+  moodSlots.forEach((image, slotIndex) => {
+    image.src = DARK_BARGAIN_MOOD_IMAGES[(metaIndex + slotIndex * 2) % DARK_BARGAIN_MOOD_IMAGES.length];
+  });
+}
+
+function renderDarkBargainReveal() {
+  if (!activeDarkBargain) return;
+
+  darkBargainPanel.style.setProperty("--dark-bargain-art", `url("${activeDarkBargain.image}")`);
+  darkBargainImage.src = activeDarkBargain.image;
+  darkBargainImage.alt = `Arte de ${activeDarkBargain.title}`;
+  darkBargainPosition.textContent = `${String(activeDarkBargain.position).padStart(2, "0")} / ${darkBargains.length}`;
+  darkBargainName.textContent = activeDarkBargain.title;
+  renderPlainParagraphs(darkBargainDescription, activeDarkBargain.description);
+  darkBargainFeatures.replaceChildren();
+
+  activeDarkBargain.features.forEach((feature) => {
+    const section = document.createElement("section");
+    const title = document.createElement("h3");
+    const body = document.createElement("div");
+
+    section.className = "dark-bargain__feature";
+    title.textContent = feature.title;
+    body.className = "dark-bargain__feature-body";
+    renderPlainParagraphs(body, feature.body.split(/\n{2,}/).filter(Boolean));
+    section.append(title, body);
+    darkBargainFeatures.append(section);
+  });
+}
+
+function setDarkBargainPhase(phase) {
+  darkBargain.dataset.phase = phase;
+  darkBargainPanel.dataset.phase = phase;
+  darkBargainPanel.classList.remove("is-entering");
+  void darkBargainPanel.offsetWidth;
+  darkBargainPanel.classList.add("is-entering");
+}
+
+function renderDarkBargainPage() {
+  if (!activeDarkBargain) return;
+
+  const page = DARK_BARGAIN_TEMPLATE_PAGES[activeDarkBargainPageIndex];
+  const isReveal = Boolean(page?.reveal);
+  const phase = isReveal ? "reveal" : page?.phase ?? "passage";
+  const isLinePage = phase.startsWith("line-");
+
+  setDarkBargainPhase(phase);
+  renderDarkBargainStage(page, isReveal);
+  darkBargainPanel.classList.toggle("is-revealed", isReveal);
+  darkBargainPanel.classList.toggle("is-line", isLinePage);
+  darkBargainPanel.classList.toggle("is-glitching", Boolean(page?.glitch || page?.glitchLines?.length));
+  darkBargainPanel.classList.toggle("has-handshake", Boolean(page?.handshake));
+  darkBargainPanel.classList.toggle("has-empty-copy", !isReveal && !page?.paragraphs?.length);
+  darkBargainHandshake.classList.toggle("is-visible", Boolean(page?.handshake));
+  darkBargainReveal.classList.toggle("is-visible", isReveal);
+  darkBargainHome.classList.remove("is-visible");
+  darkBargainAdvance.classList.add("is-hidden");
+  setDarkBargainDecisionsVisible(isReveal);
+  darkBargainStatus.textContent = "";
+
+  if (page?.handshake) {
+    loadDeferredImages(darkBargainHandshake);
+  }
+
+  if (isReveal) {
+    darkBargainEyebrow.textContent = "BARGANHA REVELADA";
+    darkBargainTitle.textContent = "";
+    darkBargainCopy.replaceChildren();
+    darkBargainAdvance.textContent = "Continuar";
+    renderDarkBargainReveal();
+    return;
+  }
+
+  darkBargainEyebrow.textContent = page.eyebrow ?? "";
+  darkBargainTitle.textContent = page.title;
+  renderPlainParagraphs(
+    darkBargainCopy,
+    page.paragraphs.map((text, index) => ({
+      text,
+      className: page.glitchLines?.includes(index) ? "dark-bargain__glitch-line" : "",
+    })),
+  );
+}
+
+function advanceDarkBargainPage() {
+  if (appMode !== "dark-bargain" || !activeDarkBargain) return;
+  if (activeDarkBargainPageIndex >= DARK_BARGAIN_TEMPLATE_PAGES.length - 1) return;
+
+  activeDarkBargainPageIndex += 1;
+  renderDarkBargainPage();
+}
+
+function hideDarkBargain() {
+  darkBargain.classList.add("is-hidden");
+  darkBargainPanel.classList.remove("is-revealed", "is-line", "is-glitching", "has-handshake");
+  darkBargainStage.classList.remove("is-visible");
+  darkBargainStageImage.removeAttribute("src");
+  darkBargainHandshake.classList.remove("is-visible");
+  darkBargainReveal.classList.remove("is-visible");
+  darkBargainAdvance.classList.remove("is-hidden");
+  setDarkBargainDecisionsVisible(false);
+  darkBargainHome.classList.remove("is-visible");
+  darkBargainStatus.textContent = "";
+  darkBargainPanel.style.removeProperty("--dark-bargain-art");
+  darkBargain.removeAttribute("data-phase");
+  darkBargainPanel.removeAttribute("data-phase");
+  story.classList.remove("is-dark-bargain");
+}
+
+async function showDarkBargain(bargainKey) {
+  const meta = DARK_BARGAIN_META.find((bargain) => bargain.key === bargainKey);
+  if (!meta) return;
+
+  window.clearTimeout(accessSfxTimer);
+  accessSfxTimer = null;
+  accessSfx.pause();
+  enteringChapterSfx.pause();
+  stopHomeReverse();
+  appMode = "dark-bargain";
+  renderDiscoveredCodes();
+  story.classList.remove("is-chapter");
+  story.classList.remove("is-chapter-two");
+  story.classList.remove("is-chapter-three");
+  story.classList.remove("is-chapter-four");
+  story.classList.add("is-dark-bargain");
+  accessPanel.classList.add("is-hidden");
+  chapterComplete.classList.add("is-hidden");
+  chapterTwoCopy.classList.add("is-hidden");
+  threadCarousel.classList.add("is-hidden");
+  chapterThreeMenu.classList.add("is-hidden");
+  hideVideoChapter();
+  finishReading.classList.add("is-hidden");
+  textBox.classList.add("is-hidden");
+  chapterFourOverlay.classList.remove("is-active");
+  hideSceneMedia();
+  soundtrack.pause();
+  chapterTwoSoundtrack.pause();
+  chapterThreeSoundtrack.pause();
+  chapterFourSoundtrack.pause();
+  chapterCode.blur();
+  activeDarkBargain = { ...meta, position: DARK_BARGAIN_META.indexOf(meta) + 1, description: [], features: [] };
+  activeDarkBargainPageIndex = 0;
+  renderDarkBargainMood(activeDarkBargain);
+  setDarkBargainPhase("summoning");
+  darkBargainEyebrow.textContent = "";
+  darkBargainTitle.textContent = "";
+  darkBargainCopy.replaceChildren();
+  renderDarkBargainStage(null);
+  darkBargainPanel.classList.remove("is-revealed", "is-line", "is-glitching", "has-handshake");
+  darkBargainReveal.classList.remove("is-visible");
+  darkBargainAdvance.classList.add("is-hidden");
+  setDarkBargainDecisionsVisible(false);
+  darkBargainHome.classList.remove("is-visible");
+  darkBargainStatus.textContent = "";
+  darkBargain.classList.remove("is-hidden");
+
+  try {
+    darkBargains = await loadDarkBargains();
+    const loadedBargain = darkBargains.find((bargain) => bargain.key === bargainKey);
+
+    if (appMode !== "dark-bargain" || activeDarkBargain?.key !== bargainKey) return;
+    if (!loadedBargain) throw new Error("A Barganha Sombria não foi encontrada no arquivo.");
+
+    activeDarkBargain = loadedBargain;
+    renderDarkBargainMood(activeDarkBargain);
+    renderDarkBargainPage();
+  } catch (error) {
+    if (appMode !== "dark-bargain" || activeDarkBargain?.key !== bargainKey) return;
+
+    darkBargainEyebrow.textContent = "BARGANHA SOMBRIA";
+    darkBargainTitle.textContent = "Nada responde";
+    renderPlainParagraphs(darkBargainCopy, ["A entidade recuou antes que o pacto pudesse ser lido."]);
+    darkBargainStatus.textContent = error.message;
+    darkBargainAdvance.classList.add("is-hidden");
+    setDarkBargainDecisionsVisible(false);
+    darkBargainHome.classList.add("is-visible");
+  }
+}
+
 function stopPendingVideoCut() {
   if (!cancelPendingVideoCut) return;
   cancelPendingVideoCut();
@@ -718,8 +1201,8 @@ function hideImagePlayers() {
 function hideVideoPlayers() {
   stopPendingVideoCut();
   videoPlayers.forEach((player) => {
-    player.pause();
     player.classList.remove("is-active");
+    releaseVideoPlayer(player);
   });
 }
 
@@ -729,11 +1212,19 @@ function hideSceneMedia() {
 }
 
 function primeVideo(source) {
-  if (!source || cancelPendingVideoCut || bufferVideo.dataset.source === source) return;
+  if (cancelPendingVideoCut) return;
+
+  if (!source) {
+    releaseVideoPlayer(bufferVideo);
+    return;
+  }
+
+  if (bufferVideo.dataset.source === source && bufferVideo.readyState >= 1) return;
 
   bufferVideo.pause();
   bufferVideo.classList.remove("is-active");
   bufferVideo.loop = false;
+  bufferVideo.preload = "metadata";
   bufferVideo.dataset.source = source;
   bufferVideo.src = source;
   bufferVideo.load();
@@ -901,11 +1392,14 @@ function cutToVideo(source, shouldLoop, version, preloadAfterCut = null) {
   incomingVideo.pause();
   incomingVideo.classList.remove("is-active");
   incomingVideo.loop = shouldLoop;
+  incomingVideo.preload = "auto";
   incomingVideo.addEventListener("error", failCut, { once: true });
 
   if (incomingVideo.dataset.source !== source) {
     incomingVideo.dataset.source = source;
     incomingVideo.src = source;
+    incomingVideo.load();
+  } else if (incomingVideo.readyState < 2) {
     incomingVideo.load();
   }
 
@@ -1010,10 +1504,11 @@ function showVideoChapter(videoKey) {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideDarkBargain();
   finishReading.classList.add("is-hidden");
   textBox.classList.add("is-hidden");
   chapterFourOverlay.classList.remove("is-active");
-  videoPlayers.forEach((player) => player.pause());
+  hideSceneMedia();
   soundtrack.pause();
   chapterTwoSoundtrack.pause();
   chapterThreeSoundtrack.pause();
@@ -1042,6 +1537,7 @@ function showHome() {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideDarkBargain();
   hideVideoChapter();
   finishReading.classList.add("is-hidden");
   textBox.classList.add("is-hidden");
@@ -1139,6 +1635,7 @@ function startChapterOne() {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideDarkBargain();
   hideVideoChapter();
   finishReading.classList.add("is-hidden");
   chapterTwoSoundtrack.pause();
@@ -1165,6 +1662,7 @@ function startChapterTwo() {
   textBox.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideDarkBargain();
   hideVideoChapter();
   chapterTwoCopy.classList.remove("is-hidden");
   finishReading.classList.remove("is-hidden");
@@ -1196,8 +1694,10 @@ function startChapterThree() {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   textBox.classList.add("is-hidden");
+  hideDarkBargain();
   hideVideoChapter();
   finishReading.classList.add("is-hidden");
+  loadDeferredImages(chapterThreeMenu);
   chapterThreeMenu.classList.remove("is-hidden");
   soundtrack.pause();
   chapterTwoSoundtrack.pause();
@@ -1223,6 +1723,7 @@ function startChapterFour() {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideDarkBargain();
   hideVideoChapter();
   finishReading.classList.add("is-hidden");
   soundtrack.pause();
@@ -1260,6 +1761,7 @@ function showChapterComplete(code = "Ossos que Rangem") {
   chapterTwoCopy.classList.add("is-hidden");
   threadCarousel.classList.add("is-hidden");
   chapterThreeMenu.classList.add("is-hidden");
+  hideDarkBargain();
   hideVideoChapter();
   chapterComplete.classList.remove("is-hidden");
   chapterCompleteEyebrow.textContent = "CÓDIGO PARA A PRÓXIMA FASE";
@@ -1316,6 +1818,11 @@ function handleAccessSubmit(event) {
 
   if (accessEntry.type === "video") {
     showVideoChapter(accessEntry.videoKey);
+    return;
+  }
+
+  if (accessEntry.type === "dark-bargain") {
+    showDarkBargain(accessEntry.bargainKey);
     return;
   }
 
@@ -1492,6 +1999,11 @@ function handleAdvance() {
     return;
   }
 
+  if (appMode === "dark-bargain") {
+    advanceDarkBargainPage();
+    return;
+  }
+
   if (appMode !== "chapter") return;
   if (isTransitioning) return;
 
@@ -1626,6 +2138,18 @@ videoChapterHome.addEventListener("click", (event) => {
   window.history.replaceState({}, "", "index.html");
   showHome();
 });
+darkBargainAdvance.addEventListener("click", (event) => {
+  event.stopPropagation();
+  advanceDarkBargainPage();
+});
+darkBargainAccept.addEventListener("click", (event) => {
+  event.stopPropagation();
+});
+darkBargainHome.addEventListener("click", (event) => {
+  event.stopPropagation();
+  window.history.replaceState({}, "", "index.html");
+  showHome();
+});
 
 document.addEventListener("click", handleAdvance);
 document.addEventListener("keydown", (event) => {
@@ -1649,6 +2173,12 @@ document.addEventListener("keydown", (event) => {
     return;
   }
 
+  if (appMode === "dark-bargain" && event.key === "Enter") {
+    event.preventDefault();
+    advanceDarkBargainPage();
+    return;
+  }
+
   if (appMode === "chapter" && event.key === "Enter") {
     event.preventDefault();
     handleAdvance();
@@ -1662,6 +2192,15 @@ if (initialRoute.get("view") === "fios") {
   showThreadCarousel(initialRoute.get("background"));
 } else if (initialRoute.get("view") === "chapter3") {
   startChapterThree();
+} else if (["barganha", "dark-bargain"].includes(initialRoute.get("view"))) {
+  const routeCode = normalizeAccessCode(initialRoute.get("code") ?? initialRoute.get("bargain") ?? "");
+  const routeEntry = ACCESS_CODES[routeCode];
+
+  if (routeEntry?.type === "dark-bargain") {
+    showDarkBargain(routeEntry.bargainKey);
+  } else {
+    showHome();
+  }
 } else {
   showHome();
 }
