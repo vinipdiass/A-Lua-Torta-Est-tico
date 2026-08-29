@@ -475,6 +475,8 @@ const discoveredCodesCount = document.querySelector("#discovered-codes-count");
 const TYPE_DELAY = 52;
 const MUSIC_VOLUME = 0.15;
 const CHAPTER_ENTRY_FALLBACK_MS = 30000;
+const MEDIA_CUT_FALLBACK_MS = 8000;
+const VIDEO_FRAME_FALLBACK_MS = 750;
 const VOLUME_LEVELS = [1, 0.75, 0.5, 0.25, 0];
 const VOLUME_STORAGE_KEY = "a-lua-torta-volume";
 const DISCOVERED_CODES_STORAGE_KEY = "a-lua-torta-discovered-codes";
@@ -1288,11 +1290,14 @@ function cutToImage(source, version, preloadAfterCut = null) {
 
   const outgoingImage = sceneImage;
   const incomingImage = bufferSceneImage;
+  let cutFallbackTimer = null;
   let cancelled = false;
 
   const cleanup = () => {
     incomingImage.removeEventListener("load", finishCut);
     incomingImage.removeEventListener("error", failCut);
+    window.clearTimeout(cutFallbackTimer);
+    cutFallbackTimer = null;
   };
 
   const cancel = () => {
@@ -1331,6 +1336,7 @@ function cutToImage(source, version, preloadAfterCut = null) {
   incomingImage.classList.remove("is-active");
   incomingImage.addEventListener("load", finishCut, { once: true });
   incomingImage.addEventListener("error", failCut, { once: true });
+  cutFallbackTimer = window.setTimeout(failCut, MEDIA_CUT_FALLBACK_MS);
 
   if (incomingImage.dataset.source !== source) {
     incomingImage.dataset.source = source;
@@ -1421,6 +1427,8 @@ function cutToVideo(source, shouldLoop, version, preloadAfterCut = null) {
   const outgoingVideo = video;
   const incomingVideo = bufferVideo;
   let cancelFrameWait = null;
+  let cutFallbackTimer = null;
+  let frameFallbackTimer = null;
   let cancelled = false;
 
   const cleanup = () => {
@@ -1428,6 +1436,10 @@ function cutToVideo(source, shouldLoop, version, preloadAfterCut = null) {
     incomingVideo.removeEventListener("error", failCut);
     if (cancelFrameWait) cancelFrameWait();
     cancelFrameWait = null;
+    window.clearTimeout(cutFallbackTimer);
+    window.clearTimeout(frameFallbackTimer);
+    cutFallbackTimer = null;
+    frameFallbackTimer = null;
   };
 
   const cancel = () => {
@@ -1460,6 +1472,7 @@ function cutToVideo(source, shouldLoop, version, preloadAfterCut = null) {
     incomingVideo.currentTime = 0;
     incomingVideo.play().catch(() => {});
     cancelFrameWait = waitForFirstVideoFrame(incomingVideo, finishCut);
+    frameFallbackTimer = window.setTimeout(finishCut, VIDEO_FRAME_FALLBACK_MS);
   };
 
   const failCut = () => {
@@ -1475,6 +1488,7 @@ function cutToVideo(source, shouldLoop, version, preloadAfterCut = null) {
   incomingVideo.loop = shouldLoop;
   incomingVideo.preload = "auto";
   incomingVideo.addEventListener("error", failCut, { once: true });
+  cutFallbackTimer = window.setTimeout(failCut, MEDIA_CUT_FALLBACK_MS);
 
   if (incomingVideo.dataset.source !== source) {
     incomingVideo.dataset.source = source;
