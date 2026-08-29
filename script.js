@@ -474,6 +474,7 @@ const discoveredCodesCount = document.querySelector("#discovered-codes-count");
 
 const TYPE_DELAY = 52;
 const MUSIC_VOLUME = 0.15;
+const CHAPTER_ENTRY_FALLBACK_MS = 30000;
 const VOLUME_LEVELS = [1, 0.75, 0.5, 0.25, 0];
 const VOLUME_STORAGE_KEY = "a-lua-torta-volume";
 const DISCOVERED_CODES_STORAGE_KEY = "a-lua-torta-discovered-codes";
@@ -516,6 +517,7 @@ let discoveredCodeKeys = getSavedDiscoveredCodes();
 let cancelPendingVideoCut = null;
 let cancelPendingImageCut = null;
 let accessSfxTimer = null;
+let chapterEntryFallbackTimer = null;
 
 videoPlayers.forEach((player) => {
   player.loop = false;
@@ -1152,6 +1154,7 @@ async function showDarkBargain(bargainKey) {
   const meta = DARK_BARGAIN_META.find((bargain) => bargain.key === bargainKey);
   if (!meta) return;
 
+  clearChapterEntryFallback();
   window.clearTimeout(accessSfxTimer);
   accessSfxTimer = null;
   accessSfx.pause();
@@ -1353,22 +1356,59 @@ function waitForFirstVideoFrame(player, callback) {
   return () => window.cancelAnimationFrame(frameId);
 }
 
+function clearChapterEntryFallback() {
+  window.clearTimeout(chapterEntryFallbackTimer);
+  chapterEntryFallbackTimer = null;
+}
+
+function scheduleChapterEntryFallback() {
+  clearChapterEntryFallback();
+
+  const expectedMode = appMode;
+  const expectedVersion = sceneVersion;
+
+  chapterEntryFallbackTimer = window.setTimeout(() => {
+    chapterEntryFallbackTimer = null;
+
+    if (appMode !== expectedMode || sceneVersion !== expectedVersion) return;
+    continueChapterEntry({ skipIntro: true });
+  }, CHAPTER_ENTRY_FALLBACK_MS);
+}
+
+function startPendingChapter() {
+  if (pendingChapter === 1) {
+    startChapterOne();
+  } else if (pendingChapter === 2) {
+    startChapterTwo();
+  } else if (pendingChapter === 3) {
+    startChapterThree();
+  } else if (pendingChapter === 4) {
+    startChapterFour();
+  }
+}
+
+function continueChapterEntry({ skipIntro = false } = {}) {
+  if (appMode !== "home-exit" && appMode !== "chapter-intro") return false;
+
+  clearChapterEntryFallback();
+  videoEnded = true;
+  isTransitioning = false;
+
+  if (appMode === "home-exit" && !skipIntro) {
+    startChapterIntro();
+  } else {
+    startPendingChapter();
+  }
+
+  return true;
+}
+
 function handleVideoFailure() {
   videoEnded = true;
   isTransitioning = false;
 
-  if (appMode === "home-exit") {
-    startChapterIntro();
-  } else if (appMode === "chapter-intro") {
-    if (pendingChapter === 1) {
-      startChapterOne();
-    } else if (pendingChapter === 2) {
-      startChapterTwo();
-    } else if (pendingChapter === 3) {
-      startChapterThree();
-    } else if (pendingChapter === 4) {
-      startChapterFour();
-    }
+  if (continueChapterEntry({ skipIntro: true })) {
+    return;
   } else if (appMode === "chapter" && activeChapter === 1 && sceneIndex === activeScenes.length - 1) {
     showChapterComplete("Ossos que Rangem");
   }
@@ -1529,6 +1569,7 @@ function showVideoChapter(videoKey) {
   const videoChapterData = VIDEO_CHAPTERS[videoKey];
   if (!videoChapterData) return;
 
+  clearChapterEntryFallback();
   window.clearTimeout(accessSfxTimer);
   accessSfxTimer = null;
   accessSfx.pause();
@@ -1563,6 +1604,7 @@ function showVideoChapter(videoKey) {
 }
 
 function showHome() {
+  clearChapterEntryFallback();
   window.clearTimeout(accessSfxTimer);
   accessSfxTimer = null;
   accessSfx.pause();
@@ -1641,6 +1683,7 @@ function startHomeExit(chapterNumber) {
         ? CHAPTER_THREE_INTRO
         : CHAPTER_TWO_INTRO;
   playFeatureVideo(TRANSITION_VIDEO, false, chapterEntryVideo);
+  scheduleChapterEntryFallback();
 }
 
 function startChapterIntro() {
@@ -1660,9 +1703,11 @@ function startChapterIntro() {
         ? CHAPTER_THREE_BACKGROUND
         : CHAPTER_FOUR_SCENES[0].video;
   playFeatureVideo(chapterIntro, false, nextChapterVideo);
+  scheduleChapterEntryFallback();
 }
 
 function startChapterOne() {
+  clearChapterEntryFallback();
   activeScenes = CHAPTER_ONE_SCENES;
   activeChapter = 1;
   appMode = "chapter";
@@ -1692,6 +1737,7 @@ function startChapterOne() {
 }
 
 function startChapterTwo() {
+  clearChapterEntryFallback();
   appMode = "chapter-two-copy";
   renderDiscoveredCodes();
   story.classList.remove("is-chapter");
@@ -1724,6 +1770,7 @@ function startChapterTwo() {
 }
 
 function startChapterThree() {
+  clearChapterEntryFallback();
   appMode = "chapter-three-menu";
   renderDiscoveredCodes();
   story.classList.remove("is-chapter");
@@ -1751,6 +1798,7 @@ function startChapterThree() {
 }
 
 function startChapterFour() {
+  clearChapterEntryFallback();
   activeScenes = CHAPTER_FOUR_SCENES;
   activeChapter = 4;
   appMode = "chapter";
@@ -1789,6 +1837,7 @@ function advanceChapterTwoCopy() {
 }
 
 function showChapterComplete(code = "Ossos que Rangem") {
+  clearChapterEntryFallback();
   appMode = "chapter-complete";
   renderDiscoveredCodes();
   story.classList.remove("is-chapter");
@@ -2045,6 +2094,8 @@ function handleAdvance() {
     return;
   }
 
+  if (continueChapterEntry({ skipIntro: true })) return;
+
   if (appMode !== "chapter") return;
   if (isTransitioning) return;
 
@@ -2089,23 +2140,7 @@ function handleVideoEnded(event) {
     return;
   }
 
-  if (appMode === "home-exit") {
-    startChapterIntro();
-    return;
-  }
-
-  if (appMode === "chapter-intro") {
-    if (pendingChapter === 1) {
-      startChapterOne();
-    } else if (pendingChapter === 2) {
-      startChapterTwo();
-    } else if (pendingChapter === 3) {
-      startChapterThree();
-    } else if (pendingChapter === 4) {
-      startChapterFour();
-    }
-    return;
-  }
+  if (continueChapterEntry()) return;
 
   if (appMode !== "chapter") return;
 
@@ -2217,6 +2252,12 @@ document.addEventListener("keydown", (event) => {
   if (appMode === "dark-bargain" && event.key === "Enter") {
     event.preventDefault();
     advanceDarkBargainPage();
+    return;
+  }
+
+  if ((appMode === "home-exit" || appMode === "chapter-intro") && event.key === "Enter") {
+    event.preventDefault();
+    continueChapterEntry({ skipIntro: true });
     return;
   }
 
