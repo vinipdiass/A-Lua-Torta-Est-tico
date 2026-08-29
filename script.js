@@ -785,7 +785,7 @@ function parseDestinyThreads(source) {
 }
 
 function loadDestinyThreads() {
-  destinyThreadsPromise ??= fetch(window.luaTortaAssetPath("fios_do_destino.txt"))
+  destinyThreadsPromise ??= fetch(window.luaTortaAssetPath("fios_do_destino.txt"), { cache: "no-store" })
     .then((response) => {
       if (!response.ok) throw new Error("Não foi possível carregar os Fios do Destino.");
       return response.text();
@@ -921,7 +921,7 @@ function parseDarkBargains(source) {
 }
 
 function loadDarkBargains() {
-  darkBargainsPromise ??= fetch(window.luaTortaAssetPath("dark_bargains.txt"))
+  darkBargainsPromise ??= fetch(window.luaTortaAssetPath("dark_bargains.txt"), { cache: "no-store" })
     .then((response) => {
       if (!response.ok) throw new Error("Não foi possível carregar as Barganhas Sombrias.");
       return response.text();

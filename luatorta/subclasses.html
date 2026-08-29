@@ -3,6 +3,9 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <meta name="theme-color" content="#160b04">
     <title>Subclasses | Brilho Esquecido</title>
     <link rel="icon" type="image/webp" href="../assets/icone.webp">
@@ -66,9 +69,16 @@
       <p id="subclass-status" class="species-status" role="status">Consultando os caminhos…</p>
     </main>
 
-    <script>window.LUA_TORTA_ASSET_BASE = "../";</script>
-    <script src="../asset-paths.js"></script>
-    <script src="../subclasses.js"></script>
-    <script src="../chapter3-ambience.js"></script>
+    <script>
+      window.LUA_TORTA_ASSET_BASE = "../";
+      window.LUA_TORTA_CACHE_BUST = Date.now().toString(36);
+      window.luaTortaLoadFreshScripts = function luaTortaLoadFreshScripts(paths) {
+        const version = encodeURIComponent(window.LUA_TORTA_CACHE_BUST);
+        paths.forEach((path) => {
+          document.write(`<script src="${path}${path.includes("?") ? "&" : "?"}v=${version}"><\/script>`);
+        });
+      };
+      window.luaTortaLoadFreshScripts(["../asset-paths.js", "../subclasses.js", "../chapter3-ambience.js"]);
+    </script>
   </body>
 </html>

@@ -298,7 +298,7 @@ async function initializeSubclasses() {
   subclassPrev.disabled = true;
   subclassNext.disabled = true;
   try {
-    const response = await fetch(window.luaTortaAssetPath("subclasses.txt"));
+    const response = await fetch(window.luaTortaAssetPath("subclasses.txt"), { cache: "no-store" });
     if (!response.ok) throw new Error("Não foi possível carregar subclasses.txt.");
     subclasses = parseSubclasses(await response.text());
     if (subclasses.length !== 15) throw new Error(`Foram encontradas ${subclasses.length} de 15 subclasses.`);

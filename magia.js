@@ -96,7 +96,7 @@ async function initialize() {
   const requestedSlug = params.get("spell");
   const classId = params.get("classe");
   try {
-    const response = await fetch(window.luaTortaAssetPath("magias.txt"));
+    const response = await fetch(window.luaTortaAssetPath("magias.txt"), { cache: "no-store" });
     if (!response.ok) throw new Error("Não foi possível carregar magias.txt.");
     const spells = SpellData.parseSpells(await response.text());
     const spell = spells.find((entry) => entry.slug === requestedSlug);

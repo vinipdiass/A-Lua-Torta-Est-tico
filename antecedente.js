@@ -243,7 +243,7 @@ async function loadBackgroundSource() {
 
   for (const candidate of candidates) {
     try {
-      const response = await fetch(window.luaTortaAssetPath(candidate));
+      const response = await fetch(window.luaTortaAssetPath(candidate), { cache: "no-store" });
       if (response.ok) return response.text();
     } catch {
       // Tenta a próxima variação de nome do arquivo.
@@ -254,7 +254,7 @@ async function loadBackgroundSource() {
 }
 
 async function loadTalentSource() {
-  const response = await fetch(window.luaTortaAssetPath("talentos.txt"));
+  const response = await fetch(window.luaTortaAssetPath("talentos.txt"), { cache: "no-store" });
   if (!response.ok) throw new Error("Não foi possível carregar o arquivo de talentos.");
   return response.text();
 }

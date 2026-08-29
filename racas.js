@@ -274,7 +274,7 @@ async function initializeSpecies() {
   speciesNext.disabled = true;
 
   try {
-    const response = await fetch(window.luaTortaAssetPath("raças.txt"));
+    const response = await fetch(window.luaTortaAssetPath("raças.txt"), { cache: "no-store" });
     if (!response.ok) throw new Error("Não foi possível carregar o arquivo raças.txt.");
     species = parseSpecies(await response.text());
     if (species.length !== 13) throw new Error(`Foram encontradas ${species.length} de 13 raças.`);

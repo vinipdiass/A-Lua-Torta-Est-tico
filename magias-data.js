@@ -133,11 +133,16 @@ window.luaTortaAssetPath ??= (path) => path;
       "cursed-cacophony": "Cursed-Cacophany",
       "sanctum-of-the-shepherd": "Sanctum-of-the-Sheperd",
     };
+    const lowercaseWords = new Set(["of", "the"]);
     const baseName = aliases[spell.slug] ?? spell.originalName
       .toLowerCase()
       .replace(/[’']/g, "")
       .split(/\s+/)
-      .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+      .map((word, index) => (
+        index > 0 && lowercaseWords.has(word)
+          ? word
+          : word.charAt(0).toUpperCase() + word.slice(1)
+      ))
       .join("-");
     return window.luaTortaAssetPath(`assets/magias/${baseName}.webp`);
   }
