@@ -208,6 +208,10 @@ const STORY_ACCESS_CODES = {
   "ossos que rangem": { type: "story", chapter: 4, label: "Ossos que Rangem" },
 };
 
+const PAGE_ACCESS_CODES = {
+  "barganhas sombrias": { type: "page", href: "barganhas.html", label: "Barganhas Sombrias" },
+};
+
 const DARK_BARGAIN_META = [
   { key: "despertar-bestial", title: "Despertar Bestial", sourceTitle: "DESPERTAR BESTIAL", image: window.luaTortaAssetPath("assets/dark_bargains/Bestial Awakening.webp") },
   { key: "chamado-do-solitario", title: "Chamado do Solitário", sourceTitle: "CHAMADO DO SOLITÁRIO", image: window.luaTortaAssetPath("assets/dark_bargains/Call of the Lonely.webp") },
@@ -226,6 +230,7 @@ const DARK_BARGAIN_META = [
 
 const ACCESS_CODES = {
   ...STORY_ACCESS_CODES,
+  ...PAGE_ACCESS_CODES,
   ...Object.fromEntries(DARK_BARGAIN_META.map((bargain) => [
     normalizeAccessCode(bargain.title),
     { type: "dark-bargain", bargainKey: bargain.key, label: bargain.title },
@@ -1927,6 +1932,11 @@ function handleAccessSubmit(event) {
 
   if (accessEntry.type === "dark-bargain") {
     showDarkBargain(accessEntry.bargainKey);
+    return;
+  }
+
+  if (accessEntry.type === "page") {
+    window.location.href = accessEntry.href;
     return;
   }
 

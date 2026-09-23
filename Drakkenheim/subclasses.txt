@@ -1,0 +1,3471 @@
+ALIENISTA
+Apotecário
+
+Um Alienista busca dominar os mistérios da mente. Após dedicar anos ao estudo do funcionamento interno do cérebro e à liberação de seu potencial latente, um Alienista é capaz de ler e manipular os pensamentos de outras pessoas e até mesmo distorcer a própria realidade.
+
+Eles acessam realidades incompreensíveis e moldam o mundo de acordo com sua vontade utilizando energias psíquicas extraídas de conhecimentos sobrenaturais e arcanos.
+
+NÍVEL 3: PSICOLOGIA AVANÇADA
+
+Você ganha proficiência na perícia Arcanismo.
+
+Se já possuir essa proficiência, você ganha proficiência em outra perícia à sua escolha.
+
+NÍVEL 3: MAGIAS DO ALIENISTA
+
+Você sempre possui determinadas magias preparadas após alcançar certos níveis nesta classe, conforme mostrado na tabela Magias do Alienista.
+
+Essas magias contam como magias de Apotecário para você, mas não contam no número de magias de Apotecário que você pode preparar.
+
+MAGIAS DO ALIENISTA
+
+Nível 3:
+
+* Enfeitiçar Pessoa
+* Detectar Pensamentos
+* Rajada Mística
+* Riso Histérico de Tasha
+* Sugestão
+
+Nível 5:
+
+* Padrão Hipnótico
+* Imagem Maior
+
+Nível 7:
+
+* Olho Arcano
+* Porta Dimensional
+
+Nível 9:
+
+* Dominar Pessoa
+* Modificar Memória
+
+NÍVEL 3: INFLUÊNCIA MENTAL
+
+Você estudou arduamente para acessar os recantos mais profundos de sua própria psique, liberando um potencial psíquico até então inexplorado.
+
+Essa energia é representada por uma reserva de Pontos Psiônicos.
+
+Você possui 4 Pontos Psiônicos a partir do 3º nível.
+
+Você ganha mais 2 Pontos Psiônicos no 6º nível, outros 2 no 10º nível e mais 2 no 14º nível, chegando a um total de 10 Pontos Psiônicos.
+
+Você pode gastar esses pontos para utilizar os diversos poderes psiônicos descritos abaixo.
+
+Se tiver gasto todos os seus Pontos Psiônicos, você não poderá utilizar esses poderes.
+
+Você recupera todos os Pontos Psiônicos gastos ao terminar um Descanso Curto ou Descanso Longo.
+
+AVANÇO CEREBRAL
+
+Quando você lança uma magia de Apotecário que causa dano, pode gastar 1 Ponto Psiônico para rolar novamente qualquer quantidade dos dados.
+
+Você deve utilizar os novos resultados.
+
+MENTE SOBRE A MATÉRIA
+
+Sempre que sofrer dano, você pode usar sua Reação e gastar 1 Ponto Psiônico para reduzir o dano sofrido em:
+
+1d4 + seu nível de Apotecário.
+
+SUSSURRADOR MENTAL
+
+Quando você lança uma magia de Apotecário que não causa dano, pode gastar 1 Ponto Psiônico para conjurá-la sem quaisquer componentes Somáticos ou Verbais.
+
+Se essa magia afetar outra criatura, ela não percebe que a magia se originou de você.
+
+VÍNCULO METAFÍSICO
+
+Como uma ação, você pode escolher uma quantidade de criaturas a até 3 m (10 pés) de você igual, no máximo, ao seu Bônus de Proficiência e gastar 1 Ponto Psiônico.
+
+Você imediatamente cria um vínculo psíquico com cada uma dessas criaturas.
+
+O vínculo dura uma quantidade de horas igual ao seu nível de Apotecário ou até que você decida encerrá-lo, sem necessidade de ação.
+
+Todas as criaturas vinculadas dessa maneira podem se comunicar telepaticamente umas com as outras enquanto estiverem a até 30 m (100 pés) umas das outras.
+
+NÍVEL 6: MANIPULAÇÃO DA FORÇA
+
+Seu domínio mental permite que você controle o próprio tecido da realidade ao seu redor, desafiando a gravidade e impulsionando seu corpo pelo ar utilizando apenas sua mente.
+
+Como uma Ação Bônus, você pode gastar 1 Ponto Psiônico para receber um Deslocamento de Voo igual ao seu Deslocamento durante 1 minuto.
+
+Durante esse período, você pode pairar.
+
+NÍVEL 10: MAGIA MENTAL
+
+Você recebe os seguintes poderes psiônicos adicionais:
+
+EFEITOS PRESCRITOS
+
+Uma vez por turno, quando um alvo que você possa ver a até 9 m (30 pés) de você obtiver sucesso em um teste de resistência de Inteligência, Sabedoria ou Carisma contra uma magia lançada por você, você pode gastar 1 Ponto Psiônico para inundar a mente dele com energia psiônica desordenada.
+
+O alvo deve rolar novamente o d20 e utilizar o menor dos dois resultados no teste de resistência, podendo transformar um sucesso em uma falha.
+
+MENTALMENTE PREPARADO
+
+Uma vez por turno, quando um alvo que você possa ver a até 9 m (30 pés) de você, incluindo você mesmo, falhar em um teste de resistência de Inteligência, Sabedoria ou Carisma, você pode gastar 1 Ponto Psiônico.
+
+Adicione seu modificador de Inteligência ao teste de resistência da criatura, possivelmente transformando a falha em um sucesso.
+
+RESPOSTA DE LUTA OU FUGA
+
+Como uma Ação Bônus, você pode gastar 1 Ponto Psiônico para se teletransportar por até 9 m (30 pés) para um espaço desocupado que possa ver.
+
+Imediatamente após o teletransporte, você recebe Pontos de Vida Temporários iguais ao dobro do seu modificador de Inteligência.
+
+NÍVEL 14: AUTODIAGNÓSTICO
+
+Se você não possuir nenhum Ponto Psiônico restante, pode usar uma Ação Bônus e gastar um espaço de magia para recuperar:
+
+1d4 + 1 Pontos Psiônicos.
+
+Você também recebe os seguintes poderes psiônicos:
+
+EXAME CUIDADOSO
+
+Sempre que lançar uma magia que restaure Pontos de Vida de uma criatura, você pode gastar 1 Ponto Psiônico.
+
+Se fizer isso, todas as criaturas afetadas pela magia recuperam uma quantidade adicional de Pontos de Vida igual ao dobro do seu modificador de Inteligência.
+
+CEREBELO APRIMORADO
+
+Quando você lança qualquer magia de 1º nível ou superior concedida pela sua característica Magias do Alienista, pode conjurá-la normalmente gastando um espaço de magia ou gastar uma quantidade de Pontos Psiônicos igual ao nível da magia.
+
+NÍVEL 18: MENTE IMPENETRÁVEL
+
+Você possui Resistência a dano Psíquico e Imunidade às condições Enfeitiçado e Amedrontado.
+
+Magia não pode fazer você dormir.
+
+Além disso, você possui Vantagem em testes de resistência contra magias que tentem ler seus pensamentos ou controlar sua mente ou suas ações, como Dominar Pessoa.
+
+Adicionalmente, quando utiliza sua característica Autodiagnóstico para recuperar Pontos Psiônicos gastando um espaço de magia, você passa a recuperar uma quantidade de Pontos Psiônicos igual ao nível do espaço de magia utilizado.
+--
+QUÍMICO
+
+Apotecário
+
+Um Químico é um cientista estudioso cuja pesquisa avançada sobre compostos químicos lhe concedeu a capacidade de aterrorizar seus inimigos com explosões alquímicas, gases devastadores e outras misturas horrendas. Químicos adoram testar seus novos compostos em campo e estão sempre dispostos a aprofundar seus estudos e pesquisas, buscando novas combinações para incinerar seus inimigos.
+
+NÍVEL 3: COMPOSTO QUÍMICO
+
+Você ganha proficiência com Suprimentos de Alquimista.
+
+NÍVEL 3: MAGIAS DO QUÍMICO
+
+Você sempre possui determinadas magias preparadas após alcançar certos níveis nesta classe, conforme mostrado na tabela Magias do Químico.
+
+Essas magias contam como magias de Apotecário para você, mas não contam no número de magias de Apotecário que você pode preparar.
+
+MAGIAS DO QUÍMICO
+
+Nível 3:
+
+* Flecha Ácida de Melf
+* Mãos Flamejantes
+* Raio de Fogo
+* Esfera Flamejante
+* Faca de Gelo
+* Raio de Gelo
+
+Nível 5:
+
+* Bola de Fogo
+* Nuvem Fétida
+
+Nível 7:
+
+* Tempestade de Gelo
+* Muralha de Fogo
+
+Nível 9:
+
+* Névoa Mortal
+* Cone de Frio
+
+NÍVEL 3: APLICAÇÃO PRECISA
+
+Quando você lança uma magia que causa dano Ácido, Frio, Fogo, Elétrico ou Veneno a outras criaturas que você possa ver, pode escolher uma quantidade delas igual ao seu modificador de Inteligência.
+
+As criaturas escolhidas obtêm sucesso automaticamente em seus testes de resistência contra a magia e não sofrem dano caso normalmente sofressem metade do dano ao obter sucesso no teste.
+
+NÍVEL 6: MÉTODO CIENTÍFICO
+
+Sua pesquisa dedicada sobre compostos químicos e suas aplicações práticas lhe concede habilidades adicionais em campo.
+
+REAÇÃO EM CADEIA
+
+Quando você lança um truque de Apotecário que normalmente tenha apenas uma criatura como alvo e cause dano Ácido, Frio, Fogo, Elétrico ou Veneno, a magia pode, em vez disso, ter duas criaturas como alvo, desde que ambas estejam dentro do alcance da magia.
+
+CONDICIONAMENTO QUÍMICO
+
+Como uma ação de Magia, você pode conceder a uma criatura que esteja tocando, incluindo você mesmo, Resistência a dano Ácido, Frio, Fogo, Elétrico ou Veneno durante 1 hora.
+
+Esse benefício termina imediatamente se você usar esta característica novamente.
+
+NÍVEL 10: MAGIAS ENGARRAFADAS
+
+Você pode armazenar uma magia da sua característica Magias do Químico na forma de um líquido dentro de um pequeno frasco ou garrafa que esteja tocando ao lançar a magia.
+
+A magia não produz nenhum efeito além de ser armazenada na garrafa.
+
+A magia permanece armazenada até que uma criatura abra a garrafa.
+
+Quando você usa esta característica, qualquer magia engarrafada não utilizada que tenha criado anteriormente se torna inerte, e você não pode engarrafar outra magia até terminar um Descanso Curto.
+
+Qualquer criatura segurando a garrafa pode gastar uma ação para abri-la e lançar a magia armazenada.
+
+A magia utiliza seu bônus de ataque mágico e sua CD para evitar suas magias, mas, para todos os demais efeitos, considera a criatura que a liberou como o conjurador.
+
+A partir do 18º nível, você pode manter duas magias engarrafadas ativas ao mesmo tempo, em vez de apenas uma.
+
+NÍVEL 14: AJUSTE ELEMENTAL
+
+Quando você lança uma magia utilizando um espaço de magia de Apotecário que cause um dos tipos de dano da lista abaixo, pode alterar esse tipo de dano para qualquer outro tipo presente na mesma lista:
+
+* Ácido
+* Frio
+* Fogo
+* Elétrico
+* Veneno
+
+Além disso, você pode usar uma Ação Bônus para analisar uma criatura que possa ver a até 30 m (100 pés) de você.
+
+Você descobre imediatamente se ela possui Resistência, Imunidade ou Vulnerabilidade a qualquer um dos tipos de dano listados acima.
+
+NÍVEL 18: CATACLISMO QUÍMICO
+
+Quando você lança uma magia que cause dano Ácido, Frio, Fogo, Elétrico ou Veneno utilizando um espaço de magia de Apotecário, ela é considerada como se tivesse sido lançada utilizando um espaço de magia de 7º nível.
+--
+EXORCISTA
+
+Apotecário
+
+Um Exorcista vem preparado para lidar com entidades malignas, espíritos sinistros e ínferos aterrorizantes. Equipado com seu símbolo sagrado, um livro de orações e uma bolsa cheia de objetos ritualísticos, ele está sempre pronto para enfrentar as entidades mais antinaturais e sobrenaturais dos reinos.
+
+Um Exorcista está acostumado a encarar ameaças aparentemente insuperáveis. Com um símbolo sagrado em mãos, ele não teme nada e se coloca como um escudo entre os reinos dos homens e os dos monstros.
+
+NÍVEL 3: ESTUDO ESPIRITUAL
+
+Devido ao seu estudo científico de espíritos malignos, Celestiais, Mortos-Vivos, Fadas e Ínferos, você recebe os seguintes benefícios.
+
+EQUIPADO PARA ESTUDOS DE CAMPO
+
+Você ganha proficiência com Armaduras Pesadas.
+
+A CIÊNCIA DA FÉ
+
+Você ganha proficiência nas perícias Religião e História.
+
+Se já possuir essas proficiências, você ganha proficiência em outra perícia à sua escolha.
+
+INVESTIGADOR DE ASSOMBRAÇÕES
+
+Você pode sentir a presença de Mortos-Vivos, Celestiais, Fadas ou Ínferos a até 36 m (120 pés) de você.
+
+Além disso, possui Vantagem em testes de Percepção e Investigação realizados para encontrar ou rastrear essas criaturas.
+
+NÍVEL 3: MAGIAS DO EXORCISTA
+
+Você sempre possui determinadas magias preparadas após alcançar certos níveis nesta classe, conforme mostrado na tabela Magias do Exorcista.
+
+Essas magias contam como magias de Apotecário para você, mas não contam no número de magias de Apotecário que você pode preparar.
+
+MAGIAS DO EXORCISTA
+
+Nível 3:
+
+* Bênção
+* Orientação
+* Proteção contra o Bem e o Mal
+* Chama Sagrada
+* Arma Espiritual
+* Zona da Verdade
+
+Nível 5:
+
+* Contramágica
+* Guardiões Espirituais
+
+Nível 7:
+
+* Banimento
+* Últimos Ritos
+
+Nível 9:
+
+* Dissipar o Bem e o Mal
+* Consagrar
+
+NÍVEL 3: PRÁTICAS PARANORMAIS
+
+Você ganha a capacidade de usar seu conhecimento ocultista para influenciar entidades paranormais ao seu redor, expulsando sua presença ou utilizando seus poderes.
+
+Quando usa esta característica, você escolhe qual efeito deseja criar.
+
+Você pode usar esta característica uma quantidade de vezes igual ao seu modificador de Inteligência e recupera todos os usos gastos ao terminar um Descanso Longo.
+
+EXORCISMO
+
+Como uma Ação Bônus, você utiliza sua ciência paranormal para remover influências nocivas.
+
+Escolha uma criatura a até 1,5 m (5 pés) de você.
+
+Você encerra uma das seguintes condições que esteja afetando o alvo:
+
+* Cego
+* Enfeitiçado
+* Surdo
+* Amedrontado
+* Paralisado
+* Envenenado
+
+Alternativamente, você pode encerrar uma maldição que esteja afetando o alvo.
+
+Se o alvo estiver sob efeito de uma magia ou habilidade que permita a outra criatura controlar suas ações, você encerra esse efeito sobre o alvo.
+
+Se uma criatura tiver causado a condição, maldição ou efeito de controle que você encerrou, essa criatura sofre dano Psíquico igual a:
+
+2d8 + seu nível de Apotecário.
+
+RITUAIS DE PROTEÇÃO
+
+Como uma ação de Magia, você invoca a energia de espíritos ou entidades planares para proteger você e seus aliados.
+
+Escolha uma quantidade de criaturas a até 3 m (10 pés) de você igual, no máximo, ao seu Bônus de Proficiência.
+
+Você cria uma proteção vinculada a essas criaturas, e todas elas recebem os benefícios da mesma proteção.
+
+A proteção dura 10 minutos ou até que uma das seguintes situações ocorra:
+
+* Você decida encerrá-la, sem necessidade de ação.
+* Você use esta característica novamente.
+* Você fique Incapacitado.
+
+Quando cria a proteção, escolha um dos benefícios abaixo.
+
+PROTEÇÃO DO MATADOR DE ÍNFEROS
+
+Uma vez por turno, o alvo pode adicionar seu modificador de Inteligência a uma jogada de dano realizada contra um único alvo.
+
+PROTEÇÃO DO ABRIGO CELESTIAL
+
+A Classe de Armadura do alvo aumenta em uma quantidade igual à metade do seu Bônus de Proficiência, arredondada para baixo.
+
+PROTEÇÃO DA LIBERTAÇÃO FEÉRICA
+
+O alvo possui Resistência a dano Psíquico.
+
+Além disso, possui Vantagem em testes de resistência contra as condições Enfeitiçado e Amedrontado.
+
+PROTEÇÃO DA SALVAÇÃO DOS MORTOS-VIVOS
+
+O alvo possui Resistência a dano Necrótico e Veneno.
+
+Além disso, seu máximo de Pontos de Vida e seus valores de atributos não podem ser reduzidos.
+
+PROTEÇÃO DO VIGOR ABERRANTE
+
+O alvo possui Vantagem em Salvaguardas contra a Morte e testes de resistência de Constituição.
+
+NÍVEL 6: NEGAÇÃO
+
+Você possui Imunidade à condição Amedrontado e não pode ser possuído ou amaldiçoado.
+
+Além disso, possui Vantagem em testes de resistência contra ser Enfeitiçado.
+
+Como uma Reação, quando uma criatura hostil que você possa ver tiver você ou um aliado a até 18 m (60 pés) como alvo de um ataque, magia ou outro efeito, você pode gastar um espaço de magia de Apotecário ou um uso de sua característica Práticas Paranormais.
+
+A criatura deve realizar um teste de resistência de Carisma contra sua CD para evitar suas magias.
+
+Em caso de falha, a ação que ela estava tentando realizar falha, e quaisquer recursos utilizados são desperdiçados.
+
+NÍVEL 10: PROTEÇÃO FORTALECIDA
+
+Sua proteção sustenta a vitalidade de seus aliados.
+
+Quando uma criatura afetada por seus Rituais de Proteção for reduzida a 0 Pontos de Vida, ela pode realizar um teste de resistência de Constituição com CD igual a:
+
+5 + o dano sofrido.
+
+Em vez de realizar esse teste de resistência, a criatura pode escolher encerrar a proteção sobre si mesma, obtendo sucesso automaticamente no teste.
+
+Em caso de sucesso, a criatura fica com 1 Ponto de Vida em vez de 0 e recupera uma quantidade de Pontos de Vida igual ao seu nível de Apotecário.
+
+Se a criatura tiver encerrado a proteção para obter sucesso automaticamente, ela recupera, em vez disso, uma quantidade de Pontos de Vida igual ao dobro do seu nível de Apotecário.
+
+NÍVEL 14: RITOS PROTETORES
+
+Você pode canalizar energia ocultista para suas tinturas curativas e magias.
+
+Você recebe as seguintes características.
+
+CURA FORTALECIDA
+
+Sempre que você lança uma magia que tenha uma única criatura como alvo e restaure seus Pontos de Vida, essa magia restaura a quantidade máxima possível de Pontos de Vida.
+
+Além disso, a criatura imediatamente recebe uma quantidade de Pontos de Vida Temporários igual ao seu nível de Apotecário.
+
+VÍNCULO ESPECTRAL
+
+Sempre que você utiliza uma magia ou característica que cure um aliado, você também recebe uma quantidade de Pontos de Vida Temporários igual ao dobro do seu modificador de Inteligência.
+
+NÍVEL 18: PROTEÇÃO PÊNTADE
+
+Em vez de escolher um único efeito para suas proteções, as criaturas afetadas recebem os benefícios de todas as suas proteções simultaneamente.
+--
+MUTAGENISTA
+
+Apotecário
+
+Mutagenistas pesquisaram um soro que injetam em si mesmos para se transformar em uma forma monstruosa. Eles usam o próprio corpo como condutor desse poder e se lançam contra seus inimigos como aberrações colossais.
+
+Passam suas vidas pesquisando e descobrindo novas formas de aprimorar e modificar o soro, na esperança de alcançar aquilo que consideram a forma perfeita.
+
+NÍVEL 3: FILOSOFIA NATURAL
+
+Você ganha proficiência com Suprimentos de Alquimista e com um dos seguintes kits à sua escolha:
+
+* Kit de Herbalismo
+* Kit de Venenos
+
+Você também ganha proficiência em dois idiomas adicionais e na perícia Natureza.
+
+Se já possuir proficiência em Natureza, você ganha proficiência em outra perícia à sua escolha.
+
+NÍVEL 3: MAGIAS DO MUTAGENISTA
+
+Você sempre possui determinadas magias preparadas após alcançar certos níveis nesta classe, conforme mostrado na tabela Magias do Mutagenista.
+
+Essas magias contam como magias de Apotecário para você, mas não contam no número de magias de Apotecário que você pode preparar.
+
+MAGIAS DO MUTAGENISTA
+
+Nível 1:
+
+* Salto
+* Escudo Tóxico
+
+Nível 3:
+
+* Alterar-se
+* Aprimorar Habilidade
+
+Nível 5:
+
+* Velocidade
+* Respirar na Água
+
+Nível 7:
+
+* Polimorfia
+* Pele de Pedra
+
+Nível 9:
+
+* Reencarnação
+* Choque Séptico
+
+NÍVEL 3: ELIXIR TRANSMOGRIFICADOR
+
+Como uma Ação Bônus, você pode gastar um espaço de magia para passar por uma transformação grotesca.
+
+A transformação termina após 1 minuto, caso você seja reduzido a 0 Pontos de Vida ou fique Incapacitado.
+
+Enquanto estiver transformado, você mantém sua personalidade, alinhamento e estatísticas de jogo. Entretanto, as seguintes mudanças ocorrem:
+
+* Seus valores de Força e Inteligência são trocados entre si.
+* Seu tamanho se torna Grande, sua distância de Salto é dobrada e você conta como uma categoria de tamanho maior ao determinar sua capacidade de carga e o peso que pode empurrar, arrastar ou erguer.
+* Cada uma de suas mãos se transforma em um enorme punho carnudo, que pode ser usado para realizar ataques corpo a corpo com arma. Esses punhos contam como armas simples para você. Ao acertar, seus punhos carnudos causam 1d10 + seu modificador de Força + seu nível de Apotecário de dano de Concussão.
+* Você não pode lançar magias nem manter Concentração em magias.
+* Você possui Visão no Escuro com alcance de 36 m (120 pés).
+* Você recebe Pontos de Vida Temporários iguais a cinco vezes seu nível de Apotecário.
+
+Você também amplia suas capacidades de acordo com a potência da mistura utilizada. Esses benefícios dependem do nível do espaço de magia gasto para realizar a transformação:
+
+* Seu Deslocamento aumenta em 1,5 m (5 pés) para cada nível do espaço de magia utilizado.
+* Sua Classe de Armadura é igual a 13 + o nível do espaço de magia utilizado.
+* No início de cada um dos seus turnos, enquanto possuir pelo menos 1 Ponto de Vida, você recupera uma quantidade de Pontos de Vida igual ao nível do espaço de magia utilizado.
+
+NÍVEL 6: ATAQUE EXTRA
+
+A partir do 6º nível, sempre que realizar a ação Atacar em seu turno, você pode atacar duas vezes em vez de uma.
+
+NÍVEL 6: BIOLOGIA POTENTE
+
+Enquanto estiver em sua forma transmogrificada, seus ataques se tornam poderosos o suficiente para superar as maiores defesas de seus inimigos.
+
+Os ataques realizados com seus punhos carnudos contam como mágicos para superar Resistência e Imunidade contra ataques e danos não mágicos.
+
+Quando acerta um ataque com seus punhos carnudos, você pode gastar um espaço de magia para fortalecer o impacto do golpe com uma energia antinatural destrutiva.
+
+Ao gastar um espaço de magia dessa forma, você causa 1d8 de dano de Força adicional para cada nível do espaço de magia utilizado.
+
+NÍVEL 10: GENÉTICA ADAPTATIVA
+
+Você é capaz de usar sua biologia alterada para se proteger das garras da morte.
+
+Quando é reduzido a 0 Pontos de Vida, seja em sua forma natural ou transmogrificada, seu outro eu está pronto para assumir o controle.
+
+FORMA NATURAL
+
+Quando estiver em sua forma natural e for reduzido a 0 Pontos de Vida, você pode imediatamente se transformar usando sua característica Elixir Transmogrificador, gastando um espaço de magia normalmente.
+
+Ao fazer isso, você recupera uma quantidade de Pontos de Vida igual ao seu nível de Apotecário, além de receber os Pontos de Vida Temporários concedidos pela transformação.
+
+FORMA TRANSMOGRIFICADA
+
+Quando for reduzido a 0 Pontos de Vida enquanto estiver em sua forma transmogrificada, você retorna à sua forma natural com 1 Ponto de Vida restante.
+
+Se fizer isso, não poderá assumir novamente sua forma transmogrificada até terminar um Descanso Curto ou Descanso Longo.
+
+NÍVEL 14: EVOLUÇÃO ANTINATURAL
+
+Você pode usar sua característica Fórmulas Superiores para se transmogrificar como se tivesse utilizado um espaço de magia daquele nível.
+
+Quando se transforma dessa forma, você recebe uma das mutações genômicas adicionais descritas abaixo.
+
+GENOMA DRACÔNICO
+
+Asas carnudas crescem de suas costas e sua pele adquire uma aparência escamosa.
+
+Você recebe um Deslocamento de Voo igual ao seu Deslocamento de caminhada.
+
+Além disso, como uma ação, você pode expelir bile em um Cone de 9 m (30 pés).
+
+Todas as criaturas na área devem realizar um teste de resistência de Constituição contra sua CD para evitar suas magias.
+
+Em caso de falha, uma criatura sofre 8d6 de dano Ácido.
+
+Em caso de sucesso, sofre metade desse dano.
+
+Após usar essa característica, você não poderá utilizá-la novamente até terminar um Descanso Curto ou Descanso Longo.
+
+GENOMA GIGANTE
+
+Você se transforma em uma massa colossal de carne e músculos, tornando-se uma verdadeira arma de cerco viva.
+
+Seu tamanho se torna Enorme, e todo dano que você causa a objetos e estruturas é dobrado.
+
+Como uma ação em seu turno, você pode gastar um espaço de magia para golpear o chão com seus punhos, enviando ondas de choque e destroços em todas as direções.
+
+Todas as criaturas em uma Emanação de 9 m (30 pés) de raio devem realizar um teste de resistência de Destreza contra sua CD para evitar suas magias.
+
+Em caso de falha, uma criatura sofre 8d6 de dano de Concussão e fica Caída.
+
+Em caso de sucesso, sofre metade do dano e não fica Caída.
+
+GENOMA CEREBELAR
+
+Você mantém uma fração de sua mente durante a transformação, permitindo que resquícios de seus estudos permaneçam em seu cérebro monstruoso.
+
+Você passa a ser capaz de manter Concentração em magias enquanto estiver em sua forma transmogrificada.
+
+Enquanto estiver transmogrificado, sua Concentração não pode ser interrompida como resultado de sofrer dano.
+
+NÍVEL 18: A NOVA CARNE
+
+Você aperfeiçoou seu Elixir Transmogrificador, rompendo os limites da evolução e levando sua forma até aquilo que considera o ápice evolutivo.
+
+Enquanto estiver transmogrificado, você recebe os seguintes benefícios:
+
+* Enquanto possuir pelo menos 1 Ponto de Vida, pode usar uma Ação Bônus e gastar um espaço de magia para recuperar uma quantidade de Pontos de Vida igual a dez vezes o nível do espaço de magia utilizado.
+* Se falhar em um teste de resistência, você pode usar sua Reação e gastar um espaço de magia para obter sucesso no teste em vez disso.
+* Seu valor de Força se torna igual ao seu valor de Inteligência enquanto estiver transmogrificado.
+* Além disso, você pode lançar magias enquanto estiver em sua forma transmogrificada.
+--
+PATOGENISTA
+
+Apotecário
+
+O estudo de doenças abre caminhos para muitas descobertas científicas perigosas. Especialistas tanto em eliminar enfermidades do corpo quanto nas mutações causadas por doenças infecciosas, os Patogenistas levam seus estudos ao campo de batalha utilizando monstros e inimigos como cobaias para suas infecções.
+
+Anos dedicados a observar cuidadosamente as causas e os efeitos dessas pragas os tornam especialistas na mutação de doenças, permitindo que suas enfermidades se espalhem de maneira aterrorizante e imponham sintomas debilitantes aos inimigos, enfraquecendo seus corpos e abalando suas mentes.
+
+NÍVEL 3: PROFICIÊNCIA EM PRAGAS
+
+Você aprende o truque Toque Arrepiante.
+
+Você ganha proficiência com Kit de Herbalismo.
+
+Se já possuir essa proficiência, você ganha proficiência com outro tipo de Ferramenta de Artesão à sua escolha.
+
+NÍVEL 3: MAGIAS DO PATOGENISTA
+
+Você sempre possui determinadas magias preparadas após alcançar certos níveis nesta classe, conforme mostrado na tabela Magias do Patogenista.
+
+Essas magias contam como magias de Apotecário para você, mas não contam no número de magias de Apotecário que você pode preparar.
+
+MAGIAS DO PATOGENISTA
+
+Nível 1:
+
+* Infectar
+* Infligir Ferimentos
+
+Nível 3:
+
+* Cegueira/Surdez
+* Risco Biológico
+
+Nível 5:
+
+* Pestilência
+* Aura Venenosa
+
+Nível 7:
+
+* Definhar
+* Verme de Sangue
+
+Nível 9:
+
+* Contágio
+* Praga de Insetos
+
+NÍVEL 3: PATÓGENOS PERNICIOSOS
+
+Sempre que uma criatura lançar uma magia ou utilizar uma característica ou habilidade que normalmente curaria ou removeria uma de suas doenças, como lançar Restauração Menor para remover sua magia Infectar, a criatura deve primeiro realizar um teste de atributo utilizando sua habilidade de conjuração.
+
+Se a magia ou habilidade especial não especificar uma habilidade de conjuração, a criatura utiliza seu modificador de Carisma.
+
+A CD desse teste é igual à sua CD para evitar suas magias.
+
+Em caso de falha, a magia, característica ou habilidade da criatura falha e não produz qualquer efeito.
+
+Quaisquer componentes materiais utilizados são consumidos, e qualquer espaço de magia gasto é desperdiçado.
+
+NÍVEL 3: CEPA MUTANTE
+
+Você pode fazer suas doenças evoluírem para causar novos sintomas.
+
+Você aprende duas Cepas Mutantes à sua escolha.
+
+Sempre que ganhar um nível nesta classe, pode substituir uma Cepa Mutante que conheça por outra disponível nesta característica.
+
+Ao alcançar determinados níveis nesta classe, você aprende Cepas Mutantes adicionais, conforme mostrado abaixo.
+
+CEPAS MUTANTES CONHECIDAS
+
+Nível 3:
+2 Cepas
+
+Nível 9:
+3 Cepas
+
+Nível 15:
+4 Cepas
+
+Sempre que lançar uma magia que cause uma doença, como Infectar ou Contágio, você pode aplicar um efeito adicional de uma de suas Cepas Mutantes a um dos alvos da magia.
+
+Esse efeito dura enquanto a magia durar.
+
+As seguintes Cepas Mutantes estão disponíveis para você.
+
+Caso uma Cepa possua um requisito de nível, você deve possuir pelo menos esse nível nesta classe para aprendê-la.
+
+TONTURA
+
+O alvo não pode realizar Reações.
+
+FADIGA
+
+Sempre que o alvo falhar em um teste de resistência contra sua doença, seu Deslocamento é reduzido para 1,5 m (5 pés) até o início do próximo turno dele.
+
+ATAQUES DE TOSSE
+
+No início de cada um de seus turnos, o alvo deve realizar um teste de resistência de Constituição contra sua CD para evitar suas magias.
+
+Em caso de falha, ele não pode falar até o início de seu próximo turno.
+
+CALAFRIOS
+
+O alvo treme de forma incontrolável.
+
+No início de cada um de seus turnos, ele deixa cair qualquer objeto que esteja segurando em suas mãos.
+
+FRAQUEZA
+Requisito: 9º nível
+
+O alvo causa metade do dano com ataques corpo a corpo com arma.
+
+OLHOS SECOS
+Requisito: 9º nível
+
+Sempre que o alvo falhar em um teste de resistência contra sua doença, ele fica Cego até o início de seu próximo turno.
+
+FEBRE INTENSA
+Requisito: 9º nível
+
+O alvo não pode recuperar Pontos de Vida.
+
+LESÕES
+Requisito: 9º nível
+
+O alvo perde quaisquer Resistências a dano que possua.
+
+NÁUSEA
+Requisito: 15º nível
+
+Sempre que o alvo falhar em um teste de resistência contra sua doença, ele fica Incapacitado até o início de seu próximo turno.
+
+DISTROFIA
+Requisito: 15º nível
+
+O alvo se torna Vulnerável a dano de Concussão, Perfurante e Cortante.
+
+NÍVEL 6: INFECÇÃO REVOLUCIONÁRIA
+
+Quando você lança uma magia utilizando um espaço de magia de Apotecário ou sua característica Fórmula Superior que cause uma doença, essa magia ignora qualquer Imunidade a doenças que a criatura possua.
+
+Criaturas que normalmente seriam imunes a doenças realizam, em vez disso, quaisquer testes de resistência contra suas doenças com Vantagem.
+
+NÍVEL 6: SURTO
+
+Quando uma criatura infectada por uma de suas doenças morrer, você pode usar sua Reação para transmitir a doença para outra criatura que possa ver a até 9 m (30 pés) da criatura que morreu.
+
+NÍVEL 10: INCUBAÇÃO INSIDIOSA
+
+Quando começar a lançar Infectar, você pode modificá-la para que não exija Concentração.
+
+Se fizer isso, a duração da magia se torna 1 minuto para essa conjuração.
+
+Depois de utilizar esta característica, você deve terminar um Descanso Curto ou Descanso Longo antes de poder utilizá-la novamente.
+
+NÍVEL 14: IMUNOCOMPROMETIDO
+
+Uma criatura infectada por uma de suas doenças, como Infectar ou Contágio, possui Desvantagem em testes de resistência contra suas magias de Apotecário.
+
+NÍVEL 18: EVOLUÇÃO RÁPIDA
+
+Sempre que você lançar uma magia que cause uma doença, pode aplicar dois efeitos adicionais de suas Cepas Mutantes a um dos alvos da magia, em vez de apenas um.
+--
+REANIMADOR
+
+Apotecário
+
+Um Reanimador é um mestre da vida e da morte. Anos dedicados a aperfeiçoar sua fórmula para trazer os recém-mortos de volta à vida, ou para criar uma nova forma de vida a partir de carne descartada e anatomia remendada, deixam a maioria dos Reanimadores constantemente na tênue linha entre a genialidade e a loucura.
+
+A habilidade de um Reanimador em arrancar a vida das garras da morte o torna especialmente preparado para lidar tanto com a morte quanto com os mortos-vivos.
+
+Sua genialidade insana se manifesta na criação de uma criatura construída com partes de corpos deixadas para trás por seus inimigos, que avança para o combate obedecendo aos seus comandos.
+
+NÍVEL 3: CENTELHA DA VIDA
+
+Você aprende os truques Toque Chocante e Estabilizar.
+
+Eles contam como magias de Apotecário para você e não contam no número de truques de Apotecário que você conhece.
+
+NÍVEL 3: MAGIAS DO REANIMADOR
+
+Você sempre possui determinadas magias preparadas após alcançar certos níveis nesta classe, conforme mostrado na tabela Magias do Reanimador.
+
+Essas magias contam como magias de Apotecário para você, mas não contam no número de magias de Apotecário que você pode preparar.
+
+MAGIAS DO REANIMADOR
+
+Nível 1:
+
+* Vida Falsa
+* Infligir Ferimentos
+
+Nível 3:
+
+* Repouso Tranquilo
+* Revigorar
+
+Nível 5:
+
+* Relâmpago
+* Revivificar
+
+Nível 7:
+
+* Proteção contra a Morte
+* Explosão de Cadáver
+
+Nível 9:
+
+* Reviver os Mortos
+* Gás Nervoso
+
+NÍVEL 3: CRIATURA MOLDADA DE CADÁVERES
+
+Você construiu um companheiro a partir de partes de corpos coletadas e o trouxe à vida utilizando sua magia ocultista: uma Criatura Moldada de Cadáveres.
+
+A criatura é amigável a você e aos seus companheiros e obedece aos seus comandos.
+
+Consulte o bloco de estatísticas da Criatura Moldada de Cadáveres. Diversas características desse bloco utilizam seu Bônus de Proficiência (BP).
+
+Você determina as características cosméticas da criatura. Suas escolhas de aparência não afetam suas estatísticas de jogo.
+
+A CRIATURA EM COMBATE
+
+Em combate, a criatura compartilha sua contagem de Iniciativa, mas realiza seu turno imediatamente após o seu.
+
+Ela pode se mover e usar sua Reação por conta própria, mas a única ação que realiza em seu turno é a ação Esquivar, a menos que você use uma Ação Bônus em seu turno para comandá-la a realizar outra ação.
+
+Essa ação pode ser uma das ações presentes em seu bloco de estatísticas ou alguma outra ação.
+
+Se você estiver Incapacitado, a criatura pode realizar qualquer ação que desejar, não ficando limitada à ação Esquivar.
+
+REANIMANDO A CRIATURA
+
+Se sua Criatura Moldada de Cadáveres tiver morrido durante a última hora, você pode usar seu Kit de Curandeiro como uma ação para revivê-la, desde que esteja a até 1,5 m (5 pés) dela e gaste um espaço de magia de Apotecário.
+
+Após 1 minuto, o companheiro retorna à vida com todos os seus Pontos de Vida restaurados.
+
+CRIANDO UMA NOVA CRIATURA
+
+Ao final de um Descanso Longo, você pode criar uma nova Criatura Moldada de Cadáveres caso tenha seu Kit de Curandeiro consigo e acesso a "materiais" adequados.
+
+Se você já possuir uma Criatura Moldada de Cadáveres criada por esta característica, a criatura anterior morre imediatamente.
+
+A criatura também morre caso você morra.
+
+NÍVEL 6: GUARDA-COSTAS
+
+Quando uma criatura a até 1,5 m (5 pés) de sua Criatura Moldada de Cadáveres realizar um ataque contra você, sua criatura pode usar a Reação dela para realizar um ataque corpo a corpo com arma contra o atacante.
+
+Além disso, o ataque de Pancada de sua Criatura Moldada de Cadáveres conta como mágico para superar Resistência e Imunidade contra ataques e danos não mágicos.
+
+Você também pode lançar Animar Mortos uma vez utilizando um espaço de magia de Apotecário.
+
+Após fazer isso, você não poderá lançar a magia dessa maneira novamente até terminar um Descanso Longo.
+
+NÍVEL 6: CABEÇA REANIMADA
+
+Você reanimou a cabeça de um humanoide morto, que agora auxilia em seus estudos.
+
+Você pode utilizar a cabeça como Foco de Conjuração.
+
+A cabeça fala Comum e um outro idioma à sua escolha.
+
+Sempre que realizar um teste de atributo de Inteligência no qual possa adicionar seu Bônus de Proficiência, você pode considerar qualquer resultado de 9 ou menos no d20 como um resultado 10.
+
+Além disso, você ganha proficiência nas perícias Arcanismo e Investigação.
+
+Você pode utilizar a cabeça para lançar Falar com os Mortos sem gastar um espaço de magia.
+
+Depois de utilizar essa característica, você não poderá utilizá-la novamente até terminar um Descanso Curto ou Descanso Longo.
+
+NÍVEL 10: CONTEMPLEM, MINHA CRIAÇÃO
+
+O tamanho de sua Criatura Moldada de Cadáveres aumenta para Grande, e seu Deslocamento aumenta para 12 m (40 pés).
+
+Quando sua Criatura Moldada de Cadáveres atingir uma criatura com um ataque corpo a corpo, ela pode imediatamente tentar Agarrar o alvo.
+
+A CD para escapar desse Agarrão é igual a:
+
+8 + modificador de Força da Criatura Moldada de Cadáveres (+4) + seu Bônus de Proficiência.
+
+NÍVEL 14: FÚRIA BERSERKER
+
+Quando você comandar sua Criatura Moldada de Cadáveres a realizar a ação Atacar, ela pode realizar dois ataques.
+
+NÍVEL 18: NÃO CONSIGO PARAR O MONSTRO QUE CRIEI
+
+O tamanho de sua Criatura Moldada de Cadáveres aumenta para Enorme.
+
+Seu alcance passa a ser de 3 m (10 pés), e seu Deslocamento aumenta para 15 m (50 pés).
+
+Seu ataque de Pancada causa 1d8 de dano de Concussão adicional.
+
+Além disso, o peso que sua Criatura Moldada de Cadáveres pode empurrar ou erguer é dobrado.
+--
+COLÉGIO DOS ARAUTOS
+
+Em Caspia, todo descendente da nobreza tem canções entoadas sobre sua grandeza. No Colégio Lento, bardos ambiciosos sonham em integrar as cortes das grandes casas caspianas, se apresentar no palco da Torre das Espadas ou anunciar uma investida no Coliseu Rex.
+
+No entanto, apenas os artistas mais talentosos — aqueles capazes de entrelaçar glória, grandiosidade e espetáculo em um único verso — conquistam tamanho reconhecimento.
+
+Os bardos do Colégio dos Arautos dedicam-se a engrandecer a reputação de seus companheiros. Por meio de versos engenhosos e retórica mágica, eles elevam sua comitiva ao status de heróis, transformando aliados em lendas e campeões em ícones.
+
+Suas palavras inspiram coragem, influenciam a opinião pública e moldam a forma como o mundo se lembrará de cada feito.
+
+Onde quer que um Arauto vá, sagas surgem em seu rastro — independentemente de os feitos narrados terem realmente acontecido.
+
+NÍVEL 3: FANFARRÃO PRESUNÇOSO
+
+Você praticou a arte de se gabar. Quando fala sobre os triunfos de seus aliados, todos prestam atenção.
+
+Você possui Vantagem em qualquer teste de Carisma (Enganação, Intimidação ou Persuasão) que envolva invocar ou exaltar a habilidade e as capacidades de seus aliados.
+
+NÍVEL 3: INSPIRAR GRANDEZA
+
+Você desenvolveu a habilidade de inspirar seu grupo por meio de suas palavras e canções, fortalecendo suas capacidades e inflando seus egos para as provações que estão por vir.
+
+Quando lançar uma magia utilizando um espaço de magia de 1º nível ou superior que tenha apenas um aliado como alvo, você também pode conceder a esse aliado um dado de Inspiração de Bardo como parte da mesma ação.
+
+Isso não consome um uso de sua Inspiração de Bardo.
+
+NÍVEL 6: NÃO FOI ASSIM QUE ACONTECEU
+
+A magia de suas palavras é capaz de reescrever a história enquanto ela é contada, apagando qualquer registro de uma possível derrota.
+
+Quando um aliado que possua um dos seus dados de Inspiração de Bardo for reduzido a 0 Pontos de Vida, ele pode gastar esse dado para, em vez disso, ficar com 1 Ponto de Vida.
+
+Em seguida, ele imediatamente rola o dado de Inspiração de Bardo e recupera uma quantidade de Pontos de Vida igual ao resultado obtido.
+
+NÍVEL 14: PROCLAMAÇÃO GLORIOSA
+
+Suas canções e histórias chegaram aos lugares mais distantes, sendo contadas e recontadas e, com o passar do tempo, cada vez mais exageradas.
+
+Seus campeões agora são lendas conhecidas por todos aqueles que ousariam enfrentá-los.
+
+Quando você lançar uma magia de 1º nível ou superior utilizando um espaço de magia e que tenha apenas um aliado como alvo, pode escolher um segundo aliado dentro do alcance da magia para também ser afetado por ela.
+
+Ambos os aliados podem se beneficiar de sua característica Inspirar Grandeza.
+--
+DOMÍNIO DO JULGAMENTO
+
+Enfrente as forças das trevas com a luz ardente do julgamento.
+
+O Domínio do Julgamento pertence aos clérigos que marcham sem hesitar para a guerra santa. Eles não se limitam a defender a luz: caçam as sombras que buscam consumi-la.
+
+Esses clérigos são executores da vontade divina, portando armas radiantes e uma determinação inabalável. Para eles, nenhum culto secreto, heresia oculta ou tirano sedento por poder pode permanecer escondido para sempre. Todo crime acaba sendo revelado, e todos devem responder quando o julgamento é proclamado.
+
+Muitos clérigos deste domínio marcham sob os estandartes da Ordem de Prata, guiados pela Chama Sagrada até o coração da batalha.
+
+Embora a Chama seja uma força de redenção e aceitação, sua luz não é cega. Os Clérigos do Julgamento compreendem uma verdade severa: alguns jamais buscarão redenção, enquanto outros dedicarão suas vidas a apagar a própria luz.
+
+Contra esses inimigos, a misericórdia não é negada, mas o julgamento é inevitável.
+
+As origens do Domínio do Julgamento remontam às guerras contra os Reis Feiticeiros, quando pacifistas e guardiões da paz foram obrigados a pegar em armas contra a tirania.
+
+Naqueles anos sombrios, a Chama Sagrada queimava não apenas como símbolo de esperança, mas também como uma sentença contra os corruptos.
+
+Ver um clérigo avançando com uma arma radiante em mãos significava saber que a Chama já havia proferido seu veredito — e que os culpados não escapariam.
+
+NÍVEL 3: SOLDADO DA FÉ
+
+Você foi treinado para levar um julgamento rápido àqueles que se opõem ao seu domínio.
+
+Você recebe as seguintes características:
+
+MAESTRIA COM ARMAS
+
+Seu treinamento com armas permite que você utilize a propriedade de Maestria de um tipo de arma à sua escolha com o qual possua proficiência, como uma Espada Longa ou um Martelo de Guerra.
+
+Sempre que terminar um Descanso Longo, você pode trocar o tipo de arma escolhido.
+
+Por exemplo, você poderia passar a utilizar a propriedade de Maestria dos Manguals.
+
+SABEDORIA DO GUERREIRO
+
+Você pode escolher talentos de Estilo de Luta como se possuísse a característica Estilo de Luta.
+
+SENTIR O MEDO
+
+Você sabe se uma criatura a até 36 m (120 pés) de você possui Imunidade à condição Amedrontado.
+
+NÍVEL 3: MAGIAS DO DOMÍNIO
+
+Sua ligação com este domínio divino garante que você sempre tenha determinadas magias preparadas.
+
+Quando alcançar um nível de Clérigo especificado abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+MAGIAS DO DOMÍNIO DO JULGAMENTO
+
+Nível 3:
+
+* Comando
+* Golpe Colérico
+* Zona da Verdade
+* Nuvem de Adagas
+* Ataque Certeiro
+
+Nível 5:
+
+* Manto do Cruzado
+* Medo
+
+Nível 7:
+
+* Assassino Fantasmagórico
+* Golpe Atordoante
+
+Nível 9:
+
+* Círculo de Poder
+* Invocar Celestial
+
+NÍVEL 3: JULGAMENTO ATERRADOR
+
+Como uma Ação Bônus, você apresenta seu Símbolo Sagrado e gasta um uso de Canalizar Divindade para invocar o julgamento divino sobre seus inimigos.
+
+Cada criatura à sua escolha que possa ver e ouvir você a até 9 m (30 pés) deve realizar um teste de resistência de Sabedoria.
+
+Em caso de falha, o alvo fica Amedrontado durante 1 minuto ou até sofrer dano.
+
+Enquanto uma criatura estiver Amedrontada dessa maneira, ataques realizados contra ela possuem Vantagem.
+
+NÍVEL 6: ATAQUE EXTRA
+
+Sempre que realizar a ação Atacar em seu turno, você pode realizar dois ataques em vez de um.
+
+Além disso, você pode substituir um desses ataques pela conjuração de um de seus truques de Clérigo cujo tempo de conjuração seja de uma ação.
+
+NÍVEL 6: VEREDITO DO JÚRI
+
+Criaturas Amedrontadas por você possuem Desvantagem em testes de resistência contra suas magias.
+
+Além disso, quando você obtiver um Acerto Crítico contra uma criatura com um ataque realizado usando uma arma, essa criatura possui Desvantagem no próximo teste de resistência que realizar contra uma magia lançada por você antes do final do seu próximo turno.
+
+NÍVEL 17: DECRETO DO EXECUTOR
+
+Suas magias de Clérigo e seus poderes de Canalizar Divindade ignoram Imunidade à condição Amedrontado.
+
+Essa característica não funciona contra criaturas que possuam Resistência Lendária ou Resistência Épica.
+
+Além disso, criaturas Amedrontadas por você possuem Vulnerabilidade a dano Radiante.
+--
+DOMÍNIO DAS SOMBRAS
+
+Os clérigos da Chama Sagrada sabem que a vida é, a todo momento, um equilíbrio entre luz e escuridão.
+
+A maioria dos clérigos sustenta a chama, cujo propósito divino é conter as trevas e oferecer orientação àqueles que partem deste mundo. Os Clérigos do Domínio das Sombras, por outro lado, estão em sintonia com o lado sombrio do divino.
+
+Eles existem para preservar o equilíbrio de todas as coisas, utilizando os poderes das sombras contra seus inimigos. Sabem que nem todos são dignos da luz e, portanto, enviar horrores profanos para as trevas é sua forma de justiça.
+
+NÍVEL 3: MAGIAS DO DOMÍNIO
+
+Sua conexão com este domínio divino garante que você sempre tenha determinadas magias preparadas.
+
+Quando alcançar um nível de Clérigo especificado abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+MAGIAS DO DOMÍNIO DAS SOMBRAS
+
+Nível 3:
+
+* Vida Falsa
+* Sono
+* Escuridão
+* Passos sem Pegadas
+
+Nível 5:
+
+* Padrão Hipnótico
+* Indetectável
+
+Nível 7:
+
+* Tentáculos Negros de Evard
+* Invisibilidade Maior
+
+Nível 9:
+
+* Cone de Frio
+* Sonho
+
+NÍVEL 3: TRUQUES ADICIONAIS
+
+Você aprende os truques Toque Arrepiante e Ilusão Menor.
+
+Esses truques contam como magias de Clérigo para você e não contam no número de truques de Clérigo que você conhece.
+
+NÍVEL 3: VISÃO DAS SOMBRAS
+
+Você pode enxergar normalmente na escuridão, tanto mágica quanto não mágica, a uma distância de até 90 m (300 pés).
+
+NÍVEL 3: CANALIZAR DIVINDADE — MANTO DA NOITE
+
+Você pode utilizar seu Canalizar Divindade para invocar sombras protetoras.
+
+Como uma ação, você invoca um véu de sombras mágicas que dura 1 minuto.
+
+Quando fizer isso, escolha uma criatura que possa ver a até 18 m (60 pés) de você, podendo escolher a si mesmo. A criatura escolhida é envolvida pelo Manto da Noite.
+
+Enquanto o manto durar, a criatura possui Resistência a todos os tipos de dano enquanto estiver em luz baixa ou escuridão.
+
+Além disso, quando você manifesta o Manto da Noite, todas as fontes de luz não mágicas a até 18 m (60 pés) de você são apagadas.
+
+Fontes de luz mágicas criadas por uma magia são dissipadas caso o nível da magia seja igual ou inferior ao seu Bônus de Proficiência.
+
+NÍVEL 6: SOMBRAS CAMBIANTES
+
+Você pode distorcer as sombras ao redor de outras criaturas para transportá-las através do espaço.
+
+Como uma ação, escolha uma criatura que possa ver a até 18 m (60 pés) de você e que esteja em luz baixa ou escuridão.
+
+Você teletransporta essa criatura por até 18 m (60 pés) para um espaço desocupado à sua escolha que possa ver e que também esteja em luz baixa ou escuridão.
+
+O espaço escolhido deve estar sobre uma superfície ou em um líquido capaz de sustentar o alvo sem que ele precise se espremer.
+
+Uma criatura involuntária pode realizar um teste de resistência de Sabedoria contra sua CD para evitar suas magias.
+
+Em caso de sucesso, ela não é afetada.
+
+Você pode utilizar esta característica uma quantidade de vezes igual ao seu Bônus de Proficiência.
+
+Você recupera todos os usos gastos ao terminar um Descanso Longo.
+
+NÍVEL 17: RENASCIDO NAS TREVAS
+
+Enquanto estiver na escuridão, você recupera 10 Pontos de Vida no início de cada um dos seus turnos.
+
+Se sofrer dano Radiante, essa regeneração deixa de funcionar até o início do seu próximo turno.
+
+Você só pode morrer caso não consiga se regenerar no início do seu turno.
+
+Além disso, você não envelhece enquanto estiver na escuridão.
+--
+CÍRCULO DA CONTAMINAÇÃO
+
+Como os druidas geralmente estão em sintonia com a natureza e com a ordem natural, a maioria considera o delerium uma praga sobre o mundo.
+
+Entretanto, alguns poucos enxergam a verdade: essas pedras sobrenaturais são uma parte essencial da ordem natural, ainda que façam parte de um processo que ocorre em escala cósmica.
+
+Druidas do Círculo da Contaminação utilizam as rochas corrompidas e a Bruma contaminante como condutores para uma evolução sobrenatural. Eles abraçaram o poder caótico do delerium como uma extensão do próprio caos inerente à ordem natural, espalhando a Bruma e utilizando-a como uma poderosa aliada para alimentar suas magias.
+
+NÍVEL 3: TRUQUES CONTAMINADOS
+
+Você aprende os truques Toque Arrepiante e Agulha Venenosa.
+
+Esses truques contam como magias de Druida para você e não contam no número de truques de Druida que você conhece.
+
+NÍVEL 3: MAGIAS DO CÍRCULO
+
+Sua conexão com a Contaminação concede acesso a determinadas magias.
+
+Quando alcançar um nível de Druida especificado abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+Essas magias não contam no número de magias de Druida que você pode preparar.
+
+Se uma dessas magias não estiver normalmente na lista de magias de Druida, ela ainda conta como uma magia de Druida para você.
+
+MAGIAS DO CÍRCULO DA CONTAMINAÇÃO
+
+Nível 3:
+
+* Risco Biológico
+* Mutação Controlada
+
+Nível 5:
+
+* Purgar Contaminação
+* Aura Venenosa
+
+Nível 7:
+
+* Transformação Horrífica
+* Onda Venenosa
+
+Nível 9:
+
+* Chuva Ácida
+* Barragem Tóxica
+
+NÍVEL 3: MAGIA CORROMPIDA
+
+Sua magia se tornou uma distorção grotesca dos princípios druídicos, permitindo que você molde suas magias de acordo com suas necessidades.
+
+Magias que conjuram criaturas, plantas ou manifestações da natureza assumem aparências doentias e corrompidas. Plantas podem surgir como tentáculos carnudos e enfermos, enquanto animais invocados apresentam mutações, tumores e deformações antinaturais.
+
+Além disso, quando você lança uma magia, pode utilizar uma das seguintes opções de Magia Corrompida:
+
+MAGIA DUPLICADA
+
+Se a magia lançada tiver apenas uma criatura como alvo e não possuir alcance Pessoal, você pode gastar um uso de sua Forma Selvagem para escolher uma segunda criatura dentro do alcance como alvo da mesma magia.
+
+Para utilizar esta opção, a magia deve ser incapaz de afetar mais de uma criatura no nível em que está sendo lançada.
+
+MAGIA ACELERADA
+
+Quando lançar uma magia cujo tempo de conjuração seja de uma ação, você pode gastar um uso de sua Forma Selvagem para lançá-la como uma Ação Bônus.
+
+MAGIA CORRUPTORA
+
+Quando rolar o dano de uma magia, você pode gastar um uso de sua Forma Selvagem para alterar todo o dano causado pela magia para dano Necrótico.
+
+Além disso, você pode rolar novamente uma quantidade de dados de dano igual ao seu modificador de Sabedoria, com um mínimo de um dado.
+
+Você deve utilizar os novos resultados.
+
+MAGIA PURIFICADA
+
+Quando lançar uma magia contaminada, você pode gastar um uso de sua Forma Selvagem para conjurá-la sem receber um Nível de Contaminação.
+
+NÍVEL 6: DEVASTADOR
+
+Você ganha Resistência a dano de Veneno e Necrótico.
+
+NÍVEL 6: CICLO DA CONTAMINAÇÃO
+
+Embora sua magia esteja impregnada de poder contaminado, você também aprendeu formas eficientes de expulsar essas energias.
+
+Você pode lançar Purgar Contaminação como uma ação sem gastar um espaço de magia.
+
+Quando lançar a magia dessa maneira:
+
+* Você não precisa fornecer seus componentes materiais.
+* O alvo não recebe níveis de Exaustão causados por essa conjuração.
+
+Depois de lançar Purgar Contaminação dessa maneira, você não poderá fazê-lo novamente até terminar um Descanso Longo.
+
+NÍVEL 10: ABSORVER CORRUPÇÃO
+
+Você aprende a absorver Contaminação para alimentar seus poderes druídicos.
+
+Uma vez por turno, como uma Ação Bônus, você pode receber 1 Nível de Contaminação.
+
+Ao fazer isso, você recupera um uso de sua Forma Selvagem.
+
+NÍVEL 10: PROFANAR OS ELEMENTOS
+
+Você aprende a magia Invocar Elemental de Delerium e sempre a possui preparada.
+
+Essa magia não conta no número de magias de Druida que você pode preparar.
+
+Você pode lançar essa magia uma vez sem:
+
+* Gastar um espaço de magia.
+* Fornecer componentes materiais.
+* Receber um Nível de Contaminação.
+
+Você recupera a capacidade de lançá-la dessa maneira ao terminar um Descanso Longo.
+
+Quando lançar essa magia, você também pode modificá-la para que não exija Concentração.
+
+Se fizer isso, a duração da magia para essa conjuração passa a ser de 1 minuto.
+
+NÍVEL 14: AURA DA BRUMA
+
+Você se tornou um foco tão intenso de Contaminação que passa a projetar a própria Bruma ao redor do seu corpo.
+
+Essa aura permanece ativa enquanto você não estiver Incapacitado.
+
+Criaturas à sua escolha que começarem seus turnos a até 3 m (10 pés) de você devem realizar um teste de resistência de Constituição contra sua CD para evitar suas magias.
+
+Em caso de falha, a criatura sofre:
+
+3d6 de dano Necrótico.
+
+Se a criatura falhar no teste de resistência por 5 ou mais, ela também recebe 1 Nível de Contaminação.
+
+Uma criatura que obtiver sucesso no teste de resistência contra sua Aura da Bruma fica imune aos efeitos dessa característica durante 24 horas.
+--
+COMANDANTE
+
+Entre as nações de Westemär, Elyria e Caspia, incontáveis guerras já foram travadas. Grandes cavaleiros, soldados valorosos e combatentes poderosos testaram suas habilidades contra homens e monstros.
+
+Entre os mais corajosos, porém, sempre existem aqueles que nasceram para liderar — e o Comandante é exatamente isso.
+
+Ele permanece na linha de frente da batalha, unindo seus aliados e liderando a investida contra seus inimigos.
+
+NÍVEL 3: PREPARADO PARA LIDERAR
+
+Você ganha proficiência nas perícias História e Persuasão, caso ainda não as possua.
+
+Seu Bônus de Proficiência é dobrado em qualquer teste de atributo que utilize uma dessas proficiências.
+
+NÍVEL 3: COMANDOS DE BATALHA
+
+Como uma Ação Bônus, você pode emitir um Comando de Batalha para um aliado a até 36 m (120 pés) de você que possa ouvi-lo.
+
+Escolha um dos seguintes comandos:
+
+CONTINUE LUTANDO!
+
+O alvo recupera uma quantidade de Pontos de Vida igual a:
+
+1d10 + seu nível de Guerreiro.
+
+Depois que uma criatura recuperar Pontos de Vida através deste comando, ela não poderá recuperar Pontos de Vida através dele novamente até terminar um Descanso Curto ou Descanso Longo.
+
+PELA GLÓRIA!
+
+O alvo pode usar sua Reação para realizar um ataque com uma arma corpo a corpo ou à distância.
+
+MEXA-SE!
+
+O alvo pode usar sua Reação para se mover uma distância igual ao seu Deslocamento sem provocar Ataques de Oportunidade.
+
+NÃO VACILE!
+
+O alvo encerra sobre si uma das seguintes condições:
+
+* Enfeitiçado
+* Amedrontado
+
+Depois que uma criatura se beneficiar deste comando, ela não poderá se beneficiar dele novamente até terminar um Descanso Curto ou Descanso Longo.
+
+NÍVEL 7: COMANDANTE DESTEMIDO
+
+Você ganha proficiência em testes de resistência de Sabedoria.
+
+Além disso, possui Vantagem em testes de resistência contra efeitos que poderiam deixá-lo Enfeitiçado ou Amedrontado.
+
+NÍVEL 10: COMANDO COORDENADO
+
+Quando emitir um Comando de Batalha em seu turno, você pode escolher dois aliados em vez de um.
+
+Você pode conceder o mesmo comando aos dois aliados ou um comando diferente para cada um.
+
+Ambos os alvos devem estar a até 36 m (120 pés) de você e ser capazes de ouvi-lo.
+
+NÍVEL 15: ESTRATÉGIA ADAPTATIVA
+
+Quando emitir um Comando de Batalha, cada alvo recebe Vantagem na próxima jogada de ataque ou teste de resistência que realizar antes do final do seu próximo turno.
+
+NÍVEL 18: CHAMADO À AÇÃO
+
+Quando você utiliza sua característica Surto de Ação, pode abrir mão da ação adicional que receberia.
+
+Se fizer isso, escolha um aliado que possa ver.
+
+Esse aliado realiza imediatamente um turno adicional completo após o término do seu turno.
+--
+CAMINHO DA MÃO ARCANA
+
+Monges que praticam o Caminho da Mão Arcana treinam seus corpos e almas para entrar em sintonia com a Trama da magia arcana.
+
+Eles são capazes de canalizar essas energias cósmicas e utilizá-las para alimentar suas práticas marciais.
+
+Embora não tenham nascido com o dom da magia, os monges desta tradição conquistaram domínio sobre algumas das formas mais puras e naturais do poder arcano.
+
+NÍVEL 3: EDUCAÇÃO ERUDITA
+
+Você ganha proficiência na perícia Arcanismo.
+
+Sempre que realizar um teste de atributo de Inteligência, você recebe um bônus no teste igual ao seu modificador de Sabedoria, com um bônus mínimo de +1.
+
+NÍVEL 3: CONJURAÇÃO
+
+Ao alcançar o 3º nível, você adquire a capacidade de lançar magias.
+
+Você utiliza a lista de magias de Mago para esta característica.
+
+FOCO DE CONJURAÇÃO
+
+Você pode utilizar uma Arma de Monge como Foco Arcano para as magias concedidas por esta característica.
+
+TRUQUES
+
+Você aprende dois truques à sua escolha da lista de magias de Mago.
+
+Sempre que ganhar um nível de Monge, você pode substituir um desses truques por outro truque à sua escolha da lista de magias de Mago.
+
+Ao alcançar o 10º nível de Monge, você aprende um truque de Mago adicional à sua escolha.
+
+ESPAÇOS DE MAGIA
+
+A tabela Conjuração do Caminho da Mão Arcana mostra quantos espaços de magia você possui para lançar suas magias de 1º nível ou superior.
+
+Para lançar uma dessas magias, você deve gastar um espaço de magia do nível da magia ou superior.
+
+Você recupera todos os espaços de magia gastos ao terminar um Descanso Longo.
+
+CONJURAÇÃO DO CAMINHO DA MÃO ARCANA
+
+Nível 3:
+Magias Preparadas: 3
+Espaços de 1º nível: 2
+
+Nível 4:
+Magias Preparadas: 4
+Espaços de 1º nível: 3
+
+Nível 5:
+Magias Preparadas: 4
+Espaços de 1º nível: 3
+
+Nível 6:
+Magias Preparadas: 4
+Espaços de 1º nível: 3
+
+Nível 7:
+Magias Preparadas: 5
+Espaços de 1º nível: 4
+Espaços de 2º nível: 2
+
+Nível 8:
+Magias Preparadas: 6
+Espaços de 1º nível: 4
+Espaços de 2º nível: 2
+
+Nível 9:
+Magias Preparadas: 6
+Espaços de 1º nível: 4
+Espaços de 2º nível: 2
+
+Nível 10:
+Magias Preparadas: 7
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+
+Nível 11:
+Magias Preparadas: 8
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+
+Nível 12:
+Magias Preparadas: 8
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+
+Nível 13:
+Magias Preparadas: 9
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+Espaços de 3º nível: 2
+
+Nível 14:
+Magias Preparadas: 10
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+Espaços de 3º nível: 2
+
+Nível 15:
+Magias Preparadas: 10
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+Espaços de 3º nível: 2
+
+Nível 16:
+Magias Preparadas: 11
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+Espaços de 3º nível: 3
+
+Nível 17:
+Magias Preparadas: 11
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+Espaços de 3º nível: 3
+
+Nível 18:
+Magias Preparadas: 11
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+Espaços de 3º nível: 3
+
+Nível 19:
+Magias Preparadas: 12
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+Espaços de 3º nível: 3
+Espaços de 4º nível: 1
+
+Nível 20:
+Magias Preparadas: 13
+Espaços de 1º nível: 4
+Espaços de 2º nível: 3
+Espaços de 3º nível: 3
+Espaços de 4º nível: 1
+
+MAGIAS PREPARADAS DE 1º NÍVEL OU SUPERIOR
+
+No 3º nível, escolha três magias de 1º nível da lista de magias de Mago. Essas magias ficam preparadas para você.
+
+A quantidade de magias que você pode manter preparadas aumenta conforme você ganha níveis de Monge, conforme indicado na tabela Conjuração do Caminho da Mão Arcana.
+
+Sempre que essa quantidade aumentar, escolha magias adicionais da lista de magias de Mago até atingir o número indicado na tabela.
+
+Cada magia escolhida deve ser de um nível para o qual você possua espaços de magia.
+
+ALTERANDO SUAS MAGIAS PREPARADAS
+
+Sempre que ganhar um nível de Monge, você pode substituir uma das magias de 1º nível ou superior preparadas por esta característica por outra magia da lista de magias de Mago.
+
+A nova magia deve ser de um nível para o qual você possua espaços de magia.
+
+HABILIDADE DE CONJURAÇÃO
+
+Sabedoria é sua habilidade de conjuração para essas magias, pois você aprende e domina sua magia através de contemplação e meditação.
+
+Você utiliza Sabedoria sempre que uma magia concedida por esta característica fizer referência à sua habilidade de conjuração.
+
+Além disso, você utiliza seu modificador de Sabedoria para determinar a CD para evitar suas magias e suas jogadas de ataque mágico.
+
+CD para evitar suas magias =
+8 + seu modificador de Sabedoria + seu Bônus de Proficiência
+
+Modificador de ataque mágico =
+seu modificador de Sabedoria + seu Bônus de Proficiência
+
+NÍVEL 3: RAJADA ARCANA
+
+Você aprendeu a entrelaçar suas artes marciais e sua magia em um único fluxo de combate.
+
+Sempre que realizar a ação Atacar em seu turno, você pode substituir um dos ataques por um de seus truques cujo tempo de conjuração seja de uma ação.
+
+Além disso, quando usar sua Rajada de Golpes, você pode, em vez de realizar os Ataques Desarmados concedidos pela característica, lançar uma magia cujo tempo de conjuração seja de uma ação como parte da mesma Ação Bônus.
+
+Você ainda deve gastar o Ponto de Foco normalmente para utilizar Rajada de Golpes.
+
+NÍVEL 6: FORTALECIMENTO ARCANO
+
+Enquanto estiver mantendo Concentração em uma magia, você adiciona ao dano de seus Ataques Desarmados e ataques realizados com Armas de Monge um bônus igual ao dobro do nível da magia em que está se concentrando.
+
+Por exemplo, enquanto estiver mantendo Concentração em uma magia de 2º nível, esses ataques causam 4 pontos de dano adicional.
+
+NÍVEL 11: PODER DO FOCO
+
+Quando lançar uma magia utilizando um espaço de magia, você pode gastar Pontos de Foco para aumentar o nível efetivo da magia como se tivesse utilizado um espaço de magia de nível superior.
+
+Você lança a magia utilizando um espaço de magia normalmente e, em seguida, pode gastar 1 Ponto de Foco para cada nível adicional que desejar acrescentar à magia.
+
+O nível final da magia não pode ser superior ao seu Bônus de Proficiência.
+
+Por exemplo, como um Monge de 11º nível, seu Bônus de Proficiência é +4. Se lançar Raio Ardente utilizando um espaço de magia de 2º nível, você pode gastar 2 Pontos de Foco para tratá-la como se tivesse sido lançada utilizando um espaço de magia de 4º nível.
+
+NÍVEL 11: RESISTÊNCIA À MAGIA
+
+Você possui Vantagem em testes de resistência contra magias e efeitos mágicos.
+
+Além disso, possui Resistência a dano causado por magias e efeitos mágicos.
+
+NÍVEL 17: CONJURAÇÃO MEDITATIVA
+
+Quando lançar uma magia de 1º nível ou superior cujo tempo de conjuração seja de uma ação e que exija Concentração, você pode gastar uma quantidade de Pontos de Foco igual ao nível da magia para alterar sua conjuração.
+
+Se fizer isso, a magia não exige Concentração.
+
+Em vez disso, sua duração passa a ser de até 1 minuto ou sua duração máxima normal, o que for menor.
+--
+CAMINHO DA SERPENTE
+
+Mestre da lança, este ágil guerreiro utiliza armas de haste não apenas como armas, mas como extensões do próprio corpo, empregando-as para ampliar sua mobilidade, capacidade de manobra e eficiência em combate.
+
+Como uma serpente escondida na relva, aqueles que seguem o Caminho da Serpente aprimoram sua capacidade de prever ataques, manter inimigos à distância e atacar com precisão mortal.
+
+NÍVEL 3: ESTILO DA SERPENTE
+
+Você ganha proficiência com Glaive, Alabarda, Pique, Tridente e lanças e armas de haste semelhantes.
+
+Essas armas contam como Armas de Monge para você, mesmo que possuam as propriedades Pesada ou Duas Mãos.
+
+Empunhar uma arma com a propriedade Duas Mãos não impede você de realizar Ataques Desarmados.
+
+Além disso, enquanto estiver empunhando um Bordão, Lança ou Tridente com as duas mãos, essa arma recebe a propriedade Alcance.
+
+NÍVEL 3: SALTO DA SERPENTE
+
+Você pode utilizar armas de haste para impulsionar seu corpo pelo campo de batalha.
+
+Enquanto estiver empunhando uma arma com a propriedade Alcance, sua distância de salto é dobrada.
+
+Além disso, quando gastar 1 Ponto de Foco ao utilizar Passo do Vento enquanto estiver empunhando uma arma com a propriedade Alcance, sua distância de salto é triplicada durante esse turno, em vez de dobrada.
+
+Você também recebe Vantagem na próxima jogada de ataque corpo a corpo que realizar antes do final desse turno.
+
+NÍVEL 6: GOLPES DA SERPENTE
+
+Você aprende as seguintes técnicas para aprimorar seus ataques:
+
+GOLPE DA COBRA
+
+Quando uma criatura que você possa ver entrar no alcance de um de seus ataques corpo a corpo, você pode usar sua Reação para realizar um ataque corpo a corpo contra ela.
+
+GOLPE DA PÍTON
+
+Quando atingir uma criatura com um Ataque de Oportunidade usando uma Arma de Monge ou um Ataque Desarmado, você pode aplicar seu Golpe Atordoante a esse ataque sem gastar o Ponto de Foco normalmente exigido.
+
+Você ainda deve respeitar o limite normal de uso do Golpe Atordoante.
+
+GOLPE DA VÍBORA
+
+Uma vez em cada um dos seus turnos, quando atingir uma criatura com um ataque corpo a corpo com arma, você pode gastar 1 ou mais Pontos de Foco, até uma quantidade máxima igual ao seu Bônus de Proficiência.
+
+O ataque causa 1d6 de dano de Veneno adicional, mais 1d6 de dano de Veneno adicional para cada Ponto de Foco gasto.
+
+Além disso, o alvo fica Envenenado até o final do seu próximo turno.
+
+NÍVEL 11: POSTURAS DA SERPENTE
+
+No início do seu turno, você pode assumir uma Postura da Serpente, sem necessidade de ação.
+
+Quando fizer isso, escolha uma das posturas abaixo.
+
+A postura permanece ativa até que você fique Incapacitado ou utilize esta característica novamente para assumir outra postura.
+
+POSTURA DA ANACONDA
+
+Enquanto estiver nesta postura, o alcance de seus ataques corpo a corpo com arma e Ataques Desarmados aumenta em 3 m (10 pés).
+
+POSTURA DA MAMBA-NEGRA
+
+Enquanto estiver nesta postura, uma vez por turno, quando errar um ataque com arma, você pode realizar imediatamente um ataque corpo a corpo adicional como parte da mesma ação.
+
+POSTURA DO COUATL
+
+Enquanto estiver nesta postura, você recebe um Deslocamento de Voo igual ao seu Deslocamento de caminhada.
+
+POSTURA DA MARILITH
+
+Enquanto estiver nesta postura, você pode realizar uma Reação em cada turno de um combate, em vez de apenas uma Reação por rodada.
+
+Você ainda pode realizar apenas uma Reação durante cada turno.
+
+NÍVEL 17: SERPENTE SUPREMA
+
+Quando assumir uma Postura da Serpente, você pode assumir duas Posturas da Serpente simultaneamente em vez de apenas uma.
+
+Você recebe os benefícios de ambas as posturas.
+--
+JURAMENTO DAS MALDIÇÕES
+
+Aqueles que fazem o Juramento das Maldições juram lealdade a covens de bruxas, criaturas feéricas e divindades ocultistas ligadas à magia, ao destino e à morte.
+
+Em troca, esse juramento sagrado concede aos paladinos uma magia instável e sinistra, permitindo-lhes amaldiçoar aqueles que tentam desafiar o destino ou escapar da ira dos Deuses Antigos.
+
+PRECEITOS DAS MALDIÇÕES
+
+SERVIR AO OCULTO
+
+Divindades que exercem poder sobre o futuro infundiram você com magia ocultista.
+
+Através de seu juramento, você se tornou um receptáculo mortal para a vontade insondável dessas entidades.
+
+GUARDIÃO DOS SEGREDOS
+
+Este mundo abriga segredos sombrios que deveriam permanecer esquecidos.
+
+Você protege esses segredos, impedindo que caiam nas mãos de mortais de vontade fraca que poderiam utilizá-los para fins malignos.
+
+ÁRBITRO DO DESTINO
+
+Os fios do destino foram tecidos há muito tempo, e tentar resistir a eles é uma insensatez.
+
+O infortúnio alcança a todos.
+
+NÃO DEMONSTRE MISERICÓRDIA
+
+Embora alguns considerem seus estranhos poderes sombrios ou corrompidos, você combate o mal utilizando as próprias maldições e magias que seus inimigos empregariam contra você.
+
+Não demonstre misericórdia àqueles que resistem ao próprio destino.
+
+NÍVEL 3: MAGIAS DO JURAMENTO
+
+A magia de seu juramento garante que você sempre tenha determinadas magias preparadas.
+
+Quando alcançar um nível de Paladino especificado abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+Essas magias contam como magias de Paladino para você.
+
+MAGIAS DO JURAMENTO DAS MALDIÇÕES
+
+Nível 3:
+
+* Repreensão Infernal
+* Riso Histérico de Tasha
+
+Nível 5:
+
+* Invisibilidade
+* Sugestão
+
+Nível 9:
+
+* Rogar Maldição
+* Medo
+
+Nível 13:
+
+* Porta Dimensional
+* Polimorfia
+
+Nível 17:
+
+* Dominar Pessoa
+* Despistar
+
+TRUQUE DO JURAMENTO
+
+No 3º nível, você também aprende o truque Rajada Mística.
+
+Ele conta como uma magia de Paladino para você, e Carisma é sua habilidade de conjuração para esse truque.
+
+Rajada Mística não conta no número de truques que você possa conhecer através de outras características.
+
+NÍVEL 3: CANALIZAR DIVINDADE
+
+Seu juramento concede as seguintes opções adicionais para sua característica Canalizar Divindade.
+
+Sempre que utilizar uma dessas opções, você gasta um uso de Canalizar Divindade.
+
+MALDIÇÃO DOS FEITIÇOS
+
+Como uma ação, você gasta um uso de Canalizar Divindade e amaldiçoa uma criatura que possa ver a até 9 m (30 pés).
+
+Escolha um dos seis atributos:
+
+* Força
+* Destreza
+* Constituição
+* Inteligência
+* Sabedoria
+* Carisma
+
+Durante 1 minuto, ou até que o alvo seja reduzido a 0 Pontos de Vida ou fique Inconsciente, ele possui Desvantagem nas seguintes rolagens que utilizem o atributo escolhido:
+
+* Jogadas de ataque
+* Testes de resistência
+* Testes de atributo
+
+No final de cada um dos turnos da criatura amaldiçoada, ela pode realizar um teste de resistência de Carisma contra sua CD para evitar suas magias.
+
+Em caso de sucesso, a maldição termina.
+
+MALDIÇÃO DO TORMENTO
+
+Como uma Ação Bônus, você gasta um uso de Canalizar Divindade e amaldiçoa uma criatura que possa ver a até 9 m (30 pés).
+
+Uma dor abrasadora atormenta o alvo durante 1 minuto.
+
+No início de cada um dos turnos do alvo enquanto a maldição permanecer ativa, ele sofre uma quantidade de dano Necrótico igual ao seu nível de Paladino.
+
+Sempre que sofrer esse dano, o alvo pode realizar um teste de resistência de Sabedoria contra sua CD para evitar suas magias.
+
+Em caso de sucesso, a maldição termina.
+
+NÍVEL 7: AURA ENFEITIÇANTE
+
+Você emana uma aura de magia sobrenatural em um raio de 3 m (10 pés).
+
+Quando um inimigo atingir você ou outra criatura dentro de sua aura com um ataque, você pode usar sua Reação para forçar o atacante a realizar um teste de resistência de Carisma contra sua CD para evitar suas magias.
+
+Em caso de falha, você pode redirecionar magicamente o ataque para outra criatura à sua escolha que esteja:
+
+* Dentro da sua aura; e
+* Dentro do alcance do ataque original.
+
+O novo alvo é atingido pelo ataque e sofre todo o dano e demais efeitos que seriam aplicados ao alvo original.
+
+No 18º nível, o alcance desta aura aumenta para 9 m (30 pés).
+
+NÍVEL 15: REVERSÃO DA FORTUNA
+
+Sempre que uma criatura obtiver um Acerto Crítico contra você, o destino se volta contra ela.
+
+Na próxima vez que você atingir essa criatura com um ataque, esse ataque se torna automaticamente um Acerto Crítico.
+
+Esse benefício permanece até que você atinja essa criatura.
+
+NÍVEL 20: MALDIÇÃO DA MORTE
+
+Suas maldições atingem seu potencial máximo.
+
+Uma criatura afetada por sua Maldição dos Feitiços ou Maldição do Tormento possui Vulnerabilidade a todo dano enquanto a maldição permanecer ativa.
+--
+JURAMENTO DOS SERAFINS
+
+Quando Santa Tarna foi chamada pela primeira vez pela Chama Sagrada, dizem que seres radiantes desceram dos céus para marcá-la como a primeira paladina.
+
+Aqueles que fazem este juramento seguem seus passos, dedicando-se aos mesmos poderes celestiais que tocaram sua alma. Eles canalizam uma radiância sagrada, tornando-se condutores vivos do poder angelical — mensageiros divinos que ardem com a luz da justiça.
+
+Paladinos deste juramento são reverenciados como campeões sagrados e visionários, guiando os fiéis em direção à Chama enquanto executam o julgamento justo sobre os perversos.
+
+Eles são tanto profetas quanto guerreiros, falando com a autoridade dos céus e agindo com a fúria dos anjos.
+
+PRECEITOS DO JURAMENTO DOS SERAFINS
+
+REVELE A VERDADE
+
+Queime toda falsidade e toda sombra até que reste apenas a verdade.
+
+DERRUBE OS PERVERSOS
+
+Ataque a corrupção onde quer que ela se espalhe; não permita que nenhuma raiz do mal sobreviva.
+
+FAÇA JUSTIÇA
+
+Aja rapidamente e sem hesitação, pois a vontade divina exige determinação.
+
+CONCEDA REDENÇÃO
+
+Demonstre misericórdia àqueles que verdadeiramente buscam a luz.
+
+NÍVEL 3: MAGIAS DO JURAMENTO DOS SERAFINS
+
+A magia de seu juramento garante que você sempre tenha determinadas magias preparadas.
+
+Quando alcançar um nível de Paladino especificado abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+MAGIAS DO JURAMENTO DOS SERAFINS
+
+Nível 3:
+
+* Palavra Curativa
+* Raio Guiador
+
+Nível 5:
+
+* Restauração Menor
+* Arma Espiritual
+
+Nível 9:
+
+* Remover Maldição
+* Guardiões Espirituais
+
+Nível 13:
+
+* Banimento
+* Guardião da Fé
+
+Nível 17:
+
+* Comunhão
+* Dissipar o Bem e o Mal
+
+NÍVEL 3: CHAMADO DIVINO
+
+No início do seu turno, você pode gastar um uso de Canalizar Divindade para assumir uma forma angelical durante 1 minuto, sem necessidade de ação.
+
+Enquanto estiver nessa forma angelical, você começa a emitir uma luz radiante que se manifesta como asas atrás de você.
+
+Você recebe um Deslocamento de Voo igual ao seu Deslocamento e pode pairar.
+
+Além disso, você emite Luz Plena em um raio de 6 m (20 pés) e Luz Baixa por mais 6 m (20 pés).
+
+Quando lança Golpe Divino enquanto estiver em sua forma angelical, você utiliza d10 em vez de d8 para todos os dados de dano da magia.
+
+Por exemplo, um Golpe Divino lançado utilizando um espaço de magia de 1º nível causa 2d10 de dano Radiante enquanto você estiver em sua forma angelical.
+
+Um Golpe Divino lançado utilizando um espaço de magia de 2º nível contra um Morto-Vivo ou Ínfero, por exemplo, causaria 4d10 de dano Radiante.
+
+No 11º nível, esses dados de dano aumentam de d10 para d12.
+
+NÍVEL 7: AURA SAGRADA
+
+Você sabe sempre que uma criatura dentro do alcance de sua Aura de Proteção diz uma mentira.
+
+Além disso, você e as criaturas beneficiadas por sua Aura de Proteção recebem:
+
+* Resistência a dano Radiante.
+* Resistência a dano Necrótico.
+* Vantagem em Salvaguardas contra a Morte.
+
+NÍVEL 15: GUARDIÃO ANGELICAL
+
+Uma vez por Descanso Curto ou Descanso Longo, você pode lançar Invocar Celestial sem gastar um espaço de magia.
+
+Quando lança a magia dessa maneira, ela dura 1 minuto e não exige Concentração.
+
+NÍVEL 15: CHAMADO DIVINO APRIMORADO
+
+Quando utiliza seu Chamado Divino:
+
+* Seu tamanho se torna Grande.
+* Você recebe Visão Verdadeira com alcance de 9 m (30 pés).
+* Seu Deslocamento de Voo aumenta para 18 m (60 pés).
+
+NÍVEL 20: SANGUE DOS SERAFINS
+
+Seus valores de Constituição e Carisma aumentam em 4.
+
+O valor máximo desses dois atributos também aumenta em 4.
+
+Além disso, quando utiliza Chamado Divino, você manifesta um arco radiante que pode disparar como uma ação de Magia em seu turno.
+
+Escolha uma criatura que possa ver a até 180 m (600 pés).
+
+A criatura deve realizar um teste de resistência de Destreza contra sua CD para evitar suas magias.
+
+Em caso de falha:
+
+* Se a criatura possuir 100 Pontos de Vida ou menos, ela morre.
+* Caso contrário, ela sofre 12d8 de dano Radiante.
+--
+PATRULHEIRO URBANO
+
+Patrulheiros Urbanos são menos acostumados à natureza e às regiões selvagens, estando mais familiarizados com telhados, vielas e as táticas de guerrilha do combate urbano.
+
+Treinados para se movimentar e agir furtivamente entre edifícios em ruínas e ruas sinuosas, esses patrulheiros sentem-se em casa entre escombros e destroços.
+
+Eles são corredores ágeis, atiradores habilidosos e sabem exatamente onde encontrar as melhores posições para enfrentar seus inimigos.
+
+NÍVEL 3: MAGIA DO PATRULHEIRO URBANO
+
+Sua experiência no ambiente urbano concede acesso a determinadas magias.
+
+Quando alcançar um nível de Patrulheiro indicado abaixo, você passa a sempre ter a magia correspondente preparada.
+
+Essas magias contam como magias de Patrulheiro para você e não contam no número de magias que você pode preparar.
+
+MAGIAS DO PATRULHEIRO URBANO
+
+Nível 3:
+
+* Queda Suave
+
+Nível 5:
+
+* Invisibilidade
+
+Nível 9:
+
+* Velocidade
+
+Nível 13:
+
+* Porta Dimensional
+
+Nível 17:
+
+* Animar Objetos
+
+NÍVEL 3: CORREDOR DE VIELAS
+
+Você recebe um Deslocamento de Escalada igual ao seu Deslocamento.
+
+Além disso, você ganha proficiência nas perícias Atletismo e Acrobacia caso ainda não as possua e recebe Expertise em ambas.
+
+Se já possuir Expertise em uma dessas perícias, escolha outra perícia na qual seja proficiente para receber Expertise.
+
+Além disso, quando realizar a ação Disparada em seu turno, você pode atravessar os espaços ocupados por outras criaturas sem qualquer penalidade, embora não possa terminar seu movimento nesses espaços.
+
+Quando se move dessa maneira, seu movimento não provoca Ataques de Oportunidade.
+
+NÍVEL 3: PONTO DE VANTAGEM
+
+Quando realizar um ataque com uma arma à distância contra uma criatura, você possui Vantagem na jogada de ataque se pelo menos uma das seguintes condições for verdadeira:
+
+* Não houver nenhuma outra criatura a até 1,5 m (5 pés) do alvo.
+* Você estiver pelo menos 6 m (20 pés) acima do alvo e ele não possuir Cobertura contra seu ataque.
+
+NÍVEL 7: MOBILIDADE NOS TELHADOS
+
+Você pode realizar a ação Disparada como uma Ação Bônus em seu turno.
+
+Além disso, você dominou técnicas para impulsionar seu corpo para frente e para cima enquanto corre e escala.
+
+Quando realizar a ação Disparada em seu turno, sua distância de Salto durante esse turno pode ser igual ao seu Deslocamento.
+
+NÍVEL 11: POSIÇÃO PERFEITA
+
+Quando atingir uma criatura com um ataque que possua os benefícios de sua característica Ponto de Vantagem, o ataque causa 2d6 de dano adicional.
+
+Além disso, seus ataques contra essa criatura obtêm um Acerto Crítico com um resultado de 19 ou 20 no d20 enquanto estiverem recebendo os benefícios de Ponto de Vantagem.
+
+NÍVEL 15: ALVO FÁCIL
+
+Uma vez em cada um dos seus turnos, quando atingir com uma arma à distância uma criatura que não tenha se movido durante o turno anterior dela, o ataque se torna automaticamente um Acerto Crítico.
+--
+MÃO DA RAINHA
+
+Compre cartas e deixe sua mão decidir seu destino.
+
+Os malandros e ladrões da Viela Buckledown são jogadores notórios, e todos sabem que os melhores trapaceiros manipulam o baralho e sempre escondem um ás na manga.
+
+Entre os mais perigosos estão aqueles habilidosos o bastante para permitir que o destino de cada carta comprada molde e distorça seus talentos. Um bom jogador sabe que a mão certa, jogada no momento certo, pode mudar tudo — e que uma carta bem arremessada pode cortar mais fundo que qualquer Adaga.
+
+Seja arremessando cartas de bordas afiadas em uma briga de beco, blefando em uma partida de pôquer de apostas altíssimas sob a Viela Buckledown ou distribuindo o destino com um simples movimento do pulso, os Ladinos da Mão da Rainha são mestres das cartas.
+
+Com nada além de um baralho no bolso e um pouco de sorte de jogador ao seu lado, eles são capazes de realizar roubos impossíveis, fugas ousadas e assassinatos mortais antes que seus inimigos sequer percebam que o jogo começou.
+
+NÍVEL 3: ÁS DAS CARTAS
+
+Você ganha proficiência com Cartas de Jogo e na perícia Prestidigitação.
+
+Além disso, você pode utilizar Cartas de Jogo como armas.
+
+Você as trata como Armas Corpo a Corpo Simples com as seguintes propriedades:
+
+* Leve
+* Acuidade
+* Arremesso (9/18 m ou 30/60 pés)
+
+Ao acertar, elas causam 1d6 de dano Cortante.
+
+Cartas de Jogo possuem a propriedade de Maestria de Arma Nick e não contam no número de propriedades que você pode utilizar através de Maestria com Armas.
+
+NÍVEL 3: DAR AS CARTAS
+
+Como uma ação, você distribui uma Mão de cartas para si mesmo.
+
+Role uma quantidade de d6 igual ao número de dados do seu Ataque Furtivo.
+
+O resultado de cada dado determina uma Carta que você recebe, conforme descrito na tabela abaixo. Essas cartas formam sua Mão.
+
+Sua Mão permanece até que uma das seguintes situações ocorra:
+
+* Você termina um Descanso Curto ou Descanso Longo.
+* Todas as cartas da sua Mão são gastas.
+* Você utiliza esta característica novamente.
+
+Você pode jogar cartas de sua Mão para produzir efeitos especiais.
+
+As cartas podem ser jogadas individualmente ou duas ou mais cartas podem ser utilizadas juntas como uma Combinação, desde que você possua as cartas necessárias.
+
+Depois que uma carta é jogada, individualmente ou como parte de uma Combinação, ela é gasta.
+
+Cada carta ou Combinação especifica as condições ou a ação necessária para utilizá-la.
+
+Você pode distribuir uma Mão para si mesmo duas vezes.
+
+Você recupera um uso gasto ao terminar um Descanso Curto e recupera todos os usos gastos ao terminar um Descanso Longo.
+
+Ao alcançar o 11º nível de Ladino, você recebe um uso adicional desta característica.
+
+Se o efeito de uma Carta ou Combinação exigir um teste de resistência, a CD é igual a:
+
+8 + seu Bônus de Proficiência + seu modificador de Destreza.
+
+Por exemplo, um Ladino de 9º nível rola 5d6 para determinar sua Mão.
+
+Se os resultados forem 1, 3, 3, 4 e 6, isso representa um Ás, dois Noves, um Valete e um Rei.
+
+Cada carta pode ser gasta para produzir seu efeito individual, mas os dois Noves poderiam, em vez disso, ser gastos juntos para produzir o efeito da Combinação Par.
+
+EFEITOS INDIVIDUAIS DAS CARTAS
+
+Quando distribuir sua Mão, cada resultado nos dados representa uma das Cartas abaixo.
+
+Você pode gastar uma única carta da sua Mão para produzir o efeito correspondente.
+
+ÁS
+
+Quando utilizar Golpe Ardiloso, você pode gastar esta carta para pagar até 2d6 do custo desse Golpe Ardiloso.
+
+Nenhuma ação é necessária.
+
+NOVE
+
+Uma vez por turno, quando atingir com um ataque com arma, você pode gastar esta carta para adicionar 1d8 + 1 de dano de Força à jogada de dano.
+
+DEZ
+
+Quando utilizar sua Ação Ardilosa, você pode gastar esta carta para recuperar 1d10 Pontos de Vida.
+
+VALETE
+
+Você pode gastar esta carta para rolar novamente qualquer teste de atributo.
+
+Nenhuma ação é necessária.
+
+DAMA
+
+Quando atingir com um ataque com arma, você pode gastar esta carta para adicionar ao ataque uma das seguintes propriedades de Maestria de Arma:
+
+* Push
+* Sap
+* Slow
+
+REI
+
+Quando falhar em um teste de resistência, você pode gastar esta carta para realizar novamente o teste de resistência com um bônus igual à metade do seu nível de Ladino, arredondado para baixo.
+
+COMBINAÇÕES DE CARTAS
+
+Sua Mão pode conter combinações de cartas iguais ou sequenciais.
+
+Você pode utilizar essas Combinações gastando todas as cartas necessárias.
+
+PAR
+
+Quando utilizar sua Ação Bônus para realizar uma Ação Ardilosa, você pode gastar duas cartas iguais para realizar duas Ações Ardilosas.
+
+TRINCA
+
+Quando causar dano de Ataque Furtivo a uma criatura, você pode gastar três cartas iguais para considerar todos os dados de dano do Ataque Furtivo daquele ataque como se tivessem obtido seus valores máximos.
+
+Nenhuma ação é necessária.
+
+QUADRA
+
+Como uma Ação Bônus, você pode gastar quatro cartas iguais para se teletransportar por até 36 m (120 pés) para um espaço desocupado que possa ver.
+
+Você também recebe a condição Invisível até o final do seu próximo turno.
+
+FULL HOUSE
+
+No seu turno, você pode gastar três cartas iguais e outras duas cartas iguais para realizar imediatamente uma Ação adicional.
+
+Você pode utilizar essa Ação apenas para realizar uma das seguintes ações:
+
+* Atacar
+* Disparada
+* Desengajar
+* Esconder-se
+* Utilizar
+
+Se atacar utilizando essa Ação, você pode aplicar seu Ataque Furtivo mesmo que já tenha utilizado Ataque Furtivo neste turno.
+
+SEQUÊNCIA
+
+Quando atingir uma criatura com um ataque, você pode gastar cinco cartas sequenciais para tentar incapacitar o alvo.
+
+Nenhuma ação é necessária.
+
+O alvo deve realizar um teste de resistência de Constituição.
+
+Em caso de falha, ele fica Incapacitado durante 1 minuto.
+
+No final de cada um dos turnos dele, o alvo pode repetir o teste de resistência, encerrando a condição em caso de sucesso.
+
+CINCO IGUAIS
+
+Como uma Ação Bônus no seu turno, você pode gastar cinco cartas iguais para rolar cinco d20 e registrar os resultados.
+
+Antes que uma criatura que você possa ver realize um Teste de d20, você pode substituir a rolagem por um dos resultados registrados.
+
+A criatura deve utilizar o novo resultado.
+
+Depois que um resultado registrado é utilizado, ele é gasto.
+
+Quaisquer resultados registrados que ainda não tenham sido utilizados são perdidos quando você utiliza Dar as Cartas novamente ou termina um Descanso Longo.
+
+NÍVEL 9: TRUQUES COM CARTAS
+
+Você dominou alguns truques clássicos para garantir que suas cartas estejam sempre a seu favor.
+
+Você recebe as seguintes características.
+
+COMPRA FORÇADA
+
+Seus ataques com Cartas de Jogo passam a causar dano de Força em vez de dano Cortante.
+
+EMBARALHAR
+
+Quando atacar utilizando Cartas de Jogo, você pode realizar dois ataques em vez de um sempre que realizar a ação Atacar em seu turno.
+
+CARTA NA MANGA
+
+Quando rolar Iniciativa e não possuir nenhuma carta em sua Mão, você pode rolar 1d6 e adicionar a Carta correspondente à sua Mão.
+
+NÍVEL 13: MÃO DO HOMEM MORTO
+
+Quando for reduzido a 0 Pontos de Vida, você pode gastar todas as cartas restantes em sua Mão.
+
+Role 1d6 para cada carta gasta dessa maneira.
+
+Seus Pontos de Vida atuais passam a ser iguais ao dobro do total obtido nos dados.
+
+Além disso, você pode imediatamente distribuir uma nova Mão.
+
+Depois de utilizar esta característica, você não poderá utilizá-la novamente até terminar um Descanso Longo.
+
+NÍVEL 17: MANIPULAR O BARALHO
+
+Você aperfeiçoou suas habilidades com cartas a tal ponto que consegue dobrar a própria sorte à sua vontade.
+
+Você recebe as seguintes características.
+
+COMPRA SORTUDA
+
+Quando obtiver um 20 natural em uma jogada de ataque ou teste de atributo, você pode imediatamente rolar 1d6 e adicionar a Carta correspondente à sua Mão.
+
+ESCOLHA DO DEALER
+
+Quando distribuir uma Mão utilizando Dar as Cartas, você pode rolar novamente um dos dados.
+
+Você deve utilizar o novo resultado.
+--
+CONTRABANDISTA
+
+Sempre que alguém possui algo de valor — normalmente ilegal — que precisa ser entregue discretamente, chama um Contrabandista.
+
+Esses ladinos são especialistas em esconder, roubar e se misturar à população sem chamar atenção. Também possuem uma habilidade incomum para virar situações desfavoráveis a seu favor e utilizar qualquer meio necessário para alcançar seus objetivos.
+
+Escorregadios, engenhosos e astutos, esses ladinos não devem ser subestimados.
+
+NÍVEL 3: ACUMULADOR
+
+Desde que esteja com as mãos livres, você pode sacar ou guardar itens ou armas que possa carregar nas mãos como parte da ação utilizada para usá-los, incluindo a ação Atacar.
+
+Você acumulou uma coleção de equipamentos variados que mantém escondidos em sua pessoa para situações de emergência.
+
+Esses equipamentos ficam armazenados em uma bolsa, jaqueta ou mochila que você carrega consigo.
+
+Você pode retirar qualquer item não mágico e inanimado descrito na seção Equipamento de Aventura das Regras Básicas que:
+
+* Tenha valor de 25 PO ou menos.
+* Pese menos de 4,5 kg (10 libras).
+
+Você pode utilizar esta característica para retirar uma quantidade de itens igual ao seu Bônus de Proficiência.
+
+Você recupera todos os usos gastos ao terminar um Descanso Longo.
+
+Embora sejam perfeitamente funcionais, objetos obtidos através desta característica possuem uma aparência visivelmente barata e sem valor.
+
+NÍVEL 3: TRUQUES DO OFÍCIO
+
+Você ganha proficiência com:
+
+* Kit de Disfarce.
+* Veículos Terrestres.
+* Veículos Aquáticos.
+
+Sempre que realizar um teste de atributo relacionado a contrabando ou a esconder objetos, você adiciona o dobro do seu Bônus de Proficiência ao teste.
+
+Se estiver conduzindo uma carroça, barco ou outro veículo com o qual possua proficiência, você conhece truques e modificações capazes de criar compartimentos simples de contrabando em praticamente qualquer veículo.
+
+Após trabalhar durante determinado período, você pode criar compartimentos ocultos capazes de esconder até um quarto da capacidade máxima de carga do veículo, a critério do Mestre.
+
+O tempo necessário para realizar essa modificação depende do tamanho do veículo:
+
+* Grande ou menor: 1 hora.
+* Enorme: 8 horas.
+* Imenso ou maior: 2 dias.
+
+NÍVEL 3: MISTURAR-SE À MULTIDÃO
+
+Você pode tentar se Esconder mesmo quando estiver obscurecido apenas por duas ou mais criaturas que não sejam hostis a você.
+
+Essas criaturas devem estar a até 1,5 m (5 pés) umas das outras e possuir tamanho igual ou superior ao seu.
+
+NÍVEL 9: PASSAR DESPERCEBIDO
+
+Você pode atravessar o espaço ocupado por outra criatura, incluindo criaturas hostis, sem qualquer penalidade quando realizar a ação Disparada ou Desengajar em seu turno.
+
+Quando fizer isso, você recebe Vantagem nas jogadas de ataque contra qualquer criatura cujo espaço tenha atravessado durante esse turno.
+
+NÍVEL 13: NUNCA ME DIGA AS CHANCES
+
+Às vezes, justamente quando todas as probabilidades parecem estar contra você surge a oportunidade perfeita para enganar seus inimigos, utilizando o caos para desferir um golpe decisivo.
+
+Você ainda pode aplicar seu Ataque Furtivo mesmo quando possuir Desvantagem na jogada de ataque, desde que cumpra todas as demais condições necessárias para utilizar Ataque Furtivo.
+
+NÍVEL 17: MAGIAS CONTRABANDEADAS
+
+A partir do 17º nível, você pode armazenar em sua bolsa magias lançadas por outras criaturas.
+
+Sua bolsa pode armazenar até 6 níveis de magia ao mesmo tempo.
+
+Qualquer criatura pode lançar uma magia de 1º a 5º nível dentro da sua bolsa tocando-a durante a conjuração.
+
+A magia não produz qualquer efeito naquele momento, sendo apenas armazenada na bolsa.
+
+Se a bolsa não possuir capacidade suficiente para armazenar a magia, ela é gasta sem produzir efeito.
+
+O nível do espaço de magia utilizado para lançar a magia determina quanto espaço ela ocupa na bolsa.
+
+Alternativamente, você pode colocar um Pergaminho de Magia dentro da bolsa.
+
+A magia do pergaminho é lançada e armazenada na bolsa, e o Pergaminho de Magia é destruído.
+
+Você pode lançar qualquer magia armazenada em sua bolsa.
+
+A magia utiliza:
+
+* O nível do espaço de magia utilizado pelo conjurador original.
+* A CD para evitar magias do conjurador original.
+* O bônus de ataque mágico do conjurador original.
+* A habilidade de conjuração do conjurador original.
+
+Para todos os demais efeitos, considera-se que você lançou a magia.
+
+Depois que uma magia armazenada na bolsa é lançada, ela deixa de estar armazenada, liberando o espaço que ocupava.
+--
+CONTRABANDISTA
+
+Sempre que alguém possui algo de valor — normalmente ilegal — que precisa ser entregue discretamente, chama um Contrabandista.
+
+Esses ladinos são especialistas em esconder, roubar e se misturar à população sem chamar atenção. Também possuem uma habilidade incomum para virar situações desfavoráveis a seu favor e utilizar qualquer meio necessário para alcançar seus objetivos.
+
+Escorregadios, engenhosos e astutos, esses ladinos não devem ser subestimados.
+
+NÍVEL 3: ACUMULADOR
+
+Desde que esteja com as mãos livres, você pode sacar ou guardar itens ou armas que possa carregar nas mãos como parte da ação utilizada para usá-los, incluindo a ação Atacar.
+
+Você acumulou uma coleção de equipamentos variados que mantém escondidos em sua pessoa para situações de emergência.
+
+Esses equipamentos ficam armazenados em uma bolsa, jaqueta ou mochila que você carrega consigo.
+
+Você pode retirar qualquer item não mágico e inanimado descrito na seção Equipamento de Aventura das Regras Básicas que:
+
+* Tenha valor de 25 PO ou menos.
+* Pese menos de 4,5 kg (10 libras).
+
+Você pode utilizar esta característica para retirar uma quantidade de itens igual ao seu Bônus de Proficiência.
+
+Você recupera todos os usos gastos ao terminar um Descanso Longo.
+
+Embora sejam perfeitamente funcionais, objetos obtidos através desta característica possuem uma aparência visivelmente barata e sem valor.
+
+NÍVEL 3: TRUQUES DO OFÍCIO
+
+Você ganha proficiência com:
+
+* Kit de Disfarce.
+* Veículos Terrestres.
+* Veículos Aquáticos.
+
+Sempre que realizar um teste de atributo relacionado a contrabando ou a esconder objetos, você adiciona o dobro do seu Bônus de Proficiência ao teste.
+
+Se estiver conduzindo uma carroça, barco ou outro veículo com o qual possua proficiência, você conhece truques e modificações capazes de criar compartimentos simples de contrabando em praticamente qualquer veículo.
+
+Após trabalhar durante determinado período, você pode criar compartimentos ocultos capazes de esconder até um quarto da capacidade máxima de carga do veículo, a critério do Mestre.
+
+O tempo necessário para realizar essa modificação depende do tamanho do veículo:
+
+* Grande ou menor: 1 hora.
+* Enorme: 8 horas.
+* Imenso ou maior: 2 dias.
+
+NÍVEL 3: MISTURAR-SE À MULTIDÃO
+
+Você pode tentar se Esconder mesmo quando estiver obscurecido apenas por duas ou mais criaturas que não sejam hostis a você.
+
+Essas criaturas devem estar a até 1,5 m (5 pés) umas das outras e possuir tamanho igual ou superior ao seu.
+
+NÍVEL 9: PASSAR DESPERCEBIDO
+
+Você pode atravessar o espaço ocupado por outra criatura, incluindo criaturas hostis, sem qualquer penalidade quando realizar a ação Disparada ou Desengajar em seu turno.
+
+Quando fizer isso, você recebe Vantagem nas jogadas de ataque contra qualquer criatura cujo espaço tenha atravessado durante esse turno.
+
+NÍVEL 13: NUNCA ME DIGA AS CHANCES
+
+Às vezes, justamente quando todas as probabilidades parecem estar contra você surge a oportunidade perfeita para enganar seus inimigos, utilizando o caos para desferir um golpe decisivo.
+
+Você ainda pode aplicar seu Ataque Furtivo mesmo quando possuir Desvantagem na jogada de ataque, desde que cumpra todas as demais condições necessárias para utilizar Ataque Furtivo.
+
+NÍVEL 17: MAGIAS CONTRABANDEADAS
+
+A partir do 17º nível, você pode armazenar em sua bolsa magias lançadas por outras criaturas.
+
+Sua bolsa pode armazenar até 6 níveis de magia ao mesmo tempo.
+
+Qualquer criatura pode lançar uma magia de 1º a 5º nível dentro da sua bolsa tocando-a durante a conjuração.
+
+A magia não produz qualquer efeito naquele momento, sendo apenas armazenada na bolsa.
+
+Se a bolsa não possuir capacidade suficiente para armazenar a magia, ela é gasta sem produzir efeito.
+
+O nível do espaço de magia utilizado para lançar a magia determina quanto espaço ela ocupa na bolsa.
+
+Alternativamente, você pode colocar um Pergaminho de Magia dentro da bolsa.
+
+A magia do pergaminho é lançada e armazenada na bolsa, e o Pergaminho de Magia é destruído.
+
+Você pode lançar qualquer magia armazenada em sua bolsa.
+
+A magia utiliza:
+
+* O nível do espaço de magia utilizado pelo conjurador original.
+* A CD para evitar magias do conjurador original.
+* O bônus de ataque mágico do conjurador original.
+* A habilidade de conjuração do conjurador original.
+
+Para todos os demais efeitos, considera-se que você lançou a magia.
+
+Depois que uma magia armazenada na bolsa é lançada, ela deixa de estar armazenada, liberando o espaço que ocupava.
+--
+ALMA DE DELERIUM
+
+O delerium é naturalmente atraído pela magia e pode distorcer e ampliar sua presença de maneiras antinaturais e imprevisíveis.
+
+Alguns daqueles que se aventuraram pelas ruínas de Drakkenheim foram transformados por seus poderes sobrenaturais e emergiram impregnados de energias contaminadas.
+
+Esses indivíduos tornam-se receptáculos vivos para as Anomalias Arcanas e para as distorções da realidade encontradas nas ruínas.
+
+NÍVEL 3: MAGIAS DA ALMA DE DELERIUM
+
+Impregnada pelo poder sobrenatural do delerium, sua magia está fundamentalmente contaminada.
+
+Quando alcançar determinados níveis de Feiticeiro, você passa a sempre ter as magias correspondentes abaixo preparadas.
+
+Essas magias contam como magias de Feiticeiro para você e não contam no número de magias que você pode preparar.
+
+Sempre que ganhar um nível de Feiticeiro, você pode substituir uma magia recebida por esta característica por outra magia do mesmo nível.
+
+A nova magia deve ser uma Magia Contaminada.
+
+MAGIAS DA ALMA DE DELERIUM
+
+Nível 3:
+
+* Fragmentos de Cometa
+* Queda Suave
+* Mutação Controlada
+* Fantasma Agarrador
+
+Nível 5:
+
+* Desaparecer para o Espaço Entre Mundos
+* Tecer o Símbolo Ancião
+
+Nível 7:
+
+* Drenar o Tempo
+* Invocar Elemental de Delerium
+
+Nível 9:
+
+* Mãos Contaminadas
+* Muralha de Força
+
+NÍVEL 3: MANIFESTAÇÃO MUTANTE
+
+Quando terminar um Descanso Longo, você pode escolher rolar duas vezes na tabela de Mutações e deve escolher um dos resultados.
+
+Você recebe essa Mutação, que permanece até terminar um Descanso Longo, mesmo que atualmente não possua nenhum Nível de Contaminação.
+
+NÍVEL 6: FEITIÇARIA CONTAMINADA
+
+Quando lançar uma Magia Contaminada, você pode conjurá-la gastando normalmente um espaço de magia ou gastando uma quantidade de Pontos de Feitiçaria igual ao nível da magia.
+
+Se lançar a magia utilizando Pontos de Feitiçaria:
+
+* Você não recebe um Nível de Contaminação por lançar a magia.
+* Se a magia exigir delerium como componente material, esse delerium não é consumido.
+* A conjuração provoca imediatamente uma Anomalia Arcana.
+
+NÍVEL 14: ARCANO INCOMPREENSÍVEL
+
+Você pode acessar energias contaminadas para lançar uma magia que não tenha preparada.
+
+Você pode lançar qualquer magia de qualquer lista de magias de classe.
+
+A magia deve ser de um nível para o qual você possua espaços de magia, e você deve gastar normalmente um espaço de magia para lançá-la.
+
+A magia utiliza seu tempo de conjuração normal e, caso exija componentes materiais, você deve fornecê-los normalmente.
+
+Como parte da conjuração, mas antes que a magia produza seus efeitos, você recebe uma quantidade de Níveis de Contaminação igual à metade do nível da magia, arredondada para baixo, com um mínimo de 1 Nível de Contaminação.
+
+Você não pode impedir ou reduzir os Níveis de Contaminação recebidos dessa maneira por nenhum meio.
+
+Eles podem ser removidos normalmente posteriormente.
+
+NÍVEL 18: TEORIA DO CAOS
+
+Uma vez por turno, quando realizar uma jogada de ataque, teste de atributo ou teste de resistência, você pode escolher provocar uma Anomalia Arcana.
+
+Se fizer isso, você realiza essa rolagem com Vantagem.
+
+Você pode utilizar esta característica uma quantidade de vezes igual ao seu modificador de Carisma, com um mínimo de uma vez.
+
+Você recupera todos os usos gastos ao terminar um Descanso Longo.
+--
+PATRONO CÓSMICO
+
+Alguns bruxos recebem seu poder sobrenatural do próprio cosmos, respondendo a entidades ligadas ao espaço, às constelações, aos planetas e às luas.
+
+Um Bruxo que jura lealdade a um Patrono Cósmico normalmente acredita estar se comunicando com deuses ou seres semelhantes a divindades. Entretanto, essas entidades são envoltas em mistério, possuem formas incompreensíveis e aterrorizantes, e concedem ao Bruxo seu poder sobrenatural através das estrelas e galáxias além deste mundo.
+
+NÍVEL 3: MAGIAS DO PATRONO CÓSMICO
+
+A magia de seu patrono garante que você sempre tenha determinadas magias preparadas.
+
+Quando alcançar um nível de Bruxo indicado abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+Essas magias contam como magias de Bruxo para você e não contam no número de magias que você pode preparar.
+
+MAGIAS DO PATRONO CÓSMICO
+
+Nível 3:
+
+* Mísseis Mágicos
+* Fogo das Fadas
+* Raio Lunar
+* Raio Ardente
+
+Nível 5:
+
+* Piscar
+* Guardiões Espirituais
+
+Nível 7:
+
+* Escudo de Fogo
+* Muralha de Fogo
+
+Nível 9:
+
+* Coluna de Chamas
+* Restauração Maior
+
+NÍVEL 3: ATRIBUTOS CÓSMICOS
+
+Você assume uma aparência ou essência cósmica sobrenatural.
+
+Escolha uma ou mais das características abaixo, crie suas próprias características ou role aleatoriamente para determinar como os poderes cósmicos concedidos a você se manifestam.
+
+ATRIBUTOS CÓSMICOS
+
+1 — Seus olhos tornam-se poços de escuridão absoluta, com pequenas galáxias flutuando em seu interior. Olhar dentro deles é como flutuar pelo cosmos, perdido no vazio do espaço.
+
+2 — Seu toque torna-se frio como gelo e sua pele fica pálida. Algumas pessoas podem acreditar que você é um Morto-Vivo ou está gravemente doente. Sua aparência lembra a de alguém que morreu no frio do espaço.
+
+3 — Sua voz possui um leve eco, como se mais de uma entidade estivesse falando através de você. Sua própria voz permanece predominante, mas alguém que escute atentamente consegue distinguir um coro de vozes celestiais falando junto com ela.
+
+4 — Você exala um leve cheiro de ozônio, acre e sulfuroso, como se um raio tivesse acabado de atingir algum lugar próximo. O odor parece antinatural e sobrenatural.
+
+5 — Você desenvolve um terceiro olho no centro da testa. Ele nunca pisca e parece penetrar na mente daqueles sobre quem repousa seu olhar.
+
+6 — Suas veias brilham com uma suave luz radiante, fazendo com que você se pareça com uma constelação viva de estrelas e energia cósmica.
+
+NÍVEL 3: ESTRELAS CADENTES
+
+Você aprende o truque Rajada Mística, caso ainda não o conheça.
+
+Esse truque conta como uma magia de Bruxo para você e não conta no número de truques de Bruxo que você conhece.
+
+Quando lançar Rajada Mística, você pode fazer com que ela cause dano Radiante em vez de dano de Força.
+
+NÍVEL 3: ORIENTAÇÃO CÓSMICA
+
+Você pode falar, ler e escrever Celestial e Dialeto Subterrâneo.
+
+Além disso, você aprende o truque Orientação.
+
+Ele conta como uma magia de Bruxo para você e não conta no número de truques de Bruxo que você conhece.
+
+Você também pode lançar Augúrio uma vez sem gastar um espaço de magia.
+
+Depois de lançar Augúrio dessa maneira, você não poderá fazê-lo novamente até terminar um Descanso Longo.
+
+NÍVEL 6: ÓRBITA
+
+Uma vez por turno, quando errar uma criatura com um raio de Rajada Mística, esse raio retorna até você na forma de um cometa que passa a orbitar sua cabeça.
+
+Enquanto possuir um Cometa em Órbita, você pode consumir sua energia para utilizar um dos seguintes efeitos:
+
+PODER CÓSMICO
+
+Uma vez no seu turno, quando lançar Rajada Mística, você pode consumir um Cometa em Órbita para disparar um raio adicional.
+
+INTERCEPTAÇÃO
+
+Quando você for atingido por um ataque corpo a corpo ou à distância, pode usar sua Reação e consumir um Cometa em Órbita para receber Resistência contra todo o dano causado por esse ataque.
+
+VELOCIDADE DA LUZ
+
+Como uma Ação Bônus, você pode consumir um Cometa em Órbita para se teletransportar por até 9 m (30 pés) para um espaço desocupado que possa ver.
+
+COMETAS EM ÓRBITA
+
+Você pode possuir uma quantidade máxima de Cometas em Órbita igual ao seu Bônus de Proficiência.
+
+Enquanto possuir pelo menos um cometa, você emite Luz Plena em um raio de 6 m (20 pés) e Luz Baixa por mais 3 m (10 pés).
+
+Seus Cometas em Órbita permanecem até que você:
+
+* Termine um Descanso Curto.
+* Termine um Descanso Longo.
+* Decida dissipá-los, sem necessidade de ação.
+
+NÍVEL 10: IMPACTO METEÓRICO
+
+Uma vez por turno, quando atingir uma criatura com Rajada Mística, você pode fazer o raio explodir em energia cósmica.
+
+Cada criatura a até 3 m (10 pés) do alvo deve realizar um teste de resistência de Destreza contra sua CD para evitar suas magias.
+
+Em caso de falha, uma criatura sofre 3d6 de dano de Fogo.
+
+O dano aumenta conforme você ganha níveis de Bruxo:
+
+Nível 10:
+3d6 de dano de Fogo.
+
+Nível 14:
+4d6 de dano de Fogo.
+
+Nível 17:
+5d6 de dano de Fogo.
+
+NÍVEL 14: SUPERNOVA
+
+Carregado pela energia das estrelas, você recebe poderes adicionais das entidades sobrenaturais que espreitam no profundo vazio do espaço.
+
+Você recebe os seguintes benefícios:
+
+RAIO ADICIONAL
+
+Sempre que lançar Rajada Mística, você dispara um raio adicional.
+
+IMPACTO CRÍTICO
+
+Sempre que obtiver um Acerto Crítico com Rajada Mística, você pode utilizar sua característica Impacto Meteórico uma vez adicional durante esse turno.
+--
+PATRONO DA CARNE
+
+Um Bruxo da Carne fez um pacto com uma entidade tão alienígena e desconhecida que sua mera existência é suficiente para enlouquecer a maioria das pessoas.
+
+Esses bruxos permitiram que uma entidade alienígena habitasse seus corpos, respondendo a alguma coisa ancestral e sobrenatural que existe além da compreensão.
+
+Essa entidade desenvolve uma relação simbiótica com seu hospedeiro, concedendo-lhe poderes enquanto remodela e distorce sua forma.
+
+NÍVEL 3: MAGIAS DO PATRONO DA CARNE
+
+A magia de seu patrono garante que você sempre tenha determinadas magias preparadas.
+
+Quando alcançar um nível de Bruxo indicado abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+Essas magias contam como magias de Bruxo para você e não contam no número de magias que você pode preparar.
+
+MAGIAS DO PATRONO DA CARNE
+
+Nível 3:
+
+* Salto
+* Escudo
+* Aprimorar Habilidade
+* Aumentar/Reduzir
+
+Nível 5:
+
+* Velocidade
+* Lentidão
+
+Nível 7:
+
+* Tentáculos Negros de Evard
+* Polimorfia
+
+Nível 9:
+
+* Restauração Maior
+* Reencarnação
+
+NÍVEL 3: DEFESA SEM ARMADURA
+
+Enquanto não estiver usando armadura nem empunhando um Escudo, sua Classe de Armadura base é igual a:
+
+10 + seu modificador de Destreza + seu modificador de Constituição.
+
+NÍVEL 3: REMODELAR A CARNE
+
+Como uma ação, você pode assumir uma Forma Remodelada.
+
+Essa forma permanece até que você fique Incapacitado, utilize uma ação para retornar à sua forma normal ou utilize esta característica novamente.
+
+Quando se transforma, escolha uma das seguintes opções:
+
+JOELHOS INVERTIDOS
+
+Suas pernas tornam-se mais poderosas, e seus joelhos passam a se dobrar na direção oposta.
+
+Enquanto estiver nesta forma:
+
+* Seu Deslocamento aumenta em 3 m (10 pés).
+* As distâncias de seus Saltos em Distância e Saltos em Altura são dobradas.
+
+ATRIBUTOS AQUÁTICOS
+
+Você desenvolve guelras, sua pele torna-se viscosa e membranas surgem entre os dedos de suas mãos e pés.
+
+Enquanto estiver nesta forma:
+
+* Você pode respirar debaixo d'água.
+* Você recebe um Deslocamento de Natação igual ao seu Deslocamento.
+
+ARMAS NATURAIS
+
+Você desenvolve garras, presas, espinhos, chifres ou outra arma natural à sua escolha.
+
+Quando utiliza um Ataque Desarmado para causar dano com essas armas naturais, ele causa 1d6 de dano de Concussão, Perfurante ou Cortante, conforme apropriado para a arma natural escolhida.
+
+Você pode utilizar seu modificador de Carisma, em vez de Força, nas jogadas de ataque e dano realizadas dessa maneira.
+
+O dano de suas Armas Naturais aumenta conforme você ganha níveis de Bruxo:
+
+Nível 3:
+1d6
+
+Nível 10:
+2d6
+
+Nível 14:
+3d6
+
+NÍVEL 6: MODIFICAÇÃO CORPORAL
+
+Quando assume sua Forma Remodelada, você pode escolher duas opções disponíveis em vez de apenas uma.
+
+Além disso, as seguintes opções são adicionadas às escolhas disponíveis de Remodelar a Carne:
+
+OSSOS GELATINOSOS
+
+Sua pele torna-se frouxa e flácida enquanto seu corpo luta para manter uma estrutura definida.
+
+Enquanto estiver nesta forma:
+
+* Você pode atravessar espaços com apenas 2,5 cm (1 polegada) de diâmetro.
+* Você possui Vantagem em testes de Furtividade.
+
+ALTERAR APARÊNCIA
+
+Você transforma sua aparência.
+
+Você decide como será sua nova forma, incluindo:
+
+* Altura.
+* Peso.
+* Características faciais.
+* Som da voz.
+* Comprimento do cabelo.
+* Coloração.
+* Características distintivas.
+
+Você pode fazer com que sua aparência se assemelhe à de outro povo, mas nenhuma de suas estatísticas de jogo é alterada.
+
+Você não pode assumir a aparência de uma criatura de tamanho diferente do seu, e a estrutura básica do seu corpo permanece a mesma.
+
+Por exemplo, se você for bípede, não pode utilizar essa transformação para se tornar quadrúpede.
+
+INSTINTOS DE COMBATE
+
+Sempre que realizar a ação Atacar em seu turno, você pode realizar dois ataques em vez de um.
+
+Além disso, quando causar dano com suas Armas Naturais ou Ataques Desarmados, você pode fazer com que o dano seja de Força em vez do tipo normal.
+
+GARRAS DE ARANHA
+
+Suas mãos e pés desenvolvem características insetoides estranhas e cobertas por uma substância viscosa que permite aderir a superfícies.
+
+Você recebe um Deslocamento de Escalada igual ao seu Deslocamento.
+
+Além disso, pode se mover por paredes e tetos sem precisar realizar testes de atributo.
+
+NÍVEL 10: DOMÍNIO FISIOLÓGICO
+
+As seguintes opções são adicionadas às escolhas disponíveis quando você utiliza Remodelar a Carne:
+
+ADAPTAÇÃO AÉREA
+
+Asas emplumadas ou semelhantes às de um morcego irrompem de suas costas.
+
+Você recebe um Deslocamento de Voo igual ao seu Deslocamento.
+
+VAPORES TÓXICOS
+
+Uma nuvem de gás nocivo começa a escapar de seus poros. Sua aparência torna-se doentia, e uma gosma esverdeada escorre de sua pele.
+
+Enquanto estiver nesta forma:
+
+* Você possui Desvantagem em testes de Carisma.
+* Qualquer criatura que começar o turno a até 3 m (10 pés) de você sofre 2d6 de dano de Veneno.
+* Essas criaturas possuem Desvantagem nas jogadas de ataque contra você.
+
+PELE ENDURECIDA
+
+Sua pele torna-se espessa, rígida e resistente a ferimentos.
+
+Você recebe Resistência a dano de Concussão, Perfurante e Cortante causado por armas não mágicas.
+
+NÍVEL 14: HORROR INSONDÁVEL
+
+Quando utilizar Remodelar a Carne, você pode escolher três opções disponíveis simultaneamente em vez de duas.
+
+Além disso, você possui Imunidade a qualquer magia ou efeito que tente alterar sua forma contra sua vontade.
+--
+MALFEITOR
+
+O caminho do Mago Malfeitor revela capacidades sobrenaturais que conjuradores menores considerariam antinaturais.
+
+Magos Malfeitores desprezam as restrições da Academia Ametista que proíbem o uso de determinadas formas de magia. Como consequência, a maioria se esconde tanto da Academia quanto da Ordem de Prata, tendo sido expulsa por perseguir conhecimentos mágicos tão sombrios e perigosos.
+
+NÍVEL 3: ESTUDO PROIBIDO
+
+Sempre que ganhar um nível de Mago, você pode adicionar uma Magia Contaminada ao seu grimório.
+
+Essa magia é adicionada além das duas magias de Mago que você normalmente acrescenta ao grimório ao ganhar um nível.
+
+Você não precisa pesquisar ou descobrir essa magia previamente. Em vez disso, você a desenvolve como resultado de suas próprias pesquisas.
+
+NÍVEL 3: POTENCIAL HORRÍFICO
+
+Se você sofrer uma Transformação Monstruosa, a forma escolhida pelo Mestre deve possuir um Nível de Desafio igual a pelo menos metade do seu nível de Mago, arredondado para baixo.
+
+Entretanto, o Nível de Desafio da forma não pode ser superior ao seu nível de Mago.
+
+NÍVEL 3: MATERIAIS ANÔMALOS
+
+Você aprendeu a lançar Magias Contaminadas enquanto protege seu corpo de suas energias nocivas.
+
+Quando lança uma Magia Contaminada utilizando esta característica:
+
+* Você não recebe o Nível de Contaminação que normalmente receberia por lançar a magia.
+* Qualquer delerium exigido como componente material pela magia não é consumido.
+* Você ainda deve possuir e fornecer normalmente o delerium exigido como componente material.
+
+Você pode utilizar esta característica uma quantidade de vezes igual ao seu Bônus de Proficiência.
+
+Você recupera todos os usos gastos ao terminar um Descanso Longo.
+
+NÍVEL 6: LIMITE AUMENTADO
+
+Sua exposição prolongada e deliberada à Contaminação Sobrenatural tornou seu corpo resistente aos seus efeitos, permitindo que você suporte uma quantidade muito maior de Contaminação.
+
+Você recebe os seguintes benefícios:
+
+* Proficiência em testes de resistência de Constituição.
+* Resistência a dano Necrótico.
+
+Ao determinar quais Sintomas você sofre como resultado da Contaminação Sobrenatural, considere que você possui uma quantidade de Níveis de Contaminação igual à metade do seu total atual, arredondada para baixo.
+
+Por exemplo, se possuir 5 Níveis de Contaminação, você sofre apenas os Sintomas correspondentes ao Nível de Contaminação 2.
+
+Consequentemente, você precisaria alcançar 12 Níveis de Contaminação para sofrer uma Transformação Monstruosa, em vez de 6.
+
+Da mesma forma, quando determinar se você desenvolve uma Mutação ao receber um novo Nível de Contaminação, considere que possui uma quantidade de Níveis de Contaminação igual à metade do seu total atual, arredondada para baixo.
+
+Por exemplo, se possuir 4 Níveis de Contaminação, você somente desenvolve uma nova Mutação se o resultado da rolagem de 1d6 for 2 ou menos.
+
+Observe que, caso possua 6 ou mais Níveis de Contaminação, ser afetado pela magia Purgar Contaminação fará com que você receba 6 ou mais níveis de Exaustão e, consequentemente, morra.
+
+NÍVEL 6: EXPULSAR CONTAMINANTES
+
+Você descobriu um método arcano para eliminar com segurança os poluentes sobrenaturais acumulados em seu próprio corpo.
+
+Sempre que terminar um Descanso Longo, você pode reduzir seus Níveis de Contaminação em uma quantidade igual à metade do seu Bônus de Proficiência, arredondada para baixo.
+
+NÍVEL 10: CONJURAÇÃO CONTAMINADA
+
+Você pode absorver Contaminação para fortalecer suas magias.
+
+Sempre que lançar uma magia que produza efeitos adicionais quando conjurada utilizando um espaço de magia de nível superior, você pode aumentar o nível efetivo da magia sem gastar um espaço de magia de nível superior.
+
+Para cada nível pelo qual aumentar a magia dessa maneira, você recebe 1 Nível de Contaminação.
+
+Por exemplo, se quiser lançar Bola de Fogo, uma magia de 3º nível, como se ela tivesse sido lançada utilizando um espaço de magia de 5º nível, você pode gastar apenas um espaço de magia de 3º nível e receber 2 Níveis de Contaminação.
+
+Você não pode utilizar esta característica em uma Magia Contaminada.
+
+Além disso, você não pode aumentar o nível efetivo de uma magia para além do nível mais alto de espaço de magia que possui.
+
+NÍVEL 10: FOCO ESTABILIZADOR
+
+Enquanto estiver mantendo Concentração em uma magia, você ignora os Sintomas de quaisquer Níveis de Contaminação que possua.
+
+Você não pode ignorar uma Transformação Monstruosa dessa maneira.
+
+NÍVEL 14: APOTEOSE DA CARNE
+
+Se você sofrer uma Transformação Monstruosa, mantém o controle sobre sua nova forma durante 1 minuto.
+
+A menos que morra, você retorna à sua forma original após 24 horas.
+
+Quando retorna à sua forma original:
+
+* Você recebe todos os benefícios de um Descanso Longo.
+* Todos os seus Níveis de Contaminação são removidos.
+
+O Mestre determina quais memórias da transformação você mantém, se houver alguma.
+
+Independentemente disso, a experiência aterrorizante assombrará seus pesadelos para sempre, e você recebe uma forma de Loucura de Drakkenheim.
+--
+MENTALISTA
+
+A realidade é percepção. Manipule ambas.
+
+A influência da Academia Ametista se estende por Caspia, Westemär e Elyria, mas seu poder muitas vezes é sustentado por mentiras e desinformação.
+
+Mentalistas são mestres da manipulação, da política nas sombras e do controle de informações. Eles tecem encantamentos que confundem a linha entre verdade e mentira, criando formas de manipulação social tão poderosas que chegam a distorcer memórias e a própria percepção.
+
+Em um mundo onde a verdade é frágil, eles são as mãos invisíveis que moldam a narrativa.
+
+NÍVEL 3: ESPECIALISTA EM MANIPULAÇÃO
+
+Quando você alcança um nível de Mago indicado abaixo, a magia correspondente é imediatamente adicionada ao seu grimório e, a partir de então, você sempre a possui preparada.
+
+MAGIAS DE MANIPULAÇÃO
+
+Nível 3:
+
+* Disfarçar-se
+* Enfeitiçar Pessoa
+* Detectar Pensamentos
+* Sugestão
+
+Nível 5:
+
+* Padrão Hipnótico
+* Imagem Maior
+
+Nível 7:
+
+* Olho Arcano
+* Invisibilidade Maior
+
+Nível 9:
+
+* Dominar Pessoa
+* Aparência
+
+Sempre que lançar uma de suas Magias de Manipulação, você pode fazê-lo sem componentes Verbais.
+
+NÍVEL 3: ANÁLISE COMPORTAMENTAL
+
+Você pode adicionar seu modificador de Inteligência a qualquer teste de Sabedoria (Intuição), Carisma (Persuasão) ou Carisma (Enganação) que realizar.
+
+Além disso, você sabe se uma criatura que possa ver possui:
+
+* Imunidade a dano Psíquico.
+* Imunidade à condição Enfeitiçado.
+* Visão Verdadeira.
+
+NÍVEL 6: INFLUÊNCIA HIPNÓTICA
+
+Você recebe as seguintes características.
+
+PONTO DE CONTATO
+
+Você pode se comunicar telepaticamente com uma criatura Enfeitiçada por você enquanto ela estiver a até 300 m (1.000 pés) de distância.
+
+Além disso, como uma Ação Bônus, você pode enxergar através dos olhos da criatura e ouvir o que ela ouve até o início do seu próximo turno, recebendo também os benefícios de quaisquer sentidos especiais que ela possua.
+
+INFLUÊNCIA REMOTA
+
+Enquanto estiver utilizando os sentidos de uma criatura Enfeitiçada por você, você pode lançar uma magia de Mago como se estivesse no espaço ocupado por essa criatura, em vez do seu próprio espaço, utilizando os sentidos dela.
+
+Você pode fazer isso uma quantidade de vezes por dia igual ao seu Bônus de Proficiência.
+
+Você recupera todos os usos gastos ao terminar um Descanso Longo.
+
+APAGAR MEMÓRIA
+
+Quando uma criatura Enfeitiçada por você deixar de possuir essa condição, você pode fazer com que ela realize um teste de resistência de Carisma contra sua CD para evitar suas magias.
+
+Em caso de falha, o alvo não se lembra de ter sido Enfeitiçado e racionaliza a situação da melhor maneira que conseguir.
+
+NÍVEL 10: CICLO DE RETORNO
+
+Você recebe as seguintes características.
+
+RETORNO SIMPÁTICO
+
+Quando todos os alvos obtiverem sucesso no primeiro teste de resistência contra uma magia de Mago que você lançou e que os deixaria Enfeitiçados em caso de falha, você recupera um espaço de magia de nível inferior ao da magia lançada, até um máximo de 5º nível.
+
+RETORNO FORÇADO
+
+Quando você lança uma magia de Mago capaz de causar a condição Enfeitiçado em uma criatura que possua Imunidade à condição Enfeitiçado, você pode fazer com que a magia cause dano de Força ao alvo em vez de produzir seus efeitos normais.
+
+Se a criatura falhar no teste de resistência contra a magia, ela sofre 1d10 de dano de Força para cada nível do espaço de magia utilizado.
+
+Em caso de sucesso, ela sofre metade desse dano.
+
+NÍVEL 14: CONTROLE TOTAL
+
+Quando você lança uma magia que causaria a condição Enfeitiçado em uma criatura, essa criatura não recebe Vantagem no teste de resistência contra a magia caso você ou seus aliados estejam lutando contra ela.
+
+Além disso, quando uma criatura estiver Enfeitiçada por uma de suas magias, ela não realiza testes de resistência adicionais para encerrar a magia ao sofrer dano.
+
+Uma magia que termine automaticamente quando o alvo sofre dano ainda termina normalmente.
+--
+CAMINHO DA FÚRIA DA NÉVOA
+
+Os primeiros guerreiros que se aventuraram em Drakkenheim estavam condenados.
+
+Poucos retornaram dessas primeiras expedições, e aqueles poucos que sobreviveram foram para sempre transformados pela experiência.
+
+Alguns raros indivíduos conseguem dominar a loucura da Bruma por meio de uma fúria sobrenatural que lhes permite canalizar as energias sobrenaturais do delerium.
+
+Esses Furiosos da Bruma prosperam graças ao poder contaminado do delerium, transformando loucura e medo em armas.
+
+Sua prática lhes concedeu uma tolerância antinatural à contaminação, e existem até mesmo lendas sobre bárbaros desse tipo sobrevivendo às mais horrendas mutações.
+
+NÍVEL 3: FÚRIA CONTAMINADA
+
+A partir do 3º nível, você pode canalizar uma fúria contaminada em seus golpes.
+
+Uma vez por turno, enquanto estiver em Fúria, quando atingir um alvo com um ataque com arma ou Ataque Desarmado, você pode causar 1d8 de dano Necrótico adicional.
+
+Esse dano aumenta para 2d8 no 10º nível e para 3d8 no 14º nível.
+
+Além disso, você pode absorver Contaminação para fortalecer ainda mais seus ataques corpo a corpo.
+
+Quando atingir uma criatura com um ataque corpo a corpo com arma, você pode escolher receber um ou mais Níveis de Contaminação. O alvo sofre 2d8 de dano Necrótico adicional para cada Nível de Contaminação que você escolher receber.
+
+NÍVEL 3: ACOSTUMADO À CORRUPÇÃO
+
+Se uma magia, como Purgar Contaminação, tiver como único efeito remover seus Níveis de Contaminação, o conjurador não precisa utilizar componentes materiais para lançar a magia sobre você.
+
+Além disso, caso a magia normalmente fizesse você receber níveis de Exaustão, você não recebe Exaustão causada por essa magia.
+
+NÍVEL 6: SANGUE OCTARINO
+
+Você ganha Resistência aos seguintes tipos de dano:
+
+* Necrótico
+* Veneno
+* Psíquico
+* Radiante
+
+Além disso, seu máximo de Pontos de Vida não pode ser reduzido.
+
+NÍVEL 6: JÁ SOU UM MONSTRO
+
+Enquanto estiver em Fúria, você ignora os Sintomas de quaisquer Níveis de Contaminação que possua, exceto os efeitos de uma Transformação Monstruosa.
+
+Sempre que fosse sofrer uma Mutação causada por Contaminação, você pode realizar duas rolagens e escolher qual das duas Mutações recebe.
+
+NÍVEL 10: CONSUMIR CORRUPÇÃO
+
+Você ganha a capacidade de lançar a magia Purgar Contaminação.
+
+Você pode fazer isso uma quantidade de vezes por dia igual ao seu Bônus de Proficiência.
+
+Você não precisa utilizar componentes materiais ao lançar a magia dessa maneira.
+
+Você não pode utilizar essa habilidade em si mesmo.
+
+NÍVEL 10: VOZES NA SUA CABEÇA
+
+Uma vez por dia, você pode lançar a magia Contato com Outro Plano.
+
+Se falhar no teste de resistência de Inteligência da magia, você ainda sofre o dano Psíquico causado pela magia, mas pode escolher receber 1 Nível de Contaminação em vez de enlouquecer e ficar Incapacitado como resultado da falha.
+
+NÍVEL 14: UNO COM AS BRUMAS
+
+Você pode lançar Forma Gasosa sobre si mesmo.
+
+Você pode fazer isso uma quantidade de vezes igual ao seu Bônus de Proficiência.
+
+Você recupera todos os usos gastos dessa característica ao terminar um Descanso Longo.
+
+NÍVEL 14: SOPRO DA BRUMA
+
+Quando você entra em Fúria, manifesta ao seu redor uma porção da Bruma preenchida por sussurros enlouquecedores.
+
+Névoas giram ao seu redor formando uma esfera de 4,5 m (15 pés) de raio, centrada em você e que se move junto com você.
+
+A área dentro da névoa fica levemente obscurecida.
+
+Criaturas que começarem seus turnos dentro da névoa devem realizar um teste de resistência de Inteligência.
+
+A CD do teste é igual a:
+
+8 + seu Bônus de Proficiência + seu modificador de Constituição.
+
+Uma criatura que falhar nesse teste sofre 3d8 de dano Psíquico e tem seu Deslocamento reduzido pela metade.
+
+Além disso, ela não pode realizar Reações até o início do próximo turno dela.
+
+Quando você manifesta a névoa, pode designar qualquer quantidade de criaturas que possa ver para não serem afetadas.
+--
+CAMINHO DOS DEUSES ANTIGOS
+
+Esses bárbaros consideram a si mesmos armas naturais, nascidas dos deuses para enfrentar os inimigos de sua divindade escolhida.
+
+Os Deuses Antigos representam o poder bruto, a natureza indomada e as formas tradicionais de adoração.
+
+Um bárbaro que segue os Deuses Antigos geralmente possui uma forte ligação com a natureza e enxerga batalhas gloriosas como a arena de seus deuses. Seu propósito é destruir os inimigos de sua divindade escolhida.
+
+NÍVEL 3: FORÇA BRUTA
+
+Você é implacável em batalha, tomado pela sede de sangue e pela fúria dos Deuses Antigos.
+
+Você ganha proficiência com Armas Improvisadas.
+
+Seus Ataques Desarmados e ataques realizados com qualquer arma corpo a corpo ou Arma Improvisada que não possua a propriedade Leve causam dano igual a:
+
+1d12 + seu modificador de Força.
+
+Enquanto estiver em Fúria, você recebe os seguintes benefícios:
+
+* Todas as armas corpo a corpo que você empunhar e que não possuam a propriedade Leve recebem as propriedades Pesada e Arremesso, incluindo Armas Improvisadas. Uma arma que não possua um alcance de Arremesso especificado recebe alcance de 9/18 m (30/60 pés) enquanto você a estiver empunhando.
+
+* Você não sofre Desvantagem em jogadas de ataque devido à propriedade Pesada concedida por esta característica.
+
+* Uma vez em cada um dos seus turnos, quando atingir uma criatura a até 1,5 m (5 pés) de você com um ataque corpo a corpo com arma, você pode imediatamente tentar Agarrar ou Empurrar essa criatura como parte do mesmo ataque.
+
+  Se escolher Agarrar, o alvo deve realizar um teste de resistência de Força ou Destreza, à escolha dele, contra uma CD igual a:
+
+  8 + seu modificador de Força + seu Bônus de Proficiência.
+
+  Em caso de falha, o alvo fica Agarrado. Você ainda precisa possuir uma mão livre para agarrá-lo.
+
+  Se escolher Empurrar, o alvo realiza o mesmo teste de resistência. Em caso de falha, você pode empurrá-lo 1,5 m (5 pés) para longe de você ou deixá-lo Caído.
+
+NÍVEL 3: IMBUÍDO PELOS DEUSES
+
+Sua força natural é ampliada, e os deuses que você cultua lhe concedem capacidades sobre-humanas.
+
+Você recebe os seguintes benefícios:
+
+* Você ganha proficiência na perícia Intimidação, caso ainda não a possua, e adiciona o dobro do seu Bônus de Proficiência aos testes de Intimidação.
+* Você conta como uma categoria de tamanho maior ao determinar sua capacidade de carga e o peso que pode empurrar, arrastar ou erguer.
+* As distâncias de seus Saltos em Distância e Saltos em Altura são dobradas.
+
+NÍVEL 6: COMBATENTE ADAPTÁVEL
+
+Você recebe um Deslocamento de Escalada igual ao seu Deslocamento.
+
+Além disso, sua capacidade de agarrar inimigos e transformar praticamente qualquer coisa em uma arma se torna ainda mais poderosa.
+
+Você recebe os seguintes benefícios:
+
+* Você pode tentar Agarrar ou Empurrar uma criatura de até duas categorias de tamanho maior que você.
+
+* Você não precisa gastar movimento adicional para mover uma criatura que esteja Agarrando.
+
+* Quando causar dano com um Ataque Desarmado ou uma Arma Improvisada, você pode fazer com que o dano seja de Força em vez do tipo normal.
+
+* Você pode tratar uma criatura que esteja Agarrando como uma Arma Improvisada. Quando atingir outro alvo usando uma criatura Agarrada como Arma Improvisada, a criatura Agarrada sofre dano igual ao seu modificador de Força + seu Bônus de Proficiência.
+
+* Quando utilizar uma criatura como Arma Improvisada, ataques de Arremesso realizados com ela possuem alcance de 3/6 m (10/20 pés).
+
+NÍVEL 6: CONSTITUIÇÃO ROBUSTA
+
+Sempre que entrar em Fúria, você pode gastar Dados de Vida e recuperar Pontos de Vida como se tivesse terminado um Descanso Curto.
+
+Além disso, você pode encerrar voluntariamente sua Fúria como uma Ação Bônus. Quando fizer isso, também pode gastar Dados de Vida e recuperar Pontos de Vida como se tivesse terminado um Descanso Curto.
+
+NÍVEL 10: MORTES BRUTAIS
+
+Enquanto estiver em Fúria, quando reduzir uma criatura a 0 Pontos de Vida, você pode escolher matá-la brutalmente, arrancando membros e destroçando seu inimigo.
+
+A demonstração de violência aterroriza aqueles ao seu redor.
+
+Todos os inimigos que puderem ver você devem realizar um teste de resistência de Sabedoria.
+
+A CD do teste é igual a:
+
+8 + seu Bônus de Proficiência + seu modificador de Força.
+
+Em caso de falha, a criatura fica Amedrontada por você durante 1 minuto.
+
+Depois de utilizar esta característica, você deve terminar um Descanso Curto ou Descanso Longo antes de poder utilizá-la novamente.
+
+NÍVEL 14: DÁDIVA DOS DEUSES ANTIGOS
+
+Os Deuses Antigos escolheram você como sua arma divina, uma ferramenta destinada a ser usada contra seus inimigos.
+
+Você recebe os seguintes benefícios:
+
+* Enquanto estiver em Fúria, sempre que realizar a ação Atacar em seu turno, você pode realizar três ataques.
+
+* Você pode Agarrar ou Empurrar qualquer criatura, independentemente do tamanho dela.
+
+* Você pode adicionar seu valor de Força, em pés, ao alcance normal e ao alcance longo de todas as armas com a propriedade Arremesso.
+
+* Quando Empurrar uma criatura, você pode empurrá-la por 3 m (10 pés) em vez de 1,5 m (5 pés).
+--
+CAMINHO DOS DEUSES ANTIGOS
+
+Esses bárbaros consideram a si mesmos armas naturais, nascidas dos deuses para enfrentar os inimigos de sua divindade escolhida.
+
+Os Deuses Antigos representam o poder bruto, a natureza indomada e as formas tradicionais de adoração.
+
+Um bárbaro que segue os Deuses Antigos geralmente possui uma forte ligação com a natureza e enxerga batalhas gloriosas como a arena de seus deuses. Seu propósito é destruir os inimigos de sua divindade escolhida.
+
+NÍVEL 3: FORÇA BRUTA
+
+Você é implacável em batalha, tomado pela sede de sangue e pela fúria dos Deuses Antigos.
+
+Você ganha proficiência com Armas Improvisadas.
+
+Seus Ataques Desarmados e ataques realizados com qualquer arma corpo a corpo ou Arma Improvisada que não possua a propriedade Leve causam dano igual a:
+
+1d12 + seu modificador de Força.
+
+Enquanto estiver em Fúria, você recebe os seguintes benefícios:
+
+* Todas as armas corpo a corpo que você empunhar e que não possuam a propriedade Leve recebem as propriedades Pesada e Arremesso, incluindo Armas Improvisadas. Uma arma que não possua um alcance de Arremesso especificado recebe alcance de 9/18 m (30/60 pés) enquanto você a estiver empunhando.
+
+* Você não sofre Desvantagem em jogadas de ataque devido à propriedade Pesada concedida por esta característica.
+
+* Uma vez em cada um dos seus turnos, quando atingir uma criatura a até 1,5 m (5 pés) de você com um ataque corpo a corpo com arma, você pode imediatamente tentar Agarrar ou Empurrar essa criatura como parte do mesmo ataque.
+
+  Se escolher Agarrar, o alvo deve realizar um teste de resistência de Força ou Destreza, à escolha dele, contra uma CD igual a:
+
+  8 + seu modificador de Força + seu Bônus de Proficiência.
+
+  Em caso de falha, o alvo fica Agarrado. Você ainda precisa possuir uma mão livre para agarrá-lo.
+
+  Se escolher Empurrar, o alvo realiza o mesmo teste de resistência. Em caso de falha, você pode empurrá-lo 1,5 m (5 pés) para longe de você ou deixá-lo Caído.
+
+NÍVEL 3: IMBUÍDO PELOS DEUSES
+
+Sua força natural é ampliada, e os deuses que você cultua lhe concedem capacidades sobre-humanas.
+
+Você recebe os seguintes benefícios:
+
+* Você ganha proficiência na perícia Intimidação, caso ainda não a possua, e adiciona o dobro do seu Bônus de Proficiência aos testes de Intimidação.
+* Você conta como uma categoria de tamanho maior ao determinar sua capacidade de carga e o peso que pode empurrar, arrastar ou erguer.
+* As distâncias de seus Saltos em Distância e Saltos em Altura são dobradas.
+
+NÍVEL 6: COMBATENTE ADAPTÁVEL
+
+Você recebe um Deslocamento de Escalada igual ao seu Deslocamento.
+
+Além disso, sua capacidade de agarrar inimigos e transformar praticamente qualquer coisa em uma arma se torna ainda mais poderosa.
+
+Você recebe os seguintes benefícios:
+
+* Você pode tentar Agarrar ou Empurrar uma criatura de até duas categorias de tamanho maior que você.
+
+* Você não precisa gastar movimento adicional para mover uma criatura que esteja Agarrando.
+
+* Quando causar dano com um Ataque Desarmado ou uma Arma Improvisada, você pode fazer com que o dano seja de Força em vez do tipo normal.
+
+* Você pode tratar uma criatura que esteja Agarrando como uma Arma Improvisada. Quando atingir outro alvo usando uma criatura Agarrada como Arma Improvisada, a criatura Agarrada sofre dano igual ao seu modificador de Força + seu Bônus de Proficiência.
+
+* Quando utilizar uma criatura como Arma Improvisada, ataques de Arremesso realizados com ela possuem alcance de 3/6 m (10/20 pés).
+
+NÍVEL 6: CONSTITUIÇÃO ROBUSTA
+
+Sempre que entrar em Fúria, você pode gastar Dados de Vida e recuperar Pontos de Vida como se tivesse terminado um Descanso Curto.
+
+Além disso, você pode encerrar voluntariamente sua Fúria como uma Ação Bônus. Quando fizer isso, também pode gastar Dados de Vida e recuperar Pontos de Vida como se tivesse terminado um Descanso Curto.
+
+NÍVEL 10: MORTES BRUTAIS
+
+Enquanto estiver em Fúria, quando reduzir uma criatura a 0 Pontos de Vida, você pode escolher matá-la brutalmente, arrancando membros e destroçando seu inimigo.
+
+A demonstração de violência aterroriza aqueles ao seu redor.
+
+Todos os inimigos que puderem ver você devem realizar um teste de resistência de Sabedoria.
+
+A CD do teste é igual a:
+
+8 + seu Bônus de Proficiência + seu modificador de Força.
+
+Em caso de falha, a criatura fica Amedrontada por você durante 1 minuto.
+
+Depois de utilizar esta característica, você deve terminar um Descanso Curto ou Descanso Longo antes de poder utilizá-la novamente.
+
+NÍVEL 14: DÁDIVA DOS DEUSES ANTIGOS
+
+Os Deuses Antigos escolheram você como sua arma divina, uma ferramenta destinada a ser usada contra seus inimigos.
+
+Você recebe os seguintes benefícios:
+
+* Enquanto estiver em Fúria, sempre que realizar a ação Atacar em seu turno, você pode realizar três ataques.
+
+* Você pode Agarrar ou Empurrar qualquer criatura, independentemente do tamanho dela.
+
+* Você pode adicionar seu valor de Força, em pés, ao alcance normal e ao alcance longo de todas as armas com a propriedade Arremesso.
+
+* Quando Empurrar uma criatura, você pode empurrá-la por 3 m (10 pés) em vez de 1,5 m (5 pés).
+--
+COLÉGIO DOS PROFETAS DA DESGRAÇA
+
+Bardos deste colégio se deleitam com o medo e o desespero dos outros. Eles contemplaram o fim dos tempos e usam seus dons proféticos para incutir terror naqueles que ouvem suas palavras.
+
+Esses bardos comandam uma plateia como qualquer outro, mas sua arte é a de um profeta enlouquecido, e seus poemas e canções ecoam dissonantes presságios de desesperança e sofrimento.
+
+Aqueles que escutam seus delírios são tomados pelo medo, perdem a própria vontade e mergulham na loucura.
+
+NÍVEL 3: O FIM ESTÁ PRÓXIMO
+
+Suas palavras incutem medo no coração daqueles que testemunham suas profecias de desgraça.
+
+Sempre que realizar um teste de Carisma (Intimidação), você pode considerar qualquer resultado de 9 ou menos no d20 como um resultado 10.
+
+NÍVEL 3: PALAVRAS ATERRADORAS
+
+Como uma Ação Bônus, você pode gastar um uso de sua Inspiração de Bardo e escolher uma criatura que possa ver a até 18 m (60 pés) de você.
+
+O alvo sofre dano Psíquico igual ao resultado do seu dado de Inspiração de Bardo e deve realizar um teste de resistência de Sabedoria contra sua CD para evitar suas magias.
+
+Em caso de falha, o alvo fica Amedrontado por você até o início do seu próximo turno.
+
+NÍVEL 6: PREVISÃO PROFÉTICA
+
+Você é capaz de vislumbrar os resultados mais desastrosos de cada ação possível.
+
+Quando uma criatura que você possa ver a até 18 m (60 pés) de você realizar um Teste de d20, você pode usar sua Reação para tentar fazer com que essas visões se tornem realidade.
+
+A criatura deve realizar um teste de resistência de Carisma contra sua CD para evitar suas magias.
+
+Em caso de falha, o Teste de d20 que desencadeou esta característica falha automaticamente.
+
+Em caso de sucesso, a criatura realiza normalmente o Teste de d20 que desencadeou esta característica, e você não gasta um uso desta característica.
+
+Você pode utilizar esta característica uma quantidade de vezes igual à metade do seu Bônus de Proficiência, arredondado para baixo.
+
+Você recupera todos os usos gastos ao terminar um Descanso Longo.
+
+NÍVEL 6: VERDADEIRO CRENTE
+
+Convencido de sua condenação iminente, você não teme mais a morte.
+
+Você possui Imunidade à condição Amedrontado.
+
+Além disso, possui Vantagem em testes de resistência contra ser Enfeitiçado.
+
+NÍVEL 14: DESGRAÇA IMINENTE
+
+Uma criatura Amedrontada por você possui Desvantagem em todos os testes de resistência que realizar enquanto puder ver você.
+
+NÍVEL 14: POR QUEM OS SINOS DOBRAM
+
+Quando rolar Iniciativa, você pode escolher uma criatura que possa ver a até 18 m (60 pés) de você.
+
+Você profetiza a morte iminente dessa criatura.
+
+Durante a primeira rodada do combate, todas as jogadas de ataque realizadas contra essa criatura possuem Vantagem.
+--
+MAGO DA ACADEMIA
+
+Mago
+
+Convoque um Guardião da Academia para protegê-lo...
+
+A maioria dos magos treinados pela Academia Ametista segue carreiras respeitáveis como pesquisadores, artífices mágicos, professores, curadores de artefatos mágicos ou proprietários de modestas lojas de poções e pergaminhos, longe dos monstros e campos de batalha do continente.
+
+Entretanto, nem todo mago permanece protegido pelas paredes da Academia. Agentes de campo precisam enfrentar fronteiras perigosas, investigar fendas planares, recuperar conhecimentos arcanos perdidos e obter os raros reagentes mágicos que mantêm vivas as pesquisas da Academia.
+
+Esses agentes mágicos de elite recebem um Guardião da Academia feito especialmente para eles, um constructo mágico vinculado ao seu mestre e criado especificamente para protegê-lo em campo.
+
+Forjado a partir de metal encantado vivo ou moldado por forças elementais aprisionadas, cada Guardião é projetado para resistir aos ambientes mais hostis, carregar magias poderosas e se colocar entre seu mago e perigos mortais.
+
+Um Mago da Academia confia em seu Guardião para suportar o peso de cada expedição — carregando equipamentos, enfrentando perigos mortais e permanecendo entre seu mestre e as incontáveis ameaças que espreitam nos lugares mais perigosos do mundo.
+
+NOTA DO DESIGNER: MEMBRO DA ACADEMIA
+
+O Mago da Academia representa um personagem cujo talento mágico foi moldado por treinamento acadêmico formal, mas não tem a intenção de representar todos os membros da Academia Ametista.
+
+Personagens de qualquer subclasse podem ser estudantes, formados, professores, agentes ou membros da Academia, enquanto um personagem com esta subclasse pode ter abandonado a Academia, sido expulso ou, por algum outro motivo, não possuir mais qualquer vínculo com a instituição.
+
+Da mesma forma, ser membro da Academia Ametista e possuir Anéis da Academia são questões separadas.
+
+Os Anéis da Academia são itens mágicos cuja disponibilidade é determinada pelo Mestre e pela relação do personagem com a Academia Ametista.
+
+Escolher esta subclasse não concede Anéis da Academia, e possuir Anéis da Academia não é um requisito para escolher esta subclasse.
+
+NÍVEL 3: MAGIAS DA ACADEMIA
+
+Quando você alcança um nível de Mago indicado abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+MAGIAS DA ACADEMIA
+
+Nível 3:
+
+* Detectar Magia
+* Escrita Ilusória
+* Invisibilidade
+* Localizar Objeto
+
+Nível 5:
+
+* Dissipar Magia
+* Enviar Mensagem
+
+Nível 7:
+
+* Porta Dimensional
+* Invocar Constructo
+
+Nível 9:
+
+* Vínculo Telepático de Rary
+* Círculo de Teletransporte
+
+NÍVEL 3: GUARDIÃO DA ACADEMIA
+
+Você vincula um constructo guardião à sua vontade para protegê-lo.
+
+Como parte de um Descanso Longo, você pode realizar um ritual utilizando seu Foco Arcano para invocar um Guardião da Academia.
+
+Você determina a aparência do Guardião quando o invoca. Ele pode se parecer com uma armadura animada, uma manifestação elemental ou alguma outra criação mágica.
+
+Sua aparência não possui qualquer efeito sobre suas estatísticas de jogo.
+
+O Guardião é amigável a você e aos seus aliados e obedece aos seus comandos.
+
+Se você morrer, o Guardião desaparece.
+
+GUARDIÃO DA ACADEMIA
+
+Constructo Médio
+
+CA: 11
+
+PV: 5/5
+
+Deslocamento: 9 m (30 pés)
+
+ATRIBUTOS
+
+FOR 16 (+3)
+DES 10 (+0)
+CON 16 (+3)
+INT 6 (-2)
+SAB 10 (+0)
+CAR 6 (-2)
+
+Sentidos:
+Visão no Escuro 18 m (60 pés)
+Percepção Passiva 10
+
+Imunidades a Condições:
+Enfeitiçado, Exaustão, Envenenado
+
+Imunidades a Dano:
+Veneno
+
+SOBRECARGA ARCANA
+
+Se o Guardião da Academia obtiver um 20 natural em uma jogada de ataque ou for atingido por um Acerto Crítico, você pode escolher provocar uma Anomalia Arcana.
+
+GOLPE ARCANO
+
+Ataque Corpo a Corpo:
+Bônus igual ao seu modificador de ataque mágico.
+
+Alcance:
+1,5 m (5 pés).
+
+Acerto:
+1d6 + 3 + seu modificador de Inteligência de dano de Força.
+
+O dano de Força aumenta em 1d6 no 10º nível e novamente em 1d6 no 14º nível.
+
+O alcance aumenta para 3 m (10 pés) no 10º nível.
+
+O GUARDIÃO EM COMBATE
+
+Em combate, o Guardião age durante o seu turno.
+
+Ele pode se mover e usar sua Reação por conta própria, mas a única ação que realiza é a ação Esquivar, a menos que você use uma Ação Bônus para comandá-lo a realizar outra ação.
+
+Essa ação pode ser uma das ações presentes em seu bloco de estatísticas ou alguma outra ação.
+
+Se você estiver Incapacitado, o Guardião age por conta própria e não fica limitado à ação Esquivar.
+
+RESTAURANDO O GUARDIÃO
+
+Se o Guardião tiver sido destruído durante a última hora, você pode usar uma ação de Magia enquanto segura seu Foco Arcano e gastar um espaço de magia.
+
+Após 1 minuto, o Guardião reaparece em um espaço desocupado a até 1,5 m (5 pés) de você com todos os seus Pontos de Vida restaurados.
+
+NÍVEL 6: GUARDIÃO PROTETOR
+
+Quando você sofre dano enquanto seu Guardião da Academia estiver a até 18 m (60 pés) de você, ele pode usar sua Reação para se mover até uma distância igual ao seu Deslocamento em sua direção sem provocar Ataques de Oportunidade.
+
+Se o Guardião terminar esse movimento a até 3 m (10 pés) de você, ele sofre o dano no seu lugar.
+
+NÍVEL 10: GUARDIÃO ARMAZENADOR DE MAGIAS
+
+Seu Guardião da Academia pode armazenar magias lançadas dentro dele, mantendo-as guardadas até produzir seus efeitos.
+
+O Guardião pode armazenar até 5 níveis de magia ao mesmo tempo.
+
+Você pode lançar dentro do Guardião uma magia de Mago de 1º a 5º nível cujo tempo de conjuração seja de uma ação, tocando-o enquanto lança a magia.
+
+A magia não produz qualquer efeito naquele momento, sendo apenas armazenada no Guardião.
+
+Se o Guardião não possuir espaço suficiente para armazenar a magia, ela é gasta sem produzir efeito.
+
+O nível do espaço de magia utilizado para lançar a magia determina quanto espaço ela ocupa.
+
+CONJURANDO MAGIAS ARMAZENADAS
+
+Como uma ação de Magia, o Guardião pode lançar qualquer magia armazenada dentro dele.
+
+A magia utiliza:
+
+* Sua CD para evitar magias.
+* Seu bônus de ataque mágico.
+* Seu modificador de habilidade de conjuração.
+
+Para todos os demais efeitos, considera-se que o próprio Guardião lançou a magia.
+
+Depois que uma magia é lançada pelo Guardião, ela deixa de estar armazenada, liberando o espaço correspondente.
+
+Se uma magia lançada pelo Guardião exigir Concentração, você deve manter a Concentração da magia.
+
+As magias armazenadas permanecem no Guardião até serem lançadas ou até que ele seja reduzido a 0 Pontos de Vida.
+
+SOBRECARGA MÁXIMA
+
+Enquanto o Guardião possuir cinco níveis completos de magia armazenados:
+
+* Sua característica Sobrecarga Arcana é ativada quando ele obtém um resultado natural de 19 ou 20 em uma jogada de ataque.
+* Quando uma Anomalia Arcana for provocada dessa maneira, você pode rolar duas vezes na tabela de Anomalias Arcanas e escolher qual dos dois efeitos acontece.
+
+NÍVEL 14: GUARDIÃO AUTORREPARADOR
+
+Enquanto seu Guardião da Academia possuir pelo menos 1 Ponto de Vida restante, ele recupera uma quantidade de Pontos de Vida igual ao dobro do seu modificador de Inteligência no início de cada um dos seus turnos.

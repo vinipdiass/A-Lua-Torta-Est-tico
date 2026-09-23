@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="theme-color" content="#07080b">
+    <title>Drakkenheim</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%98%84%EF%B8%8F%3C/text%3E%3C/svg%3E">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="app" class="app">
+
+      <!-- ACCESS GATE -->
+      <section id="view-gate" class="gate" aria-label="Acesso a Drakkenheim">
+        <div class="gate__backdrop"></div>
+        <div class="gate__vignette"></div>
+        <div class="gate__scanlines" aria-hidden="true"></div>
+        <div class="ambient-motes" aria-hidden="true"></div>
+
+        <div class="gate__card">
+          <p class="gate__eyebrow">DUNGEONS OF</p>
+          <h1 class="gate__title">DRAKKENHEIM</h1>
+          <p class="gate__tagline">Cidade caída. Magia corrompida. Ruínas por explorar.</p>
+
+          <form id="access-form" class="access-form" novalidate autocomplete="off">
+            <label class="access-form__label" for="chapter-code">Código de acesso</label>
+            <div class="access-form__row">
+              <input
+                id="chapter-code"
+                class="access-form__input"
+                type="text"
+                name="chapter-code"
+                placeholder="Digite o código"
+                autocomplete="off"
+                autocapitalize="off"
+                spellcheck="false"
+                aria-describedby="access-feedback"
+              >
+              <button class="access-form__submit" type="submit">Acessar</button>
+            </div>
+            <p id="access-feedback" class="access-feedback" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+
+        <aside id="discovered-codes" class="discovered-codes is-hidden" aria-label="Códigos descobertos">
+          <div id="discovered-codes-panel" class="discovered-codes__panel" aria-hidden="true">
+            <span class="discovered-codes__eyebrow">REGISTRO</span>
+            <h2>Códigos descobertos</h2>
+            <p>Guardados neste navegador.</p>
+            <ol id="discovered-codes-list" class="discovered-codes__list"></ol>
+          </div>
+          <button
+            id="discovered-codes-toggle"
+            class="discovered-codes__toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="discovered-codes-panel"
+          >
+            <span>Códigos descobertos</span>
+            <span id="discovered-codes-count" class="discovered-codes__count" aria-hidden="true"></span>
+          </button>
+        </aside>
+      </section>
+
+      <!-- SHARED CHROME (volume + exit) — visible during any chapter, gate or hub -->
+      <div id="chrome-controls" class="chrome-controls is-hidden">
+        <button id="volume-control" class="volume-control" type="button" aria-label="Volume: 100%. Clique para diminuir.">
+          <span id="volume-control-icon" class="volume-control__icon" aria-hidden="true">🔊</span>
+          <span id="volume-control-value" class="volume-control__value">100%</span>
+        </button>
+
+        <button id="exit-chapter" class="exit-chapter" type="button" aria-label="Voltar à entrada">✕</button>
+      </div>
+
+      <!-- SCENE PLAYER (used by linear chapters) -->
+      <section id="view-chapter" class="stage is-hidden" aria-label="Drakkenheim">
+        <div id="scene-image-backdrop" class="scene-image-backdrop" aria-hidden="true"></div>
+        <video id="scene-video" class="scene-media" muted playsinline preload="auto"></video>
+        <img id="scene-image" class="scene-media" alt="">
+        <div class="stage__vignette"></div>
+        <div class="stage__grain" aria-hidden="true"></div>
+
+        <div id="stage-progress" class="stage__progress" aria-hidden="true"></div>
+
+        <div class="stage__content">
+          <span id="scene-eyebrow" class="stage__eyebrow"></span>
+          <h2 id="scene-title" class="stage__title"></h2>
+          <p id="scene-text" class="stage__text"></p>
+          <span id="scene-hint" class="stage__hint">toque para continuar</span>
+        </div>
+      </section>
+
+      <!-- FACTION HUB (used by free-exploration chapters) -->
+      <section id="view-hub" class="hub is-hidden" aria-label="Facções de Drakkenheim">
+        <div class="hub__backdrop"></div>
+        <div class="hub__vignette"></div>
+        <div class="ambient-motes ambient-motes--fixed" aria-hidden="true"></div>
+
+        <div class="hub__scroll">
+          <header class="hub__header">
+            <span id="hub-eyebrow" class="hub__eyebrow"></span>
+            <h2 id="hub-title" class="hub__title"></h2>
+            <p id="hub-intro" class="hub__intro"></p>
+          </header>
+
+          <div id="hub-grid" class="hub__grid"></div>
+
+          <footer class="hub__footer">
+            <p id="hub-progress" class="hub__progress"></p>
+            <button id="hub-complete" class="hub__complete" type="button" disabled>Concluir capítulo</button>
+          </footer>
+        </div>
+      </section>
+
+      <!-- FACTION DETAIL (overlay on top of the hub) -->
+      <section id="view-faction-detail" class="detail is-hidden" aria-label="Detalhes da facção">
+        <div class="detail__backdrop"></div>
+        <div class="detail__card">
+          <button id="detail-back" class="detail__back" type="button">← Voltar às facções</button>
+          <div class="detail__body">
+            <div class="detail__portrait-wrap">
+              <img id="detail-portrait" class="detail__portrait" alt="">
+            </div>
+            <div class="detail__copy">
+              <img id="detail-symbol" class="detail__symbol" alt="">
+              <span id="detail-eyebrow" class="detail__eyebrow"></span>
+              <h3 id="detail-name" class="detail__name"></h3>
+              <p id="detail-leader" class="detail__leader"></p>
+              <p id="detail-text" class="detail__text"></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- CODEX (long-form optional lore, e.g. the world appendix) -->
+      <section id="view-codex" class="codex is-hidden" aria-label="Apêndice de lore">
+        <div id="codex-progress" class="codex__progress" aria-hidden="true"><span id="codex-progress-bar"></span></div>
+
+        <button id="codex-nav-toggle" class="codex__nav-toggle" type="button" aria-expanded="false" aria-controls="codex-nav">
+          <span>Índice</span>
+        </button>
+
+        <nav id="codex-nav" class="codex__nav" aria-label="Índice do apêndice">
+          <div class="codex__nav-head">
+            <span id="codex-nav-eyebrow" class="codex__nav-eyebrow"></span>
+            <p id="codex-nav-title" class="codex__nav-title"></p>
+          </div>
+          <ol id="codex-nav-list" class="codex__nav-list"></ol>
+        </nav>
+
+        <div id="codex-scroll" class="codex__scroll">
+          <article id="codex-article" class="codex__article">
+            <header class="codex__cover">
+              <span id="codex-eyebrow" class="codex__eyebrow"></span>
+              <h1 id="codex-title" class="codex__title"></h1>
+              <p id="codex-subtitle" class="codex__subtitle"></p>
+
+              <img id="codex-cover-image" class="codex__cover-image" alt="" hidden>
+
+              <div class="codex__optional-banner">
+                <span class="codex__optional-tag">Leitura opcional</span>
+                <p id="codex-optional-note" class="codex__optional-note"></p>
+              </div>
+
+              <div class="codex__next-code">
+                <span class="codex__next-code-eyebrow">Código do próximo capítulo</span>
+                <p id="codex-next-code" class="codex__next-code-value"></p>
+                <span id="codex-next-code-hint" class="codex__next-code-hint"></span>
+              </div>
+            </header>
+
+            <div id="codex-body" class="codex__body">
+              <p class="codex__loading">Carregando o arquivo…</p>
+            </div>
+          </article>
+        </div>
+
+        <button id="codex-top" class="codex__top" type="button" aria-label="Voltar ao topo">↑</button>
+      </section>
+
+      <!-- MISSION CAROUSEL (used by "mission" type chapters) -->
+      <section id="view-mission" class="mission is-hidden" aria-label="Missões pessoais">
+        <video id="mission-video" class="mission__video" muted loop playsinline preload="auto"></video>
+        <div class="mission__scrim"></div>
+        <div class="mission__grain" aria-hidden="true"></div>
+
+        <div id="mission-intro" class="mission__intro">
+          <span id="mission-intro-eyebrow" class="mission__intro-eyebrow"></span>
+          <h2 id="mission-intro-title" class="mission__intro-title"></h2>
+          <div id="mission-intro-text" class="mission__intro-text"></div>
+          <span class="mission__intro-hint">toque para continuar</span>
+        </div>
+
+        <div id="mission-carousel" class="mission__carousel is-hidden">
+          <button id="mission-prev" class="mission__nav mission__nav--prev" type="button" aria-label="Missão anterior">‹</button>
+
+          <article class="mission__card" aria-live="polite">
+            <span id="mission-position" class="mission__position"></span>
+            <h2 id="mission-name" class="mission__name"></h2>
+            <div id="mission-content" class="mission__content">
+              <p id="mission-text" class="mission__text"></p>
+            </div>
+          </article>
+
+          <button id="mission-next" class="mission__nav mission__nav--next" type="button" aria-label="Próxima missão">›</button>
+
+          <div class="mission__footer">
+            <p id="mission-progress" class="mission__progress"></p>
+            <button id="mission-complete" class="mission__complete" type="button" disabled>Concluir capítulo</button>
+          </div>
+
+          <p id="mission-status" class="mission__status" role="status" aria-live="polite"></p>
+        </div>
+      </section>
+
+      <!-- TOME MENU (used by "tome" type chapters, e.g. character creation) -->
+      <section id="view-tome" class="tome is-hidden" aria-label="Tomos de Drakkenheim">
+        <div class="tome__backdrop"></div>
+        <div class="tome__vignette"></div>
+        <div class="ambient-motes ambient-motes--fixed" aria-hidden="true"></div>
+
+        <div class="tome__scroll">
+          <header class="tome__header">
+            <span id="tome-eyebrow" class="tome__eyebrow"></span>
+            <h2 id="tome-title" class="tome__title"></h2>
+            <p id="tome-intro" class="tome__intro"></p>
+          </header>
+
+          <div id="tome-manifesto" class="tome__manifesto"></div>
+
+          <div id="tome-grid" class="tome__grid"></div>
+
+          <footer class="tome__footer">
+            <button id="tome-complete" class="tome__complete" type="button">Concluir capítulo</button>
+          </footer>
+        </div>
+      </section>
+
+      <!-- SUBCLASSES (overlay carousel opened from the "Classe e Subclasses" tome) -->
+      <section id="view-subclasses" class="subclass-carousel is-hidden" aria-label="Subclasses de Drakkenheim">
+        <div class="subclass-carousel__backdrop"></div>
+
+        <button id="subclass-back" class="subclass-carousel__back" type="button">← Voltar às classes</button>
+
+        <div class="subclass-carousel__stage">
+          <button id="subclass-prev" class="subclass-carousel__nav subclass-carousel__nav--prev" type="button" aria-label="Subclasse anterior">‹</button>
+
+          <aside class="subclass-preview subclass-preview--prev" aria-hidden="true">
+            <img id="subclass-prev-image" alt="">
+            <span id="subclass-prev-name"></span>
+          </aside>
+
+          <article class="subclass-card" aria-live="polite">
+            <figure class="subclass-card__portrait">
+              <img id="subclass-image" alt="">
+              <figcaption id="subclass-position" class="subclass-card__position"></figcaption>
+            </figure>
+
+            <div class="subclass-card__body">
+              <header class="subclass-card__header">
+                <span id="subclass-class" class="subclass-card__class"></span>
+                <h1 id="subclass-name" class="subclass-card__name"></h1>
+              </header>
+
+              <div id="subclass-card-scroll" class="subclass-card__scroll">
+                <div id="subclass-introduction" class="subclass-card__intro"></div>
+                <div id="subclass-sections" class="subclass-card__sections"></div>
+              </div>
+            </div>
+          </article>
+
+          <aside class="subclass-preview subclass-preview--next" aria-hidden="true">
+            <img id="subclass-next-image" alt="">
+            <span id="subclass-next-name"></span>
+          </aside>
+
+          <button id="subclass-next" class="subclass-carousel__nav subclass-carousel__nav--next" type="button" aria-label="Próxima subclasse">›</button>
+        </div>
+
+        <p id="subclass-status" class="subclass-carousel__status" role="status"></p>
+        <p class="subclass-carousel__hint" aria-hidden="true">Use <kbd>←</kbd> <kbd>→</kbd> ou as setas na tela · <kbd>Esc</kbd> para voltar</p>
+      </section>
+
+      <!-- SUBCLASS CLASSES (grid of classes, opened from the class menu's
+           "Subclasses" card; picking one opens the carousel above scoped
+           to that class only) -->
+      <section id="view-subclass-classes" class="class-menu subclass-classes is-hidden" aria-label="Escolha uma classe">
+        <div class="class-menu__backdrop"></div>
+        <div class="ambient-motes ambient-motes--fixed" aria-hidden="true"></div>
+
+        <button id="subclassclasses-back" class="subclass-carousel__back" type="button">← Voltar</button>
+
+        <div class="class-menu__stage">
+          <span class="tome__eyebrow">CLASSE E SUBCLASSES</span>
+          <h2 class="tome__title">Escolha uma classe</h2>
+          <div id="subclassclasses-grid" class="tome__grid"></div>
+          <p id="subclassclasses-status" class="subclass-carousel__status" role="status"></p>
+        </div>
+      </section>
+
+      <!-- CLASS MENU (opened from the "Classe e Subclasses" tome card) -->
+      <section id="view-class-menu" class="class-menu is-hidden" aria-label="Menu de classes">
+        <div class="class-menu__backdrop"></div>
+        <div class="ambient-motes ambient-motes--fixed" aria-hidden="true"></div>
+
+        <button id="classmenu-back" class="subclass-carousel__back" type="button">← Voltar aos tomos</button>
+
+        <div class="class-menu__stage">
+          <span class="tome__eyebrow">CLASSE E SUBCLASSES</span>
+          <h2 class="tome__title">O que deseja consultar?</h2>
+          <div id="classmenu-grid" class="tome__grid class-menu__grid"></div>
+        </div>
+      </section>
+
+      <!-- CLASS DETAIL (Apotecário, opened from the class menu) -->
+      <section id="view-class-detail" class="class-detail codex is-hidden" aria-label="Classe: Apotecário">
+        <div id="classdetail-progress" class="codex__progress" aria-hidden="true"><span id="classdetail-progress-bar"></span></div>
+
+        <button id="classdetail-nav-toggle" class="codex__nav-toggle" type="button" aria-expanded="false" aria-controls="classdetail-nav">
+          <span>Índice</span>
+        </button>
+
+        <nav id="classdetail-nav" class="codex__nav" aria-label="Índice da classe">
+          <div class="codex__nav-head">
+            <button id="classdetail-back" class="codex__back" type="button">← Voltar</button>
+            <span class="codex__nav-eyebrow">CLASSE</span>
+            <p class="codex__nav-title">Apotecário</p>
+          </div>
+          <ol id="classdetail-nav-list" class="codex__nav-list"></ol>
+        </nav>
+
+        <div id="classdetail-scroll" class="codex__scroll">
+          <article class="codex__article">
+            <header class="codex__cover">
+              <img id="classdetail-portrait" class="class-detail__portrait" alt="Apotecário">
+              <span class="codex__eyebrow">CAPÍTULO 6 · CLASSE</span>
+              <h1 class="codex__title">Apotecário</h1>
+              <div id="classdetail-intro" class="class-detail__intro"></div>
+            </header>
+
+            <p id="classdetail-status" class="codex__loading" role="status"></p>
+
+            <div id="classdetail-body" class="class-detail__body"></div>
+          </article>
+        </div>
+
+        <button id="classdetail-top" class="codex__top" type="button" aria-label="Voltar ao topo">↑</button>
+      </section>
+
+      <!-- CLASS FEATURES (Paladino / Patrulheiro "Experimento Éldritch" —
+           optional class features and new spells; one shared view, content
+           swapped depending on which class-menu card opened it) -->
+      <section id="view-class-feature" class="class-detail codex is-hidden" aria-label="Novas características e magias">
+        <div id="classfeature-progress" class="codex__progress" aria-hidden="true"><span id="classfeature-progress-bar"></span></div>
+
+        <button id="classfeature-nav-toggle" class="codex__nav-toggle" type="button" aria-expanded="false" aria-controls="classfeature-nav">
+          <span>Índice</span>
+        </button>
+
+        <nav id="classfeature-nav" class="codex__nav" aria-label="Índice">
+          <div class="codex__nav-head">
+            <button id="classfeature-back" class="codex__back" type="button">← Voltar</button>
+            <span id="classfeature-nav-eyebrow" class="codex__nav-eyebrow"></span>
+            <p id="classfeature-nav-title" class="codex__nav-title"></p>
+          </div>
+          <ol id="classfeature-nav-list" class="codex__nav-list"></ol>
+        </nav>
+
+        <div id="classfeature-scroll" class="codex__scroll">
+          <article class="codex__article">
+            <header class="codex__cover">
+              <img id="classfeature-portrait" class="class-detail__portrait" alt="">
+              <span id="classfeature-eyebrow" class="codex__eyebrow"></span>
+              <h1 id="classfeature-title" class="codex__title"></h1>
+              <div id="classfeature-intro" class="class-detail__intro"></div>
+            </header>
+
+            <p id="classfeature-status" class="codex__loading" role="status"></p>
+
+            <div id="classfeature-body" class="codex__body"></div>
+          </article>
+        </div>
+
+        <button id="classfeature-top" class="codex__top" type="button" aria-label="Voltar ao topo">↑</button>
+      </section>
+
+      <!-- CHAPTER COMPLETE -->
+      <section id="view-complete" class="complete is-hidden" aria-label="Fim do capítulo">
+        <div class="complete__backdrop" aria-hidden="true"></div>
+        <div class="ambient-motes" aria-hidden="true"></div>
+        <div class="complete__card">
+          <span id="complete-eyebrow" class="complete__eyebrow">CÓDIGO PARA A PRÓXIMA FASE</span>
+          <p id="complete-code" class="complete__code">Delerium</p>
+          <button id="copy-complete-code" class="complete__copy" type="button">Copiar código</button>
+          <span id="copy-complete-status" class="complete__copy-status" role="status" aria-live="polite"></span>
+          <p id="complete-note" class="complete__note"></p>
+          <button id="complete-home" class="complete__home" type="button">Voltar à entrada</button>
+        </div>
+      </section>
+
+      <audio id="bgm" preload="none" loop></audio>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

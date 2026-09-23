@@ -1,0 +1,301 @@
+# PALADINO
+
+## MAGIAS
+
+Você recebe características de classe do *Livro do Jogador* quando alcança determinados níveis em sua classe. Este **Experimento Éldritch** oferece características adicionais que você pode obter como **patrulheiro**. Diferentemente das características das Regras Básicas, você não recebe automaticamente as características apresentadas aqui.
+
+Em conjunto com seu Mestre, você decide se deseja obter uma característica desta seção caso cumpra o requisito de nível indicado em sua descrição. Essas características podem ser escolhidas independentemente umas das outras; você pode usar algumas, todas ou nenhuma delas.
+
+## CARACTERÍSTICAS OPCIONAIS DE CLASSE
+
+### Nível 2: Destruição Justa
+
+Você pode preparar diariamente uma magia adicional de **Destruição Justa** de cada círculo de magia que seja capaz de conjurar. Ela não conta para o número máximo de magias que você pode preparar.
+
+Uma magia de Destruição Justa é qualquer magia de paladino que possua a palavra **“Destruição”** em seu nome.
+
+### Nível 5: Ataque Justo
+
+**Substitui a característica Ataque Extra do Paladino**
+
+Você recebe a característica **Ataque Extra**. Com ela, pode atacar duas vezes com uma arma, em vez de uma, sempre que realizar a ação **Atacar** em seu turno.
+
+Além disso, você pode conjurar uma de suas magias de **Destruição Justa** cujo tempo de conjuração seja de 1 ação no lugar de um desses ataques.
+
+# MAGIAS DE PALADINO DE 1º CÍRCULO
+
+## Destruição Radiante
+
+*Evocação de 1º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia. Se o ataque atingir, o alvo sofre **2d8 de dano Radiante adicional**.
+
+O dano aumenta em **1d8** se o alvo for um **Corruptor** ou **Morto-vivo**.
+
+Se o ataque errar, você não gasta o espaço de magia utilizado para conjurar esta magia.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 1º.
+
+---
+
+## Destruição Renovadora
+
+*Abjuração de 1º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Uma criatura à sua escolha que você possa ver a até **9 metros do alvo** recupera uma quantidade de Pontos de Vida igual a **2d4 + seu modificador da habilidade de conjuração**.
+
+**Usando um Espaço de Magia de Círculo Superior.** A cura aumenta em **2d4** para cada círculo do espaço de magia acima do 1º.
+
+---
+
+## Destruição Reativa
+
+*Abjuração de 1º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 reação, realizada quando um inimigo provoca um ataque de oportunidade seu
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **3d8 de dano Radiante adicional**.
+
+O dano aumenta em **1d8** se o alvo for um Corruptor ou Morto-vivo.
+
+Se o ataque errar, você não gasta o espaço de magia utilizado para conjurar esta magia.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 1º.
+
+---
+
+## Destruição Punitiva
+
+*Abjuração de 1º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 reação, realizada quando um inimigo a até 1,5 metro de você causa dano a um aliado que você possa ver
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Uma criatura atingida por esse ataque é **empurrada 3 metros diretamente para longe de você** e fica **Caída**.
+
+Se o ataque errar, você não gasta o espaço de magia utilizado para conjurar esta magia.
+
+# MAGIAS DE PALADINO DE 2º CÍRCULO
+
+## Destruição Ardente
+
+*Evocação de 2º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **2d8 de dano de Fogo adicional** e recebe a condição **Queimando (2d8)**.
+
+O dano do efeito de Queimando aumenta em **1d8** se o alvo for um Corruptor ou Morto-vivo.
+
+Se o ataque errar, você recupera o espaço de magia utilizado para conjurar esta magia.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 2º.
+
+---
+
+## Destruição Congelante
+
+*Evocação de 2º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **2d8 de dano de Frio adicional** e recebe a condição **Congelado**.
+
+A CD para escapar dessa condição é igual à sua **CD para evitar suas magias**.
+
+Se o ataque errar, você não gasta o espaço de magia utilizado para conjurar esta magia.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 2º.
+
+---
+
+## Destruição Eletrizante
+
+*Evocação de 2º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **2d8 de dano Elétrico adicional** e recebe a condição **Eletrizado** até o final do próximo turno dele.
+
+Se o ataque errar, você não gasta o espaço de magia utilizado para conjurar esta magia.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 2º.
+
+---
+
+## Destruição Esmagadora
+
+*Evocação de 2º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **3d8 de dano Radiante adicional** e fica **Caído**.
+
+O dano aumenta em **1d8** se o alvo for um Corruptor ou Morto-vivo.
+
+Se o ataque errar, você recupera o espaço de magia utilizado para conjurar esta magia.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 2º.
+
+# MAGIAS DE PALADINO DE 3º CÍRCULO
+
+## Destruição Contramágica
+
+*Abjuração de 3º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 reação, realizada quando você vê uma criatura a até 1,5 metro de você conjurando uma magia com componentes Verbais, Somáticos ou Materiais
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia, e o alvo deve realizar uma **salvaguarda de Constituição**.
+
+Se seu ataque atingir, o alvo realiza essa salvaguarda com **desvantagem**.
+
+Em caso de falha, a magia se dissipa sem produzir efeito, e a **Ação, Ação Bônus ou Reação** utilizada para conjurá-la é desperdiçada.
+
+Se a magia tiver sido conjurada utilizando um espaço de magia, esse espaço **não é gasto**.
+
+---
+
+## Destruição Deslocadora
+
+*Evocação de 3º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **3d8 de dano de Energia adicional** e é imediatamente **teletransportado 9 metros** para um espaço desocupado que você possa ver.
+
+Se o ataque errar, você não gasta o espaço de magia utilizado para conjurar esta magia.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 3º.
+
+---
+
+## Destruição Circundante
+
+*Evocação de 3º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **1d8 de dano de Energia adicional**.
+
+Independentemente de o ataque acertar ou errar, você pode **teletransportar uma criatura voluntária** que possa ver a até 9 metros de você.
+
+A criatura deve aparecer em um espaço desocupado a até **1,5 metro de você**.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 3º.
+
+---
+
+## Destruição Lacerante
+
+*Evocação de 3º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **3d8 de dano Cortante adicional** e recebe a condição **Sangrando (1d8)**.
+
+O dano de Sangramento aumenta em **1d8** se o alvo for um Corruptor ou Morto-vivo.
+
+Se o ataque errar, você não gasta o espaço de magia utilizado para conjurar esta magia.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano de Sangramento aumenta em **1d8** para cada círculo do espaço de magia acima do 3º.
+
+# MAGIAS DE PALADINO DE 4º CÍRCULO
+
+## Destruição Vampírica
+
+*Evocação de 4º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **5d8 de dano Necrótico adicional**.
+
+Você recupera uma quantidade de Pontos de Vida igual ao **dobro do dano Necrótico causado**.
+
+Se o ataque errar, você não gasta o espaço de magia utilizado para conjurar esta magia.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 1º.
+
+# MAGIAS DE PALADINO DE 5º CÍRCULO
+
+## Destruição Fortificante
+
+*Evocação de 5º Círculo (Paladino)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, M (uma arma com a qual você tenha proficiência e que valha pelo menos 1 PC)
+**Duração:** Instantânea
+
+Você realiza um ataque com a arma utilizada na conjuração desta magia.
+
+Se o ataque atingir, o alvo sofre **5d8 de dano Radiante adicional**.
+
+O dano aumenta em **1d8** se o alvo for um Corruptor ou Morto-vivo.
+
+Independentemente de o ataque acertar ou errar, **você e até cinco aliados** que possa ver a até 18 metros de você recebem **resistência a todo tipo de dano até o final do seu próximo turno**.
+
+**Usando um Espaço de Magia de Círculo Superior.** O dano aumenta em **1d8** para cada círculo do espaço de magia acima do 1º.

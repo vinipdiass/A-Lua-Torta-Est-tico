@@ -1,0 +1,1765 @@
+LÂMINA ESPECTRAL
+
+FEITICEIRO
+
+A maioria dos Feiticeiros nasce com habilidades mágicas inerentes concedidas por sua linhagem, seja ela ligada a dragões, celestiais ou outras entidades extraplanares.
+
+Entretanto, existem aqueles que adquirem seus poderes mágicos devido às circunstâncias.
+
+O Feiticeiro Lâmina Espectral é uma pessoa que foi possuída pelo espírito de um guerreiro, sendo imbuída com magia sobrenatural e capacidades marciais.
+
+O espírito se funde à alma inerentemente mágica do Feiticeiro, permitindo que sua influência morta-viva e sua perícia marcial fluam para a magia que habita o Feiticeiro. Isso lhe concede uma aptidão natural com lâminas e a capacidade de canalizar energia espectral através de suas armas.
+
+Feiticeiros Lâmina Espectral treinam para aperfeiçoar simultaneamente suas habilidades com espada e magia, utilizando energia fantasmagórica para alimentar seus ataques e destruir seus inimigos.
+
+Muitos Feiticeiros Lâmina Espectral convivem com a presença desse espírito simbiótico durante toda a vida. Alguns o percebem como uma entidade externa que os assombra. Outros o experimentam como uma voz em sua mente que não lhes pertence. Alguns chegam a manifestar uma personalidade completamente diferente quando desembainham sua arma.
+
+Independentemente da forma assumida, o espírito da Lâmina Espectral está para sempre conectado ao Feiticeiro, e os dois são inseparáveis.
+
+NOTAS DOS DESIGNERS
+
+A Lâmina Espectral é nossa tentativa de criar um Feiticeiro focado em combate corpo a corpo, seguindo uma ideia semelhante à do Mago Cantor da Lâmina ou do Bardo do Colégio do Valor.
+
+Quando começamos a explorar esse conceito para Feiticeiros, sabíamos que queríamos permitir que eles utilizassem Metamagia em conjunto com seus ataques corpo a corpo.
+
+Também queríamos reforçar o tema de um espírito morto-vivo vinculado à alma do Feiticeiro.
+
+Temos plena consciência de que esta é uma subclasse poderosa.
+
+Tivemos bastante dificuldade para decidir se Metâmina deveria ser uma característica de 3º nível, de 6º nível ou se deveria ser completamente removida.
+
+Gostaríamos muito de ouvir ideias e sugestões.
+
+Um dos principais elementos de equilíbrio da subclasse é que ela não recebe a capacidade de utilizar Carisma nas jogadas de ataque e dano de ataques corpo a corpo.
+
+Acreditamos que isso tornaria a subclasse poderosa demais e, portanto, não estamos considerando conceder essa característica.
+
+NÍVEL 3: ESPÍRITO GUERREIRO
+
+Um espírito guerreiro fundiu-se à sua alma, concedendo a você seus poderes vindos além-túmulo.
+
+Você ganha proficiência com Armas Simples e Marciais que não possuam as propriedades Pesada ou Duas Mãos.
+
+Além disso, como uma Ação Bônus, você pode gastar 2 Pontos de Feitiçaria para receber, durante 1 minuto, a capacidade de enxergar até 18 m (60 pés) dentro do Plano Etéreo enquanto estiver no Plano Material, e vice-versa.
+
+Você também pode utilizar uma Arma Simples ou Marcial com a qual possua proficiência como Foco de Conjuração para lançar suas magias de Feiticeiro.
+
+COMO SEU ESPÍRITO GUERREIRO SE MANIFESTA?
+
+1. Um espectro fantasmagórico, visível apenas para você, flutua constantemente ao seu redor e conversa com você.
+
+2. Uma voz em sua mente influencia constantemente suas ações, orientando você, ainda que a contragosto.
+
+3. Você se torna "possuído" pelo fantasma quando desembainha sua lâmina, manifestando uma estranha camada espectral que altera levemente sua aparência.
+
+4. Sob a luz da lua, você se transforma completamente no guerreiro morto-vivo que habita dentro de você.
+
+5. Seus olhos brilham em verde, e luzes fantasmagóricas ocasionalmente flutuam ao seu redor.
+
+6. Você fala com duas vozes: sua voz normal e uma segunda voz formada por sussurros etéreos ao fundo.
+
+NÍVEL 3: MAGIAS DA LÂMINA ESPECTRAL
+
+Quando você alcança um nível de Feiticeiro indicado abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+MAGIAS DA LÂMINA ESPECTRAL
+
+Nível 3:
+
+* Armadura Arcana
+* Vida Falsa
+* Imagem Espelhada
+* Arma Espiritual
+* Toque Arrepiante
+
+Nível 5:
+
+* Piscar
+* Falar com os Mortos
+
+Nível 7:
+
+* Fonte de Luar
+* Olho Arcano
+
+Nível 9:
+
+* Golpe do Vento de Aço
+* Conhecimento Lendário
+
+NÍVEL 3: METÂMINA
+
+Seu espírito guerreiro permite que você aplique determinadas opções de Metamagia que conhece para modificar temporariamente seus ataques corpo a corpo.
+
+Para utilizar uma dessas opções, você deve conhecer a Metamagia correspondente e gastar a quantidade de Pontos de Feitiçaria indicada.
+
+Você só pode utilizar uma opção de Metâmina quando realizar a ação Atacar ou atingir com um ataque, a menos que uma dessas opções diga o contrário.
+
+O custo em Pontos de Feitiçaria e os efeitos de cada opção de Metâmina quando aplicada a um ataque corpo a corpo são descritos abaixo.
+
+MAGIA CUIDADOSA
+
+Quando realizar a ação Atacar em seu turno, você pode gastar 1 Ponto de Feitiçaria para adicionar seu Bônus de Proficiência à sua Classe de Armadura até o início do seu próximo turno.
+
+MAGIA DISTANTE
+
+Quando realizar a ação Atacar em seu turno, você pode gastar 1 Ponto de Feitiçaria para aumentar seu Alcance em 3 m (10 pés) até o final do turno.
+
+MAGIA POTENCIALIZADA
+
+Quando rolar o dano de um ataque corpo a corpo, você pode gastar 1 Ponto de Feitiçaria para rolar novamente o dano.
+
+Você deve utilizar o novo resultado.
+
+MAGIA ACELERADA
+
+Uma vez no seu turno, quando realizar a ação Atacar, você pode gastar 1 Ponto de Feitiçaria para realizar um ataque adicional como uma Ação Bônus.
+
+MAGIA PERSEGUIDORA
+
+Se realizar uma jogada de ataque corpo a corpo e errar, você pode gastar 2 Pontos de Feitiçaria para rolar novamente o d20.
+
+Você deve utilizar o novo resultado.
+
+MAGIA SUTIL
+
+Quando atingir uma criatura com um ataque corpo a corpo, você pode gastar 1 Ponto de Feitiçaria para impedir que o alvo realize Ataques de Oportunidade até o início do próximo turno dele.
+
+MAGIA TRANSMUTADA
+
+Quando atingir uma criatura com um ataque corpo a corpo, você pode gastar 1 Ponto de Feitiçaria para alterar o tipo de dano desse ataque para um dos seguintes:
+
+* Ácido
+* Frio
+* Fogo
+* Elétrico
+* Veneno
+* Trovejante
+
+MAGIA DUPLICADA
+
+Uma vez em cada um dos seus turnos, depois de terminar seus ataques realizados com a ação Atacar, você pode gastar 1 Ponto de Feitiçaria para realizar um ataque adicional contra uma criatura diferente que você ainda não tenha atacado naquele turno.
+
+Esse ataque faz parte da mesma ação Atacar.
+
+NÍVEL 6: ATAQUE EXTRA
+
+Sempre que realizar a ação Atacar em seu turno, você pode realizar dois ataques em vez de um.
+
+Além disso, você pode substituir um desses ataques pela conjuração de um de seus truques que possua tempo de conjuração de uma ação.
+
+NÍVEL 14: FORMA FANTASMAGÓRICA
+
+Você assume uma forma espectral quando ativa sua Feitiçaria Inata.
+
+Enquanto sua Feitiçaria Inata estiver ativa, você recebe Resistência a dano de Frio e Necrótico.
+
+Além disso, você pode se mover através de objetos e outras criaturas como se fossem Terreno Difícil.
+
+Você sofre 1d10 de dano de Força se terminar seu turno dentro de um objeto.
+
+NÍVEL 18: POSSESSÃO FANTASMAGÓRICA
+
+Você recebe a capacidade de possuir uma criatura Humanoide que possa ver a até 1,5 m (5 pés) de você.
+
+O alvo pode realizar um teste de resistência de Carisma contra sua CD para evitar suas magias.
+
+Em caso de falha, você possui a criatura.
+
+Você desaparece, e o alvo recebe a condição Incapacitado e perde o controle do próprio corpo.
+
+Você passa a controlar o corpo, mas o alvo permanece consciente de tudo o que acontece.
+
+Enquanto estiver possuindo a criatura, você não pode ser alvo de ataques, magias ou outros efeitos, exceto aqueles que tenham como alvo especificamente criaturas Mortas-Vivas.
+
+Suas estatísticas de jogo permanecem as mesmas, com as seguintes exceções:
+
+* Você utiliza o Deslocamento do alvo possuído.
+* Você utiliza os modificadores de Força, Destreza e Constituição do alvo possuído.
+
+A possessão dura 1 hora, até que o corpo seja reduzido a 0 Pontos de Vida ou até que você abandone o corpo como uma Ação Bônus.
+
+Quando a possessão termina, você reaparece em um espaço desocupado a até 1,5 m (5 pés) do alvo.
+
+Depois disso, o alvo fica imune à sua Possessão Fantasmagórica durante 24 horas.
+
+Depois de utilizar esta característica, você não poderá utilizá-la novamente até terminar um Descanso Longo, a menos que gaste 5 Pontos de Feitiçaria, sem necessidade de ação, para recuperar seu uso.
+--
+PACTO DO DRAGÃO
+
+BRUXO
+
+Por todos os reinos de Westemär, Elyria, Caspia e além, cinco dragões ancestrais vivem em isolamento. Aqueles corajosos o bastante para buscar seu favor podem, mediante um preço, obter uma parcela de seu poder.
+
+Um Bruxo que procura um dos cinco dragões ancestrais e poderosos do continente pode receber uma fração de seu imenso poder em troca de servidão absoluta.
+
+Seja Vulmungoth, a Ruína da Montanha; Trethysia, a Serpente da Floresta; Opularis, o Sábio; Amarodial, o Coração Amargo; ou Glasyadriel, a Nevasca — esses patronos dracônicos costumam ser astutos e manipuladores, enviando seus Bruxos emissários pelo mundo como seus olhos, ouvidos e instrumentos de sua vontade.
+
+Seus objetivos podem incluir acumular riquezas, infiltrar-se em sociedades mortais ou descobrir os planos de seus inimigos. Muitos dragões ancestrais dependem de agentes mortais para manter sua influência sobre o mundo.
+
+Forjar um pacto como esse é uma empreitada perigosa. Poucos daqueles que buscam esse poder conseguem obtê-lo — e aqueles que conseguem vivem constantemente no limite.
+
+Dragões são conhecidos por devorar seus servos ao primeiro sinal de fracasso ou mesmo diante da menor suspeita de desobediência. Caso um patrono suspeite, ainda que por um instante, que seu Bruxo não está completamente sob seu controle, as consequências são rápidas e definitivas.
+
+Entretanto, para aqueles poucos que demonstram verdadeira lealdade, as recompensas são imensas — e seu poder apenas continua crescendo.
+
+NOTAS DOS DESIGNERS
+
+O Bruxo do Pacto do Dragão foi inspirado por classes de prestígio e classes básicas de edições anteriores, como o Xamã Dracônico e o Discípulo do Dragão.
+
+Por sua natureza icônica e mágica, dragões ancestrais são excelentes candidatos a patronos de Bruxos, e sentimos que havia uma verdadeira lacuna conceitual entre as subclasses de Bruxo.
+
+Tentamos capturar a essência de um personagem ligado por pacto a um dragão ancestral.
+
+Embora queiramos manter essa subclasse distinta do Feiticeiro Dracônico, alguma sobreposição é inevitável, e estamos interessados em saber como esse equilíbrio funciona.
+
+NÍVEL 3: AFINIDADE DRACÔNICA
+
+Seu patrono é um dragão ancestral de determinada cor, associado a um tipo específico de dano.
+
+Escolha uma das seguintes opções:
+
+* Negro: Ácido
+* Azul: Elétrico
+* Verde: Veneno
+* Vermelho: Fogo
+* Branco: Frio
+
+Sempre que lançar uma magia de Bruxo que cause dano, você pode alterar o tipo de dano da magia para o tipo de dano associado ao seu patrono.
+
+NÍVEL 3: MAGIAS DO PACTO DO DRAGÃO
+
+A magia de seu patrono garante que você sempre possua determinadas magias preparadas.
+
+Quando alcançar um nível de Bruxo indicado nas tabelas abaixo, você passa a sempre ter as magias correspondentes preparadas.
+
+Você recebe tanto as Magias do Pacto do Dragão gerais quanto as magias específicas relacionadas à espécie do seu patrono.
+
+MAGIAS DO PACTO DO DRAGÃO
+
+Nível 3:
+
+* Comando
+* Alterar-se
+
+Nível 5:
+
+* Voo
+
+Nível 7:
+
+* Olho Arcano
+
+Nível 9:
+
+* Invocar Dragão
+
+MAGIAS DO DRAGÃO AZUL
+
+Nível 3:
+
+* Raio de Bruxa
+* Despedaçar
+
+Nível 5:
+
+* Relâmpago
+
+Nível 7:
+
+* Porta Dimensional
+
+Nível 9:
+
+* Muralha de Força
+
+MAGIAS DO DRAGÃO NEGRO
+
+Nível 3:
+
+* Perdição
+* Flecha Ácida
+
+Nível 5:
+
+* Falar com os Mortos
+
+Nível 7:
+
+* Esfera Vitriólica
+
+Nível 9:
+
+* Enxame de Insetos
+
+MAGIAS DO DRAGÃO VERDE
+
+Nível 3:
+
+* Raio Adoecedor
+* Invisibilidade
+
+Nível 5:
+
+* Padrão Hipnótico
+
+Nível 7:
+
+* Dominar Besta
+
+Nível 9:
+
+* Névoa Mortal
+
+MAGIAS DO DRAGÃO VERMELHO
+
+Nível 3:
+
+* Mãos Flamejantes
+* Raio Ardente
+
+Nível 5:
+
+* Bola de Fogo
+
+Nível 7:
+
+* Muralha de Fogo
+
+Nível 9:
+
+* Vidência
+
+MAGIAS DO DRAGÃO BRANCO
+
+Nível 3:
+
+* Faca de Gelo
+* Imobilizar Pessoa
+
+Nível 5:
+
+* Tempestade de Granizo
+
+Nível 7:
+
+* Tempestade de Gelo
+
+Nível 9:
+
+* Cone de Frio
+
+NÍVEL 3: ARMA DE SOPRO
+
+Você possui um ataque de sopro que causa o mesmo tipo de dano associado ao seu patrono dracônico.
+
+Como uma Ação Bônus em seu turno, você pode exalar seu sopro em uma das seguintes áreas:
+
+* Linha de 9 m (30 pés).
+* Cone de 4,5 m (15 pés).
+
+Cada criatura na área deve realizar um teste de resistência de Destreza contra sua CD para evitar magias de Bruxo.
+
+Em caso de falha, a criatura sofre 2d8 de dano do tipo associado ao seu patrono.
+
+Em caso de sucesso, sofre metade desse dano.
+
+Depois de utilizar sua Arma de Sopro, você deve terminar um Descanso Curto antes de poder utilizá-la novamente.
+
+Você também pode gastar um espaço de magia de Bruxo, sem necessidade de ação, para recuperar o uso dessa característica.
+
+APRIMORAMENTO DA ARMA DE SOPRO
+
+O dano e a área de sua Arma de Sopro aumentam conforme você ganha níveis de Bruxo.
+
+Nível 6:
+
+* Dano: 4d8.
+
+Nível 10:
+
+* Dano: 6d8.
+* Você exala um cone de 9 m (30 pés) ou uma linha de 18 m (60 pés).
+
+Nível 14:
+
+* Dano: 8d8.
+
+NÍVEL 6: ELEMENTALISMO DRACÔNICO
+
+Quando utiliza sua Arma de Sopro ou lança uma magia de Bruxo de 1º nível ou superior que cause o tipo de dano associado ao seu patrono, criaturas que você atingir ou que falharem no teste de resistência contra essa magia sofrem um efeito adicional correspondente ao tipo de dano de seu patrono.
+
+FOGO
+
+O alvo recebe a condição Queimando (Fogo).
+
+O dano da queimadura é uma quantidade de d6 igual à metade do nível da magia, arredondada para baixo.
+
+ÁCIDO
+
+O alvo recebe a condição Queimando (Ácido).
+
+O dano da queimadura é uma quantidade de d6 igual à metade do nível da magia, arredondada para baixo.
+
+FRIO
+
+O alvo recebe a condição Congelado.
+
+A CD da condição é igual à sua CD para evitar magias.
+
+ELÉTRICO
+
+O alvo recebe a condição Eletrocutado até o início do seu próximo turno.
+
+VENENO
+
+O alvo recebe a condição Envenenado até o início do seu próximo turno.
+
+NÍVEL 6: MANTO DO TERROR
+
+Quando uma criatura começar o turno a até 9 m (30 pés) de você, você pode usar sua Reação para forçá-la a realizar um teste de resistência de Sabedoria contra sua CD para evitar magias.
+
+Em caso de falha, a criatura fica Amedrontada até o início do próximo turno dela.
+
+Uma criatura que obtiver sucesso no teste de resistência contra seu Manto do Terror fica imune a esta característica durante 24 horas.
+
+NÍVEL 10: POTÊNCIA APRIMORADA
+
+Você recebe Imunidade ao tipo de dano associado ao seu patrono.
+
+Suas magias de Bruxo e sua Arma de Sopro ignoram Resistência a esse tipo de dano.
+
+Além disso, criaturas que normalmente possuam Imunidade a esse tipo de dano são tratadas como se possuíssem apenas Resistência contra o dano causado por suas magias de Bruxo e sua Arma de Sopro.
+
+NÍVEL 14: FORMA DRACÔNICA
+
+Como uma Ação Bônus em seu turno, você pode se entregar completamente ao seu patrono dracônico, permitindo que a vontade dele consuma a sua.
+
+Seu corpo se contorce e assume uma forma monstruosa que reflete o poder de seu mestre.
+
+Nesse momento, você deixa de ser apenas um Bruxo e se torna um avatar do poder de seu patrono — um vislumbre do dragão que talvez um dia você próprio se torne.
+
+Durante 1 minuto, você recebe os seguintes benefícios:
+
+* Seu tamanho se torna Grande.
+* Você desenvolve asas e recebe Deslocamento de Voo de 18 m (60 pés).
+* No início de cada um dos seus turnos, caso tenha gasto o uso de sua Arma de Sopro, role 1d6. Com um resultado 5 ou 6, você recupera o uso dela.
+* Sua Classe de Armadura passa a ser igual a 10 + seu modificador de Destreza + seu modificador de Carisma.
+* Você recebe Vantagem em testes de atributo e testes de resistência de Força e Constituição.
+* Você recebe Pontos de Vida Temporários iguais a cinco vezes seu nível de Bruxo.
+
+Depois de utilizar esta característica, você deve terminar um Descanso Longo antes de poder utilizá-la novamente.
+
+Você também pode gastar um espaço de magia de Bruxo, sem necessidade de ação, para recuperar o uso desta característ
+--
+ELETROMAGNETISTA
+
+APOTECÁRIO
+
+Inventor de tempestades e manipulador de forças invisíveis, o Eletromagnetista é um tipo raro de Apotecário que se aprofundou nas correntes ocultas que percorrem o mundo.
+
+Para eles, o magnetismo não é apenas ciência — é a própria respiração da terra, enquanto a eletricidade é sua voz bruta e indomada.
+
+Por meio de estudo incansável e experimentos perigosos, eles aprenderam a engarrafar relâmpagos, manipular campos magnéticos e infundir suas poções e dispositivos com uma energia crepitante carregada de potencial.
+
+A maioria dos Eletromagnetistas trabalha em laboratórios sombrios ou torres isoladas coroadas por para-raios irregulares, com oficinas iluminadas pelos clarões de bobinas elétricas e pelo chiado de recipientes carregados.
+
+Porém, quando entram em campo, tornam-se verdadeiros motores vivos de tempestade, equipados com condutores portáteis, capacitores vibrantes e frascos repletos de eletricidade engarrafada.
+
+Enfrentar um deles em batalha é como encarar a própria tempestade, pois um simples movimento de sua mão pode desencadear uma descarga devastadora.
+
+NOTAS DOS DESIGNERS
+
+Achamos que seria interessante explorar o arquétipo clássico do cientista maluco — a figura cercada por bobinas de Tesla e aparelhos elétricos crepitantes — e levar essa energia para o campo de batalha.
+
+Queríamos explorar os temas de energia elétrica e magnetismo de uma maneira dinâmica e evocativa.
+
+Uma questão que ainda estamos considerando é se esse conceito realmente pertence ao espaço de design do Apotecário.
+
+Embora a imagem do cientista em seu laboratório, cercado por reatores elétricos e bobinas vibrantes, represente um aspecto icônico da essência do Apotecário, tradicionalmente diferenciamos o Apotecário do Artífice concentrando a classe em elementos biológicos, em vez de tecnológicos.
+
+Naturalmente, o Eletromagnetista entra em um território muito mais tecnológico, e ainda estamos avaliando se ele realmente se encaixa na estrutura do Apotecário.
+
+NÍVEL 3: ESTUDOS GALVÂNICOS
+
+Suas pesquisas sobre as correntes elétricas que percorrem criaturas vivas e o ambiente lhe concederam a capacidade de controlar essas forças.
+
+Você aprende o truque Toque Chocante.
+
+Esse truque não conta no número de truques de Apotecário que você conhece.
+
+Além disso, quando lança Toque Chocante, seu alcance passa a ser de 9 m (30 pés).
+
+NÍVEL 3: MAGIAS DO ELETROMAGNETISTA
+
+Quando você alcança um nível de Apotecário indicado abaixo, passa a sempre ter as magias correspondentes preparadas.
+
+MAGIAS DO ELETROMAGNETISTA
+
+Nível 3:
+
+* Explosão Chocante*
+* Onda Trovejante
+* Criar Condutor*
+* Despedaçar
+
+Nível 5:
+
+* Convocar Relâmpagos
+* Relâmpago
+
+Nível 7:
+
+* Porta Dimensional
+* Choque Eletrostático*
+
+Nível 9:
+
+* Centro de Gravidade*
+* Telecinese
+
+Sempre que ganhar um nível de Apotecário, você pode substituir uma magia obtida através desta característica por outra magia do mesmo nível.
+
+A nova magia deve ser uma magia de Evocação da lista de magias de Feiticeiro ou Mago e deve causar exclusivamente dano Elétrico ou Trovejante.
+
+Uma magia que cause tipos de dano adicionais além de Elétrico ou Trovejante não pode ser escolhida através desta característica.
+
+NÍVEL 3: CARGAS ELÉTRICAS
+
+Você criou bobinas elétricas capazes de captar e armazenar as forças eletromagnéticas ao seu redor.
+
+Sempre que causar dano Elétrico ou Trovejante a uma criatura utilizando um truque de Apotecário, você recebe 1 Carga Elétrica.
+
+Você pode possuir no máximo 3 Cargas Elétricas ao mesmo tempo.
+
+Você perde todas as Cargas Elétricas não utilizadas quando inicia um Descanso Curto ou Descanso Longo.
+
+DISCIPLINAS VOLTAICAS
+
+Você pode gastar suas Cargas Elétricas para alimentar suas Disciplinas Voltaicas.
+
+Muitas dessas Disciplinas aprimoram suas magias de alguma maneira. Você pode utilizar apenas uma Disciplina Voltaica por magia.
+
+Você começa conhecendo duas Disciplinas Voltaicas à sua escolha entre as opções apresentadas posteriormente.
+
+Sempre que ganhar um nível nesta classe, você pode substituir uma Disciplina Voltaica que conheça por outra para a qual cumpra os pré-requisitos.
+
+Você aprende duas Disciplinas Voltaicas adicionais nos níveis:
+
+* 6
+* 10
+* 14
+* 18
+
+NÍVEL 6: CAMPO ELÉTRICO
+
+Conforme acumula cargas, você passa a ser envolvido por uma coroa crepitante de energia elétrica.
+
+Você recebe Resistência a dano Elétrico e Trovejante.
+
+Além disso, enquanto possuir pelo menos 1 Carga Elétrica, você emana um campo de energia elétrica com raio de 3 m (10 pés).
+
+Qualquer criatura à sua escolha que começar o turno dentro dessa Emanação sofre dano Elétrico igual ao seu Bônus de Proficiência.
+
+O tamanho da Emanação aumenta em 1,5 m (5 pés) para cada Carga Elétrica que possuir além da primeira.
+
+Assim:
+
+1 Carga:
+3 m (10 pés).
+
+2 Cargas:
+4,5 m (15 pés).
+
+3 Cargas:
+6 m (20 pés).
+
+NÍVEL 6: CONVERSORES DE ENERGIA
+
+Você aprendeu a converter sua magia ocultista em uma descarga imediata de energia.
+
+Se começar seu turno sem nenhuma Carga Elétrica, você pode gastar um espaço de magia de Apotecário, sem necessidade de ação, para receber 3 Cargas Elétricas.
+
+NÍVEL 10: ARMAZENAMENTO DE ENERGIA
+
+Você aprimorou suas bobinas elétricas para armazenar e conservar uma quantidade maior de energia.
+
+Você agora pode possuir até 4 Cargas Elétricas simultaneamente.
+
+Além disso, sempre que terminar um Descanso Curto ou Descanso Longo, você recebe 1 Carga Elétrica.
+
+NÍVEL 14: ACUMULAÇÃO CINÉTICA
+
+Você aprendeu a transformar força física direcionada contra você em energia elétrica.
+
+Sempre que sofrer dano enquanto possuir menos Cargas Elétricas do que seu máximo, você pode usar sua Reação para reduzir o dano sofrido em:
+
+1d6 + seu nível de Apotecário.
+
+Depois disso, você recebe 1 Carga Elétrica.
+
+NÍVEL 18: SOBRECARGA
+
+Você não possui mais um limite máximo de Cargas Elétricas.
+
+Além disso, você não perde suas Cargas Elétricas não utilizadas quando inicia um Descanso Curto.
+
+Você ainda perde suas Cargas Elétricas quando inicia um Descanso Longo.
+
+Enquanto possuir 6 ou mais Cargas Elétricas, no início de cada um dos seus turnos você sofre dano de Força igual à quantidade de Cargas Elétricas que possui.
+
+DISCIPLINAS VOLTAICAS
+
+INTENSIFICAR CORRENTE
+
+Pré-requisito: Apotecário de 6º nível
+
+Como uma Ação Bônus em seu turno, você pode gastar até 3 Cargas Elétricas.
+
+Você recebe 1d6 Pontos de Vida Temporários para cada Carga Elétrica gasta.
+
+ESTÁTICA CEREBRAL
+
+Quando causar dano Elétrico ou Trovejante a uma criatura, você pode gastar 1 Carga Elétrica para fazer com que ela receba a condição Desorientado.
+
+REAÇÃO EM CADEIA
+
+Pré-requisito: Apotecário de 10º nível
+
+Quando causar dano Elétrico ou Trovejante a uma criatura, você pode gastar 1 Carga Elétrica para fazer com que outra criatura a até 9 m (30 pés) dela sofra uma quantidade de dano igual à metade do dano causado.
+
+COLAPSO DO CAMPO
+
+Pré-requisito: Apotecário de 10º nível
+
+Enquanto seu Campo Elétrico estiver ativo, você pode realizar uma ação de Magia em seu turno e gastar 3 ou mais Cargas Elétricas.
+
+Cada criatura dentro da Emanação deve realizar um teste de resistência de Constituição contra sua CD para evitar magias.
+
+Em caso de falha, uma criatura sofre 1d6 de dano Trovejante para cada Carga Elétrica gasta e fica Surda até o final do seu próximo turno.
+
+Em caso de sucesso, a criatura sofre metade do dano e não fica Surda.
+
+DESFIBRILADORES
+
+Como uma Ação Bônus, escolha uma criatura que possa ver e que esteja com 0 Pontos de Vida.
+
+Você pode gastar uma ou mais Cargas Elétricas.
+
+O alvo recupera 2d8 Pontos de Vida para cada Carga Elétrica gasta.
+
+SURTO DISRUPTIVO
+
+Pré-requisito: Apotecário de 6º nível
+
+Quando uma criatura dentro de seu Campo Elétrico escolher você como alvo de um ataque, você pode usar sua Reação e gastar 1 Carga Elétrica para enviar uma descarga concentrada contra ela.
+
+A criatura realiza a jogada de ataque com Desvantagem.
+
+CINTILAÇÃO ELÉTRICA
+
+Pré-requisito: Apotecário de 10º nível
+
+Você pode gastar 1 Carga Elétrica para receber a condição Invisível até o final do seu turno.
+
+ELETROCHOQUE
+
+Sempre que lançar uma magia que cause dano Elétrico ou Trovejante, você pode gastar uma ou mais Cargas Elétricas.
+
+Escolha um dos alvos da magia.
+
+Esse alvo sofre 2d8 de dano Elétrico adicional para cada Carga Elétrica gasta.
+
+ELETROCUSSÃO
+
+Pré-requisito: Apotecário de 14º nível
+
+Quando causar dano Elétrico ou Trovejante a uma criatura, você pode gastar 1 Carga Elétrica para fazer com que ela fique Atordoada até o final do próximo turno dela.
+
+CAMPO ELÉTRICO APRIMORADO
+
+Pré-requisito: Apotecário de 6º nível
+
+Enquanto seu Campo Elétrico estiver ativo, você e seus aliados dentro da Emanação recebem Meia Cobertura e Resistência a dano Elétrico.
+
+SALTO RELÂMPAGO
+
+Como uma Ação Bônus, você pode gastar 1 Carga Elétrica para se teletransportar por até 9 m (30 pés) para um espaço desocupado que possa ver.
+
+ATRAÇÃO MAGNÉTICA
+
+Quando causar dano Elétrico ou Trovejante a uma criatura, você pode gastar 1 Carga Elétrica para puxá-la até 3 m (10 pés) em sua direção.
+
+REPULSÃO MAGNÉTICA
+
+Quando causar dano Elétrico ou Trovejante a uma criatura, você pode gastar 1 Carga Elétrica para empurrá-la até 3 m (10 pés) para longe de você.
+
+RECARGA
+
+Pré-requisito: Apotecário de 18º nível
+
+Como uma Ação Bônus, você pode gastar 5 Cargas Elétricas para recuperar um espaço de magia de Apotecário.
+
+AUTOMAGNETISMO
+
+Pré-requisito: Apotecário de 10º nível
+
+Enquanto possuir 3 ou mais Cargas Elétricas, você recebe um Deslocamento de Voo igual ao seu Deslocamento.
+
+EXPLOSÃO DE CHOQUE
+
+Pré-requisito: Apotecário de 10º nível
+
+Quando lançar uma magia contra um único alvo que cause dano Elétrico ou Trovejante, você pode gastar 1 Carga Elétrica.
+
+Cada criatura a até 1,5 m (5 pés) do alvo original deve realizar um teste de resistência de Destreza contra sua CD para evitar magias.
+
+Em caso de falha, a criatura sofre uma quantidade de dano igual à metade do dano causado ao alvo original.
+
+ELETRIZADOR
+
+Pré-requisito: Apotecário de 10º nível
+
+Quando causar dano Elétrico ou Trovejante a uma criatura, você pode gastar 1 Carga Elétrica para fazer com que ela receba a condição Eletrocutado até o final do próximo turno dela.
+--
+CÍRCULO DO GUARDIÃO ESPIRITUAL
+
+DRUIDA
+
+Os Guardiões Espirituais são um círculo singular de Druidas que dedicaram suas vidas ao domínio das armas e do combate.
+
+Eles não lutam utilizando as técnicas marciais de soldados, nem extraem seu poder de juramentos sagrados feitos aos deuses. Em vez disso, personificam a fúria bruta da própria natureza, canalizando os espíritos da floresta, da tempestade e da pedra através de suas armas e de seus corpos.
+
+Como condutores vivos dessa força primordial, eles empunham poder espiritual para proteger lugares sagrados e preservar a ordem natural.
+
+NÍVEL 3: MAGIAS DO GUARDIÃO ESPIRITUAL
+
+Quando você alcança um nível de Druida indicado abaixo, passa a sempre ter as magias correspondentes preparadas.
+
+MAGIAS DO GUARDIÃO ESPIRITUAL
+
+Nível 3:
+
+* Perdição
+* Passo Nebuloso
+* Escudo da Fé
+* Bordão Místico
+* Vínculo Protetor
+
+Nível 5:
+
+* Aura de Vitalidade
+* Lentidão
+
+Nível 7:
+
+* Banimento
+* Proteção contra a Morte
+
+Nível 9:
+
+* Círculo de Poder
+* Onda Destrutiva
+
+NÍVEL 3: TREINAMENTO DO GUARDIÃO ESPIRITUAL
+
+Imbuído pelos espíritos da natureza e fortalecido pela fúria dos elementos, você recebe um talento de Estilo de Luta à sua escolha.
+
+Além disso, quando lança Bordão Místico, a magia pode afetar qualquer arma corpo a corpo com a qual você possua proficiência, em vez de apenas uma clava ou bordão.
+
+Você também pode utilizar a propriedade de Maestria da arma afetada por sua magia Bordão Místico.
+
+Nota do Autor:
+Esta característica não afeta Ataques Desarmados nem ataques realizados enquanto você estiver em uma forma assumida através de Forma Selvagem.
+
+NÍVEL 3: GUARDIÃO DOS ESPÍRITOS
+
+Você pode gastar um uso de sua Forma Selvagem para imbuir seu corpo com os espíritos da natureza.
+
+Você assume uma forma intensificada, cuja manifestação varia de Druida para Druida.
+
+Alguns desenvolvem uma aura etérea e olhos brilhantes. Outros ficam envolvidos por heras e espinheiros, enquanto alguns assumem características mais animalescas.
+
+Durante os próximos 10 minutos, até ser reduzido a 0 Pontos de Vida ou até ficar Incapacitado, seus ataques com arma causam 1d6 de dano adicional.
+
+Sempre que atingir com um desses ataques, você escolhe o tipo desse dano adicional entre:
+
+* Frio
+* Fogo
+* Elétrico
+* Trovejante
+* Necrótico
+
+O dano adicional aumenta conforme você ganha níveis de Druida:
+
+Nível 3:
+1d6
+
+Nível 7:
+1d8
+
+Nível 11:
+1d10
+
+Nível 17:
+1d12
+
+NÍVEL 6: ATAQUE EXTRA
+
+Sempre que realizar a ação Atacar em seu turno, você pode realizar dois ataques em vez de um.
+
+Além disso, você pode substituir um desses ataques pela conjuração de um de seus truques que possua tempo de conjuração de uma ação.
+
+NÍVEL 6: PRESENÇA ESPIRITUAL
+
+Uma vez por turno, quando você for atingido por um ataque, pode usar sua Reação para obrigar o atacante a realizar novamente a jogada de ataque.
+
+Se a nova jogada errar você, você pode realizar imediatamente um ataque corpo a corpo com arma contra o atacante, desde que ele esteja dentro do alcance de sua arma.
+
+Você pode utilizar esta característica uma quantidade de vezes igual ao seu Bônus de Proficiência.
+
+Você recupera todos os usos gastos ao terminar um Descanso Longo.
+
+NÍVEL 10: PROTEÇÃO DA NATUREZA
+
+Você cria uma Emanação de 3 m (10 pés) que se origina de você, cobrindo a área com névoa e vinhas retorcidas.
+
+Você e todas as criaturas à sua escolha dentro da Emanação recebem Meia Cobertura.
+
+NÍVEL 14: ANDARILHO ESPIRITUAL
+
+Enquanto Guardião dos Espíritos estiver ativo, seu Deslocamento aumenta em 4,5 m (15 pés).
+
+Além disso, você pode se mover através de outras criaturas e objetos como se fossem Terreno Difícil.
+
+Se terminar seu turno dentro de um objeto, você sofre 1d10 de dano de Força.
+
+Além disso, quando ativa Guardião dos Espíritos, você recebe pontos de vida temporários igual ao seu nível de druída.
+--
+GUERREIRO ENTRE MUNDOS
+
+MONGE
+
+O Espaço Entre Mundos é uma extensão turbulenta de caos, onde o tempo se fragmenta e a realidade se contorce sobre si mesma.
+
+Um simples vislumbre desse lugar é suficiente para despedaçar a sanidade da maioria dos mortais.
+
+Entretanto, alguns poucos treinam corpo e mente para suportar tais visões, atravessando o vazio em sonhos, por meio de meditação ou entrando em lugares onde as barreiras entre os planos se tornam frágeis.
+
+Aqueles que retornam são para sempre transformados, carregando consigo fragmentos desse reino.
+
+Eles utilizam suas distorções de tempo e espaço como armas, caminhando sobre o limite tênue da sanidade como guerreiros capazes de transitar entre mundos.
+
+NÍVEL 3: CAMINHAR PELA FENDA
+
+Ao escolher esta tradição no 3º nível, você recebe a capacidade de atravessar brevemente fendas no espaço.
+
+Sempre que gastar 1 ou mais Pontos de Foco, você pode se teletransportar por até 3 m (10 pés) para um espaço desocupado que possa ver.
+
+Você pode aprimorar seu Caminhar pela Fenda gastando Pontos de Foco adicionais, escolhendo qualquer quantidade das opções abaixo quando realizar o teletransporte.
+
+SALTO ÀS CEGAS — 1 PONTO
+
+Você pode se teletransportar para um espaço desocupado dentro do alcance mesmo que não possa vê-lo.
+
+Se terminar esse teletransporte dentro de um objeto ou parede, você sofre 2d10 de dano de Força e é empurrado para o espaço desocupado mais próximo.
+
+PASSO DISTANTE — 1 PONTO
+
+O alcance de seu teletransporte aumenta para 9 m (30 pés).
+
+Você pode gastar Pontos de Foco adicionais para aumentar ainda mais esse alcance.
+
+Para cada Ponto de Foco adicional gasto, o alcance aumenta em mais 9 m (30 pés).
+
+PASSO EM CONJUNTO — 1 PONTO
+
+Quando se teletransportar, você pode levar consigo:
+
+* Uma criatura que esteja Agarrando; ou
+* Uma criatura voluntária a até 1,5 m (5 pés) de você.
+
+NÍVEL 6: CONHECIMENTO DE VIDAS ALTERNATIVAS
+
+Você medita sobre as impossibilidades fundamentais do Espaço Entre Mundos, extraindo conhecimento de todas as versões possíveis de si mesmo que podem ou não existir.
+
+Quando falhar em um teste de atributo, você pode gastar 1 Ponto de Foco para rolar seu Dado de Artes Marciais e adicionar o resultado ao teste, possivelmente transformando a falha em um sucesso.
+
+O Ponto de Foco só é gasto se o teste se transformar em um sucesso.
+
+NÍVEL 6: DESAPARECIDO NO VAZIO
+
+A partir do 6º nível, você pode desaparecer no Espaço Entre Mundos quando estiver ameaçado.
+
+Quando estiver prestes a sofrer dano, você pode usar sua Reação para entrar momentaneamente em outra dimensão.
+
+Se fizer isso, você não sofre nenhum dano do efeito que desencadeou esta característica.
+
+Você permanece nessa outra dimensão até o início do seu próximo turno.
+
+Nesse momento, você reaparece em um espaço desocupado à sua escolha a até 3 m (10 pés) do espaço que deixou.
+
+Se nenhum espaço válido estiver disponível, você aparece no espaço desocupado mais próximo e sofre 2d10 de dano de Força.
+
+Enquanto estiver deslocado dessa maneira, você não pode ser escolhido como alvo, afetado ou percebido por nenhuma criatura em seu plano de origem.
+
+Você pode utilizar esta característica uma vez e recupera seu uso ao terminar um Descanso Curto ou Descanso Longo.
+
+Você também pode utilizá-la novamente gastando 3 Pontos de Foco, sem necessidade de ação.
+
+NÍVEL 11: ESPAÇO E TEMPO FRATURADOS
+
+A partir do 11º nível, seus golpes fragmentam o espaço e o tempo, permitindo que seus ataques atravessem a distância entre inimigos.
+
+Sempre que atingir uma criatura com um Ataque Desarmado concedido por suas características Artes Marciais ou Rajada de Golpes, você também pode realizar um ataque contra uma segunda criatura à sua escolha.
+
+A segunda criatura deve:
+
+* Estar a até 9 m (30 pés) do primeiro alvo.
+* Estar em um espaço que você possa ver.
+
+NÍVEL 17: BANIDO PARA O VAZIO
+
+No 17º nível, você pode banir seus inimigos para o Espaço Entre Mundos através de seus golpes.
+
+Quando atingir uma criatura com um Ataque Desarmado, você pode tentar exilá-la.
+
+O alvo deve realizar um teste de resistência de Carisma contra sua CD de Foco.
+
+Em caso de falha, ele é banido para o Espaço Entre Mundos.
+
+Enquanto estiver banido dessa maneira, o alvo:
+
+* Fica Incapacitado.
+* Não pode se mover.
+* Não pode realizar ações.
+* Não possui consciência de seus arredores.
+
+No final de cada um dos turnos do alvo, ele pode repetir o teste de resistência.
+
+Em caso de sucesso, ou após 1 minuto, o alvo reaparece no espaço que deixou ou no espaço desocupado mais próximo.
+
+Quando reaparece, ele sofre 4d10 de dano Psíquico enquanto sua mente sofre com os ecos da fratura causada pela fenda.
+
+Você pode utilizar esta característica uma vez e recupera seu uso ao terminar um Descanso Curto ou Descanso Longo.
+
+Você também pode utilizar esta característica novamente gastando 5 Pontos de Foco, sem necessidade de ação.
+--
+DANÇARINO DO FOGO
+
+PATRULHEIRO
+
+Alguns Patrulheiros aprendem a caminhar através das chamas sem serem queimados.
+
+Esses Dançarinos do Fogo são temperados nos lugares mais quentes do mundo — nas veias de magma das Montanhas Garra do Dragão, nas dunas escaldadas pelo sol do Deserto de Witherbleach e em outras terras onde o próprio calor se torna um mestre.
+
+Seu treinamento não se resume à resistência — eles são temperados da mesma forma que as chamas forjam o aço.
+
+Eles caminham sobre brasas ardentes, meditam em meio à fumaça ascendente e aprendem a permitir que o fogo respire através deles, em vez de lutar contra ele.
+
+Para um Dançarino do Fogo, a chama não é apenas uma arma, mas um elemento vivo — uma força de criação e destruição, de fúria e renovação.
+
+Eles aprendem a interpretar seus humores no tremular de uma fogueira e a ler presságios nas cinzas, nas faíscas dançantes e nos fios de fumaça.
+
+Em batalha, empunham essa mesma ferocidade. Lâminas queimam em calor branco, flechas deixam rastros de brasas e seus olhos brilham como carvão aceso na escuridão.
+
+Dançarinos do Fogo percorrem uma linha estreita entre controle e caos.
+
+Alguns dizem que as chamas sussurram para eles, ensinando verdades das quais apenas as cinzas se lembram. Outros afirmam que foram escolhidos pelo próprio fogo — guardiões de uma luz selvagem que jamais será apagada.
+
+Seja um peregrino da Chama Sagrada, um caçador devotado aos Deuses Antigos ou um vingador consumido pela própria determinação, esses Patrulheiros carregam a chama eterna para as terras selvagens e deixam apenas cinzas em seu caminho.
+
+NÍVEL 3: NASCIDO NAS CHAMAS
+
+Você treinou para controlar o fogo e as chamas, acostumando-se ao calor e aprendendo a utilizá-lo contra seus inimigos.
+
+Você recebe os seguintes benefícios:
+
+LÂMINAS ARDENTES
+
+Quando você atinge uma criatura com um ataque ou quando uma criatura falha em um teste de resistência contra uma de suas magias de Patrulheiro que cause dano de Fogo, ela recebe a condição Queimando (1d6 de Fogo).
+
+O dano da condição aumenta conforme seu nível de Patrulheiro:
+
+Nível 3:
+1d6
+
+Nível 7:
+2d6
+
+Nível 11:
+3d6
+
+Nível 15:
+4d6
+
+MOVIMENTOS ARDENTES
+
+Você ganha proficiência nas perícias Acrobacia e Atuação.
+
+Além disso, pode adicionar seu modificador de Destreza aos testes de Carisma (Atuação) que realizar envolvendo dança.
+
+Se já possuir proficiência em qualquer uma dessas perícias, escolha outra perícia na qual ganhar proficiência.
+
+SANGUE QUENTE
+
+Você recebe Resistência a dano de Frio e Fogo.
+
+FIO EM BRASA
+
+O dano causado por seus ataques com arma, magias de Patrulheiro e características de Patrulheiro ignora Resistência a dano de Fogo.
+
+NÍVEL 3: MAGIAS DO DANÇARINO DO FOGO
+
+Quando você alcança um nível de Patrulheiro indicado abaixo, passa a sempre ter a magia correspondente preparada.
+
+MAGIAS DO DANÇARINO DO FOGO
+
+Nível 3:
+
+* Mãos Flamejantes
+
+Nível 5:
+
+* Raio Ardente
+
+Nível 9:
+
+* Bola de Fogo
+
+Nível 13:
+
+* Conjurar Elementais Menores
+
+Nível 17:
+
+* Conjurar Elemental*
+
+*Quando lançar essa magia através desta característica, o elemental deve ser um Elemental do Fogo.
+
+NÍVEL 7: MARCA ARDENTE
+
+Você grava sua marca nas chamas que consomem sua presa.
+
+Quando começa a lançar Marca do Caçador sobre uma criatura que possua a condição Queimando, você pode modificar a magia para que ela não exija Concentração.
+
+Se fizer isso, a duração da magia para essa conjuração passa a ser de 1 minuto.
+
+A magia termina antecipadamente caso você lance Marca do Caçador novamente.
+
+NÍVEL 7: SINAIS NAS BRASAS
+
+Durante um descanso, você pode consultar as brasas ardentes de sua fogueira, interpretando nelas sinais sobre a caçada que está por vir.
+
+Sempre que terminar um Descanso Curto ou Descanso Longo, escolha uma perícia na qual possua proficiência, mas não Especialização.
+
+Você recebe Especialização nessa perícia até terminar seu próximo Descanso Curto ou Descanso Longo.
+
+NÍVEL 11: CINZAS AO VENTO
+
+Você recebe Imunidade a dano de Fogo.
+
+Além disso, quando uma criatura afetada por sua magia Marca do Caçador é reduzida a 0 Pontos de Vida, o corpo dela se desintegra em cinzas flamejantes que são dispersas pelo vento.
+
+Você pode imediatamente transferir sua Marca do Caçador para outra criatura dentro do alcance da magia, sem necessidade de ação.
+
+Essa nova criatura recebe a condição Queimando (4d6 de Fogo).
+
+NÍVEL 15: AURA DO FOGO SOLAR
+
+Você irradia uma aura flamejante em uma Emanação de 9 m (30 pés) que se origina de você.
+
+A aura fica inativa enquanto você estiver Incapacitado.
+
+Quando uma criatura entra na Emanação ou quando a Emanação passa a ocupar o espaço dela, você escolhe qual dos seguintes efeitos se aplica à criatura:
+
+ABRAÇO FLAMEJANTE
+
+A criatura recebe Resistência a dano de Frio e Fogo e possui Meia Cobertura enquanto permanecer dentro da Emanação.
+
+SOL PURIFICADOR
+
+Quando a criatura sofre dano de Fogo enquanto estiver dentro da Emanação, ela sofre a quantidade máxima de dano possível em vez de rolar. Adicionalmente, você pode escolher dar metade desse dano como Radiante.
+--
+CAMINHO DO CEIFADOR
+
+BÁRBARO
+
+Por instinto, sabedoria e proximidade, alguns raros guerreiros aprendem a manipular magia de maneiras semelhantes às dos Druidas.
+
+Eles extraem poder dos lugares onde as barreiras da realidade são mais tênues, entrelaçando as energias mágicas do ambiente em seus próprios corpos através de rituais primordiais, carne marcada por cicatrizes e pura força de vontade.
+
+Em casos raros, esses guerreiros chegam a manifestar características semelhantes às daqueles que nasceram com o dom da magia.
+
+Esses lugares tênues são regiões onde a magia flui livremente para o mundo, acessível àqueles que sabem como reivindicá-la. A maioria daqueles que extraem poder desses locais canaliza as forças da natureza, dos reinos Feéricos ou da matéria dos sonhos.
+
+Entretanto, existe uma fonte de poder frequentemente ignorada ou temida: as energias brutas da própria morte.
+
+As Terras das Sombras nunca estão distantes.
+
+Aqueles tocados pelas sombras vislumbram o véu entre a vida e o pós-vida, e alguns procuram deliberadamente essas rupturas, aproximando-se perigosamente dos limites da mortalidade para reivindicar seu terrível poder.
+
+Eles agarram os fios da vida e da morte e os transformam em armas de fúria e destruição.
+
+Esses guerreiros são marcados por dons antinaturais e por uma existência amaldiçoada.
+
+Muitos daqueles que seguem o Caminho do Ceifador acabam liderando cultos das sombras no Alcance Meridional ou tornam-se saqueadores temidos nas ilhas assombradas de Skye.
+
+Outros perseguem ambições ainda mais sombrias.
+
+Eles buscam domínio sobre a morte, desafiar o destino ou recuperar algo que foi perdido há muito tempo.
+
+Seja qual for sua motivação, todos aqueles que percorrem esse caminho frequentemente descobrem que o preço é muito maior do que imaginavam.
+
+NÍVEL 3: MACULADO PELAS SOMBRAS
+
+Você carrega as marcas de alguém contaminado pelas Terras das Sombras.
+
+Escolha uma ou mais características físicas da lista abaixo ou role 1d10 para determinar uma ou duas aleatoriamente.
+
+Muitos daqueles que seguem o Caminho do Ceifador exibem diversos sinais de corrupção, e você é encorajado a criar características adicionais que reflitam a decadência de seu personagem.
+
+Além dessas manifestações, você é amaldiçoado com uma vida antinaturalmente prolongada.
+
+Sua expectativa natural de vida é dobrada.
+
+Entretanto, depois de ultrapassar sua expectativa de vida natural, sua aparência torna-se progressivamente mais cadavérica, como se seu corpo tivesse morrido e começado lentamente a se decompor.
+
+CARACTERÍSTICAS TOCADAS PELAS SOMBRAS — 1d10
+
+1. Seu cabelo tornou-se completamente branco, cinza e quebradiço ou caiu por inteiro, deixando seu couro cabeludo frio e exposto.
+
+2. Seus olhos estão permanentemente injetados de sangue, enevoados ou completamente brancos.
+
+3. Sua pele perdeu todo o calor e coloração, assumindo uma tonalidade acinzentada e cadavérica.
+
+4. Sua pele se prende firmemente aos músculos e ossos, dando a você uma aparência magra e quase esquelética.
+
+5. Seus dentes e unhas estão amarelados, rachados ou lascados, como se fossem lentamente consumidos pela decomposição.
+
+6. Seu sangue é escuro como tinta, e veias grossas tornam-se visíveis sob sua pele, pulsando levemente quando você entra em Fúria.
+
+7. Seu corpo é antinaturalmente frio ao toque, mesmo no calor de uma batalha ou durante esforço extremo.
+
+8. Seus batimentos cardíacos são fracos ou irregulares, às vezes parecendo parar completamente durante longos e inquietantes momentos.
+
+9. Sua respiração forma névoa no ar independentemente da temperatura, carregando o cheiro de terra úmida ou pedra antiga.
+
+10. Sua voz possui uma ressonância vazia, como se viesse de dentro de uma cripta. Em momentos de raiva, ela pode brevemente se sobrepor a um segundo eco sussurrante.
+
+NÍVEL 3: COLETOR DE OSSOS
+
+Você aprendeu a extrair poder do próprio instante da morte, capturando fragmentos da energia arcana liberada quando a alma de uma criatura é separada de seu corpo e submetendo essa essência roubada à sua vontade.
+
+Quando entra em Fúria, você recebe 1 Marcador de Osso.
+
+A partir do 10º nível, você recebe 2 Marcadores de Osso em vez de 1.
+
+Enquanto estiver em Fúria, você recebe 1 Marcador de Osso adicional sempre que uma criatura for reduzida a 0 Pontos de Vida a até 3 m (10 pés) de você ou de um de seus Mortos Animados.
+
+A criatura não pode ser um Constructo, Elemental, Planta ou Limo.
+
+Você utiliza seus Marcadores de Osso para alimentar outras características concedidas por esta subclasse.
+
+NÍVEL 3: ANIMAR OS MORTOS
+
+Quando entra em Fúria, você pode invocar um Morto Animado.
+
+Cada Morto Animado surge em um espaço desocupado a até 3 m (10 pés) de você e fica imediatamente sob seu controle.
+
+Os Mortos Animados são amigáveis a você e aos seus aliados e obedecem às suas ordens.
+
+Eles se desfazem em pó caso você morra ou sua Fúria termine.
+
+QUANTIDADE DE MORTOS ANIMADOS
+
+A quantidade de Mortos Animados que você pode criar aumenta conforme ganha níveis nesta classe:
+
+Nível 3:
+1 Morto Animado.
+
+Nível 7:
+2 Mortos Animados.
+
+Nível 11:
+3 Mortos Animados.
+
+Nível 15:
+4 Mortos Animados.
+
+REANIMANDO OS MORTOS
+
+Se um de seus Mortos Animados for destruído, você pode gastar 1 Marcador de Osso no início do seu turno enquanto estiver em Fúria para invocar outro, sem necessidade de ação.
+
+Se criar outro Morto Animado enquanto já possuir sua quantidade máxima ativa, o mais antigo se desfaz em pó.
+
+OS MORTOS EM COMBATE
+
+Em combate, seus Mortos Animados compartilham sua contagem de Iniciativa, mas realizam seus turnos imediatamente após o seu.
+
+Eles obedecem aos seus comandos verbais, sem necessidade de ação da sua parte.
+
+Caso não dê nenhum comando, cada um realiza a ação Esquivar e utiliza seu movimento para evitar perigos.
+
+MORTO ANIMADO
+
+Morto-Vivo Médio
+
+Classe de Armadura:
+12 + seu modificador de Constituição
+
+Pontos de Vida:
+5 + seu nível de Bárbaro
+
+O Morto Animado possui uma quantidade de Dados de Vida d8 igual ao seu Bônus de Proficiência.
+
+Deslocamento:
+9 m (30 pés)
+
+ATRIBUTOS
+
+FOR 14 (+1)
+DES 14 (+2)
+CON 15 (+2)
+INT 3 (-4)
+SAB 8 (-1)
+CAR 5 (-3)
+
+Imunidade a Dano:
+Veneno
+
+Imunidades a Condições:
+
+* Enfeitiçado
+* Exaustão
+* Amedrontado
+* Envenenado
+
+Sentidos:
+Visão no Escuro 18 m (60 pés)
+Percepção Passiva 9
+
+Idiomas:
+Compreende os idiomas de seu criador, mas não pode falar.
+
+ND:
+Nenhum
+
+MORTO RESILIENTE
+
+Quando o Morto Animado for submetido a um efeito que permita realizar um teste de resistência para sofrer apenas metade do dano, ele não sofre dano algum se obtiver sucesso no teste e sofre apenas metade do dano se falhar.
+
+AÇÕES
+
+ESPADA E ARCO
+
+Ataque Corpo a Corpo ou à Distância:
+
+Bônus da jogada de ataque:
+Seu modificador de Força + seu Bônus de Proficiência.
+
+Alcance corpo a corpo:
+1,5 m (5 pés).
+
+Alcance à distância:
+24/96 m (80/320 pés).
+
+Alvo:
+Uma criatura.
+
+Acerto:
+1d6 + 2 + seu modificador de Constituição de dano Necrótico.
+
+NÍVEL 3: SENTIDO DA SEPULTURA
+
+Você sintonizou seus sentidos com os reinos da morte, decomposição e sombras.
+
+Ao tocar os fios invisíveis que conectam o mundo dos vivos às Terras das Sombras, você consegue estender sua percepção para além do véu, vendo e ouvindo aquilo que permanece além da sepultura.
+
+Você pode gastar 1 Marcador de Osso para lançar Falar com os Mortos.
+
+Além disso, você recebe:
+
+* Visão no Escuro com alcance de 36 m (120 pés).
+* A capacidade de sentir a presença de Mortos-Vivos a até 18 m (60 pés) de você.
+
+NÍVEL 6: MORTOS SACRIFICIAIS
+
+Você desenvolve maior controle sobre seus Mortos Animados, que agora o defendem até o fim.
+
+Quando você for atingido por um ataque, pode usar sua Reação para escolher um Morto Animado a até 1,5 m (5 pés) de você.
+
+O Morto Animado é atingido pelo ataque em seu lugar.
+
+O ataque acerta automaticamente o Morto Animado, que sofre todos os efeitos do ataque.
+
+Se o Morto Animado for destruído por esse ataque, você pode gastar 1 Marcador de Osso para fazê-lo explodir.
+
+A criatura atacante sofre 2d6 de dano Necrótico.
+
+NÍVEL 10: GOLPES DA SEPULTURA
+
+Você recebe as seguintes opções adicionais para sua característica Golpe Brutal:
+
+FRIO MORTAL
+
+Criaturas à sua escolha a até 3 m (10 pés) de você ou de um de seus Mortos Animados sofrem 1d6 de dano de Frio.
+
+Você pode gastar uma quantidade de Marcadores de Osso de até seu Bônus de Proficiência para aumentar esse dano em 1d6 para cada Marcador de Osso gasto.
+
+INCITAR A HORDA
+
+Seus Mortos Animados podem imediatamente usar suas Reações para se mover uma distância de até seus respectivos Deslocamentos sem provocar Ataques de Oportunidade.
+
+Você pode gastar 1 Marcador de Osso para também conceder Vantagem à próxima jogada de ataque de cada um de seus Mortos Animados.
+
+COLHEITA SOMBRIA
+
+Você recebe Pontos de Vida Temporários iguais a:
+
+Metade do seu nível de Bárbaro + seu modificador de Constituição.
+
+Você pode gastar 1 Marcador de Osso para também recuperar essa mesma quantidade de Pontos de Vida.
+
+NÍVEL 14: PASSO ESPECTRAL
+
+Quando ativa sua Fúria, você pode gastar 3 Marcadores de Osso como parte da mesma Ação Bônus para ativar seu Passo Espectral.
+
+Até sua Fúria terminar, sua aparência torna-se fantasmagórica, assumindo uma forma composta por mantos esvoaçantes e características esqueléticas.
+
+Enquanto seu Passo Espectral estiver ativo, você recebe os seguintes benefícios:
+
+* Você recebe Deslocamento de Voo de 18 m (60 pés).
+* Você pode pairar.
+* Você pode se mover através de paredes e objetos sólidos como se fossem Terreno Difícil.
+* Se terminar seu turno dentro de um objeto, sofre 1d10 de dano de Força.
+* Você recebe Resistência a todos os tipos de dano, exceto Radiante e Força.
+* Você possui Imunidade às condições Amedrontado e Enfeitiçado.
+* Você possui Vantagem em Salvaguardas contra a Morte.
+--
+TECELÃO DAS SOMBRAS
+
+GUERREIRO
+
+Empunhe as Sombras como uma Arma.
+
+Tecelões das Sombras são aqueles que atravessaram o véu da morte e retornaram carregando sua marca.
+
+Tocados pelas Terras das Sombras, eles empunham sua essência como uma arma, extraindo poder dos espaços entre a vida e a morte.
+
+Alguns foram ressuscitados por magia e ficaram para sempre transformados pela experiência. Outros estão ligados às sombras por herança, circunstâncias incomuns ou pela exposição a lugares tênues e Anomalias Arcanas.
+
+Há até rumores de que alguns carregam sangue de nascidos com magia, com almas naturalmente sintonizadas à escuridão das Terras das Sombras.
+
+Para todos os Tecelões das Sombras, embora a escuridão os tenha reivindicado, ela não os controla.
+
+Mesmo sob a luz, eles nunca estão sem poder — pois tudo projeta uma sombra, e um Tecelão das Sombras sabe como agarrá-la, moldá-la e transformá-la em uma arma.
+
+NÍVEL 3: DECADÊNCIA SOMBRIA
+
+Quando realiza a ação Atacar em seu turno, você pode substituir um de seus ataques para escolher como alvo uma criatura que possa ver e lançar contra ela uma descarga de energia sombria.
+
+Quando utiliza esta característica, escolha entre Raio Sombrio ou Abraço da Sombra.
+
+RAIO SOMBRIO
+
+Você conjura um raio mágico de sombras e o dispara contra um inimigo.
+
+Esse raio conta como uma Arma Simples corpo a corpo com as propriedades Acuidade e Arremesso (18/45 m ou 60/150 pés).
+
+Em um acerto, ele causa 1d12 de dano Necrótico.
+
+Quando atingir, você recupera uma quantidade de Pontos de Vida igual à metade do dano Necrótico causado, arredondado para baixo.
+
+O dano aumenta conforme seu nível de Guerreiro:
+
+Nível 3:
+1d12
+
+Nível 7:
+2d12
+
+Nível 11:
+3d12
+
+Nível 17:
+4d12
+
+ABRAÇO DA SOMBRA
+
+O alvo recupera 1d12 Pontos de Vida.
+
+Depois que uma criatura recuperar Pontos de Vida através desse efeito, ela deve terminar um Descanso Curto ou Descanso Longo antes de poder recuperar Pontos de Vida novamente através de Abraço da Sombra.
+
+A quantidade de cura aumenta conforme seu nível de Guerreiro:
+
+Nível 3:
+1d12
+
+Nível 7:
+2d12
+
+Nível 11:
+3d12
+
+Nível 17:
+4d12
+
+NÍVEL 3: VISÃO DO VAZIO
+
+Você recebe Visão no Escuro com alcance de 36 m (120 pés).
+
+Escuridão mágica não impede sua Visão no Escuro.
+
+Como uma ação, você pode escolher uma criatura voluntária a até 1,5 m (5 pés) de você e conceder a ela sua Visão do Vazio durante 1 minuto.
+
+Depois de utilizar esta característica, você não poderá utilizá-la novamente até terminar um Descanso Longo.
+
+NÍVEL 7: SOMBRAS MAIS PROFUNDAS
+
+Quando utiliza sua Decadência Sombria, você pode escolher um dos seguintes efeitos adicionais, de acordo com a opção utilizada.
+
+RAIO SOMBRIO
+
+TEMER A ESCURIDÃO
+
+A criatura fica Amedrontada por você até o início do seu próximo turno.
+
+GARRA SOMBRIA
+
+Você puxa a criatura até 9 m (30 pés) diretamente em sua direção, desde que ela seja Enorme ou menor.
+
+Além disso, o Deslocamento dela é reduzido em 3 m (10 pés) até o início do seu próximo turno.
+
+ABRAÇO DA SOMBRA
+
+NEGAR A MORTE
+
+Se o alvo estiver com 0 Pontos de Vida, você pode utilizar o valor máximo de cada dado em vez de rolar para determinar a quantidade de Pontos de Vida recuperada.
+
+GUARDA SOMBRIA
+
+Sombras protetoras envolvem o alvo.
+
+Ele recebe Resistência a todos os tipos de dano, exceto Radiante, até o início do seu próximo turno.
+
+NÍVEL 10: CAMPO DE PENUMBRA
+
+Como uma Ação Bônus, você pode conjurar um círculo mágico de sombras.
+
+O círculo cria uma Emanação de 9 m (30 pés) centrada em você.
+
+A área suprime a iluminação:
+
+* Luz Plena torna-se Meia-Luz.
+* Meia-Luz torna-se Escuridão.
+
+Esse efeito não cria luz em uma área que já esteja em Escuridão.
+
+Quando utiliza esta característica, escolha Campo de Decadência ou Sombras Protetoras.
+
+Ao criar o Campo de Penumbra, você escolhe quais criaturas serão afetadas por seu efeito.
+
+Você também pode escolher criaturas capazes de enxergar normalmente dentro da Emanação.
+
+CAMPO DE DECADÊNCIA
+
+O Deslocamento das criaturas afetadas dentro da área é reduzido pela metade.
+
+Uma criatura afetada sofre 3d8 de dano Necrótico quando entra na Emanação pela primeira vez em um turno ou começa seu turno nela.
+
+O dano aumenta conforme seu nível de Guerreiro:
+
+Nível 10:
+3d8
+
+Nível 15:
+4d8
+
+Nível 19:
+5d8
+
+SOMBRAS PROTETORAS
+
+As criaturas afetadas dentro da Emanação recebem a condição Invisível.
+
+Além disso, possuem Vantagem em testes de resistência de Inteligência, Sabedoria e Carisma.
+
+DURAÇÃO DO CAMPO
+
+O Campo de Penumbra dura 1 minuto, até você encerrá-lo, sem necessidade de ação, ou até você ficar Incapacitado.
+
+Você pode utilizar esta característica duas vezes.
+
+Você recupera um uso gasto ao terminar um Descanso Curto e recupera todos os usos gastos ao terminar um Descanso Longo.
+
+NÍVEL 15: DEVORADOR DE SOMBRAS
+
+Enquanto estiver Ensanguentado e estiver em Meia-Luz ou Escuridão, você pode utilizar sua característica Segundo Fôlego sem gastar um uso dela.
+
+NÍVEL 18: CONDUTOR SOMBRIO
+
+Quando atingir um alvo com seu Raio Sombrio, o próximo ataque que você realizar contra esse alvo antes do final do seu próximo turno acerta automaticamente.
+
+Se obtiver um Acerto Crítico com seu Raio Sombrio, o próximo ataque que você realizar contra esse alvo antes do final do seu próximo turno também será automaticamente um Acerto Crítico.
+
+NOTA DE DESIGN: COMBATE É PARA INIMIGOS
+
+Raio Sombrio foi criado para ser utilizado contra inimigos hostis durante o combate.
+
+Tecelões das Sombras não podem explorar essa característica para acumular cura atacando aliados voluntários, criaturas inofensivas, criaturas invocadas ou outros alvos que não representem ameaça fora do perigo de uma batalha.
+--
+CAMINHO DO SAQUEADOR
+
+BÁRBARO
+
+Torne-se uma força imparável.
+
+Quando os Saqueadores das Ilhas de Skye invadiram o continente e tomaram de assalto os castelos e fortalezas da Costa de Cristal, não trouxeram explosivos nem aríetes.
+
+Eles não precisavam deles.
+
+Utilizando apenas sua força bruta e o poder de seus próprios corpos para despedaçar portões, atravessar paredes e se transformar em armas de cerco vivas no campo de batalha, os Saqueadores tornaram-se guerreiros infames, protegendo seus aliados e usando os próprios corpos como instrumentos de destruição.
+
+Saqueadores revestem-se de armaduras de aço e treinam durante anos para se mover sob seu peso, transformando cada passo, golpe e investida em uma manifestação de força devastadora.
+
+Eles não são apenas guerreiros praticamente impossíveis de deter, mas também inimigos extremamente difíceis de derrubar.
+
+Histórias contam sobre Saqueadores engolidos por dragões que abriram caminho para fora das gargantas das feras com as próprias mãos, e sobre guerreiros solitários que destruíram acampamentos fortificados inteiros simplesmente avançando através deles.
+
+Com o passar do tempo, essa tradição de Bárbaros fortemente armadurados se espalhou para além das Ilhas, tornando-se uma disciplina rara, porém extremamente valorizada em todo o continente.
+
+Muitos daqueles que seguem o Caminho do Saqueador não o fazem pela conquista, mas pela proteção.
+
+Eles se colocam entre seus aliados, famílias e comunidades e os males que os ameaçam.
+
+NÍVEL 3: CONSTITUIÇÃO FORTIFICADA
+
+Você treinou para incorporar armaduras às suas defesas naturais, transformando-se em uma fortaleza praticamente impenetrável.
+
+Você recebe os seguintes benefícios:
+
+TREINAMENTO COM ARMADURA PESADA
+
+Você ganha treinamento com Armaduras Pesadas.
+
+Além disso, pode entrar em Fúria enquanto estiver usando uma Armadura Pesada, desde que não esteja empunhando um Escudo.
+
+PRESENÇA PROTETORA
+
+Enquanto estiver em Fúria, criaturas à sua escolha a até 3 m (10 pés) de você recebem Meia Cobertura.
+
+NÍVEL 6: BALUARTE
+
+Você desenvolve diversas capacidades defensivas que permitem suportar até mesmo as batalhas mais brutais.
+
+INVULNERÁVEL
+
+Quando sofrer dano enquanto estiver em Fúria, você pode usar sua Reação para receber Imunidade a um dos tipos de dano causado pelo efeito que desencadeou esta característica.
+
+Essa Imunidade se aplica apenas àquela ocorrência de dano.
+
+IMÓVEL
+
+Enquanto sua Fúria estiver ativa, você não pode ser movido por outra criatura ou efeito, a menos que escolha ser movido.
+
+FIQUEM ATRÁS DE MIM
+
+Você se lança diretamente contra o perigo, suportando toda a força de um efeito perigoso para proteger seus aliados.
+
+Enquanto sua Fúria estiver ativa, quando for submetido a um efeito que tenha mais de uma criatura como alvo ou afete uma área e exija que você realize um teste de resistência, você pode escolher falhar automaticamente nesse teste.
+
+Se fizer isso:
+
+* Qualquer dano que você sofrer desse efeito ignora suas Resistências e Imunidades.
+* Criaturas à sua escolha afetadas pelo mesmo efeito possuem Vantagem em seus testes de resistência.
+* Essas criaturas sofrem apenas metade do dano se falharem no teste de resistência.
+* Essas criaturas não sofrem dano algum se obtiverem sucesso no teste de resistência.
+
+NÍVEL 10: ARMA DE CERCO VIVA
+
+Quando entra em Fúria e utiliza sua característica Bote Instintivo, você pode se mover uma distância de até seu Deslocamento, em vez de apenas metade dele.
+
+Se terminar esse movimento a até 1,5 m (5 pés) de uma criatura, você pode liberar uma onda de choque de energia destrutiva.
+
+Cada criatura à sua escolha em uma Emanação de 6 m (20 pés) centrada em você deve realizar um teste de resistência de Destreza.
+
+A CD é igual a:
+
+8 + seu modificador de Força + seu Bônus de Proficiência.
+
+Em caso de falha, a criatura:
+
+* Sofre dano Trovejante.
+* É empurrada 3 m (10 pés) diretamente para longe de você.
+* Fica Caída.
+
+Em caso de sucesso, a criatura sofre apenas metade do dano e não sofre os outros efeitos.
+
+O dano Trovejante é igual a uma quantidade de d6 determinada pelo seu bônus de Dano de Fúria.
+
+Por exemplo, se seu bônus de Dano de Fúria for +3, o dano causado é 3d6.
+
+A partir do 14º nível:
+
+* A Emanação aumenta para 9 m (30 pés).
+* Os dados de dano passam de d6 para d8.
+
+NÍVEL 14: FORÇA IMPARÁVEL
+
+Sempre que se mover durante seu turno, qualquer criatura à sua escolha cujo espaço você atravesse deve realizar um teste de resistência de Destreza.
+
+A CD é igual a:
+
+8 + seu modificador de Força + seu Bônus de Proficiência.
+
+Em caso de falha, a criatura:
+
+* Sofre 1d12 de dano de Concussão.
+* É movida 3 m (10 pés) para longe de você.
+* Fica Caída.
+
+Além disso, se durante seu movimento você atravessar o espaço ocupado por uma parede ou estrutura feita de madeira, pedra ou reboco com até 3 m (10 pés) de espessura, você imediatamente abre uma passagem nessa superfície.
+
+A abertura possui:
+
+* 3 m (10 pés) de largura.
+* 3 m (10 pés) de altura.
+--
+FEITIÇARIA ACADÊMICA
+
+FEITICEIRO
+
+Conhecimento é poder.
+
+Feiticeiros possuem um dom inerente para o arcano, aprendendo a controlar seus talentos de nascidos com magia através do instinto, em vez de anos de estudo rigoroso. Entretanto, dentro da Academia Ametista, conjuradores de todas as tradições trazem suas próprias abordagens para a prática da magia.
+
+A Feitiçaria Acadêmica confunde a linha entre o treinamento institucional disciplinado e o poder bruto e indomado de um conjurador inato.
+
+Cada um desses Feiticeiros possui sua própria afinidade com o arcano, além de métodos profundamente pessoais para moldar e controlar sua magia. Após anos de estudo na Academia, aprendem a controlar melhor esse poder, ampliar suas capacidades naturais e aguçar seus sentidos arcanos.
+
+Eles existem no ponto de encontro entre aquilo que a Academia poderia considerar a natureza indomada de um verdadeiro Feiticeiro e o refinamento cuidadoso de um Mago.
+
+Seus estudos lhes concedem domínio excepcional sobre as magias que surgem mais naturalmente para eles. Ao concentrar seu treinamento nessas magias características, cada Feiticeiro Acadêmico desenvolve técnicas adaptadas aos seus próprios dons mágicos.
+
+Nenhum deles é exatamente igual ao outro, pois a Feitiçaria é uma arte profundamente pessoal, escrita no sangue, e cada estudante deve traçar seu próprio caminho para compreender e controlar o poder que existe dentro de si.
+
+NÍVEL 3: MAGIAS DA ACADEMIA
+
+Quando você alcança um nível de Feiticeiro indicado abaixo, passa a sempre ter as magias correspondentes preparadas.
+
+Nível 3
+
+Tranca Arcana
+Aura Mágica de Nystul
+Encontrar Familiar
+Prestidigitação
+Servo Invisível
+
+Nível 5
+
+Glifo de Proteção
+Círculo Mágico
+
+Nível 7
+
+Fabricar
+Invocar Elemental
+
+Nível 9
+
+Vidência
+Muralha de Força
+NÍVEL 3: CURRÍCULO MÁGICO
+
+Você ganha proficiência nas perícias Arcanismo e História.
+
+Se já possuir proficiência em qualquer uma delas, você ganha proficiência em outra perícia à sua escolha entre as perícias disponíveis para Feiticeiros.
+
+Você recebe Especialização em Arcanismo e História.
+
+Além disso, você aprende dois idiomas à sua escolha e ganha proficiência com Suprimentos de Alquimista ou Suprimentos de Calígrafo.
+
+NÍVEL 3: MAGIA CARACTERÍSTICA
+
+Sempre que terminar um Descanso Longo, escolha uma magia de Feiticeiro de 2º nível ou inferior que você tenha preparada.
+
+Essa magia se torna sua Magia Característica até você terminar seu próximo Descanso Longo.
+
+Sua Magia Característica possui uma manifestação mágica distinta e exclusiva. Sua aparência, sons e outros efeitos sensoriais podem se manifestar como borboletas, runas arcanas, cores incomuns ou qualquer outro detalhe puramente estético à sua escolha.
+
+Você pode lançar sua Magia Característica sem fornecer componentes Materiais, a menos que um componente seja consumido pela magia ou possua um custo especificado.
+
+Além disso, quando escolher uma Magia Característica, caso ela cause dano, você pode fazer com que cause um dos seguintes tipos de dano em vez de seu tipo normal:
+
+Ácido
+Frio
+Fogo
+Elétrico
+Veneno
+
+Sua Magia Característica não pode ser interrompida por Contramágica ou efeitos semelhantes que interrompam uma magia enquanto ela está sendo lançada.
+
+NÍVEL 6: ESTUDO FEITICEIRO
+
+Seu treinamento na Academia permite que você internalize fórmulas arcanas e remodele suas magias preparadas através do estudo.
+
+Você pode passar 1 hora estudando um grimório, pergaminho de magia ou outra fonte escrita de magia arcana que contenha uma magia presente na lista de magias de Feiticeiro ou Mago.
+
+Ao final desse estudo, você pode substituir uma magia de Feiticeiro que tenha preparada pela magia estudada.
+
+A nova magia deve ser de um nível para o qual você possua espaços de magia de Feiticeiro.
+
+Uma magia obtida através desta característica conta como uma magia de Feiticeiro para você e permanece preparada até que você a substitua por outra magia.
+
+Depois de substituir uma magia dessa maneira, você não poderá fazê-lo novamente até terminar outro Descanso Longo.
+
+Se a fonte for um pergaminho de magia, estudá-lo dessa maneira não consome o pergaminho.
+
+Nota do Designer: esta característica não permite que personagens multiclasse aprendam magias de Feiticeiro de nível superior utilizando espaços de magia obtidos através de outra classe ou pelas regras de Conjurador Multiclasse.
+
+NÍVEL 6: MAGIAS CARACTERÍSTICAS APRIMORADAS
+
+Você recebe uma segunda Magia Característica.
+
+Sempre que terminar um Descanso Longo, escolha uma magia de Feiticeiro de 4º nível ou inferior que tenha preparada para ser sua segunda Magia Característica.
+
+Suas duas Magias Características devem possuir níveis de magia diferentes.
+
+Uma vez por turno, quando aplicar uma opção de Metamagia a uma de suas Magias Características, você pode reduzir o custo dessa opção em 1 Ponto de Feitiçaria, até um custo mínimo de 0 Pontos de Feitiçaria.
+
+NÍVEL 14: MAGIAS CARACTERÍSTICAS POTENCIALIZADAS
+
+Você recebe uma terceira Magia Característica.
+
+Sempre que terminar um Descanso Longo, escolha uma magia de Feiticeiro de 6º nível ou inferior que tenha preparada para ser sua terceira Magia Característica.
+
+Suas três Magias Características devem possuir níveis de magia diferentes entre si.
+
+Sofrer dano não pode fazer você perder a Concentração em suas Magias Características.
+
+Além disso, enquanto sua Feitiçaria Inata estiver ativa, sempre que começar a lançar uma de suas Magias Características, você pode aumentar o nível efetivo da magia em 1.
+
+NÍVEL 18: MAGIAS CARACTERÍSTICAS DOMINADAS
+
+Você recebe uma quarta Magia Característica.
+
+Sempre que terminar um Descanso Longo, escolha uma magia de Feiticeiro de qualquer nível, exceto Desejo, que tenha preparada para ser sua quarta Magia Característica.
+
+Suas quatro Magias Características devem possuir níveis de magia diferentes entre si.
+
+Você pode lançar cada uma de suas Magias Características uma vez sem gastar um espaço de magia.
+
+Depois de lançar uma Magia Característica dessa maneira, você não poderá lançar essa magia novamente dessa forma até terminar um Descanso Longo.
+
+NOTA DO DESIGNER: MEMBRO DA ACADEMIA
+
+O Feiticeiro Acadêmico representa um personagem cujo talento mágico foi moldado por treinamento acadêmico formal, mas não tem a intenção de representar todos os membros da Academia Ametista.
+
+Personagens de qualquer subclasse podem ser estudantes, graduados, professores, agentes ou membros da Academia, enquanto um personagem desta subclasse pode ter deixado a Academia, sido expulso ou, por algum outro motivo, não possuir mais vínculo com a instituição.
+
+Da mesma forma, ser membro da Academia Ametista e possuir Anéis da Academia são questões separadas.
+
+Os Anéis da Academia são itens mágicos cuja disponibilidade é determinada pelo Mestre e pela relação do personagem com a Academia Ametista.
+
+Escolher esta subclasse não concede Anéis da Academia, e possuir Anéis da Academia não é um requisito para escolher esta subclasse.

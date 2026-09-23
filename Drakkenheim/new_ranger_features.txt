@@ -1,0 +1,219 @@
+# DUNGEON DUDES — EXPERIMENTO ÉLDRITCH: JUNHO DE 2025
+
+## CARACTERÍSTICAS OPCIONAIS DE CLASSE DO PATRULHEIRO
+
+Você recebe características de classe do *Livro do Jogador* ao alcançar determinados níveis em sua classe. Este **Experimento Éldritch** oferece características adicionais que você pode obter como patrulheiro. Diferentemente das características das Regras Básicas, você não recebe automaticamente as características apresentadas aqui.
+
+Em conjunto com seu Mestre, você decide se deseja obter uma característica desta seção caso cumpra o requisito de nível indicado em sua descrição. Essas características podem ser escolhidas independentemente umas das outras; você pode usar algumas, todas ou nenhuma delas.
+
+## NÍVEL 1: PRESA DO CAÇADOR
+
+**Modifica a característica de classe Inimigo Favorito**
+
+Você aprende novas magias para caçar seus inimigos. Essas magias são chamadas de **magias de Presa**, sendo qualquer magia de patrulheiro que possua a palavra “Presa” em seu nome.
+
+Você aprende a magia **Presa do Caçador** e sempre a mantém preparada. Sempre que ganhar um nível de Patrulheiro, você pode aprender uma magia de Presa adicional à sua escolha e, a partir de então, sempre mantém essa magia preparada.
+
+Sempre que ganhar um nível nesta classe, você pode substituir uma de suas magias de Presa conhecidas por outra.
+
+Duas vezes por dia, você pode conjurar uma de suas magias de Presa sem gastar um espaço de magia. Você recupera todos os usos gastos dessa habilidade ao terminar um **Descanso Longo**.
+
+O número de vezes que você pode conjurar uma de suas magias de Presa sem gastar um espaço de magia aumenta quando você alcança determinados níveis de Patrulheiro, conforme indicado na coluna **Inimigo Favorito** da tabela de Características do Patrulheiro.
+
+## NÍVEL 6: CONTAGEM DO CAÇADOR
+
+**Característica adicional**
+
+Você recupera um uso gasto de **Presa do Caçador** ao terminar um **Descanso Curto**.
+
+## NÍVEL 10: PRESA DO CAÇADOR APRIMORADA
+
+**Substitui a característica Incansável**
+
+Quando conjurar uma de suas magias de Presa, você pode modificar a magia para que ela não exija **Concentração**.
+
+Se fizer isso, a magia dura **1 minuto**, em vez de sua duração normal.
+
+Essa magia termina antecipadamente se você ficar **Incapacitado** ou se usar esta característica novamente para modificar outra magia de Presa.
+
+## NÍVEL 13: CAÇADOR FOCADO
+
+**Substitui a característica Caçador Implacável**
+
+Sofrer dano não pode quebrar sua **Concentração** em suas magias de Patrulheiro.
+
+## NÍVEL 17: CAÇADOR BRUTAL
+
+**Substitui a característica Caçador Preciso**
+
+Suas jogadas de ataque com armas e **Ataques Desarmados** agora podem resultar em um **Acerto Crítico** com uma rolagem de **19–20** no d20.
+
+Contra uma criatura que você tenha escolhido como sua **Presa**, você obtém um Acerto Crítico com uma rolagem de **18–20**.
+
+## NÍVEL 20: FIM DA CAÇADA
+
+Enquanto sua Presa estiver **Ferida (Bloodied)**, ela fica **vulnerável a todo o dano que você causar**.
+
+# NOVAS MAGIAS
+
+## PRESA DO CAÇADOR
+
+*Transmutação de 1º Círculo (Patrulheiro)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 27 metros
+**Componentes:** V
+**Duração:** Concentração, até 1 hora
+
+Você realiza a ação **Atacar** e escolhe magicamente uma criatura que possa ver dentro do alcance como sua **Presa**.
+
+Até a magia terminar, você causa **1d6 de dano de Energia adicional** à sua Presa sempre que a atingir com uma jogada de ataque.
+
+Você também tem **Vantagem** em qualquer teste de **Sabedoria (Percepção ou Sobrevivência)** realizado para encontrá-la.
+
+Se o alvo cair a 0 Pontos de Vida antes de a magia terminar, em seu turno você pode escolher uma nova criatura que possa ver dentro do alcance como sua Presa **sem precisar de uma ação**.
+
+Esta magia conta como **Marca do Caçador** para os propósitos de qualquer característica de classe ou subclasse de Patrulheiro.
+
+---
+
+## PRESA DA PANTERA
+
+*Transmutação de 2º Círculo (Patrulheiro)*
+
+**Tempo de Conjuração:** Ação Bônus
+**Alcance:** 27 metros
+**Componentes:** V
+**Duração:** Concentração, até 1 hora
+
+Você realiza a ação **Esconder-se** e escolhe magicamente uma criatura que possa ver dentro do alcance como sua Presa.
+
+Até a magia terminar, você recebe os seguintes benefícios:
+
+* Você causa **1d6 de dano de Energia adicional** ao alvo sempre que o atingir com uma jogada de ataque.
+* Você pode realizar a ação **Esconder-se como uma Ação Bônus**.
+* Sua Presa tem **Desvantagem** em quaisquer testes de **Sabedoria (Percepção ou Sobrevivência)** realizados para encontrar você.
+
+Se o alvo cair a 0 Pontos de Vida antes de a magia terminar, em seu turno você pode escolher uma nova criatura que possa ver dentro do alcance como sua Presa, sem precisar de uma ação.
+
+---
+
+## PRESA DO GUEPARDO
+
+*Transmutação de 2º Círculo (Patrulheiro)*
+
+**Tempo de Conjuração:** Ação Bônus
+**Alcance:** 27 metros
+**Componentes:** V
+**Duração:** Concentração, até 1 hora
+
+Você realiza a ação **Disparada** e marca magicamente uma criatura que possa ver dentro do alcance como sua Presa.
+
+Até a magia terminar, você recebe os seguintes benefícios:
+
+* Você causa **1d6 de dano de Energia adicional** ao alvo sempre que o atingir com uma jogada de ataque.
+* Você pode realizar a ação **Disparada como uma Ação Bônus**.
+* Se você se mover pelo menos **9 metros em linha reta em direção à sua Presa** e então atingi-la com um ataque corpo a corpo no mesmo turno, sua Presa deve ser bem-sucedida em uma **salvaguarda de Força** ou ficará **Caída**.
+
+Se o alvo cair a 0 Pontos de Vida antes de a magia terminar, em seu turno você pode escolher uma nova criatura que possa ver dentro do alcance como sua Presa, sem precisar de uma ação.
+
+---
+
+## PRESA DO LOBO
+
+*Transmutação de 1º Círculo (Patrulheiro)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 27 metros
+**Componentes:** V
+**Duração:** Concentração, até 1 hora
+
+Você realiza a ação **Atacar** e escolhe magicamente uma criatura que possa ver dentro do alcance como sua Presa.
+
+Até a magia terminar, você causa **1d6 de dano de Energia adicional** ao alvo sempre que o atingir com uma jogada de ataque.
+
+Além disso, seus aliados têm **Vantagem nas jogadas de ataque contra sua Presa enquanto ela estiver a até 1,5 metro de você**.
+
+Se o alvo cair a 0 Pontos de Vida antes de a magia terminar, em seu turno você pode escolher uma nova criatura que possa ver dentro do alcance como sua Presa, sem precisar de uma ação.
+
+---
+
+## PRESA DA VÍBORA
+
+*Transmutação de 3º Círculo (Patrulheiro)*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 27 metros
+**Componentes:** V
+**Duração:** Concentração, até 1 hora
+
+Você realiza a ação **Atacar** e escolhe magicamente uma criatura que possa ver dentro do alcance como sua Presa.
+
+Até a magia terminar, você causa **2d6 de dano de Veneno adicional** ao alvo sempre que o atingir com uma jogada de ataque, e ele recebe a condição **Envenenado** até o início do seu próximo turno.
+
+Se o alvo cair a 0 Pontos de Vida antes de a magia terminar, em seu turno você pode escolher uma nova criatura que possa ver dentro do alcance como sua Presa, sem precisar de uma ação.
+
+---
+
+## PRESA DA ARANHA
+
+*Transmutação de 2º Círculo (Patrulheiro)*
+
+**Tempo de Conjuração:** Ação Bônus
+**Alcance:** 27 metros
+**Componentes:** V
+**Duração:** Concentração, até 1 hora
+
+Você realiza a ação **Atacar** e escolhe magicamente uma criatura que possa ver dentro do alcance como sua Presa.
+
+Até a magia terminar, você causa **1d6 de dano de Veneno adicional** ao alvo sempre que o atingir com uma jogada de ataque.
+
+Além disso, uma vez em cada um de seus turnos, quando atingir sua Presa com um ataque, ela recebe a condição **Impedido** até conseguir escapar.
+
+A **CD para escapar é igual à sua CD para evitar suas magias**.
+
+Se o alvo cair a 0 Pontos de Vida antes de a magia terminar, em seu turno você pode escolher uma nova criatura que possa ver dentro do alcance como sua Presa, sem precisar de uma ação.
+
+---
+
+## PRESA DO MANGUSTO
+
+*Transmutação de 3º Círculo (Patrulheiro)*
+
+**Tempo de Conjuração:** Ação Bônus
+**Alcance:** 27 metros
+**Componentes:** V
+**Duração:** Concentração, até 1 hora
+
+Você marca magicamente uma criatura que possa ver dentro do alcance como sua Presa e realiza **um ataque corpo a corpo ou à distância contra ela**.
+
+Até a magia terminar, você causa **1d6 de dano de Energia adicional** ao alvo sempre que o atingir com uma jogada de ataque.
+
+Até a magia terminar, **uma vez em cada um de seus turnos**, quando realizar a ação Atacar, você pode realizar **um ataque adicional contra sua Presa como parte da mesma ação**.
+
+Se o alvo cair a 0 Pontos de Vida antes de a magia terminar, em seu turno você pode escolher uma nova criatura que possa ver dentro do alcance como sua Presa, sem precisar de uma ação.
+
+---
+
+## PRESA DO DRAGÃO
+
+*Transmutação de 5º Círculo (Patrulheiro)*
+
+**Tempo de Conjuração:** Ação Bônus
+**Alcance:** 27 metros
+**Componentes:** V
+**Duração:** Concentração, até 1 hora
+
+Você marca magicamente uma criatura que possa ver dentro do alcance como sua Presa.
+
+Até a magia terminar, quando realizar um ataque contra a criatura marcada, **o ataque se transforma em uma linha de 18 metros** que se estende em linha reta a partir de você, atravessando o alvo marcado e causando dano a todas as criaturas em seu trajeto.
+
+Todas as criaturas afetadas devem realizar uma **salvaguarda de Destreza contra sua CD para evitar suas magias**, sofrendo **8d6 de dano adicional em caso de falha**, ou metade desse dano em caso de sucesso.
+
+O alvo marcado tem **Desvantagem nessa salvaguarda**.
+
+Você escolhe o tipo de dano ao conjurar a magia:
+
+**Ácido, Frio, Fogo, Elétrico ou Veneno.**
+
+Se o alvo cair a 0 Pontos de Vida antes de a magia terminar, em seu turno você pode mover a marca para uma nova criatura que possa ver dentro do alcance, sem precisar de uma ação.

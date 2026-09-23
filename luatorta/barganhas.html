@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="theme-color" content="#030202">
+    <title>Barganhas Sombrias | A Lua Torta</title>
+    <link rel="icon" type="image/webp" href="../assets/icone.webp">
+    <link rel="stylesheet" href="../barganhas.css">
+  </head>
+  <body>
+    <div class="bargains-backdrop" aria-hidden="true">
+      <img id="bargains-mood-primary" class="bargains-backdrop__image bargains-backdrop__image--primary" alt="" decoding="async">
+      <img id="bargains-mood-secondary" class="bargains-backdrop__image bargains-backdrop__image--secondary" alt="" decoding="async">
+    </div>
+
+    <header class="bargains-header">
+      <a class="bargains-back" href="index.html">← Voltar para a Home</a>
+      <div class="bargains-header__title">
+        <span>A LUA TORTA</span>
+        <strong>Barganhas Sombrias</strong>
+      </div>
+      <span id="bargains-count" class="bargains-header__count"></span>
+    </header>
+
+    <main class="bargains">
+      <section class="bargains-intro">
+        <span class="bargains-intro__eyebrow">Compêndio dos pactos</span>
+        <h1>Barganhas <em>Sombrias</em></h1>
+        <p>
+          Qualquer barganha é oferecida por um poder completamente incognoscível e insondável.
+          Cada dom tem um preço, e cada preço cobra seu devido tempo.
+        </p>
+      </section>
+
+      <nav id="bargains-index" class="bargains-index" aria-label="Índice das Barganhas Sombrias"></nav>
+
+      <div id="bargains-list" class="bargains-list"></div>
+      <p id="bargains-status" class="bargains-status" role="status">Invocando as barganhas…</p>
+    </main>
+
+    <script>
+      window.LUA_TORTA_ASSET_BASE = "../";
+      window.LUA_TORTA_CACHE_BUST = Date.now().toString(36);
+      window.luaTortaLoadFreshScripts = function luaTortaLoadFreshScripts(paths) {
+        const version = encodeURIComponent(window.LUA_TORTA_CACHE_BUST);
+        paths.forEach((path) => {
+          document.write(`<script src="${path}${path.includes("?") ? "&" : "?"}v=${version}"><\/script>`);
+        });
+      };
+      window.luaTortaLoadFreshScripts(["../asset-paths.js", "../barganhas.js"]);
+    </script>
+  </body>
+</html>

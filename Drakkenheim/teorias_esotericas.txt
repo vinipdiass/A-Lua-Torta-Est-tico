@@ -1,0 +1,400 @@
+1. QUÍMICA AVANÇADA
+
+Pré-requisito: Químico
+
+Você aprende duas magias à sua escolha da lista de magias de Mago.
+
+As magias devem ser de um nível que você possa lançar, não podem ser superiores ao 5º nível e devem causar dano Ácido, Frio, Fogo ou Elétrico.
+
+2. TREINAMENTO PSIQUIÁTRICO AVANÇADO
+
+Você recebe Resistência a dano Psíquico.
+
+Além disso, sua mente não pode ser lida ou controlada por nenhum meio.
+
+3. AVANÇO ALIENISTA
+
+Pré-requisito: Alienista
+
+Você aprende duas magias à sua escolha das listas de magias de Bruxo ou Mago.
+
+As magias devem ser de um nível que você possa lançar, não podem ser superiores ao 5º nível e devem cumprir pelo menos um dos seguintes requisitos:
+
+* Causar dano Psíquico.
+* Pertencer à escola de Ilusão.
+* Pertencer à escola de Encantamento.
+
+4. CRIOGENIA APLICADA
+
+Uma criatura que falhar em um teste de resistência contra uma de suas magias de Apotecário de 1º nível ou superior que cause dano de Frio recebe a condição Congelado.
+
+A CD é igual à sua CD para evitar magias.
+
+5. VERIFICAÇÃO DE ANTECEDENTES
+
+Escolha um talento de Origem adicional.
+
+6. CAUTERIZAÇÃO
+
+Uma criatura que falhar em um teste de resistência contra uma de suas magias de Apotecário de 1º nível ou superior que cause dano Ácido ou de Fogo recebe a condição Queimando do tipo correspondente.
+
+O dano causado pela condição é igual a uma quantidade de d6 igual à metade do nível da magia, arredondada para baixo.
+
+7. ESTIMULANTE DE COMBATE
+
+Quando você se mover durante seu turno em combate, pode dobrar seu Deslocamento até o final do turno.
+
+Depois de utilizar esta Teoria, você não poderá utilizá-la novamente até passar um de seus turnos sem se mover.
+
+8. ANÁLISE DE FERIMENTOS CRÍTICOS
+
+Você possui Vantagem em ataques corpo a corpo com arma contra qualquer criatura que esteja Sangrando.
+
+9. TERAPIA DE ELETROCHOQUE
+
+Uma criatura que falhar em um teste de resistência contra uma de suas magias de Apotecário de 1º nível ou superior que cause dano Elétrico recebe a condição Eletrocutado até o início do seu próximo turno.
+
+10. PROTOCOLOS EXPERIMENTAIS DE REANIMAÇÃO
+
+Pré-requisito: Reanimador
+
+Você aprende duas magias de Necromancia à sua escolha da lista de magias de Mago.
+
+As magias devem ser de um nível que você possa lançar e não podem ser superiores ao 5º nível.
+
+11. HOPLOLOGIA
+
+Pré-requisitos: Apotecário de 6º nível, Precisão Anatômica
+
+Você recebe um talento de Estilo de Luta à sua escolha.
+
+12. CIÊNCIAS NATURAIS
+
+Pré-requisito: Botânico
+
+Você aprende duas magias à sua escolha da lista de magias de Druida.
+
+As magias devem ser de um nível que você possa lançar, não podem ser superiores ao 5º nível e devem pertencer às escolas de Abjuração ou Evocação.
+
+13. EVOLUÇÃO CONSTANTE
+
+Pré-requisito: Mutagenista
+
+Você aprende duas magias de Transmutação à sua escolha da lista de magias de Mago.
+
+As magias devem ser de um nível que você possa lançar e não podem ser superiores ao 5º nível.
+
+14. VEIAS ABERTAS
+
+Quando obtiver um Acerto Crítico com um ataque com arma, o alvo recebe a condição Sangrando.
+
+O dano do sangramento é igual ao dado de dano da arma.
+
+15. DISCIPLINA DO BISTURI
+
+Pré-requisitos: Apotecário de 6º nível, Médico de Combate
+
+Você pode utilizar a propriedade de Maestria de uma arma à sua escolha com a qual possua proficiência.
+
+Sempre que terminar um Descanso Longo, você pode trocar a arma escolhida.
+
+16. OBSERVAÇÃO ESTRATÉGICA
+
+Você pode adicionar seu modificador de Inteligência às suas rolagens de Iniciativa.
+
+17. ÓPTICA APRIMORADA CIRURGICAMENTE
+
+Você recebe Visão no Escuro com alcance de 18 m (60 pés).
+
+Se já possuir Visão no Escuro, seu alcance aumenta para 36 m (120 pés).
+
+Essa Visão no Escuro funciona tanto em escuridão mágica quanto não mágica.
+
+18. ANÁLISE DE AMEAÇAS
+
+Pré-requisito: Apotecário de 6º nível
+
+Quando outra criatura atingir você com um ataque corpo a corpo, você pode usar sua Reação para adicionar seu modificador de Inteligência à sua Classe de Armadura contra esse ataque, potencialmente fazendo com que ele erre.
+
+19. PESQUISA DE TOXINAS
+
+Pré-requisito: Patogenista
+
+Você aprende duas magias à sua escolha da lista de magias de Mago que causem dano de Veneno ou Ácido.
+
+As magias devem ser de um nível que você possa lançar e não podem ser superiores ao 5º nível.
+
+20. PARAMENTOS DA FÉ
+
+Pré-requisito: Exorcista
+
+Você aprende duas magias à sua escolha da lista de magias de Clérigo.
+
+As magias devem ser de um nível que você possa lançar, não podem ser superiores ao 5º nível e devem causar dano Necrótico ou Radiante.
+
+21. TOLERÂNCIA ADQUIRIDA
+
+Você possui Vantagem em testes de resistência contra Veneno e recebe Resistência a dano de Veneno.
+
+Além disso, você obtém sucesso automaticamente em testes de resistência contra suas próprias magias de Apotecário e nunca sofre dano causado por suas próprias magias de Apotecário.
+
+22. SURTO DE ADRENALINA
+
+Pré-requisito: Apotecário de 6º nível
+
+Quando uma criatura com 0 Pontos de Vida recupera Pontos de Vida através de uma magia que você lançou utilizando um espaço de magia de Apotecário, ela recebe Resistência a todo dano e Vantagem em testes de resistência até o final do próximo turno dela.
+
+Além disso, ela recebe Vantagem na primeira jogada de ataque que realizar durante seu próximo turno.
+
+23. PRECISÃO ANATÔMICA
+
+Quando realizar um ataque com arma, você pode utilizar seu modificador de Inteligência em vez de Força ou Destreza nas jogadas de ataque e dano.
+
+24. ANESTESIOLOGIA
+
+Pré-requisito: Apotecário de 14º nível
+
+Você pode lançar Imobilizar Pessoa sem gastar um espaço de magia nem fornecer componentes materiais.
+
+Você deve terminar um Descanso Longo antes de poder utilizar esta Teoria novamente sobre a mesma criatura.
+
+25. TRATO COM O PACIENTE
+
+Você ganha proficiência nas perícias Intuição e Persuasão.
+
+Seu Bônus de Proficiência é dobrado em qualquer teste de atributo que utilize uma dessas perícias.
+
+26. FÓRMULAS CÁUSTICAS
+
+Pré-requisito: Apotecário de 6º nível
+
+Uma vez por turno, quando causar dano a uma criatura ou objeto com uma magia de Apotecário, você pode gastar um espaço de magia de Apotecário para causar 2d4 de dano Ácido adicional ao alvo, mais 2d4 adicionais para cada nível do espaço de magia utilizado.
+
+27. CONDICIONAMENTO CLÍNICO
+
+Pré-requisito: Apotecário de 6º nível
+
+Você ganha proficiência em testes de resistência de Constituição.
+
+28. MÉDICO DE COMBATE
+
+Você ganha proficiência com Armas Marciais e Escudos.
+
+29. COMPOSTO CORROSIVO
+
+Pré-requisito: Apotecário de 6º nível
+
+Quando causar dano de Veneno com suas magias de Apotecário, você pode fazer com que metade do dano da magia seja de Veneno e a outra metade seja de Ácido.
+
+30. CIRURGIA COSMÉTICA
+
+Você pode passar 8 horas realizando um procedimento cirúrgico ocultista em uma criatura voluntária, transformando permanentemente sua aparência.
+
+Você determina a aparência da criatura, incluindo:
+
+* Características faciais.
+* Som da voz.
+* Comprimento do cabelo.
+* Coloração.
+* Características distintivas.
+
+Nenhuma das estatísticas de jogo da criatura é alterada.
+
+Você não pode alterar o tamanho da criatura, e sua estrutura corporal básica permanece a mesma.
+
+A transformação resultante não é mágica. Entretanto, Restauração Maior ou magia semelhante lançada sobre a criatura pode restaurar sua aparência original.
+
+31. CONDIÇÃO CRÍTICA
+
+Pré-requisito: Apotecário de 6º nível
+
+Quando uma criatura obtiver um 1 natural em um teste de resistência contra uma de suas magias de Apotecário que cause dano, role todos os dados de dano da magia duas vezes e some os resultados.
+
+Depois, adicione normalmente quaisquer modificadores aplicáveis para determinar o dano sofrido pela criatura.
+
+32. DIAGNÓSTICO
+
+Você pode realizar a ação Ajudar como uma Ação Bônus em seu turno.
+
+33. ATESTADO MÉDICO
+
+Pré-requisito: Apotecário de 6º nível
+
+Você pode lançar Enviar Mensagem à vontade.
+
+Você deve terminar um Descanso Longo antes de poder utilizar esta Teoria para entrar em contato novamente com a mesma criatura.
+
+34. DOSE DUPLA
+
+Pré-requisito: Apotecário de 10º nível
+
+Quando lançar uma magia de Apotecário utilizando um espaço de magia de Apotecário que tenha uma única criatura como alvo e restaure Pontos de Vida dela, você pode escolher uma segunda criatura dentro do alcance como alvo da mesma magia.
+
+35. PESQUISA EXTRACURRICULAR
+
+Você aprende dois truques adicionais à sua escolha da lista de magias de qualquer classe.
+
+Esses truques passam a contar como truques de Apotecário para você.
+
+36. INOCULAÇÃO
+
+Você recebe Resistência a dano Necrótico, e seu máximo de Pontos de Vida não pode ser reduzido.
+
+Além disso, você é imune a doenças.
+
+37. PRÁTICA INTERDISCIPLINAR
+
+Pré-requisito: Apotecário de 14º nível
+
+Quando utilizar sua ação para lançar uma magia, você pode realizar um ataque com arma como uma Ação Bônus.
+
+38. ASSISTENTE DE LABORATÓRIO
+
+Você aprende a magia Encontrar Familiar e passa a sempre tê-la preparada.
+
+Ela não conta no número de magias de Apotecário que você pode preparar.
+
+39. SEGURO DE RESPONSABILIDADE
+
+Pré-requisito: Apotecário de 14º nível
+
+Você pode lançar Contingência uma vez sobre si mesmo sem fornecer componentes materiais.
+
+Depois de fazer isso, não poderá utilizá-la dessa maneira novamente até terminar um Descanso Longo.
+
+40. ESPECIALIZAÇÃO MÉDICA
+
+Você ganha proficiência nas perícias Medicina e Natureza.
+
+Seu Bônus de Proficiência é dobrado em qualquer teste de atributo que utilize uma dessas perícias.
+
+41. LÉXICO MÉDICO
+
+Você aprende seis idiomas à sua escolha.
+
+Além disso, pode lançar Detectar Veneno e Doença à vontade.
+
+42. AGENTE NEUROTÓXICO
+
+Pré-requisito: Apotecário de 14º nível
+
+Quando causar dano de Veneno com suas magias de Apotecário, você pode fazer com que elas causem dano Psíquico em vez disso.
+
+43. SANGUE NOCIVO
+
+Pré-requisito: Apotecário de 6º nível
+
+Quando uma criatura a até 1,5 m (5 pés) de você atingir você com um ataque corpo a corpo, ela sofre dano de Veneno igual a:
+
+1d6 + seu modificador de Constituição.
+
+44. FARMACOLOGIA
+
+Quando lançar uma magia utilizando um espaço de magia de Apotecário ou sua característica Fórmula Superior que restaure Pontos de Vida de uma criatura, ela recupera Pontos de Vida adicionais iguais ao seu modificador de Inteligência.
+
+45. ANÁLISE FISIOLÓGICA
+
+Se passar pelo menos 1 minuto observando ou interagindo com outra criatura fora de combate, você pode aprender determinadas informações sobre sua fisiologia.
+
+O Mestre revela duas das seguintes características à sua escolha:
+
+* Um valor de atributo à sua escolha.
+* Classe de Armadura.
+* Pontos de Vida atuais.
+* Resistências, se houver.
+* Imunidades, se houver.
+* Vulnerabilidades, se houver.
+
+Alternativamente, você pode passar 1 minuto examinando um cadáver.
+
+Ao final desse período, você determina a causa da morte.
+
+46. RESSUSCITAÇÃO PRÁTICA
+
+Pré-requisito: Apotecário de 10º nível
+
+Quando lançar uma magia cujo único efeito seja restaurar uma criatura à vida, mas não à não-vida, como Reviver os Mortos, você não precisa fornecer componentes materiais caso a criatura tenha morrido há menos de 1 hora.
+
+47. PUTREFAÇÃO
+
+Suas magias e habilidades de Apotecário ignoram Resistência ou Imunidade a dano de Veneno de criaturas Mortas-Vivas, assim como sua Imunidade à condição Envenenado.
+
+48. RESPOSTA RÁPIDA
+
+Quando lançar uma magia de Apotecário que restaure Pontos de Vida de uma criatura, você pode, antes ou depois de lançar a magia, mover-se uma distância igual ao seu Deslocamento sem provocar Ataques de Oportunidade.
+
+49. PROCEDIMENTO DE ROTINA
+
+Pré-requisito: Apotecário de 10º nível
+
+Você pode lançar Restauração Menor à vontade sem gastar um espaço de magia.
+
+50. SEGREDOS ROUBADOS
+
+Pré-requisito: Apotecário de 10º nível
+
+Você aprende uma magia da lista de magias de qualquer classe.
+
+Ela deve ser de um nível igual ou inferior ao nível de seus espaços de magia de Apotecário.
+
+Essa magia conta como uma magia de Apotecário para você e não conta no número de magias de Apotecário que você pode preparar.
+
+51. PREPARAÇÃO DO SUJEITO
+
+Pré-requisito: Apotecário de 10º nível
+
+Quando atingir uma criatura com um ataque corpo a corpo com arma, ela possui Desvantagem no próximo teste de resistência que realizar contra uma magia de Apotecário lançada por você antes do final do seu próximo turno.
+
+52. INSTINTO DO CIRURGIÃO
+
+Você recebe Percepção às Cegas com alcance de 3 m (10 pés).
+
+53. GOLPES CIRÚRGICOS
+
+Pré-requisito: Apotecário de 6º nível
+
+Sempre que realizar a ação Atacar em seu turno, você pode realizar dois ataques em vez de um.
+
+54. TOXICOLOGIA
+
+Pré-requisito: Apotecário de 6º nível
+
+Você adiciona seu modificador de Inteligência às jogadas de dano de magias que causem dano de Veneno.
+
+55. TRIAGEM
+
+Você aprende o truque Estabilizar, caso ainda não o conheça.
+
+Quando lança esse truque, seu alcance é de 18 m (60 pés).
+
+56. FOCO INFALÍVEL
+
+Pré-requisito: Apotecário de 6º nível
+
+Quando falhar em um teste de resistência de Constituição para manter Concentração em uma magia de Apotecário, você pode escolher obter sucesso em vez disso.
+
+Depois de utilizar esta característica, você não poderá utilizá-la novamente até terminar um Descanso Curto ou Descanso Longo.
+
+57. INSTRUMENTOS VENENOSOS
+
+Pré-requisito: Apotecário de 10º nível
+
+Quando atingir uma criatura com um ataque com arma, ela sofre dano de Veneno adicional igual ao seu modificador de Inteligência.
+
+58. VIRULÊNCIA
+
+Quando obtiver um resultado 1 em um dado de dano de uma magia de Apotecário que cause dano de Veneno, você pode rolar esse dado novamente.
+
+Você deve utilizar o novo resultado, mesmo que ele também seja 1.
+
+59. SINAIS VITAIS
+
+Quando uma criatura que você possa ver a até 9 m (30 pés) de você falhar em um teste de resistência ou Salvaguarda contra a Morte, você pode usar sua Reação para adicionar seu modificador de Inteligência à rolagem da criatura, potencialmente transformando a falha em um sucesso.
+
+Você deve terminar um Descanso Curto antes de poder utilizar esta Teoria novamente sobre a mesma criatura.
+
+60. VIVISSECÇÃO
+
+Pré-requisito: Apotecário de 6º nível
+
+Seus ataques com arma obtêm um Acerto Crítico com um resultado de 19 ou 20 no d20.

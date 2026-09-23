@@ -1,0 +1,470 @@
+APOTECÁRIO
+
+O Apotecário é um especialista em medicina e um praticante de magia arcana. Ele utiliza seu conhecimento tanto para curar quanto para ferir, complementando suas habilidades convencionais com alquimia e magia ocultista.
+
+Alguns Apotecários começam seus tratamentos utilizando métodos tradicionais, como ervas medicinais e procedimentos cirúrgicos. Quando esses métodos não são suficientes, recorrem à magia arcana e a forças sobrenaturais para restaurar seus pacientes.
+
+O conhecimento que um Apotecário possui sobre o corpo pode ser utilizado para muito mais do que simplesmente curar. Seus métodos arcanos podem fortalecer, transformar e proteger seus aliados, enquanto técnicas mais perigosas podem ser utilizadas para ferir ou matar seus inimigos.
+
+Um Apotecário compreende que a diferença entre um veneno e uma cura muitas vezes está apenas na dose.
+
+PROGRESSÃO DO APOTECÁRIO
+
+Nível 1
+Bônus de Proficiência: +2
+Características:
+
+* Magia de Apotecário
+* Teorias Esotéricas
+  Teorias Esotéricas: 1
+  Truques: 3
+  Magias Preparadas: 4
+  Espaços de Magia: 1
+  Nível dos Espaços: 1º
+
+Nível 2
+Bônus de Proficiência: +2
+Características:
+
+* Pesquisa Experimental
+  Teorias Esotéricas: 3
+  Truques: 3
+  Magias Preparadas: 5
+  Espaços de Magia: 2
+  Nível dos Espaços: 1º
+
+Nível 3
+Bônus de Proficiência: +2
+Características:
+
+* Subclasse de Apotecário
+  Teorias Esotéricas: 3
+  Truques: 3
+  Magias Preparadas: 6
+  Espaços de Magia: 2
+  Nível dos Espaços: 2º
+
+Nível 4
+Bônus de Proficiência: +2
+Características:
+
+* Aprimoramento de Atributo
+  Teorias Esotéricas: 3
+  Truques: 4
+  Magias Preparadas: 7
+  Espaços de Magia: 2
+  Nível dos Espaços: 2º
+
+Nível 5
+Bônus de Proficiência: +3
+Características: —
+Teorias Esotéricas: 5
+Truques: 4
+Magias Preparadas: 9
+Espaços de Magia: 3
+Nível dos Espaços: 3º
+
+Nível 6
+Bônus de Proficiência: +3
+Características:
+
+* Característica de Subclasse
+  Teorias Esotéricas: 5
+  Truques: 4
+  Magias Preparadas: 10
+  Espaços de Magia: 3
+  Nível dos Espaços: 3º
+
+Nível 7
+Bônus de Proficiência: +3
+Características: —
+Teorias Esotéricas: 6
+Truques: 4
+Magias Preparadas: 11
+Espaços de Magia: 3
+Nível dos Espaços: 4º
+
+Nível 8
+Bônus de Proficiência: +3
+Características:
+
+* Aprimoramento de Atributo
+  Teorias Esotéricas: 6
+  Truques: 4
+  Magias Preparadas: 12
+  Espaços de Magia: 3
+  Nível dos Espaços: 4º
+
+Nível 9
+Bônus de Proficiência: +4
+Características: —
+Teorias Esotéricas: 7
+Truques: 4
+Magias Preparadas: 14
+Espaços de Magia: 4
+Nível dos Espaços: 5º
+
+Nível 10
+Bônus de Proficiência: +4
+Características:
+
+* Característica de Subclasse
+  Teorias Esotéricas: 7
+  Truques: 5
+  Magias Preparadas: 15
+  Espaços de Magia: 4
+  Nível dos Espaços: 5º
+
+Nível 11
+Bônus de Proficiência: +4
+Características:
+
+* Fórmula Superior
+  Teorias Esotéricas: 7
+  Truques: 5
+  Magias Preparadas: 16
+  Espaços de Magia: 4
+  Nível dos Espaços: 5º
+
+Nível 12
+Bônus de Proficiência: +4
+Características:
+
+* Aprimoramento de Atributo
+  Teorias Esotéricas: 8
+  Truques: 5
+  Magias Preparadas: 16
+  Espaços de Magia: 4
+  Nível dos Espaços: 5º
+
+Nível 13
+Bônus de Proficiência: +5
+Características:
+
+* Fórmula Superior
+  Teorias Esotéricas: 8
+  Truques: 5
+  Magias Preparadas: 17
+  Espaços de Magia: 5
+  Nível dos Espaços: 5º
+
+Nível 14
+Bônus de Proficiência: +5
+Características:
+
+* Característica de Subclasse
+  Teorias Esotéricas: 8
+  Truques: 5
+  Magias Preparadas: 17
+  Espaços de Magia: 5
+  Nível dos Espaços: 5º
+
+Nível 15
+Bônus de Proficiência: +5
+Características:
+
+* Fórmula Superior
+  Teorias Esotéricas: 9
+  Truques: 5
+  Magias Preparadas: 18
+  Espaços de Magia: 5
+  Nível dos Espaços: 5º
+
+Nível 16
+Bônus de Proficiência: +5
+Características:
+
+* Aprimoramento de Atributo
+  Teorias Esotéricas: 9
+  Truques: 5
+  Magias Preparadas: 18
+  Espaços de Magia: 5
+  Nível dos Espaços: 5º
+
+Nível 17
+Bônus de Proficiência: +6
+Características:
+
+* Fórmula Superior
+  Teorias Esotéricas: 9
+  Truques: 5
+  Magias Preparadas: 19
+  Espaços de Magia: 6
+  Nível dos Espaços: 5º
+
+Nível 18
+Bônus de Proficiência: +6
+Características:
+
+* Característica de Subclasse
+  Teorias Esotéricas: 10
+  Truques: 5
+  Magias Preparadas: 20
+  Espaços de Magia: 6
+  Nível dos Espaços: 5º
+
+Nível 19
+Bônus de Proficiência: +6
+Características:
+
+* Benefício Épico
+* Fórmula Superior
+  Teorias Esotéricas: 10
+  Truques: 5
+  Magias Preparadas: 21
+  Espaços de Magia: 6
+  Nível dos Espaços: 5º
+
+Nível 20
+Bônus de Proficiência: +6
+Características:
+
+* Fórmula Superior
+* Recuperação Milagrosa
+  Teorias Esotéricas: 11
+  Truques: 5
+  Magias Preparadas: 22
+  Espaços de Magia: 6
+  Nível dos Espaços: 5º
+
+NÍVEL 1: MAGIA DE APOTECÁRIO
+
+Sua pesquisa arcana lhe concedeu domínio sobre a conjuração de magias.
+
+TRUQUES
+
+Você conhece três truques à sua escolha da lista de magias de Apotecário.
+
+Você aprende truques adicionais conforme ganha níveis nesta classe, conforme indicado na coluna Truques da tabela do Apotecário.
+
+Sempre que terminar um Descanso Longo, você pode substituir um dos truques obtidos por esta característica por outro truque de Apotecário à sua escolha.
+
+No 4º e no 10º nível de Apotecário, você aprende um truque de Apotecário adicional.
+
+LIVRO DE FÓRMULAS
+
+Você possui um livro ou coleção de anotações que utiliza para preparar suas magias de Apotecário, desenvolver suas Teorias Esotéricas e registrar suas práticas ocultistas.
+
+Você pode utilizar seu Livro de Fórmulas como Foco Arcano para suas magias de Apotecário.
+
+Você pode determinar livremente a aparência desse livro. Alguns exemplos incluem:
+
+* Um grande tomo encadernado em couro, com páginas amareladas e fechado por uma tranca de ferro.
+* Uma coleção desorganizada de anotações rabiscadas e amarradas com uma corda.
+* Um diário impecável, com páginas perfeitamente alinhadas e uma caligrafia refinada.
+* Uma maleta de couro com duas pequenas fechaduras douradas.
+* Uma bolsa médica com símbolos cirúrgicos nas laterais.
+* Uma velha bolsa de ombro com frascos e garrafas saindo de todos os bolsos.
+
+Se seu Livro de Fórmulas for destruído ou perdido, você pode recriá-lo utilizando tinta e papel durante um Descanso Longo.
+
+ESPAÇOS DE MAGIA
+
+A tabela do Apotecário indica quantos espaços de magia você possui para lançar suas magias de Apotecário de 1º a 5º nível.
+
+A tabela também indica o nível desses espaços. Todos os seus espaços de Magia de Apotecário possuem o mesmo nível.
+
+Para lançar uma magia de Apotecário de 1º nível ou superior, você deve gastar um espaço de magia.
+
+Você recupera todos os espaços de Magia de Apotecário gastos ao terminar um Descanso Curto ou Descanso Longo.
+
+Por exemplo, como um Apotecário de 5º nível, você possui três espaços de magia de 3º nível. Caso lance uma magia de 1º nível utilizando um desses espaços, ela é lançada como uma magia de 3º nível.
+
+MAGIAS PREPARADAS DE 1º NÍVEL OU SUPERIOR
+
+Você prepara uma lista de magias de Apotecário de 1º nível ou superior disponíveis para conjuração.
+
+No 1º nível, escolha quatro magias de Apotecário de 1º nível.
+
+A quantidade de magias que você pode manter preparadas aumenta conforme você ganha níveis nesta classe, conforme indicado na coluna Magias Preparadas da tabela do Apotecário.
+
+Sempre que essa quantidade aumentar, escolha magias de Apotecário adicionais até atingir o número indicado na tabela.
+
+As magias escolhidas não podem possuir nível superior ao nível indicado na coluna Nível dos Espaços para seu nível de Apotecário.
+
+Se outra característica de Apotecário conceder magias que você sempre possui preparadas, essas magias não contam no número de magias que você pode preparar através desta característica.
+
+Essas magias ainda contam como magias de Apotecário para você.
+
+ALTERANDO SUAS MAGIAS PREPARADAS
+
+Sempre que terminar um Descanso Longo, você pode alterar sua lista de magias preparadas, substituindo quaisquer magias dessa lista por outras magias de Apotecário para as quais possua espaços de magia.
+
+HABILIDADE DE CONJURAÇÃO
+
+Inteligência é sua habilidade de conjuração para suas magias de Apotecário, pois você desenvolve suas magias através de estudo dedicado e conhecimento ocultista.
+
+Você utiliza Inteligência sempre que uma magia de Apotecário fizer referência à sua habilidade de conjuração.
+
+Além disso, você utiliza seu modificador de Inteligência para determinar a CD dos testes de resistência contra suas magias e para realizar jogadas de ataque mágico.
+
+FOCO DE CONJURAÇÃO
+
+Você pode utilizar um Foco Arcano ou seu Livro de Fórmulas como Foco de Conjuração para suas magias de Apotecário.
+
+NÍVEL 1: TEORIAS ESOTÉRICAS
+
+Você descobriu Teorias Esotéricas, fragmentos de conhecimento proibido capazes de aprimorar suas habilidades mágicas.
+
+Você recebe uma Teoria Esotérica à sua escolha no 1º nível.
+
+Suas opções de Teorias Esotéricas são descritas separadamente no final da classe.
+
+Você recebe Teorias Esotéricas adicionais conforme ganha níveis de Apotecário, de acordo com a coluna Teorias Esotéricas da tabela do Apotecário.
+
+Além disso, sempre que ganhar um nível nesta classe, você pode escolher uma Teoria Esotérica que conheça e substituí-la por outra Teoria que poderia aprender naquele nível.
+
+NÍVEL 2: PESQUISA EXPERIMENTAL
+
+Escolha uma magia da lista de magias de Apotecário, Clérigo, Druida ou Mago.
+
+A magia não pode possuir um nível superior ao nível mais alto de seus espaços de Magia de Apotecário.
+
+Você passa a sempre ter essa magia preparada.
+
+Além disso, pode lançar essa magia uma vez sem gastar um espaço de magia.
+
+Depois de lançá-la dessa maneira, você não poderá fazê-lo novamente até terminar um Descanso Longo.
+
+Você também pode lançar essa magia normalmente utilizando seus espaços de Magia de Apotecário.
+
+Sempre que ganhar um nível nesta classe, você pode substituir sua magia de Pesquisa Experimental por outra magia que cumpra os mesmos requisitos.
+
+NÍVEL 3: SUBCLASSE DE APOTECÁRIO
+
+Você escolhe uma subclasse de Apotecário.
+
+Sua subclasse representa sua especialização e concede características em determinados níveis de Apotecário.
+
+Você recebe características de sua subclasse nos níveis:
+
+* 3
+* 6
+* 10
+* 14
+* 18
+
+NÍVEL 4: APRIMORAMENTO DE ATRIBUTO
+
+Você recebe o talento Aprimoramento de Atributo ou outro talento à sua escolha para o qual cumpra os pré-requisitos.
+
+Você recebe esta característica novamente nos níveis 8, 12 e 16 de Apotecário.
+
+NÍVEL 6: CARACTERÍSTICA DE SUBCLASSE
+
+Você recebe uma característica concedida pela subclasse de Apotecário escolhida.
+
+NÍVEL 8: APRIMORAMENTO DE ATRIBUTO
+
+Você recebe o talento Aprimoramento de Atributo ou outro talento à sua escolha para o qual cumpra os pré-requisitos.
+
+NÍVEL 10: CARACTERÍSTICA DE SUBCLASSE
+
+Você recebe uma característica concedida pela subclasse de Apotecário escolhida.
+
+NÍVEL 11: FÓRMULA SUPERIOR
+
+Você desenvolveu fórmulas capazes de reproduzir magias muito além dos limites normais de sua Magia de Apotecário.
+
+No 11º nível, escolha uma magia de Apotecário de 6º nível como sua Fórmula Superior.
+
+Você pode lançar essa magia uma vez sem gastar um espaço de magia.
+
+Depois de lançá-la dessa maneira, você deve terminar um Descanso Longo antes de poder lançá-la novamente através desta característica.
+
+FÓRMULAS ADICIONAIS
+
+Conforme ganha níveis de Apotecário, você desenvolve Fórmulas Superiores adicionais:
+
+Nível 11:
+
+* Uma magia de Apotecário de 6º nível.
+
+Nível 13:
+
+* Uma magia de Apotecário de 7º nível.
+
+Nível 15:
+
+* Uma magia de Apotecário de 8º nível.
+
+Nível 17:
+
+* Uma magia de Apotecário de 9º nível.
+
+Nível 19:
+
+* Uma segunda magia de Apotecário de 6º nível.
+
+Nível 20:
+
+* Uma segunda magia de Apotecário de 7º nível.
+
+Cada magia escolhida através desta característica pode ser lançada uma vez sem gastar um espaço de magia.
+
+Você recupera todos os usos de suas Fórmulas Superiores ao terminar um Descanso Longo.
+
+REFORMULAÇÃO MAGISTRAL
+
+Sempre que terminar um Descanso Longo e consultar seu Livro de Fórmulas, você pode substituir uma magia obtida através de Fórmula Superior por outra magia de Apotecário do mesmo nível.
+
+NÍVEL 12: APRIMORAMENTO DE ATRIBUTO
+
+Você recebe o talento Aprimoramento de Atributo ou outro talento à sua escolha para o qual cumpra os pré-requisitos.
+
+NÍVEL 13: FÓRMULA SUPERIOR
+
+Você recebe uma magia de Apotecário de 7º nível à sua escolha como uma nova Fórmula Superior.
+
+NÍVEL 14: CARACTERÍSTICA DE SUBCLASSE
+
+Você recebe uma característica concedida pela subclasse de Apotecário escolhida.
+
+NÍVEL 15: FÓRMULA SUPERIOR
+
+Você recebe uma magia de Apotecário de 8º nível à sua escolha como uma nova Fórmula Superior.
+
+NÍVEL 16: APRIMORAMENTO DE ATRIBUTO
+
+Você recebe o talento Aprimoramento de Atributo ou outro talento à sua escolha para o qual cumpra os pré-requisitos.
+
+NÍVEL 17: FÓRMULA SUPERIOR
+
+Você recebe uma magia de Apotecário de 9º nível à sua escolha como uma nova Fórmula Superior.
+
+NÍVEL 18: CARACTERÍSTICA DE SUBCLASSE
+
+Você recebe uma característica concedida pela subclasse de Apotecário escolhida.
+
+NÍVEL 19: BENEFÍCIO ÉPICO
+
+Você recebe um talento de Benefício Épico ou outro talento à sua escolha para o qual cumpra os pré-requisitos.
+
+NÍVEL 19: FÓRMULA SUPERIOR
+
+Você recebe uma segunda magia de Apotecário de 6º nível à sua escolha como uma nova Fórmula Superior.
+
+NÍVEL 20: FÓRMULA SUPERIOR
+
+Você recebe uma segunda magia de Apotecário de 7º nível à sua escolha como uma nova Fórmula Superior.
+
+NÍVEL 20: RECUPERAÇÃO MILAGROSA
+
+Você pode passar 5 minutos administrando uma fórmula ocultista em uma quantidade de criaturas igual ao seu modificador de Inteligência.
+
+Você pode incluir a si mesmo entre essas criaturas.
+
+Durante todo esse período, você deve cuidar das criaturas utilizando um Kit de Curandeiro que possua pelo menos um uso restante.
+
+Ao final dos 5 minutos, os alvos recuperam:
+
+* Pontos de Vida.
+* Espaços de magia.
+* Dados de Vida.
+* Outras habilidades e recursos.
+
+Eles recuperam esses recursos como se tivessem terminado um Descanso Longo.
+
+Uma criatura só pode receber os benefícios de uma Recuperação Milagrosa uma vez a cada 24 horas.
+
+Depois de utilizar esta característica, você não poderá utilizá-la novamente até terminar um Descanso Longo.
