@@ -78,7 +78,7 @@
         letter-spacing: 0;
       }
 
-      .empty-copy span {
+      .empty-copy > span {
         display: block;
         width: fit-content;
         margin-bottom: clamp(18px, 4vh, 34px);
@@ -89,6 +89,56 @@
         letter-spacing: 0.24em;
         line-height: 2.2;
         text-transform: uppercase;
+      }
+
+      .empty-copy__note {
+        margin: clamp(14px, 2.4vh, 22px) 0 0;
+        max-width: 46ch;
+        color: rgba(241, 231, 207, 0.78);
+        font-size: clamp(1rem, 1.6vw, 1.2rem);
+        line-height: 1.5;
+      }
+
+      .empty-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: clamp(10px, 2vw, 16px);
+        margin-top: clamp(20px, 3.6vh, 32px);
+        font-family: Georgia, "Times New Roman", serif;
+      }
+
+      .empty-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 14px 26px;
+        border: 1px solid rgba(213, 180, 109, 0.55);
+        border-radius: 999px;
+        background: rgba(213, 180, 109, 0.08);
+        color: var(--paper);
+        font-size: 0.8rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        text-decoration: none;
+        transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+      }
+
+      .empty-link:hover,
+      .empty-link:focus-visible {
+        background: var(--gold);
+        border-color: var(--gold);
+        color: var(--ink);
+        transform: translateY(-2px);
+      }
+
+      .empty-link__arrow {
+        transition: transform 0.2s ease;
+      }
+
+      .empty-link:hover .empty-link__arrow,
+      .empty-link:focus-visible .empty-link__arrow {
+        transform: translateX(3px);
       }
 
       .empty-figure {
@@ -122,7 +172,7 @@
           order: 2;
         }
 
-        .empty-copy span {
+        .empty-copy > span {
           margin-inline: auto;
         }
 
@@ -134,6 +184,15 @@
         .empty-copy h1 {
           font-size: clamp(2rem, 11.8vw, 4.4rem);
         }
+
+        .empty-links {
+          justify-content: center;
+        }
+
+        .empty-link {
+          flex: 1 1 200px;
+          justify-content: center;
+        }
       }
     </style>
   </head>
@@ -141,7 +200,18 @@
     <main class="empty-stage" aria-label="Conteúdo em breve">
       <section class="empty-copy">
         <span>Por enquanto</span>
-        <h1>Desculpe, o que você procura ainda não tá aqui! Mas volte em breve, quem sabe você encontra algo :)</h1>
+        <h1>Desculpe, esse canto ainda tá vazio!</h1>
+        <p class="empty-copy__note">Mas enquanto isso, já dá pra explorar duas aventuras:</p>
+        <nav class="empty-links" aria-label="Ir para uma aventura">
+          <a class="empty-link" href="luatorta/">
+            <span>A Lua Torta</span>
+            <span class="empty-link__arrow" aria-hidden="true">→</span>
+          </a>
+          <a class="empty-link" href="Drakkenheim/">
+            <span>Drakkenheim</span>
+            <span class="empty-link__arrow" aria-hidden="true">→</span>
+          </a>
+        </nav>
       </section>
 
       <figure class="empty-figure" aria-hidden="true">
