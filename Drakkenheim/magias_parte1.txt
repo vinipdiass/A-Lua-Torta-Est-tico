@@ -1,0 +1,1395 @@
+# Truques
+
+## Queimadura Ácida
+
+*Truque de evocação*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (cone de 4,5 metros)
+**Componentes:** V, S
+**Duração:** Instantânea
+
+Você produz magicamente um jato de uma fórmula ácida em um cone de 4,5 metros à sua frente. Todas as criaturas no cone devem ser bem-sucedidas em uma salvaguarda de Destreza ou sofrem **1d6 de dano de ácido**.
+
+O dano desta magia aumenta em **1d6** quando você alcança o 5º nível (2d6), o 11º nível (3d6) e o 17º nível (4d6).
+
+---
+
+## Barragem Bacteriana
+
+*Truque de necromancia*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 9 metros
+**Componentes:** V, S
+**Duração:** Instantânea
+
+Você ataca uma criatura dentro do alcance com uma infecção de rápida disseminação que se aproveita de condições preexistentes. Faça um **ataque à distância com magia** contra o alvo. Se atingir, a infecção causa **1d8 de dano necrótico** ao alvo.
+
+Se o alvo estiver sob a condição **envenenado** ou estiver sofrendo de uma **doença**, ele sofre **1d12 de dano necrótico** em vez disso.
+
+O dano da magia aumenta em um dado quando você alcança o 5º nível (2d8 ou 2d12), o 11º nível (3d8 ou 3d12) e o 17º nível (4d8 ou 4d12).
+
+---
+
+## Agulha Venenosa
+
+*Truque de conjuração*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** V, S
+**Duração:** Instantânea
+
+Você lança um dardo conjurado, revestido com um veneno letal, contra uma criatura que possa ver dentro do alcance. Faça um **ataque à distância com magia** contra o alvo. Se atingir, o alvo sofre **1d10 de dano de veneno**.
+
+Se o dano de veneno reduzir o alvo a **0 pontos de vida**, ele fica **estabilizado**, mas permanece **envenenado por 1 hora**, mesmo após recuperar pontos de vida, e fica **paralisado enquanto estiver envenenado dessa forma**.
+
+O dano desta magia aumenta em **1d10** quando você alcança o 5º nível (2d10), o 11º nível (3d10) e o 17º nível (4d10).
+# Magias de 1º Nível
+
+## Orbe Cáustico
+
+*Evocação de 1º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** V, S, M (um frasco de ácido estomacal e uma pitada de sulfato)
+**Duração:** Instantânea
+
+Você cria um orbe de gel ácido e o arremessa contra uma criatura dentro do alcance. Faça um **ataque à distância com magia** contra o alvo. Se atingir, o alvo sofre **2d6 de dano de ácido**.
+
+Independentemente de o ataque atingir ou errar, o orbe explode. O alvo e cada criatura a até **1,5 metro** dele devem ser bem-sucedidos em uma **salvaguarda de Destreza** ou sofrem **2d6 de dano de ácido**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, o dano de ácido causado pela explosão aumenta em **1d6** para cada nível do espaço acima do 1º.
+
+---
+
+## Envenenar
+
+*Conjuração de 1º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** V, S, M (um frasco de veneno básico)
+**Duração:** Concentração, até 1 minuto
+
+Escolha uma criatura que você possa ver dentro do alcance para afligi-la com um veneno mágico. O alvo sofre **2d4 de dano de veneno** e deve realizar uma **salvaguarda de Constituição**.
+
+Em caso de falha, o alvo fica **envenenado** pela duração da magia. Enquanto estiver envenenado dessa forma, o alvo deve realizar uma salvaguarda de Constituição ao final de cada um de seus turnos. Em caso de falha, ele sofre **2d4 de dano de veneno**. Em caso de sucesso, a magia termina para esse alvo.
+
+Uma magia **restauração menor** conjurada sobre o alvo encerra esta magia antecipadamente.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 2º nível ou superior, poderá escolher **uma criatura adicional** como alvo para cada nível do espaço acima do 1º.
+
+---
+
+## Infectar
+
+*Necromancia de 1º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** V, S, M (uma placa de Petri)
+**Duração:** Concentração, até 1 minuto
+
+Você aflige uma criatura que possa ver dentro do alcance com uma doença mágica.
+
+No início de cada um dos turnos do alvo, ele deve realizar uma **salvaguarda de Constituição**. A criatura sofre **1d12 de dano necrótico** em caso de falha, ou metade desse dano em caso de sucesso.
+
+Se o alvo obtiver sucesso em **três dessas salvaguardas**, a magia termina.
+
+Uma magia **restauração menor** conjurada sobre o alvo encerra esta magia antecipadamente.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 2º nível ou superior, o dano aumenta em **1d12 para cada dois níveis do espaço acima do 1º**.
+
+---
+
+## Fluxo de Consunção
+
+*Necromancia de 1º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** V, S
+**Duração:** Concentração, até 1 minuto
+
+Pela duração da magia, sua língua se transforma em um longo filamento de energia necrótica esverdeada, que você pode usar para drenar a vitalidade de outras criaturas.
+
+Uma criatura à sua escolha que você possa ver a até **18 metros** deve realizar uma **salvaguarda de Constituição**. Em caso de falha, o alvo recebe **1 nível de exaustão**, e você recupera uma quantidade de pontos de vida igual a **1d4 + seu modificador de habilidade de conjuração**.
+
+Em cada um de seus turnos até a magia terminar, você pode usar sua ação para escolher a mesma criatura ou uma criatura diferente como alvo. Entretanto, você não pode escolher novamente uma criatura que tenha sido bem-sucedida em uma salvaguarda contra esta conjuração de **fluxo de consunção**.
+
+---
+
+## Escudo Tóxico
+
+*Conjuração de 1º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** S, M (uma gota de sangue de anão)
+**Duração:** Concentração, até 1 minuto
+
+Pela duração da magia, você adquire **resistência a dano de veneno** e **vantagem em salvaguardas contra ficar envenenado**.
+
+Além disso, sempre que uma criatura a até **1,5 metro** de você o atingir com um ataque corpo a corpo, o escudo borrifa veneno sobre ela, causando **1d8 de dano de veneno** ao atacante.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, o dano de veneno aumenta em **1d8 para cada dois níveis do espaço acima do 1º**.
+
+# Magias de 2º Nível
+
+## Risco Biológico
+
+*Conjuração de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros (cubo de 4,5 metros)
+**Componentes:** V, S, M (uma raiz ressequida e uma gota de vinagre)
+**Duração:** 1 minuto
+
+Você recobre um cubo de **4,5 metros de lado** com lodo tóxico pela duração da magia. A área é **terreno difícil** e fica tomada por vapores perigosos.
+
+Uma criatura que entrar na área ou começar seu turno nela deve realizar uma **salvaguarda de Constituição**. Em caso de falha, a criatura sofre **1d8 de dano de veneno** e fica **envenenada até o início do próximo turno dela**.
+
+As criaturas são afetadas mesmo que prendam a respiração ou não precisem respirar.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 3º nível ou superior, o dano aumenta em **1d8** para cada nível do espaço acima do 2º.
+# Magias de 2º Nível
+
+## Aperto Cáustico
+
+*Evocação de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** S
+**Duração:** Concentração, até 1 minuto
+
+Pela duração da magia, sua mão secreta um ácido pegajoso e abrasador, que você pode usar para prender uma criatura em um aperto doloroso.
+
+Quando você conjura esta magia, e como uma ação em cada um de seus turnos até a magia terminar, você pode realizar um **ataque corpo a corpo com magia** contra uma criatura a até **1,5 metro** de você. Se atingir, você causa **4d4 de dano de ácido** ao alvo, e a criatura fica **restringida** em seu aperto ácido até o final do seu próximo turno.
+
+Você pode atacar o mesmo alvo a cada rodada ou escolher um novo alvo a qualquer momento. Se mudar de alvo, o alvo anterior deixa de ser afetado pela magia.
+
+Uma criatura restringida pelo seu aperto pode usar sua ação para realizar um **teste de Força** contra a **CD para evitar suas magias**. Em caso de sucesso, ela deixa de estar restringida.
+
+Sempre que uma criatura terminar seu turno restringida por esta magia, ela sofre **4d4 de dano de ácido adicionais**.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 3º nível ou superior, o dano aumenta em **2d4** para cada nível do espaço acima do 2º.
+
+---
+
+## Agarrão Fantasmagórico
+
+*Necromancia de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** S, M (um osso de dedo e um retalho de tecido)
+**Duração:** Instantânea
+
+Um enxame de mãos espectrais flutuantes surge e agarra um alvo que você possa ver dentro do alcance. O alvo deve realizar uma **salvaguarda de Força**.
+
+Em caso de falha, o alvo sofre **3d8 de dano necrótico**. Em caso de sucesso, sofre metade desse dano.
+
+Além disso, em caso de falha, as mãos fantasmagóricas deixam o alvo **agarrado até o final do seu próximo turno** e imediatamente o movem em até **9 metros em uma direção à sua escolha**, mas não para cima.
+
+Em seu turno, a criatura pode usar uma ação para tentar escapar do agarrão, realizando um **teste de Força ou Destreza**, à escolha dela, contra a **CD para evitar suas magias**. Em caso de sucesso, o agarrão termina.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 3º nível ou superior, o **agarrão fantasmagórico** pode ter como alvo **uma criatura adicional dentro do alcance** para cada nível do espaço acima do 2º.
+
+---
+
+## Revigorar
+
+*Abjuração de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 9 metros
+**Componentes:** S, M (uma seringa e uma amostra de sangue)
+**Duração:** 1 hora
+
+Escolha até três criaturas dentro do alcance. Cada alvo recebe **10 pontos de vida temporários**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de nível superior ao 2º, os pontos de vida temporários aumentam em **5** para cada nível do espaço acima do 2º.
+
+---
+
+## Necrose Ocular
+
+*Necromancia de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 9 metros
+**Componentes:** V, S
+**Duração:** Instantânea
+
+Faça um **ataque à distância com magia** contra uma criatura que você possa ver dentro do alcance. Se atingir, você aflige a criatura com uma toxina mortal que faz seus olhos sangrarem.
+
+A criatura sofre **2d6 de dano necrótico** e fica **cega até o final do seu próximo turno**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, o dano necrótico aumenta em **1d6** para cada nível do espaço acima do 2º.
+
+# Magias de 3º Nível
+
+## Explosão Corrosiva
+
+*Evocação de 3º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (cone de 9 metros)
+**Componentes:** V, S, M (um frasco de ácido)
+**Duração:** Instantânea
+
+Um jorro de substâncias químicas cáusticas irrompe de suas mãos. Cada criatura em um **cone de 9 metros** deve realizar uma **salvaguarda de Destreza**.
+
+Uma criatura sofre **10d4 de dano de ácido** em caso de falha, ou metade desse dano em caso de sucesso.
+
+O ácido destrói quaisquer objetos feitos de **materiais orgânicos** que estejam na área da magia.
+
+Uma criatura morta por esta magia tem sua carne completamente dissolvida, restando apenas um **esqueleto corroído**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano de ácido aumenta em **2d4** para cada nível do espaço acima do 3º.
+
+---
+
+## Lâmina Fétida
+
+*Evocação de 3º nível*
+
+**Tempo de Conjuração:** 1 ação bônus
+**Alcance:** Toque
+**Componentes:** V, S, M (uma gota de ácido e uma pitada de pó de ferro)
+**Duração:** Concentração, até 1 minuto
+
+Você recobre uma arma que toca com uma substância ácida. Até a magia terminar, os ataques realizados com essa arma causam **2d4 de dano de ácido adicionais** ao atingir.
+
+Se a arma ainda não for uma arma mágica, ela se torna **mágica pela duração da magia**.
+
+Além disso, uma criatura atingida por um ataque corpo a corpo realizado com essa arma deve realizar uma **salvaguarda de Constituição**. Em caso de falha, ela fica **envenenada até o final do próximo turno do atacante**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano de ácido aumenta em **1d4** para cada nível do espaço acima do 3º.
+# Magias de 2º Nível
+
+## Aperto Cáustico
+
+*Evocação de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal
+**Componentes:** S
+**Duração:** Concentração, até 1 minuto
+
+Pela duração da magia, sua mão secreta um ácido pegajoso e abrasador, que você pode usar para prender uma criatura em um aperto doloroso.
+
+Quando você conjura esta magia, e como uma ação em cada um de seus turnos até a magia terminar, você pode realizar um **ataque corpo a corpo com magia** contra uma criatura a até **1,5 metro** de você. Se atingir, você causa **4d4 de dano de ácido** ao alvo, e a criatura fica **restringida** em seu aperto ácido até o final do seu próximo turno.
+
+Você pode atacar o mesmo alvo a cada rodada ou escolher um novo alvo a qualquer momento. Se mudar de alvo, o alvo anterior deixa de ser afetado pela magia.
+
+Uma criatura restringida pelo seu aperto pode usar sua ação para realizar um **teste de Força** contra a **CD para evitar suas magias**. Em caso de sucesso, ela deixa de estar restringida.
+
+Sempre que uma criatura terminar seu turno restringida por esta magia, ela sofre **4d4 de dano de ácido adicionais**.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 3º nível ou superior, o dano aumenta em **2d4** para cada nível do espaço acima do 2º.
+
+---
+
+## Agarrão Fantasmagórico
+
+*Necromancia de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** S, M (um osso de dedo e um retalho de tecido)
+**Duração:** Instantânea
+
+Um enxame de mãos espectrais flutuantes surge e agarra um alvo que você possa ver dentro do alcance. O alvo deve realizar uma **salvaguarda de Força**.
+
+Em caso de falha, o alvo sofre **3d8 de dano necrótico**. Em caso de sucesso, sofre metade desse dano.
+
+Além disso, em caso de falha, as mãos fantasmagóricas deixam o alvo **agarrado até o final do seu próximo turno** e imediatamente o movem em até **9 metros em uma direção à sua escolha**, mas não para cima.
+
+Em seu turno, a criatura pode usar uma ação para tentar escapar do agarrão, realizando um **teste de Força ou Destreza**, à escolha dela, contra a **CD para evitar suas magias**. Em caso de sucesso, o agarrão termina.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 3º nível ou superior, o **agarrão fantasmagórico** pode ter como alvo **uma criatura adicional dentro do alcance** para cada nível do espaço acima do 2º.
+
+---
+
+## Revigorar
+
+*Abjuração de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 9 metros
+**Componentes:** S, M (uma seringa e uma amostra de sangue)
+**Duração:** 1 hora
+
+Escolha até três criaturas dentro do alcance. Cada alvo recebe **10 pontos de vida temporários**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de nível superior ao 2º, os pontos de vida temporários aumentam em **5** para cada nível do espaço acima do 2º.
+
+---
+
+## Necrose Ocular
+
+*Necromancia de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 9 metros
+**Componentes:** V, S
+**Duração:** Instantânea
+
+Faça um **ataque à distância com magia** contra uma criatura que você possa ver dentro do alcance. Se atingir, você aflige a criatura com uma toxina mortal que faz seus olhos sangrarem.
+
+A criatura sofre **2d6 de dano necrótico** e fica **cega até o final do seu próximo turno**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, o dano necrótico aumenta em **1d6** para cada nível do espaço acima do 2º.
+
+# Magias de 3º Nível
+
+## Explosão Corrosiva
+
+*Evocação de 3º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (cone de 9 metros)
+**Componentes:** V, S, M (um frasco de ácido)
+**Duração:** Instantânea
+
+Um jorro de substâncias químicas cáusticas irrompe de suas mãos. Cada criatura em um **cone de 9 metros** deve realizar uma **salvaguarda de Destreza**.
+
+Uma criatura sofre **10d4 de dano de ácido** em caso de falha, ou metade desse dano em caso de sucesso.
+
+O ácido destrói quaisquer objetos feitos de **materiais orgânicos** que estejam na área da magia.
+
+Uma criatura morta por esta magia tem sua carne completamente dissolvida, restando apenas um **esqueleto corroído**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano de ácido aumenta em **2d4** para cada nível do espaço acima do 3º.
+
+---
+
+## Lâmina Fétida
+
+*Evocação de 3º nível*
+
+**Tempo de Conjuração:** 1 ação bônus
+**Alcance:** Toque
+**Componentes:** V, S, M (uma gota de ácido e uma pitada de pó de ferro)
+**Duração:** Concentração, até 1 minuto
+
+Você recobre uma arma que toca com uma substância ácida. Até a magia terminar, os ataques realizados com essa arma causam **2d4 de dano de ácido adicionais** ao atingir.
+
+Se a arma ainda não for uma arma mágica, ela se torna **mágica pela duração da magia**.
+
+Além disso, uma criatura atingida por um ataque corpo a corpo realizado com essa arma deve realizar uma **salvaguarda de Constituição**. Em caso de falha, ela fica **envenenada até o final do próximo turno do atacante**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano de ácido aumenta em **1d4** para cada nível do espaço acima do 3º.
+# Magias de 4º Nível
+
+## Esporos Corruptores
+
+*Necromancia de 4º nível*
+
+**Tempo de Conjuração:** 1 ação bônus
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um cogumelo seco)
+**Duração:** Concentração, até 1 minuto
+
+Um pequeno agrupamento de **três cogumelos venenosos** brota magicamente em um espaço de **1,5 metro de lado** que você possa ver dentro do alcance.
+
+Os cogumelos liberam esporos tóxicos, e qualquer criatura que começar seu turno a até **3 metros** do agrupamento deve realizar uma **salvaguarda de Constituição**.
+
+Em caso de falha, a criatura sofre **1d8 de dano de veneno para cada cogumelo presente no agrupamento** e fica **envenenada até o início do próximo turno dela**.
+
+Até a magia terminar, você pode usar uma **ação bônus** em seu turno para fazer um cogumelo adicional brotar no agrupamento.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, **um cogumelo adicional** brota no agrupamento inicial para cada nível do espaço acima do 4º.
+
+---
+
+## Últimos Ritos
+
+*Abjuração de 4º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um pequeno pedaço de latão, uma pétala de rosa e uma gota de água benta)
+**Duração:** Instantânea
+
+Você atinge uma criatura que possa ver dentro do alcance com um feixe de luz sagrada que desce sobre ela.
+
+O alvo deve realizar uma **salvaguarda de Sabedoria**. Em caso de falha, sofre **8d8 de dano radiante**, ou metade desse dano em caso de sucesso.
+
+Esta magia não surte efeito sobre **celestiais ou constructos**.
+
+Se você escolher um **morto-vivo ou corruptor** como alvo, ele realiza a salvaguarda com **desvantagem**, e a magia causa **dano máximo** contra ele.
+
+Se um morto-vivo ou corruptor for reduzido a **0 pontos de vida** por esta magia, ele morre e seu corpo é reduzido a cinzas.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, você pode escolher **uma criatura adicional** como alvo, desde que os alvos estejam a até **9 metros uns dos outros**, para cada nível do espaço acima do 5º.
+
+---
+
+## Onda Venenosa
+
+*Conjuração de 4º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (esfera de 9 metros de raio)
+**Componentes:** V, S, M (uma raiz ressequida e uma gota de vinagre)
+**Duração:** Instantânea
+
+Uma onda de vapores venenosos emana de você.
+
+As criaturas a até **9 metros de você** devem realizar uma **salvaguarda de Constituição**.
+
+Em caso de falha, cada criatura sofre **4d12 de dano de veneno** e fica **envenenada até o final do seu próximo turno**.
+
+Em caso de sucesso, a criatura sofre metade desse dano e não fica envenenada.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 5º nível ou superior, o dano aumenta em **1d12** para cada nível do espaço acima do 4º.
+
+---
+
+## Convocar a Coisa da Cauda Contorcida
+
+*Conjuração de 4º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 27 metros
+**Componentes:** V, S, M (um tufo de pelo de gato e um rato morto)
+**Duração:** Concentração, até 1 hora
+
+Você convoca **a Coisa da Cauda Contorcida**. Ela se manifesta em um espaço desocupado que você possa ver dentro do alcance.
+
+Essa forma corpórea utiliza o **bloco de estatísticas apresentado abaixo**. A criatura desaparece quando é reduzida a **0 pontos de vida** ou quando a magia termina.
+
+A criatura é uma **aliada sua e de seus companheiros**.
+
+Em combate, a criatura compartilha sua **contagem de iniciativa**, mas realiza seu turno imediatamente após o seu.
+
+Ela obedece aos seus **comandos verbais**, sem exigir qualquer ação de sua parte. Caso você não dê nenhum comando, ela realiza a ação **Esquivar** e utiliza seu deslocamento para evitar o perigo.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, utilize o nível mais alto sempre que o **nível da magia** aparecer no bloco de estatísticas da criatura.
+# Convocar a Coisa da Cauda Contorcida
+
+Esta magia sobrenatural convoca uma manifestação da **Coisa da Cauda Contorcida**, uma entidade misteriosa de forma vagamente felina que habita o **Espaço Entre Mundos**.
+
+Talvez ela seja o gato favorito de **Phantasia**, ou um fragmento de **Shegorach**, mas, para outros, ela é simplesmente conhecida pelo estranho nome de **“Bruce”**.
+
+## A Coisa da Cauda Contorcida
+
+*Aberração Média, imparcial*
+
+**Classe de Armadura:** 12 + o nível da magia
+**Pontos de Vida:** 50 + 10 para cada nível da magia acima do 4º
+**Deslocamento:** 12 m, escalada 9 m
+
+| FOR     | DES     | CON     | INT     | SAB     | CAR     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 13 (+1) | 19 (+4) | 12 (+1) | 19 (+4) | 15 (+2) | 19 (+4) |
+
+**Imunidades a Dano:** psíquico
+**Imunidades a Condição:** amedrontado, enfeitiçado
+**Sentidos:** visão no escuro 36 m, Percepção passiva 12
+**Idiomas:** Dialeto Subterrâneo, telepatia 36 m
+**Nível de Desafio:** —
+**Bônus de Proficiência:** igual ao seu bônus de proficiência
+
+### Visão Etérea
+
+A coisa enxerga criaturas invisíveis e pode ver o **Plano Etéreo**.
+
+### Ações
+
+**Ataques Múltiplos.** A coisa realiza uma quantidade de ataques de **Garra** igual à metade do nível desta magia, arredondada para baixo.
+
+**Garra.** *Ataque Corpo a Corpo com Arma:* seu modificador de ataque com magia para atingir, alcance 1,5 m, um alvo.
+**Acerto:** **1d6 + o nível da magia + 4 de dano cortante**, mais **2d6 de dano de frio**.
+
+**Sibilo Sobrenatural.** A coisa sussurra uma verdade terrível para uma criatura que possa ver a até 1,5 metro dela. O alvo deve realizar uma **salvaguarda de Sabedoria**.
+
+Em caso de falha, o alvo sofre **4d6 de dano psíquico** e deve usar imediatamente sua **reação**, caso esteja disponível, para se afastar da coisa o máximo que seu deslocamento permitir.
+
+A criatura não se move para um local obviamente perigoso, como uma fogueira ou um fosso.
+
+**Tentáculo Mental.** A coisa ataca psiquicamente uma criatura que possa ver a até 1,5 metro dela. O alvo deve realizar uma **salvaguarda de Inteligência**.
+
+Em caso de falha, o alvo sofre **4d6 de dano psíquico** e não pode realizar reações até o final do próximo turno dele.
+
+Além disso, em seu próximo turno, ele deve escolher entre **se mover, realizar uma ação ou realizar uma ação bônus**. Ele pode fazer apenas uma dessas três coisas.
+
+---
+
+# Magias de 4º Nível
+
+## Ícor Vitríolico
+
+*Transmutação de 4º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 9 metros
+**Componentes:** V, S, M (um frasco de ácido nítrico e um recipiente com água)
+**Duração:** Concentração, até 1 minuto
+
+Escolha uma criatura dentro do alcance que possua **armadura natural** ou esteja **vestindo uma armadura**.
+
+Você faz magicamente com que a armadura natural ou manufaturada da criatura fique **corroída e quebradiça** pela duração da magia.
+
+Enquanto sua armadura estiver corroída, a **CA da criatura se torna 10 + o modificador de Destreza dela**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, pode escolher **uma criatura adicional** como alvo para cada nível do espaço acima do 4º.
+
+---
+
+# Magias de 5º Nível
+
+## Chuva Ácida
+
+*Conjuração de 5º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 45 metros
+**Componentes:** V, S, M (uma pitada de enxofre e carvão moído)
+**Duração:** Concentração, até 1 minuto
+
+Até a magia terminar, uma chuva ácida cai em um **cilindro de 12 metros de altura e 12 metros de raio**, centrado em um ponto à sua escolha dentro do alcance.
+
+A área fica **levemente obscurecida**, e chamas expostas dentro dela são apagadas.
+
+Poças de substâncias químicas se acumulam no chão da área, tornando-a **terreno difícil**.
+
+Quando uma criatura entra na área da magia pela primeira vez em um turno ou começa seu turno nela, sofre **3d6 de dano de ácido** e deve realizar uma **salvaguarda de Destreza**.
+
+Em caso de falha, ela cai **caída** nas poças e sofre **3d6 de dano de ácido adicionais**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 6º nível ou superior, o dano de ácido aumenta em **1d6** para cada nível do espaço acima do 5º.
+
+---
+
+## Gás Neurotóxico
+
+*Necromancia de 5º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (amostras de fosfato e cloro misturadas com uma gota de álcool puro)
+**Duração:** Concentração, até 10 minutos
+
+Você cria uma esfera de névoa tóxica com **3 metros de raio**, centrada em um ponto à sua escolha dentro do alcance.
+
+A névoa se espalha contornando esquinas. Ela permanece pela duração da magia ou até que um **vento forte** a disperse, encerrando a magia.
+
+A área da névoa fica **densamente obscurecida**.
+
+Quando uma criatura entra na área da magia pela primeira vez em um turno ou começa seu turno nela, deve realizar uma **salvaguarda de Inteligência**.
+
+Em caso de falha, a criatura sofre **3d6 de dano psíquico** e fica **atordoada até o início do próximo turno dela**.
+
+Em caso de sucesso, a criatura sofre metade desse dano e não fica atordoada.
+
+As criaturas são afetadas mesmo que prendam a respiração ou não precisem respirar.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 6º nível ou superior, o dano psíquico aumenta em **1d6** para cada nível do espaço acima do 5º.
+# Magias de 5º Nível
+
+## Campo Neutralizante
+
+*Abjuração de 5º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (esfera de 3 metros de raio)
+**Componentes:** V, S, M (um cristal de Delerium ou uma relíquia sagrada no valor de 1.000 PO)
+**Duração:** Concentração, até 1 hora
+
+Você neutraliza energias mágicas contaminadas em uma **esfera de 3 metros de raio**.
+
+Até a magia terminar, a esfera se move com você, permanecendo centrada em você.
+
+As criaturas dentro da esfera, incluindo você, **não podem receber Níveis de Contaminação** e possuem **resistência a dano necrótico**.
+
+Criaturas na área não podem conjurar **magias contaminadas**.
+
+**Pesquisando a Magia.** Um personagem capaz de conjurar magias de 5º nível, que conheça a magia **purgar contaminação** e tenha criado pelo menos **1 dose de aqua expurgo**, pode pesquisar **campo neutralizante**.
+
+---
+
+## Choque Séptico
+
+*Necromancia de 5º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 45 metros
+**Componentes:** V, S, M (um pedaço de fígado apodrecido)
+**Duração:** Instantânea
+
+Escolha uma criatura que você possa ver dentro do alcance e que **não esteja com todos os seus pontos de vida**. Você infecta os ferimentos do alvo com bactérias putrefativas.
+
+O alvo deve realizar uma **salvaguarda de Constituição**. Se ele estiver com **menos da metade de seus pontos de vida máximos**, realiza a salvaguarda com **desvantagem**.
+
+Em caso de falha, o alvo sofre **10d8 de dano necrótico** e recebe **1 nível de exaustão**.
+
+Em caso de sucesso, sofre metade desse dano e não recebe nenhum nível de exaustão.
+
+---
+
+## Barragem Tóxica
+
+*Conjuração de 5º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (quatro cogumelos chapéu-da-morte)
+**Duração:** Instantânea
+
+Você cria **quatro raios de puro veneno** e os arremessa contra alvos dentro do alcance. Você pode lançá-los contra um único alvo ou contra vários.
+
+Faça um **ataque à distância com magia** para cada raio.
+
+Se atingir, o alvo sofre **3d6 de dano de veneno**.
+
+Se um alvo for atingido por um ou mais desses raios, ele deve realizar uma **salvaguarda de Constituição**. Em caso de falha, fica **envenenado por 1 minuto**.
+
+Enquanto estiver envenenado dessa forma, o alvo pode repetir a salvaguarda ao final de cada um de seus turnos. Em caso de sucesso, deixa de estar envenenado.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 6º nível ou superior, cria **um raio adicional** para cada nível do espaço acima do 5º.
+
+# Magias de 6º Nível
+
+## Vapores Mefíticos
+
+*Conjuração de 6º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um frasco de cloro)
+**Duração:** Concentração, até 10 minutos
+
+Você cobre uma área de **6 metros de raio**, centrada em um ponto que possa ver dentro do alcance, com um lodo cáustico que permanece pela duração da magia.
+
+A área se torna **terreno difícil**, e qualquer criatura inteiramente dentro dela fica **cega** e **não pode realizar reações**.
+
+Uma criatura que começar seu turno na área deve ser bem-sucedida em uma **salvaguarda de Constituição** ou sofre **2d8 de dano de veneno e 2d8 de dano de ácido**, além de receber **1 nível de exaustão**.
+
+**Em Níveis Superiores.** Se você conjurar esta magia usando um espaço de magia de 7º nível ou superior, o dano aumenta em **1d8 de dano de veneno e 1d8 de dano de ácido** para cada nível do espaço acima do 6º.
+
+---
+
+## Necrose Vil
+
+*Necromancia de 6º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um frasco de sangue coagulado)
+**Duração:** Instantânea
+
+Você aponta o dedo para uma criatura dentro do alcance, projetando contra ela um feixe verde-pálido de energia debilitante.
+
+Faça um **ataque à distância com magia** contra o alvo.
+
+Se atingir, o alvo sofre **12d6 de dano necrótico** e fica **enfraquecido**.
+
+Enquanto estiver enfraquecido por esta magia, o alvo causa **metade do dano com ataques com arma e magias**.
+
+Um alvo enfraquecido pode realizar uma **salvaguarda de Constituição** ao final de cada um de seus turnos. Em caso de sucesso, o enfraquecimento termina.
+
+# Magias de 7º Nível
+
+## Imunidade à Contaminação
+
+*Abjuração de 7º nível*
+
+**Tempo de Conjuração:** 1 minuto
+**Alcance:** Toque
+**Componentes:** V, S, M (um lírio sobrenatural misturado a 250 PO em fluidos purificados para cada alvo, que a magia consome)
+**Duração:** 24 horas
+
+Até a magia terminar, uma criatura voluntária que você tocar fica **imune a dano necrótico** e **não pode receber Níveis de Contaminação**.
+
+A criatura afetada pode **descansar normalmente dentro da Bruma**.
+
+Esta magia termina imediatamente se a criatura conjurar uma **magia contaminada**.
+
+**Pesquisando a Magia.** Um personagem capaz de conjurar magias de 7º nível, que conheça a magia **campo neutralizante** e tenha visitado o **Coração de Delerium**, pode pesquisar **imunidade à contaminação**.
+# Magias de 7º Nível
+
+## Ferimentos Graves
+
+*Necromancia de 7º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (uma agulha e vários pontos de sutura)
+**Duração:** Instantânea
+
+Escolha uma criatura que você possa ver dentro do alcance. Você remove momentaneamente toda a resiliência da fisiologia do alvo, fazendo com que até mesmo um simples arranhão possa se transformar em um ferimento terrível.
+
+Até o final do seu próximo turno, o alvo:
+
+* perde quaisquer **resistências ou imunidades a dano**;
+* fica **vulnerável a todos os tipos de dano**; e
+* realiza todas as suas **salvaguardas com desvantagem**.
+
+---
+
+## Miasma
+
+*Evocação de 7º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um lírio-cadáver recém-colhido)
+**Duração:** Concentração, até 1 minuto
+
+Você cria uma parede de vapores tóxicos, de coloração verde-amarelada e aspecto doentio, sobre uma superfície sólida dentro do alcance.
+
+Você pode criar uma parede com até **18 metros de comprimento, 6 metros de altura e 30 centímetros de espessura**, ou uma parede em forma de anel com até **6 metros de diâmetro, 6 metros de altura e 30 centímetros de espessura**.
+
+A parede é **opaca** e permanece pela duração da magia.
+
+Quando a parede surge, cada criatura dentro de sua área deve realizar uma **salvaguarda de Destreza**. Em caso de falha, a criatura sofre **10d4 de dano de ácido**, ou metade desse dano em caso de sucesso.
+
+Um dos lados da parede, escolhido por você ao conjurar esta magia, emite vapores tóxicos. Cada criatura que terminar seu turno a até **9 metros desse lado** ou dentro da própria parede sofre **8d8 de dano de veneno**.
+
+Uma criatura sofre o mesmo dano quando entra na parede pela primeira vez em um turno.
+
+O outro lado da parede não causa dano.
+
+Uma criatura que sofrer dano de veneno causado pela parede deve realizar uma **salvaguarda de Constituição**. Em caso de falha, fica **envenenada pela duração da magia**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 8º nível ou superior, o dano aumenta em **2d8** para cada nível do espaço acima do 7º.
+
+# Magias de 8º Nível
+
+## Sopro de Beladona
+
+*Conjuração de 8º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (cone de 18 metros)
+**Componentes:** V, S, M (um par de flores de beladona mortal)
+**Duração:** Instantânea
+
+Você exala um **cone de 18 metros de veneno letal**.
+
+Cada criatura na área quando você conjura a magia deve realizar uma **salvaguarda de Constituição**.
+
+Em caso de falha, a criatura fica **envenenada por 1 hora**.
+
+Enquanto estiver envenenada por esta magia, a criatura fica **paralisada**.
+
+A magia termina para uma criatura afetada caso ela sofra qualquer dano.
+
+---
+
+## Vento da Peste
+
+*Conjuração de 8º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (cone de 36 metros)
+**Componentes:** V, S, M (muco de um carniçal)
+**Duração:** Instantânea
+
+Você convoca um vento revolto carregado por uma doença devoradora de carne e vapores agonizantes que fazem o sangue ferver. O vento emana de você em um **cone de 36 metros**, varrendo toda a área.
+
+As criaturas na área devem realizar uma **salvaguarda de Constituição**.
+
+Em caso de falha, uma criatura sofre **5d8 de dano de veneno e 5d8 de dano necrótico**, ou metade desse dano em caso de sucesso.
+
+Após sofrer esse dano, qualquer criatura afetada que tenha **25 pontos de vida ou menos restantes morre imediatamente** e é reduzida a um **esqueleto ressequido**, à medida que sua carne e tecidos moles são arrancados de seu corpo como cinzas levadas pelo vento.
+
+# Magias de 9º Nível
+
+## Pandemia
+
+*Conjuração de 9º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** V, S, M (o cadáver fétido de um rato infectado pela peste)
+**Duração:** Instantânea
+
+Você infecta uma criatura que possa ver dentro do alcance com uma doença mortal e altamente contagiosa, que permanece até ser curada por **restauração maior**, **cura** ou **desejo**.
+
+Outras magias e efeitos mágicos capazes de remover doenças **não conseguem curar a infecção causada por esta magia**.
+
+Enquanto estiver infectada, uma criatura deve realizar uma **salvaguarda de Constituição no início de cada um de seus turnos**.
+
+Em caso de falha, ela sofre **10d8 de dano necrótico** e fica **incapacitada até o início do próximo turno dela**.
+
+Em caso de sucesso, sofre metade desse dano e não fica incapacitada.
+
+Uma criatura infectada deve continuar realizando essa salvaguarda no início de cada um de seus turnos até **morrer ou ser curada**.
+
+Uma criatura que começar seu turno a até **3 metros de uma criatura infectada por esta magia** deve realizar uma **salvaguarda de Constituição**. Em caso de falha, essa criatura também contrai a infecção.
+
+Quando você conjura a magia, pode escolher **você e até outras oito criaturas** para não serem afetados pela infecção causada por esta conjuração da magia.
+
+---
+
+## Toque da Morte
+
+*Necromancia de 9º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Toque
+**Componentes:** V, S, M (o dedo de uma bruxa)
+**Duração:** Instantânea
+
+Faça um **ataque corpo a corpo com magia** contra um alvo a até **1,5 metro** de você.
+
+Se atingir, o alvo sofre **200 de dano de veneno**.
+
+Esse dano **ignora qualquer resistência ou imunidade a dano de veneno** que a criatura possua e **não pode ser reduzido ou impedido de nenhuma forma**.
+
+O potente veneno permanece no corpo do alvo, arrastando-o cada vez mais para a morte.
+
+Um alvo reduzido a **0 pontos de vida** por esse dano de veneno **falha automaticamente em suas salvaguardas contra a morte** até terminar um descanso longo.
+
+Uma magia **cura** ou **restauração maior** conjurada sobre o alvo também encerra esse efeito.
+# Magias Contaminadas
+
+Estas magias são apresentadas em ordem alfabética por nível de magia.
+
+# Magias de 1º Nível
+
+## Fragmentos de Cometa
+
+*Evocação contaminada de 1º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 10 PO, que a magia consome)
+**Duração:** Instantânea
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você estilhaça o fragmento de Delerium em sua mão, transformando-o em **três partículas brilhantes, semelhantes a cometas, feitas de força mágica**, que são arremessadas contra seus inimigos.
+
+Cada cometa atinge uma criatura à sua escolha que você possa ver dentro do alcance. Um cometa causa **2d4 + seu modificador de habilidade de conjuração de dano de força** ao alvo e o **empurra 3 metros para longe de você**.
+
+Todos os cometas atingem simultaneamente, e você pode direcioná-los contra uma única criatura ou contra várias.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, a magia cria **um cometa adicional** para cada nível do espaço acima do 1º.
+
+---
+
+## Cura Corrompida
+
+*Evocação contaminada de 1º nível*
+
+**Tempo de Conjuração:** 1 ação bônus
+**Alcance:** 27 metros
+**Componentes:** V, M (um fragmento de Delerium no valor de 10 PO)
+**Duração:** Instantânea
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Uma criatura à sua escolha que você possa ver dentro do alcance recupera uma quantidade de pontos de vida igual a **4d6 + seu modificador de habilidade de conjuração**.
+
+Esta magia não surte efeito sobre **mortos-vivos ou constructos**.
+
+Quando você conjura esta magia, o alvo pode escolher também receber **1 Nível de Contaminação**. Caso faça isso, ele recupera, em vez disso, uma quantidade de pontos de vida igual a **8d6 + seu modificador de habilidade de conjuração**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, a quantidade de pontos de vida recuperados aumenta em **2d6** para cada nível do espaço acima do 1º, ou em **4d6** por nível se o alvo escolher receber 1 Nível de Contaminação.
+
+# Magias de 2º Nível
+
+## Mutação Controlada
+
+*Transmutação contaminada de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 9 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO)
+**Duração:** Concentração, até 1 hora
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você manipula energia contaminada para conceder temporariamente a uma criatura dentro do alcance uma **mutação benéfica**.
+
+Escolha um dos efeitos apresentados a seguir. O alvo recebe esse efeito até a magia terminar.
+## Mutação Controlada
+
+*Transmutação contaminada de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 9 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO)
+**Duração:** Concentração, até 1 hora
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você manipula energia contaminada para conceder temporariamente a uma criatura dentro do alcance uma **mutação benéfica**.
+
+Escolha um dos efeitos a seguir. O alvo recebe esse efeito até a magia terminar.
+
+**Força.** O alvo tem **vantagem em jogadas de ataque de Força, testes de habilidade de Força e salvaguardas de Força**.
+
+O alvo pode escolher receber **1 Nível de Contaminação**. Caso faça isso, seus ataques corpo a corpo com arma causam **2d6 de dano necrótico adicionais** pela duração da magia.
+
+**Constituição.** O alvo tem **vantagem em testes de habilidade de Constituição e salvaguardas de Constituição**.
+
+O alvo pode escolher receber **1 Nível de Contaminação**. Caso faça isso, adquire **resistência a dano contundente, perfurante e cortante** pela duração da magia.
+
+**Destreza.** O alvo tem **vantagem em jogadas de ataque de Destreza, testes de habilidade de Destreza e salvaguardas de Destreza**.
+
+O alvo pode escolher receber **1 Nível de Contaminação**. Caso faça isso, seus ataques com **armas à distância e armas com acuidade** obtêm um acerto crítico com uma jogada de **18–20** pela duração da magia.
+
+**Inteligência.** O alvo tem **vantagem em testes de habilidade de Inteligência e salvaguardas de Inteligência**, assim como em **jogadas de ataque com magia**.
+
+O alvo também pode escolher receber **1 Nível de Contaminação**. Caso faça isso, pela duração desta magia, enquanto estiver se concentrando em uma magia que tenha conjurado, sua **concentração não pode ser interrompida como resultado de sofrer dano**.
+
+**Sabedoria.** O alvo tem **vantagem em testes de habilidade de Sabedoria e salvaguardas de Sabedoria**, assim como em **jogadas de ataque com magia**.
+
+O alvo também pode escolher receber **1 Nível de Contaminação**. Caso faça isso, pela duração desta magia, adquire **visão às cegas com alcance de 18 metros** e não pode ser **surpreendido enquanto estiver consciente**.
+
+**Carisma.** O alvo tem **vantagem em testes de habilidade de Carisma e salvaguardas de Carisma**, assim como em **jogadas de ataque com magia**.
+
+Além disso, o alvo pode escolher receber **1 Nível de Contaminação**. Caso faça isso, pela duração desta magia, quando realizar um teste de **Carisma (Persuasão)** ou **Carisma (Enganação)**, pode tratar uma jogada de **9 ou menos no d20 como 10**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, pode escolher **um efeito adicional para cada dois níveis do espaço acima do 2º**.
+
+# Magias de 3º Nível
+
+## Desvanecer para o Espaço Entre Mundos
+
+*Abjuração contaminada de 3º nível*
+
+**Tempo de Conjuração:** 1 reação, realizada quando você sofre dano
+**Alcance:** Pessoal
+**Componentes:** S, M (um fragmento de Delerium no valor de 10 PO)
+**Duração:** 1 rodada
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Ao conjurar esta magia, você desaparece de seu plano de existência atual e surge no **Espaço Entre Mundos**, evitando o dano que desencadeou a reação.
+
+No início do seu próximo turno, você retorna em um espaço desocupado à sua escolha a até **9 metros do espaço de onde desapareceu**.
+
+Se não houver nenhum espaço desocupado disponível dentro desse alcance, você aparece no espaço desocupado mais próximo. Caso mais de um espaço esteja igualmente próximo, o espaço é escolhido aleatoriamente.
+
+Enquanto estiver no **Espaço Entre Mundos**, você pode ver e ouvir o plano de onde veio, embora ele apareça como um **borrão turbulento**, e você não consegue enxergar nada nele que esteja a mais de **18 metros** de distância.
+
+Você só pode afetar e ser afetado por outras criaturas que estejam no **Espaço Entre Mundos**.
+
+Criaturas que não estejam lá não podem perceber nem interagir com você, a menos que possuam uma habilidade que especificamente permita fazê-lo.
+
+---
+
+## Tecer o Sinal Ancião
+
+*Ilusão contaminada de 3º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** S, M (um fragmento de Delerium no valor de 10 PO, que a magia consome)
+**Duração:** Concentração, até 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você tece no ar um **símbolo impossível proveniente de uma realidade inescrutável**, dentro de um cubo de **9 metros de lado** dentro do alcance.
+
+O sinal aparece apenas por um instante antes de desaparecer.
+
+Cada criatura na área que vir o sinal deve realizar uma **salvaguarda de Inteligência**.
+
+Em caso de falha, a criatura fica **cega e atordoada pela duração da magia**.
+
+Em caso de sucesso, a criatura fica **cega até o final do seu próximo turno**.
+
+A magia termina para uma criatura atordoada se ela sofrer qualquer dano ou se outra criatura usar uma ação para **sacudi-la e tirá-la de seu estupor**.
+
+Quando a magia termina para uma criatura que estava atordoada, ela sofre **3d6 de dano psíquico**.
+
+# Magias de 4º Nível
+
+## Transformação Horrenda
+
+*Transmutação contaminada de 4º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Toque
+**Componentes:** V, S, M (veja a descrição)
+**Duração:** Concentração, até 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Esta magia transforma uma criatura voluntária que você tocar em uma **monstruosidade horrenda**.
+
+A magia não surte efeito sobre um **metamorfo** ou uma criatura com **0 pontos de vida**.
+
+A transformação permanece pela duração da magia ou até que o alvo seja reduzido a **0 pontos de vida** ou morra.
+
+A nova forma pode ser uma **aberração de Nível de Desafio 4 ou inferior**.
+
+As estatísticas de jogo do alvo, incluindo seus **valores de habilidades mentais**, são substituídas pelas estatísticas da aberração escolhida. O alvo mantém sua **tendência e personalidade**.
+
+O alvo assume os pontos de vida de sua nova forma. Quando retorna à forma normal, a criatura volta a ter a quantidade de pontos de vida que possuía antes de se transformar.
+
+Se retornar à forma normal como resultado de ter sido reduzida a 0 pontos de vida, qualquer **dano excedente** é transferido para sua forma normal. Desde que esse dano excedente não reduza a forma normal da criatura a 0 pontos de vida, ela **não fica inconsciente**.
+
+As ações que a criatura pode realizar ficam limitadas pela natureza de sua nova forma. Ela não pode **falar, conjurar magias ou realizar qualquer outra ação que exija mãos ou fala**.
+
+O equipamento do alvo se funde à nova forma. A criatura não pode **ativar, usar, empunhar ou obter qualquer outro benefício de seu equipamento**.
+
+Além de um **fragmento de Delerium no valor de 100 PO**, você deve fornecer o **coração ou cérebro** — ou um órgão equivalente, no caso de aberrações com uma fisiologia verdadeiramente alienígena — retirado de uma criatura da **mesma espécie da forma desejada**.
+
+O órgão deve ter sido **extraído recentemente** ou estar magicamente preservado por meio da magia **repouso tranquilo** ou magia semelhante.
+
+Como parte da conjuração, você crava o fragmento de Delerium no órgão. **Tanto o fragmento quanto o órgão são consumidos pela magia.**
+
+O Mestre determina se a fisiologia de uma aberração torna seus órgãos adequados para uso com esta magia.
+# Magias de 4º Nível
+
+## Sifonar o Tempo
+
+*Transmutação contaminada de 4º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um relógio quebrado e um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Concentração, até 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você se apodera do fluxo do tempo ao redor de até **três criaturas à sua escolha** dentro do alcance, roubando segundos delas para utilizá-los em benefício próprio.
+
+Cada alvo deve ser bem-sucedido em uma **salvaguarda de Sabedoria** ou ficará afetado por esta magia pela duração.
+
+Um alvo afetado **não pode realizar reações**. Em seu turno, ele deve escolher entre **se mover, realizar uma ação ou realizar uma ação bônus**; ele pode fazer apenas uma dessas três coisas.
+
+Uma criatura afetada por esta magia pode usar sua ação para tentar recuperar os fios do tempo. Se fizer isso, pode realizar outra salvaguarda de Sabedoria. Em caso de sucesso, o efeito termina para ela.
+
+Enquanto pelo menos **uma outra criatura** estiver afetada por esta magia, você recebe **uma ação adicional em cada um de seus turnos**.
+
+Essa ação pode ser usada apenas para realizar uma das seguintes ações:
+
+* **Atacar** (apenas um ataque com arma);
+* **Conjurar uma Magia**;
+* **Disparada**;
+* **Desengajar**;
+* **Esconder-se**; ou
+* **Usar um Objeto**.
+
+Se você usar essa ação para conjurar uma magia, ela deve ser um **truque com tempo de conjuração de 1 ação**.
+
+---
+
+## Convocar Elemental de Delerium
+
+*Conjuração contaminada de 4º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 27 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Concentração, até 1 hora
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você convoca um elemental contaminado para cumprir suas ordens.
+
+Escolha **ar, terra, fogo ou água**. Energia sobrenatural conjura um elemental contaminado do tipo escolhido, que surge em um espaço desocupado dentro do alcance:
+
+* **Lodo Animado** — água;
+* **Chama Entrópica** — fogo;
+* **Bruma Viva** — ar;
+* **Geodo Ambulante** — terra.
+
+Cada forma utiliza o bloco de estatísticas de **Elemental de Delerium** apresentado abaixo, mas recebe características diferentes conforme o elemento escolhido para conjurá-la.
+
+O elemental desaparece quando é reduzido a **0 pontos de vida** ou quando a magia termina.
+
+Pela duração da magia, o elemental é **amistoso com você e seus companheiros**.
+
+Em combate, a criatura compartilha sua **contagem de iniciativa**, mas realiza seu turno imediatamente após o seu.
+
+Ela obedece a qualquer **comando verbal** que você der, sem exigir qualquer ação de sua parte. Caso você não dê nenhum comando, ela ataca a criatura hostil mais próxima que possa ver, movendo-se em direção a ela pela rota mais direta.
+
+O elemental **não desaparece caso você perca a concentração nesta magia**. Em vez disso, você perde o controle sobre ele, e o elemental se torna **hostil a você e aos seus companheiros**, passando a atacá-los.
+
+Você não pode dispensar um elemental fora de controle, e ele permanece até ser destruído.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, utilize o nível mais alto sempre que o **nível da magia** aparecer no bloco de estatísticas.
+
+---
+
+# Elemental de Delerium
+
+*Elemental Grande*
+
+**Classe de Armadura:** 12 + o nível da magia
+**Pontos de Vida:** 60 + 10 para cada nível da magia acima do 5º
+**Deslocamento:** 12 m; escavação 12 m (apenas Geodo Ambulante); voo 18 m (apenas Bruma Viva); natação 12 m (apenas Lodo Animado)
+
+| FOR     | DES     | CON     | INT    | SAB     | CAR    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 14 (+2) | 18 (+4) | 5 (−3) | 11 (+0) | 7 (−2) |
+
+**Resistências a Dano:** necrótico, veneno
+**Imunidades a Condição:** contaminação, exaustão, paralisado, envenenado, petrificado, inconsciente
+**Sentidos:** visão no escuro 18 m, Percepção passiva 12
+**Idiomas:** compreende os idiomas que você fala
+**Nível de Desafio:** —
+**Bônus de Proficiência:** igual ao seu bônus de proficiência
+
+### Forma Amorfa
+
+*Apenas Lodo Animado, Chama Entrópica e Bruma Viva*
+
+O elemental de Delerium pode se mover por um espaço de apenas **2,5 centímetros de largura** sem precisar se espremer.
+
+### Bruma Profunda
+
+*Apenas Bruma Viva*
+
+O elemental de Delerium pode entrar no espaço de uma criatura hostil e permanecer nele.
+
+Uma criatura que entrar no mesmo espaço que o elemental de Delerium ou começar seu turno nele deve realizar uma **salvaguarda de Constituição**.
+
+Em caso de falha, sofre **2d6 de dano necrótico**.
+
+### Ações
+
+**Ataques Múltiplos.** O elemental realiza uma quantidade de ataques de **Pancada** ou **Arremessar Chama** igual à metade do nível desta magia, arredondada para baixo.
+
+**Pancada.** *Ataque Corpo a Corpo com Arma:* seu modificador de ataque com magia para atingir, alcance 1,5 m, um alvo.
+**Acerto:** **1d10 + 4 + o nível da magia de dano contundente**.
+
+**Arremessar Chama.** *Apenas Chama Entrópica.*
+*Ataque à Distância com Arma:* seu modificador de ataque com magia para atingir, alcance 36 m, um alvo.
+**Acerto:** **1d10 + 2 + o nível da magia de dano de fogo**.
+
+Antes ou depois de realizar esse ataque, o elemental de Delerium pode se **teletransportar até 3 metros** para um espaço desocupado que possa ver.
+
+**Maré Agarradora.** *Apenas Lodo Animado.*
+*Ataque Corpo a Corpo com Arma:* seu modificador de ataque com magia para atingir, alcance 1,5 m, uma criatura.
+**Acerto:** **2d8 + 4 + o nível da magia de dano contundente**, e o alvo fica **agarrado (CD 16 para escapar)**.
+
+**Pancada de Fragmentos.** *Apenas Geodo Ambulante.*
+Uma criatura atingida por um ataque corpo a corpo do elemental de Delerium deve realizar uma **salvaguarda de Força**.
+
+Em caso de falha, ela é **empurrada 3 metros para longe do elemental de Delerium**.
+# Magias de 5º Nível
+
+## Mãos Contaminadas
+
+*Evocação contaminada de 5º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Concentração, até 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você cria duas mãos Grandes de **força octarina cintilante** em um espaço desocupado que possa ver dentro do alcance. As mãos permanecem pela duração da magia.
+
+Ambas as mãos se movem sob seu comando, imitando os movimentos de suas próprias mãos.
+
+Cada mão é um objeto com **CA 20** e uma quantidade de pontos de vida igual ao seu **máximo de pontos de vida**. Se uma ou ambas as mãos forem reduzidas a 0 pontos de vida, a magia termina.
+
+Cada mão possui **Força 26 (+8)** e **Destreza 10 (+0)** e ocupa seu próprio espaço.
+
+Quando você conjura esta magia, e usando uma ação em cada um de seus turnos subsequentes, você pode mover as mãos em até **18 metros** e então fazer com que cada uma delas produza um dos efeitos a seguir. Ambas podem realizar a mesma ação ou ações diferentes.
+
+As duas mãos devem permanecer a até **9 metros uma da outra** enquanto se movem.
+
+### Pancada Arcana
+
+A mão golpeia uma criatura ou objeto a até **1,5 metro** dela.
+
+Faça um **ataque corpo a corpo com magia** para a mão usando suas estatísticas de jogo. Se atingir, o alvo sofre **4d12 de dano necrótico**.
+
+Se você ordenar que ambas as mãos ataquem o mesmo alvo, elas recebem **vantagem na jogada de ataque**.
+
+### Arremesso Forçado
+
+A mão tenta empurrar uma criatura a até **1,5 metro** dela em uma direção à sua escolha.
+
+Faça um teste usando a **Força da mão**, resistido por um teste de **Força (Atletismo)** do alvo.
+
+Se o alvo for Médio ou menor, você tem **vantagem no teste**.
+
+Em caso de sucesso, a mão empurra o alvo por até **1,5 metro + 1,5 metro vezes seu modificador de habilidade de conjuração**. A mão se move junto com o alvo para permanecer a até 1,5 metro dele.
+
+Se ambas as mãos forem usadas contra o mesmo alvo, você pode arremessá-lo por uma distância de até **3 metros vezes seu modificador de habilidade de conjuração** e recebe vantagem no teste contra um alvo **Grande ou menor**.
+
+### Agarrão Sobrenatural
+
+A mão tenta agarrar uma criatura **Enorme ou menor** a até 1,5 metro dela.
+
+Você usa o valor de **Força da mão** para resolver o agarrão.
+
+Se o alvo for Médio ou menor, você tem vantagem no teste.
+
+Se ambas as mãos forem usadas contra o mesmo alvo, elas podem agarrar uma criatura **independentemente do tamanho dela**, e você recebe vantagem no teste de agarrar contra um alvo **Grande ou menor**.
+
+### Esmagamento Contaminado
+
+Você pode fazer com que uma mão esmague um alvo que esteja agarrando.
+
+Quando fizer isso, o alvo sofre **2d12 + seu modificador de habilidade de conjuração de dano contundente**.
+
+Além disso, o alvo deve realizar uma **salvaguarda de Constituição**. Em caso de falha, recebe **1 Nível de Contaminação**.
+
+Se ambas as mãos estiverem agarrando o mesmo alvo, você pode fazê-las **desmembrar a criatura agarrada**. Nesse caso, elas causam **4d12 de dano necrótico adicionais**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 6º nível ou superior, o dano das opções **Pancada Arcana** e **Esmagamento Contaminado** aumenta em **2d12**, e o dano de **Agarrão Sobrenatural** aumenta em **2d6**, para cada nível do espaço acima do 5º.
+
+# Magias de 6º Nível
+
+## Tempestade de Contaminação
+
+*Evocação contaminada de 6º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 45 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Instantânea
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você cria um raio arqueado de **relâmpago sobrenatural** que atinge um alvo à sua escolha que possa ver dentro do alcance.
+
+Vários outros raios então saltam desse alvo para até **cinco outros alvos**, cada um dos quais deve estar a até **9 metros do primeiro alvo**.
+
+Um alvo pode ser uma criatura ou um objeto e só pode ser atingido por **um dos raios**.
+
+Cada alvo deve realizar uma **salvaguarda de Destreza**.
+
+Em caso de falha, o alvo sofre **10d12 de dano elétrico**, ou metade desse dano em caso de sucesso.
+
+Além disso, um alvo que falhar na salvaguarda recebe **1 Nível de Contaminação**.
+
+# Magias de 7º Nível
+
+## Espada Octarina
+
+*Evocação contaminada de 7º nível*
+
+**Tempo de Conjuração:** 1 ação bônus
+**Alcance:** 18 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO e uma adaga)
+**Duração:** 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você cria um plano de energia contaminada em forma de espada, que paira dentro do alcance. A espada permanece pela duração da magia ou até que você conjure esta magia novamente.
+
+Quando a espada surge, faça um **ataque corpo a corpo com magia** contra um alvo à sua escolha a até **1,5 metro da espada**.
+
+Se atingir, o alvo sofre **4d10 de dano de força** e deve realizar uma **salvaguarda de Constituição**.
+
+Em caso de falha, o alvo sofre **4d6 de dano necrótico adicionais** e recebe **1 Nível de Contaminação**.
+
+Até a magia terminar, você pode usar uma **ação bônus** em cada um de seus turnos para mover a espada em até **9 metros** para um ponto que possa ver e repetir esse ataque contra o mesmo alvo ou contra um alvo diferente.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 8º nível ou superior, o dano de força aumenta em **1d10** e o dano necrótico aumenta em **1d6** para cada nível do espaço acima do 7º.
+# Magias de 7º Nível
+
+## Desvincular Gravidade
+
+*Transmutação contaminada de 7º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 30 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Concentração, até 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Esta magia permite que você controle a gravidade em um **cubo de 30 metros de lado**, centrado em um ponto dentro do alcance.
+
+Quando você conjura esta magia e no início de cada um de seus turnos pela duração dela, você decide **em qual direção a gravidade puxa dentro da área**.
+
+Todas as criaturas e objetos na área que não estejam de alguma forma ancorados ao chão caem na direção escolhida até alcançarem o limite da área.
+
+Uma criatura pode realizar uma **salvaguarda de Destreza** para se agarrar a um objeto fixo que esteja ao seu alcance, evitando assim a queda.
+
+Se algum objeto sólido, como um teto, for encontrado durante essa queda, criaturas e objetos em queda colidem com ele da mesma forma que fariam em uma queda normal para baixo.
+
+Se um objeto ou criatura alcançar o limite da área sem colidir com nada, permanece ali, oscilando levemente, pela duração da magia.
+
+Como alternativa, você pode decidir **impedir que a gravidade atue dentro da área**.
+
+Quando fizer isso, as criaturas dentro da área levitam no ar e devem se mover empurrando-se ou puxando-se contra um objeto ou superfície fixa ao seu alcance, como uma parede ou teto. Isso permite que se movam como se estivessem escalando.
+
+Objetos desacompanhados flutuam aleatoriamente pela área.
+
+Quando a duração da magia termina, os objetos e criaturas afetados **caem novamente para baixo**.
+
+# Magias de 8º Nível
+
+## Banir para o Espaço Entre Mundos
+
+*Conjuração contaminada de 8º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Concentração, até 10 minutos
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você bane uma criatura que possa ver dentro do alcance para o **Espaço Entre Mundos**.
+
+Nesse plano turbulento de potencial caótico, o alvo vaga por paisagens incompreensíveis à procura de um caminho de volta, atravessando saídas estranhas e absurdas.
+
+O alvo permanece lá pela duração da magia ou até conseguir escapar.
+
+O alvo pode usar sua ação para tentar escapar. Quando fizer isso, realiza um **teste de Inteligência contra a CD para evitar suas magias**.
+
+Em caso de sucesso, ele escapa e a magia termina.
+
+Em caso de falha, o alvo sofre **4d6 de dano psíquico**.
+
+Quando a magia termina, o alvo reaparece no espaço que deixou ou, se esse espaço estiver ocupado, no espaço desocupado mais próximo.
+
+O tempo transcorre de maneira diferente para o alvo dentro do Espaço Entre Mundos. Ele percebe o período que passou ali como se tivesse durado **centenas ou talvez milhares de anos**, mesmo que tenha permanecido ausente por apenas algumas rodadas ou minutos no mundo mortal.
+
+Uma criatura que morrer no **Espaço Entre Mundos** não retorna.
+
+# Magias de 9º Nível
+
+## Chuva de Meteoros de Delerium
+
+*Evocação contaminada de 9º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 1,6 quilômetro
+**Componentes:** V, S, M (uma rocha ígnea e um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você convoca estrelas cadentes sobrenaturais que despencam sobre a terra em **quatro pontos que possa ver dentro do alcance**.
+
+Cada criatura em uma **esfera de 12 metros de raio**, centrada em cada ponto escolhido, deve realizar uma **salvaguarda de Destreza**. A esfera se espalha contornando esquinas.
+
+Em caso de falha, uma criatura sofre:
+
+* **10d6 de dano radiante**;
+* **10d6 de dano necrótico**;
+* **10d6 de dano trovejante**;
+* **10d6 de dano psíquico**; e
+* **10d6 de dano de força**.
+
+Em caso de sucesso, a criatura sofre metade desse dano.
+
+Uma criatura que esteja na área de mais de uma explosão é afetada **apenas uma vez**.
+
+As estrelas cadentes deixam uma **contaminação persistente** nas áreas afetadas, que permanece por **1 hora**.
+
+Uma criatura que começar seu turno dentro de uma dessas áreas deve realizar uma **salvaguarda de Constituição**.
+
+Em caso de falha, a criatura sofre **5d6 de dano necrótico** e recebe **1 Nível de Contaminação**.
+
+Em caso de sucesso, sofre metade desse dano e não recebe nenhum Nível de Contaminação.
+
+Uma criatura reduzida a **0 pontos de vida por esse dano** sofre imediatamente uma **Transformação Monstruosa**, como se tivesse recebido **6 Níveis de Contaminação**.
+
+A magia também causa dano a **estruturas e objetos na área que não estejam sendo vestidos ou carregados**.

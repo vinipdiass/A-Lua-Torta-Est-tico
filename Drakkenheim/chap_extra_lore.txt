@@ -1,6 +1,6 @@
 # Apêndice E: O Mundo de Drakkenheim
 
-Este capítulo descreve o mundo mais amplo ao redor de Drakkenheim. Este material tem como objetivo fornecer ideias adicionais para jogadores que estejam criando personagens que se aventurarão em Drakkenheim, além de informações de contexto úteis para ajudar os Mestres de Jogo a compreender os conflitos que assolam a cidade em ruínas. Talvez também sirva de inspiração para futuras aventuras!
+Este capítulo descreve o mundo mais amplo ao redor de Drakkenheim. Este material tem como objetivo fornecer ideias adicionais para jogadores que estejam criando personagens que se aventurarão em Drakkenheim.
 
 ## Povos do Continente
 
@@ -159,7 +159,7 @@ Embora a política caspiana esteja sempre mudando — especialmente à medida qu
 
 Por isso, os caspianos adoram se intrometer na política de Elyria e Westemär. Casamentos entre nobres de diferentes reinos são comuns, realizados para conquistar maior prestígio e influência antes do próximo Conselho dos Reis.
 
-## Guerras e Conflitos
+# Guerras e Conflitos
 
 Os reinos foram moldados por séculos de guerra, desde as rebeliões elyrianas contra antigos reis-feiticeiros, passando por grandes batalhas entre príncipes rivais de Caspia, até, mais recentemente, a guerra civil que devastou Westemär.
 
@@ -171,7 +171,7 @@ Duelos e julgamentos por combate são meios particularmente populares entre a no
 
 Os reinos de Caspia, Elyria e Westemär desenvolveram, cada um, seus próprios estilos e tradições para esse tipo de confronto.
 
-## Viagens e Comércio
+# Viagens e Comércio
 
 O comércio, muito mais do que os conflitos, define a vida cotidiana das pessoas comuns nos reinos.
 
@@ -195,7 +195,7 @@ Como resultado, contrabandistas, mercenários e vigaristas podem fazer fortuna n
 
 Esse mercado negro clandestino apenas cresceu desde que o **delírio** se tornou uma mercadoria de exportação tão valiosa e cobiçada.
 
-## Terras Livres
+# Terras Livres
 
 Embora os reinos possuam exércitos poderosos e sistemas legais bem estabelecidos, sua autoridade pouco significa além das cidades e das áreas agrícolas habitadas.
 
@@ -207,7 +207,7 @@ Entretanto, esses lugares selvagens também são o lar de muitos povos que não 
 
 Organizados em pequenas tribos, eles preservam seus costumes e antigas crenças, guiados por guerreiros de espírito indomável e druidas que abraçam a fúria dos elementos.
 
-## O Mundo Além
+# O Mundo Além
 
 O continente encontra o vasto **Oceano Central** ao longo de sua costa ocidental.
 
@@ -663,7 +663,7 @@ Poucos mortais compreendem de fato a diferença entre essas diversas criaturas i
 
 **Ano 1.116** — Lucretia Mathias conclui sua peregrinação até Drakkenheim, chegando pessoalmente à **Borda da Cratera**. Ela retorna a Elyria para espalhar seus ensinamentos.
 
-**Ano 1.117** — A Academia Ametista começa a contratar aventureiros para coletar os chamados **“fragmentos do meteoro”** para estudo. A Academia dá aos estranhos cristais o nome de **delírio**.
+**Ano 1.117** — A Academia Ametista começa a contratar aventureiros para coletar os chamados **“fragmentos do meteoro”** para estudo. A Academia dá aos estranhos cristais o nome de **deleriuns**.
 
 **Ano 1.119** — **Mannfred von Kessel** é assassinado. **Cecilia von Kessel** morre em circunstâncias misteriosas. A guerra civil perde força e termina sem que surja um sucessor claro.
 

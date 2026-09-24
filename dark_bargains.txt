@@ -2,7 +2,7 @@ DESPERTAR BESTIAL
 
 O mundo selvagem chama por sua alma, uivando para que você se junte a ele. Você pode ceder ao chamado e se transformar em uma fera, mas o toque da prata o fere mais profundamente que a presa mais afiada.
 
-Pele Bestial. Você sempre tem a magia Metamorfose preparada. Você pode conjurá-la uma vez sem gastar um espaço de magia nem usar componentes materiais, mas pode escolher apenas a si mesmo como alvo. Você recupera a capacidade de conjurá-la dessa forma ao terminar um Descanso Longo. Você também pode conjurá-la usando espaços de magia do nível apropriado. Inteligência, Sabedoria ou Carisma é o seu atributo de conjuração para essa magia quando você a conjura sem gastar um espaço de magia; escolha o atributo ao selecionar esta Barganha Sombria.
+Pele Bestial. Você sempre tem a magia Polimorfia preparada. Você pode conjurá-la uma vez sem gastar um espaço de magia nem usar componentes materiais, mas pode escolher apenas a si mesmo como alvo. Você recupera a capacidade de conjurá-la dessa forma ao terminar um Descanso Longo. Você também pode conjurá-la usando espaços de magia do nível apropriado. Inteligência, Sabedoria ou Carisma é o seu atributo de conjuração para essa magia quando você a conjura sem gastar um espaço de magia; escolha o atributo ao selecionar esta Barganha Sombria.
 
 Prata Abrasadora. O dano causado por Armas Prateadas ignora qualquer Resistência ou Imunidade a dano que você possua. Caso sofra dano de uma Arma Prateada ou toque em prata com a pele desprotegida — ou seu equivalente —, você não pode recuperar Pontos de Vida até terminar um Descanso Curto ou Longo.
 -
@@ -106,7 +106,7 @@ Habituado à Não Morte. Você tem Resistência a dano Necrótico e Vantagem em 
 
 Apetite Profano. Você deve consumir meio quilo de carne crua por dia — ela não precisa estar fresca — ou sofrerá de Desnutrição.
 
-Alma Definhante. Características que detectam seu tipo de criatura, como o Sentido Divino de um Paladino ou a magia Detectar o Bem e Mal, consideram você um Morto-Vivo caso seu tipo de criatura ainda não seja Morto-Vivo.
+Alma Definhante. Características que detectam seu tipo de criatura, como o Sentido Divino de um Paladino ou a magia Detectar o Bem e o Mal, consideram você um Morto-Vivo caso seu tipo de criatura ainda não seja Morto-Vivo.
 -
 PELE DE PREGOS FÚNEBRES
 

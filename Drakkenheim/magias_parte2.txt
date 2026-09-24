@@ -1,0 +1,361 @@
+## Conjurar a Bruma Profunda
+
+*Conjuração contaminada de 5º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Concentração, até 10 minutos
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você cria uma esfera de **Bruma Profunda com 6 metros de raio**, centrada em um ponto à sua escolha dentro do alcance.
+
+A bruma se espalha contornando esquinas. Ela permanece pela duração da magia ou até que um **vento forte** a disperse, encerrando a magia. Sua área fica **densamente obscurecida**.
+
+Quando uma criatura entra na área da magia pela primeira vez em um turno ou começa seu turno nela, deve ser bem-sucedida em uma **salvaguarda de Constituição**.
+
+Em caso de falha, a criatura sofre **8d6 de dano necrótico** e recebe **1 Nível de Contaminação**.
+
+Em caso de sucesso, a criatura sofre metade desse dano e não recebe nenhum Nível de Contaminação.
+
+As criaturas são afetadas mesmo que prendam a respiração ou não precisem respirar.
+
+**Disponível para:** druida, feiticeiro, bruxo, mago.
+
+---
+
+## Imunidade à Contaminação
+
+*Abjuração de 7º nível*
+
+**Tempo de Conjuração:** 1 minuto
+**Alcance:** Toque
+**Componentes:** V, S, M (um lírio sobrenatural misturado a 250 PO em fluidos purificados especialmente preparados, que a magia consome)
+**Duração:** 24 horas
+
+Até a magia terminar, uma criatura voluntária que você tocar fica **imune a dano necrótico** e **não pode receber Níveis de Contaminação**.
+
+A criatura afetada pode **descansar normalmente dentro da Bruma**.
+
+Esta magia termina imediatamente se a criatura conjurar uma **magia contaminada**.
+
+**Disponível para:** bardo, clérigo, druida, feiticeiro, bruxo, mago.
+
+**Pesquisando a Magia.** Um personagem capaz de conjurar magias de 7º nível, que conheça a magia **campo neutralizante** e tenha visitado o **Coração de Delerium**, pode pesquisar **imunidade à contaminação**.
+
+---
+
+## Poder Contaminado
+
+*Transmutação contaminada de 8º nível*
+
+**Tempo de Conjuração:** 1 ação bônus
+**Alcance:** Pessoal
+**Componentes:** V, S, M (uma lasca de Delerium no valor de 500 PO, que a magia consome)
+**Duração:** 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você extrai magia arcana desenfreada da lasca de Delerium que segura em sua mão.
+
+Até a magia terminar, você recebe os seguintes benefícios:
+
+* Quando conjura uma magia que causa **dano de ácido, fogo, frio, elétrico ou veneno**, você pode alterar o tipo desse dano para **força, necrótico, psíquico ou radiante**.
+## Poder Contaminado
+
+*Transmutação contaminada de 8º nível*
+
+**Tempo de Conjuração:** 1 ação bônus
+**Alcance:** Pessoal
+**Componentes:** V, S, M (uma lasca de Delerium no valor de 500 PO, que a magia consome)
+**Duração:** 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você extrai magia arcana desenfreada da lasca de Delerium que segura em sua mão.
+
+Até a magia terminar, você recebe os seguintes benefícios:
+
+* Quando conjura uma magia que causa **dano de ácido, fogo, frio, elétrico ou veneno**, você pode alterar o tipo desse dano para **força, necrótico, psíquico ou radiante**.
+
+* Uma vez por turno, quando você causa dano com uma magia, pode causar **1d12 de dano necrótico adicional para cada Nível de Contaminação que tenha recebido** a um dos alvos dessa magia.
+
+* Quando conjura uma magia que força uma criatura a realizar uma salvaguarda para resistir aos seus efeitos, você pode escolher receber **1 Nível de Contaminação**. Caso faça isso, um dos alvos da magia tem **desvantagem na primeira salvaguarda que realizar contra essa magia**.
+
+Esta magia **não pode ser dissipada por dissipar magia**.
+
+**Disponível para:** feiticeiro, bruxo, mago.
+
+**Descobrindo a Magia.** Um personagem capaz de conjurar magias de 8º nível, que conheça **todas as outras magias contaminadas** e tenha conjurado cada uma delas pelo menos uma vez, pode pesquisar **poder contaminado**.
+
+---
+
+## Explosão de Delerium
+
+*Evocação contaminada de 4º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 45 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Instantânea
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você inflama as energias arcanas armazenadas em um fragmento de Delerium que segura em sua mão e o arremessa em direção a um espaço que possa ver dentro do alcance.
+
+O fragmento explode em uma **esfera de 6 metros de raio** de energia psíquica errática, sobrecarregando as mentes e os sentidos daqueles que estiverem dentro dela.
+
+Cada criatura na esfera deve ser bem-sucedida em uma **salvaguarda de Inteligência**.
+
+Em caso de falha, a criatura sofre **10d6 de dano psíquico** e fica **incapacitada até o final do próximo turno dela**.
+
+Em caso de sucesso, o alvo sofre metade desse dano e não sofre nenhum dos outros efeitos da magia.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, o dano aumenta em **2d6** para cada nível do espaço acima do 4º.
+
+**Disponível para:** bardo, feiticeiro, bruxo, mago.
+
+---
+
+## Orbe de Delerium
+
+*Evocação contaminada de 1º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 36 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Instantânea
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Você extrai poder mágico caótico do fragmento de Delerium que segura em sua mão e atinge uma criatura que possa ver dentro do alcance com **energia paradoxal**.
+
+Escolha um **valor de habilidade** e, em seguida, escolha um dos seguintes tipos de dano: **frio, fogo, elétrico, necrótico, psíquico ou radiante**.
+
+O alvo deve ser bem-sucedido em uma **salvaguarda usando o valor de habilidade escolhido**.
+
+Em caso de falha, sofre **6d6 de dano do tipo escolhido**, ou metade desse dano em caso de sucesso.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, o dano aumenta em **2d6** para cada nível do espaço acima do 1º.
+
+**Disponível para:** feiticeiro, bruxo, mago.
+
+---
+
+## Evolução Forçada
+
+*Transmutação de 4º nível*
+
+**Tempo de Conjuração:** 8 horas
+**Alcance:** Toque
+**Componentes:** V, S, M (um coquetel alquímico preparado com componentes raros e pó de Delerium no valor de 250 PO, que o alvo consome como parte da conjuração)
+**Duração:** Instantânea
+
+Por meio desta magia, você transforma uma **mutação adquirida através da Contaminação**.
+
+Uma das mutações existentes do alvo é removida e substituída por uma mutação diferente.
+
+Essa nova mutação pode ser **escolhida pelo Mestre ou determinada aleatoriamente**.
+
+**Disponível para:** feiticeiro, bruxo, mago.
+## Campo Neutralizante
+
+*Abjuração de 5º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (esfera de 3 metros de raio)
+**Componentes:** V, S, M (um cristal de Delerium ou uma relíquia sagrada no valor de 1.000 PO)
+**Duração:** Concentração, até 1 hora
+
+Você neutraliza energias mágicas contaminadas em uma **esfera de 3 metros de raio**.
+
+Até a magia terminar, a esfera se move com você, permanecendo centrada em você.
+
+As criaturas dentro da esfera, incluindo você, **não podem receber Níveis de Contaminação** e possuem **imunidade a dano necrótico**.
+
+Criaturas dentro da área **não podem conjurar magias contaminadas**.
+
+**Disponível para:** bardo, clérigo, druida, paladino, patrulheiro, feiticeiro, bruxo, mago.
+
+**Descobrindo a Magia.** Um personagem capaz de conjurar magias de 5º nível, que conheça a magia **purgar contaminação** e tenha criado pelo menos **1 dose de aqua expurgo**, pode pesquisar **campo neutralizante**.
+
+---
+
+## Rajada Octarina
+
+*Evocação contaminada de 7º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (cone de 18 metros)
+**Componentes:** V, S (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Instantânea
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Raios de luz octarina irrompem de sua mão. Cada raio possui uma cor diferente e um poder e propósito distintos, conforme indicado na tabela abaixo.
+
+Cada criatura em um **cone de 18 metros** deve ser bem-sucedida em uma **salvaguarda de Constituição**.
+
+Para cada alvo, jogue **1d8** para determinar qual raio o afeta.
+
+| d8    | Efeito                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | O alvo sofre **20d6 de dano psíquico** em caso de falha, ou metade desse dano em caso de sucesso.                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **2** | O alvo sofre **20d6 de dano necrótico** em caso de falha, ou metade desse dano em caso de sucesso.                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **3** | O alvo sofre **20d6 de dano de força** em caso de falha, ou metade desse dano em caso de sucesso.                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **4** | O alvo sofre **20d6 de dano radiante** em caso de falha, ou metade desse dano em caso de sucesso.                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **5** | O alvo sofre **20d6 de dano trovejante** em caso de falha, ou metade desse dano em caso de sucesso.                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **6** | No início de cada um de seus turnos, o alvo afetado usa **todo o seu deslocamento** para se mover diretamente em direção à criatura mais próxima que possa ver. Em seguida, usa sua ação para realizar um **ataque corpo a corpo contra uma criatura determinada aleatoriamente dentro de seu alcance**. Se não houver nenhuma criatura ao seu alcance, o alvo não faz nada nesse turno. Ao final de cada um de seus turnos, pode realizar uma **salvaguarda de Sabedoria**. Em caso de sucesso, este efeito termina para ele. |
+| **7** | No início de cada um de seus turnos, o alvo afetado recebe **1 Nível de Contaminação**. Ao final de cada um de seus turnos, pode realizar uma **salvaguarda de Constituição**. Em caso de sucesso, este efeito termina para ele, mas quaisquer Níveis de Contaminação recebidos permanecem.                                                                                                                                                                                                                                    |
+| **8** | **Especial.** O alvo é atingido por um raio adicional. **Jogue novamente duas vezes.** Não há limite para a quantidade de raios adicionais que podem atingir uma única criatura dessa maneira.                                                                                                                                                                                                                                                                                                                                 |
+
+**Disponível para:** bardo, feiticeiro, bruxo, mago.
+
+---
+
+## Purgar Contaminação
+
+*Abjuração de 3º nível*
+
+**Tempo de Conjuração:** 1 hora
+**Alcance:** Toque
+**Componentes:** V, S, M (100 PO em fluidos alquímicos ou água benta, que a magia consome)
+**Duração:** Instantânea
+
+Você aplica fluidos alquímicos ou água benta a uma criatura humanoide contaminada enquanto recita um **cântico mágico preciso**, que expulsa os contaminantes sobrenaturais do corpo do alvo.
+
+Quando termina de conjurar a magia, todos os **Níveis de Contaminação e mutações** são removidos da criatura.
+
+Em seguida, ela recebe **1 nível de exaustão para cada Nível de Contaminação removido por esta magia**.
+
+**Disponível para:** bardo, clérigo, druida, paladino, patrulheiro, feiticeiro, bruxo, mago.
+
+---
+
+## Cavalgar as Fendas
+
+*Conjuração contaminada de 3º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** Pessoal (linha de 18 metros)
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Instantânea
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Um relâmpago sobrenatural formando uma linha de **18 metros de comprimento e 1,5 metro de largura** irrompe de você em uma direção à sua escolha.
+
+Cada criatura na linha deve ser bem-sucedida em uma **salvaguarda de Destreza**.
+
+Em caso de falha, uma criatura sofre **10d6 de dano elétrico**, ou metade desse dano em caso de sucesso.
+
+Em seguida, você se **teletransporta para um espaço desocupado que possa ver dentro da área da linha**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano aumenta em **2d6** para cada nível do espaço acima do 3º.
+
+**Disponível para:** bardo, feiticeiro, bruxo, mago.
+## Raio de Contaminação
+
+*Necromancia contaminada de 6º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Instantânea
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Um raio octarino parte da ponta do seu dedo em direção a uma criatura que você possa ver dentro do alcance.
+
+O alvo deve ser bem-sucedido em uma **salvaguarda de Constituição**.
+
+Em caso de falha, a criatura sofre **16d6 de dano necrótico** e recebe **1d4 Níveis de Contaminação**.
+
+Em caso de sucesso, o alvo sofre metade desse dano e não recebe nenhum Nível de Contaminação.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 7º nível ou superior, pode escolher **uma criatura adicional como alvo** para cada nível do espaço acima do 6º. As criaturas devem estar a até **9 metros umas das outras** quando você as escolher como alvo.
+
+**Disponível para:** druida, feiticeiro, bruxo, mago.
+
+---
+
+## Sacramento do Fogo Cadente
+
+*Abjuração de 9º nível*
+
+**Tempo de Conjuração:** 1 hora
+**Alcance:** 9 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO para cada criatura participante, que a magia consome)
+**Duração:** Instantânea
+
+Esta magia só pode ser conjurada em uma área coberta pela **Bruma Profunda**.
+
+Você realiza uma cerimônia sagrada envolvendo até **12 criaturas humanoides fiéis e voluntárias**, que termina quando cada criatura participante crava uma **lasca de Delerium no próprio peito**.
+
+Essas criaturas tornam-se **santificadas** (consulte o dossiê dos **Seguidores do Fogo Cadente**, no capítulo 3).
+
+Quando você termina de conjurar esta magia, uma **sombra hostil** surge e ataca cada participante, manifestando a escuridão interior daquele personagem.
+
+O Mestre pode determinar que um personagem que carregue grande **raiva, medo ou ódio** em seu coração faça com que um **espectro** se manifeste em vez disso.
+
+**Disponível para:** bardo, clérigo, druida, bruxo.
+
+---
+
+## Sifonar Contaminação
+
+*Transmutação de 6º nível*
+
+**Tempo de Conjuração:** 1 hora
+**Alcance:** Toque
+**Componentes:** V, S, M (500 PO em fluidos alquímicos especialmente preparados e um geodo de Delerium no valor de 5.000 PO, todos consumidos pela magia)
+**Duração:** Instantânea
+
+Esta exigente magia transfere a Contaminação de uma criatura para outra.
+
+Quando você conjura esta magia, deve primeiro tocar uma das seguintes criaturas:
+
+* uma criatura humanoide voluntária com **um ou mais Níveis de Contaminação**; ou
+* uma criatura que anteriormente era humanoide, mas cuja forma atual seja resultado de uma **Transformação Monstruosa**.
+
+Em seguida, você toca uma criatura humanoide voluntária diferente.
+
+Se ambas as criaturas tocadas forem humanoides voluntárias, você remove **todos os Níveis de Contaminação e mutações da primeira criatura**. Em seguida, a segunda criatura tocada recebe uma quantidade de Níveis de Contaminação igual à quantidade removida da primeira.
+
+Se a primeira criatura tocada for um antigo humanoide que sofreu uma **Transformação Monstruosa**, e a segunda criatura for um humanoide voluntário cujo **nível de personagem ou Nível de Desafio seja igual ou superior ao Nível de Desafio da criatura transformada**, você restaura a criatura totalmente contaminada à sua forma original.
+
+Em seguida, a criatura humanoide tocada como segundo alvo sofre imediatamente uma **Transformação Monstruosa**, como se tivesse recebido **6 Níveis de Contaminação**.
+
+A segunda criatura tocada **não pode impedir, reduzir ou anular esses Níveis de Contaminação ou a transformação resultante de nenhuma forma**. Caso isso aconteça, a magia falha e não produz efeito.
+
+**Disponível para:** feiticeiro, bruxo, mago.
+
+**Pesquisando a Magia.** Um personagem capaz de conjurar magias de 6º nível, que conheça as magias **evolução forçada** e **campo neutralizante** e tenha testemunhado outra criatura sofrer uma **Transformação Monstruosa**, pode pesquisar **sifonar contaminação**.
+
+---
+
+## Raio Distorcido
+
+*Evocação contaminada de 2º nível*
+
+**Tempo de Conjuração:** 1 ação
+**Alcance:** 18 metros
+**Componentes:** V, S, M (um fragmento de Delerium no valor de 100 PO, que a magia consome)
+**Duração:** Concentração, até 1 minuto
+
+Quando você conjura esta magia, recebe **1 Nível de Contaminação**.
+
+Um raio arqueado de relâmpago octarino atinge uma criatura dentro do alcance.
+
+Se o alvo possuir **um ou mais Níveis de Contaminação**, ele é **atingido automaticamente**.
+
+Caso contrário, faça um **ataque à distância com magia** contra a criatura.
+
+Se atingir, o alvo sofre **6d6 de dano necrótico** e recebe **1 Nível de Contaminação**.
+
+Até a magia terminar, você pode usar sua ação em qualquer um de seus turnos para criar **um novo raio de relâmpago**.
+
+**Em Níveis Superiores.** Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, pode escolher **1 criatura adicional como alvo** para cada nível do espaço acima do 2º.
+
+**Disponível para:** feiticeiro, bruxo, mago.

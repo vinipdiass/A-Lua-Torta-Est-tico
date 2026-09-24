@@ -1,0 +1,594 @@
+# NOBREZA CONTINENTAL
+
+**Talento de Origem:** Habilidoso (*Skilled*)
+**Requisito:** Qualquer classe, exceto Feiticeiro, Bruxo ou Mago
+
+Você é descendente de uma família nobre. Seja oriundo de **Caspia, Elyria ou Westemär**, a queda de Drakkenheim afetou negativamente a fortuna de sua família ou criou uma oportunidade tentadora para ampliar seu poder e sua influência política.
+
+### Proficiências em Perícias
+
+Escolha **duas** entre:
+
+* Atletismo
+* História
+* Intimidação
+* Persuasão
+
+### Idiomas
+
+Dois à sua escolha.
+
+### Talento de Origem: Habilidoso
+
+Você possui o talento **Habilidoso (Skilled)**.
+
+Esse talento representa a educação privilegiada, o treinamento marcial, a formação diplomática ou os diversos conhecimentos adquiridos como membro de uma casa nobre.
+
+### Equipamento
+
+Você começa com:
+
+* um anel de sinete ou broche com o brasão de sua família;
+* uma capa nas cores de sua casa;
+* um conjunto de roupas finas;
+* uma bolsa contendo **25 PO**.
+
+---
+
+## EVENTO MARCANTE
+
+| 1d8   | Evento                                                                                                                                                                |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Fui amplamente celebrado em minha cidade por ter matado um grande troll.                                                                                              |
+| **2** | Testemunhei a morte de minha família durante a guerra civil. Eles foram escolhidos como alvo devido aos seus vínculos com o nome **von Kessel**.                      |
+| **3** | L liderei meus cavaleiros à vitória enquanto defendíamos nosso castelo durante um ataque na guerra.                                                                   |
+| **4** | Perdi muitos bons soldados em uma expedição anterior a Drakkenheim. Nunca conseguimos passar pelos portões.                                                           |
+| **5** | Minha casa era inimiga da família von Kessel e travou muitas batalhas contra ela.                                                                                     |
+| **6** | Rompi relações com minha família quando eles se submeteram à **Ordem de Prata**.                                                                                      |
+| **7** | Não sou parente de um rei ou rainha, mas de uma figura nobre que ocupava um lugar no pequeno conselho e tomava decisões importantes em nome da casa que representava. |
+| **8** | Minha família perdeu tudo na destruição de Drakkenheim. Somos nobres apenas no nome; já não possuímos posição ou influência.                                          |
+
+---
+
+## TRAÇO DE PERSONALIDADE
+
+| 1d8   | Traço                                                                                                                                                                                      |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Considero-me um renomado caçador de monstros e gosto de lembrar a todos das muitas façanhas que carrego em meu nome.                                                                       |
+| **2** | Mantenho as tradições familiares sempre próximas. Honra e família estão entre as coisas mais importantes do mundo para mim, e eu as prezo profundamente.                                   |
+| **3** | Sinto falta dos confortos de meu lar. Esta cidade é imunda e tem um cheiro terrível.                                                                                                       |
+| **4** | Acredito no que há de bom nas pessoas e espero encontrar uma solução pacífica para nossos problemas. Uma abordagem diplomática é exatamente aquilo de que Westemär precisa.                |
+| **5** | Como nobre, tenho a responsabilidade de proteger aqueles que não conseguem proteger a si mesmos.                                                                                           |
+| **6** | É extremamente importante que eu esteja sempre com a melhor aparência e mantenha uma postura régia em qualquer situação. Minha reputação deve permanecer imaculada.                        |
+| **7** | Posso ter nascido na nobreza, mas vivo nas estradas há algum tempo. Estou mais do que disposto a compartilhar aquilo que tenho com os outros, pois não sou melhor nem pior do que ninguém. |
+| **8** | Não existe desafio que eu não possa enfrentar. Ouvi falar dos horrores e monstros deste mundo — e sou eu quem eles deveriam temer.                                                         |
+
+---
+
+## IDEAL
+
+| 1d6   | Ideal                                                                                                                                                                                                               |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Respeito.** Sou um membro respeitado de minha família e espero que aquilo que resta da nobreza e da linhagem real de Drakkenheim reconheça minha posição. **(Leal)**                                              |
+| **2** | **Responsabilidade.** Como representante de minha linhagem nobre, é minha responsabilidade permanecer cordial e diplomático ao lidar com os diversos membros de alta posição da sociedade de Drakkenheim. **(Bom)** |
+| **3** | **Privacidade.** Não desejo que minha origem nobre venha à tona. Talvez seja melhor que o povo de Drakkenheim não saiba quem eu sou. Pelo menos por enquanto. **(Qualquer)**                                        |
+| **4** | **Dever.** É meu dever ajudar o povo de Drakkenheim. Como nobre, eu possuía vínculos com esta cidade, e isso é o que esperam de mim. **(Bom)**                                                                      |
+| **5** | **Glória.** Preciso conquistar minhas vitórias e provar meu valor em batalha. **(Qualquer)**                                                                                                                        |
+| **6** | **Família.** O sangue fala mais alto, e lutarei para defender a honra de minha família. **(Bom)**                                                                                                                   |
+
+---
+
+## VÍNCULO
+
+| 1d6   | Vínculo                                                                                                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Preciso provar que sou um grande guerreiro por minha casa e por meu povo.                                                                                                            |
+| **2** | Minha família já foi ligada à família real de Westemär. Preciso garantir que continuemos ligados a quem quer que assuma o trono.                                                     |
+| **3** | A fortuna de minha família foi perdida. Drakkenheim pode ser nossa última oportunidade de recuperá-la.                                                                               |
+| **4** | Minha família foi traída por uma das casas reais. Pretendo garantir que qualquer remanescente daquele nome seja levado à justiça e que minha família ocupe o lugar que lhe pertence. |
+| **5** | Estou destinado a governar, assim como meus ancestrais antes de mim.                                                                                                                 |
+| **6** | Fui enviado contra minha vontade em uma missão diplomática a Drakkenheim. Minha tarefa é conquistar influência política em meio a essas ruínas decadentes.                           |
+
+---
+
+## DEFEITO
+
+| 1d6   | Defeito                                                                                                                                                                                     |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Gabou-me de meus próprios triunfos e diminuo as conquistas dos outros.                                                                                                                      |
+| **2** | Preso à minha honra, jamais posso recuar diante de um desafio, tampouco permitir que aqueles que menosprezam meu nome fiquem sem resposta.                                                  |
+| **3** | Não gosto de sujar as mãos. Outras pessoas devem fazer o trabalho pesado, não eu.                                                                                                           |
+| **4** | Gosto de ostentar minha riqueza e não poupo despesas.                                                                                                                                       |
+| **5** | Eu nunca estou errado. E, mesmo que estivesse, jamais admitiria.                                                                                                                            |
+| **6** | Fui obrigado a assumir uma posição de liderança, mas estou completamente despreparado para isso e espero desesperadamente que ninguém perceba que não faço ideia do que estou fazendo aqui. |
+-
+# NASCIDO NA MAGIA
+
+**Talento de Origem:** Iniciado em Magia (*Magic Initiate*)
+**Requisito:** Você deve ser **Bardo, Feiticeiro, Bruxo ou Mago**
+
+Você manifestou habilidades mágicas arcanas ainda muito jovem e foi colocado sob a tutela da **Academia Ametista**. Lá, aprendeu a dominar sua magia em uma escola isolada dedicada às artes arcanas.
+
+Depois de atingir a maioridade e concluir seu aprendizado, você recebeu liberdade para perseguir seus próprios interesses, mas ainda deve respeitar as leis e os costumes que regem todos aqueles que possuem poderes mágicos.
+
+Sob os **Éditos de Lumen**, conjuradores são deserdados de quaisquer títulos de nobreza e não podem possuir terras.
+
+### Proficiências em Perícias
+
+Escolha **duas** entre:
+
+* Arcanismo
+* Enganação
+* Investigação
+* Percepção
+
+### Proficiência com Ferramentas
+
+Escolha uma:
+
+* Suprimentos de Alquimista
+* Suprimentos de Calígrafo
+
+### Idioma
+
+Escolha um:
+
+* Dracônico
+* Élfico
+
+### Talento de Origem: Iniciado em Magia
+
+Você possui o talento **Iniciado em Magia (*Magic Initiate*)**.
+
+Escolha a lista de magias de **Clérigo, Druida ou Mago**, conforme as regras do talento. Você aprende as magias concedidas pelo talento normalmente.
+
+Esse treinamento representa os fundamentos mágicos ensinados durante seus anos de formação na Academia Ametista.
+
+### Equipamento
+
+Você começa com:
+
+* uma varinha retorcida feita de madeira;
+* um sobretudo longo;
+* uma bolsa para componentes materiais e poções;
+* um amuleto ou outro pequeno objeto de grande importância para você.
+
+---
+
+## CARACTERÍSTICA: RATO DE BIBLIOTECA
+
+Uma vez por dia, depois de terminar um **Descanso Longo**, você pode passar **1 hora** criando um **Pergaminho de Magia**.
+
+Para isso, você precisa apenas de papel e tinta.
+
+O nível da magia inscrita no pergaminho pode ser igual ou inferior à **metade do seu Bônus de Proficiência, arredondada para baixo**.
+
+A magia escolhida deve ser uma magia que você **conheça ou tenha preparada**.
+
+---
+
+## PECULIARIDADE DO NASCIDO NA MAGIA
+
+| 1d8   | Peculiaridade                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Meus olhos possuem duas cores diferentes.                                                                                |
+| **2** | Sempre que conjuro uma magia, minha voz ecoa e um vento de origem desconhecida parece soprar ao meu redor.               |
+| **3** | Meus olhos brilham com uma luz octarina quando conjuro magias.                                                           |
+| **4** | Ouço vozes e sons quando estou próximo de entidades mágicas, como se a própria magia falasse comigo.                     |
+| **5** | Tenho conversas inteiras comigo mesmo em voz alta, que ocasionalmente acabam se tornando bastante acaloradas.            |
+| **6** | A magia inunda minha mente e torna difícil dormir sem ser atormentado por constantes pesadelos e visões.                 |
+| **7** | Converso com seres de outros planos de existência, que se manifestam diante de mim na forma de criaturas simples.        |
+| **8** | Tenho uma marca de nascença de formato peculiar que aparece todos os dias durante duas horas e meia e depois desaparece. |
+
+---
+
+## TRAÇO DE PERSONALIDADE
+
+| 1d8   | Traço                                                                                                                                                         |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Idolatro um dos arquimagos da Academia e espero, um dia, provar meu valor diante dele.                                                                        |
+| **2** | Nada ficará entre mim e meus objetivos. Quando alguém diz que algo importante para mim é impossível, faço questão de provar que está errado.                  |
+| **3** | Confio em meus poderes e não temo os horrores de Drakkenheim. Afinal, sou capaz de dobrar a própria realidade.                                                |
+| **4** | Estou constantemente lendo livros. Quanto mais conhecimento adquirir, mais facilmente poderei superar tanto meus amigos quanto meus inimigos.                 |
+| **5** | Sou um mago de aluguel e não tenho medo de sujar as mãos usando minha magia. Muita gente está disposta a pagar uma fortuna por alguém com minhas habilidades. |
+| **6** | Não resisto a um bom mistério e tenho orgulho da minha capacidade de solucioná-los.                                                                           |
+| **7** | Todo mundo leva as coisas a sério demais. Todos morreremos no fim; é melhor aproveitar a jornada.                                                             |
+| **8** | Sempre me esforço para ser o melhor em tudo aquilo que decido fazer.                                                                                          |
+
+---
+
+## IDEAL
+
+| 1d6   | Ideal                                                                                                                                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Respeito.** Meus poderes são tanto uma bênção quanto uma maldição, e trabalho incansavelmente para mostrar às pessoas que não precisam temer a magia. **(Bom)**                                          |
+| **2** | **Conhecimento.** Deixei a Academia em bons termos para trabalhar em uma das muitas instituições históricas do mundo, esperando que meu amor pelos livros e pela história pudesse ser útil. **(Qualquer)** |
+| **3** | **Amor.** Deixei a Academia por amor e pretendo cumprir a promessa que fiz à pessoa que amo. **(Bom)**                                                                                                     |
+| **4** | **Perdão.** Preciso reparar os erros do meu passado, provando meu valor àqueles com quem mais me importo. **(Bom)**                                                                                        |
+| **5** | **Poder.** Delerium é poder. Preciso aprender tudo o que puder sobre suas origens e propriedades se quiser dominar esse poder. **(Caótico)**                                                               |
+| **6** | **Independência.** Estou afastado da Academia por um motivo. Não quero estar contra eles, mas tampouco desejo estar do lado deles. **(Neutro)**                                                            |
+
+---
+
+## VÍNCULO
+
+| 1d6   | Vínculo                                                                                                                                                                                                             |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | É meu dever proteger a **Academia Ametista**.                                                                                                                                                                       |
+| **2** | O trabalho da minha vida estudando delerium levou à minha expulsão. Preciso continuar essa pesquisa para provar seu valor.                                                                                          |
+| **3** | Os mistérios do meu passado e dos meus poderes estão ligados ao meteoro. Preciso de respostas.                                                                                                                      |
+| **4** | Um erro terrível que cometi foi encoberto pelo meu mentor na Academia. Devo minha vida a ele.                                                                                                                       |
+| **5** | Meus pesadelos me guiaram até Drakkenheim. Preciso investigar essas visões.                                                                                                                                         |
+| **6** | Venho de uma longa linhagem de magos. Minha saída da Academia foi extremamente decepcionante para minha família, e preciso reconquistar seu respeito, mesmo que isso signifique arriscar minha vida em Drakkenheim. |
+
+---
+
+## DEFEITO
+
+| 1d6   | Defeito                                                                                                                    |
+| ----- | -------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Caminho direto em direção ao perigo. Qual é a pior coisa que poderia acontecer?                                            |
+| **2** | Acredito que meu plano é sempre muito superior ao de todos os outros.                                                      |
+| **3** | Distraio-me facilmente diante da possibilidade de adquirir conhecimento ou poder, independentemente do custo ou do perigo. |
+| **4** | Complico demais a maioria das situações, prendendo-me a pequenos detalhes e analisando excessivamente coisas simples.      |
+| **5** | Perco a paciência rapidamente e, quando fico irritado, acabo causando mais mal do que bem com minha magia.                 |
+| **6** | Nunca tenho delerium suficiente. Quero esse poder para mim.                                                                |
+-
+# MISSIONÁRIO DEVOTO
+
+**Talento de Origem:** Curandeiro (*Healer*)
+
+Você é seguidor de uma das muitas religiões existentes no mundo. Seja por um chamado divino, por visões e profecias, por ter sido enviado por sua igreja como emissário e representante, ou simplesmente por buscar respostas de natureza divina, sua jornada acabou levando você até **Drakkenheim**.
+
+Que propósito sagrado se esconde entre as ruínas, esperando para ser descoberto?
+
+### Proficiências em Perícias
+
+Escolha **duas** entre:
+
+* Arcanismo
+* História
+* Natureza
+* Religião
+
+### Idiomas
+
+Dois à sua escolha.
+
+### Talento de Origem: Curandeiro
+
+Você possui o talento **Curandeiro (*Healer*)**.
+
+Seu treinamento religioso ensinou você a tratar ferimentos, aliviar o sofrimento e preservar a vida daqueles que ainda podem ser salvos.
+
+### Equipamento
+
+Você começa com:
+
+* um conjunto de vestes claras;
+* uma pequena lasca de **delerium** envolta em vidro;
+* um cajado de caminhada;
+* um amuleto contendo o símbolo da divindade que você escolheu;
+* um pequeno livro de textos religiosos.
+
+---
+
+## CARACTERÍSTICA: GUIADO PELA FÉ
+
+Um número de vezes por dia igual ao seu **Bônus de Proficiência**, você pode pedir ao Mestre que revele a **CD de qualquer teste de habilidade** que esteja prestes a realizar.
+
+Você deve fazer isso **antes de rolar os dados**.
+
+Depois de descobrir a CD, você pode decidir se ainda deseja ou não tentar realizar o teste.
+
+---
+
+## VIDA MISSIONÁRIA
+
+| 1d8   | Vida Missionária                                                                                                                       |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Eu estava em uma jornada de autoconhecimento e iluminação espiritual.                                                                  |
+| **2** | Quando descanso, tenho o hábito de me cercar ritualisticamente de velas acesas e textos antigos.                                       |
+| **3** | Fiz um voto de silêncio que deveria durar até o momento em que minha voz fosse necessária para cumprir meu destino.                    |
+| **4** | Eu era responsável por cuidar de antigas relíquias de minha fé e recebi a missão de encontrar outras.                                  |
+| **5** | Sou apenas um peregrino que espera encontrar a luz divina nos lugares mais sombrios do mundo.                                          |
+| **6** | Fui conduzido à minha fé por anjos que me salvaram de um passado sombrio.                                                              |
+| **7** | Quebrei os votos de minha fé e fui exilado. Agora busco redenção.                                                                      |
+| **8** | Preciso provar que sou digno de minha fé e de seu propósito, independentemente da quantidade de sangue derramado ou de vidas perdidas. |
+
+---
+
+## TRAÇO DE PERSONALIDADE
+
+| 1d8   | Traço                                                                                                                                                                                                     |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Sinto compaixão por aqueles que não seguem o caminho da luz. Criaturas de todos os tipos podem retornar ao caminho da retidão, e muitas vezes aqueles que se desviam estão apenas sofrendo profundamente. |
+| **2** | Acredito nas palavras de minha religião e cito seus textos e escrituras sempre que tenho oportunidade.                                                                                                    |
+| **3** | Sou tolerante — ou intolerante — em relação a outras religiões e respeito — ou condeno — a adoração de outras divindades.                                                                                 |
+| **4** | Passei minha vida em um templo ou igreja. Uma vida dura e desconfortável rapidamente começa a me desgastar.                                                                                               |
+| **5** | Acredito sinceramente que, no fim, tudo dará certo. Nada consegue abalar meu otimismo.                                                                                                                    |
+| **6** | Minha fé me manteve distante das outras pessoas. Tenho pouquíssima experiência com o mundo fora de minha igreja, templo ou santuário.                                                                     |
+| **7** | Sigo regras extremamente rígidas de etiqueta e comportamento em minhas interações e tarefas, e me recuso a abandoná-las.                                                                                  |
+| **8** | Estou escrevendo minha tese sobre os acontecimentos religiosos do mundo e discuto com entusiasmo as nuances de minhas ideias com absolutamente qualquer pessoa disposta a ouvir.                          |
+
+---
+
+## IDEAL
+
+| 1d6   | Ideal                                                                                                                                                                                                                          |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Lógica.** As emoções não devem obscurecer nosso julgamento sobre aquilo que é correto ou verdadeiro. **(Leal)**                                                                                                              |
+| **2** | **Eu.** Minha jornada religiosa consiste em descobrir quem realmente sou. Se eu conseguir alcançar esse entendimento, não haverá mais nada que eu precise saber. **(Qualquer)**                                                |
+| **3** | **Caridade.** Sempre ajudarei aqueles que estiverem necessitados, independentemente do custo. **(Bom)**                                                                                                                        |
+| **4** | **Fé.** O caminho diante de mim foi determinado pela entidade divina que venero. Seguirea seus sinais e padrões para cumprir meu propósito. **(Leal)**                                                                         |
+| **5** | **Poder.** Os deuses me concederam poderes divinos, e devo usá-los para fazer com que aqueles cuja fé é inferior à minha contemplem a luz divina e compreendam que sou o verdadeiro porta-voz de minha religião. **(Caótico)** |
+| **6** | **Paz.** Não gosto de tomar parte em conflitos. Prefiro ser uma voz neutra da razão entre todos os lados. **(Neutro)**                                                                                                         |
+
+---
+
+## VÍNCULO
+
+| 1d6   | Vínculo                                                                          |
+| ----- | -------------------------------------------------------------------------------- |
+| **1** | Nada é mais importante do que minha igreja e aquilo que ela representa.          |
+| **2** | Entrei para minha religião para me esconder de um passado que prefiro esquecer.  |
+| **3** | O caminho para a iluminação nunca termina. Preciso continuar seguindo em frente. |
+| **4** | Morrerei, se necessário, para permanecer fiel às minhas crenças religiosas.      |
+| **5** | Tudo aquilo que faço é pelo bem das pessoas comuns.                              |
+| **6** | Procuro preservar os antigos textos e artefatos de minha religião.               |
+
+---
+
+## DEFEITO
+
+| 1d6   | Defeito                                                                                                                                                                                                               |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Julgo os outros severamente e acredito que meu caminho é o único caminho verdadeiro.                                                                                                                                  |
+| **2** | Acredito tão profundamente nas palavras de minha religião que as sigo sem jamais questioná-las.                                                                                                                       |
+| **3** | O objetivo que estabeleci para mim mesmo é meu destino, e não consigo agir contra ele ou abandoná-lo por motivo algum.                                                                                                |
+| **4** | Minha religião deveria manter meus pensamentos sombrios sob controle, mas sinto que estou perdendo essa batalha, e uma sede de sangue cresce dentro de mim.                                                           |
+| **5** | Esta é minha primeira experiência com a vida fora de minha religião, e estou aproveitando seus prazeres um pouco mais do que deveria.                                                                                 |
+| **6** | Os deuses e minha fé determinaram que estou sempre correto, pois falo em nome deles. Não tenho dúvida alguma de que expresso a verdade absoluta, e qualquer pessoa que discorde de mim é apenas um tolo desorientado. |
+-
+# SOBREVIVENTE
+
+**Talento de Origem:** Alerta (*Alert*)
+
+Nem todos abandonaram Drakkenheim após a queda do meteoro. Alguns permaneceram para vasculhar as ruínas em busca daquilo que perderam: amigos, familiares ou simplesmente tesouros e artefatos.
+
+Você conhece os lugares mais perigosos da cidade, sabe quais caminhos são mais seguros e frequentemente consegue identificar as rotas mais rápidas para atravessar as ruínas.
+
+Apesar da **Bruma** e de todos os perigos, você conseguiu sobreviver. Ainda assim, carrega consigo o peso da loucura de Drakkenheim.
+
+### Proficiências em Perícias
+
+Escolha **duas** entre:
+
+* Atletismo
+* Furtividade
+* Percepção
+* Sobrevivência
+
+### Proficiências com Ferramentas
+
+Você possui proficiência com:
+
+* Utensílios de Cozinheiro;
+* um outro conjunto de Ferramentas de Artesão à sua escolha.
+
+### Talento de Origem: Alerta
+
+Você possui o talento **Alerta (*Alert*)**.
+
+Anos sobrevivendo entre monstros, aberrações e outros perigos das ruínas ensinaram você a reagir rapidamente e jamais baixar a guarda.
+
+### Equipamento
+
+Você começa com:
+
+* utensílios de cozinheiro;
+* um kit de escalada;
+* uma pá;
+* um par de luvas grossas;
+* uma capa com capuz.
+
+---
+
+## CARACTERÍSTICA: REFEIÇÕES IMPROVISADAS
+
+Você sabe como purificar alimentos e rações encontrados entre as ruínas.
+
+Quando termina um **Descanso Curto**, você pode preparar uma refeição para um número de criaturas igual ao seu **Bônus de Proficiência**.
+
+Cada criatura que consumir essa refeição recupera uma quantidade de **Pontos de Vida igual ao seu nível**.
+
+Depois que uma criatura recuperar Pontos de Vida dessa maneira, ela não poderá recuperar Pontos de Vida através de outra de suas refeições até terminar um **Descanso Longo**.
+
+---
+
+## MARCAS DA SOBREVIVÊNCIA
+
+| 1d8   | Marca                                                                                                                                                     |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Passei tanto tempo sozinho que me acostumei a conversar comigo mesmo em voz alta.                                                                         |
+| **2** | Como coisas que outras pessoas consideram repugnantes. Aprendi a apreciar as iguarias encontradas vasculhando as ruínas.                                  |
+| **3** | Tenho muitas cicatrizes espalhadas pelo corpo, lembranças das inúmeras vezes em que sobrevivi por muito pouco.                                            |
+| **4** | Falta um dedo em uma de minhas mãos por causa de um encontro terrível que tive nas ruínas.                                                                |
+| **5** | Carrego um medalhão pertencente a alguém que perdi nas ruínas. Todas as noites, antes de dormir, olho para ele para me lembrar daquilo que ainda procuro. |
+| **6** | Guardo troféus dos monstros que derrotei nestas ruínas para me lembrar do quanto sou forte.                                                               |
+| **7** | Consigo dormir praticamente em qualquer lugar. Quase nada mais consegue me incomodar.                                                                     |
+| **8** | Frequentemente recito os nomes das pessoas que conheci e perdi, para que suas memórias não desapareçam.                                                   |
+
+---
+
+## TRAÇO DE PERSONALIDADE
+
+| 1d8   | Traço                                                                                                                                                            |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Sempre tenho uma rota de fuga em mente caso as coisas deem errado.                                                                                               |
+| **2** | Ninguém sobrevive nesta cidade miserável sem um bom senso de humor. O meu tende para o humor mórbido.                                                            |
+| **3** | Tento agir na tênue área cinzenta entre as facções em conflito, passando despercebido sempre que possível. Quanto menos me notarem, melhor.                      |
+| **4** | Se você perceber o perigo antes que ele perceba você, o melhor é evitá-lo. É assim que se sobrevive.                                                             |
+| **5** | Drakkenheim é um lugar perigoso, mas eu poderia atravessá-la de olhos fechados. Nunca conheci ninguém tão bom quanto eu em navegar por estas ruínas.             |
+| **6** | Para sobreviver aos monstros de Drakkenheim, às vezes é preciso se tornar um monstro de Drakkenheim.                                                             |
+| **7** | Pegue tudo o que puder dos mortos — e dos vivos também, se tiver a oportunidade. Para sobreviver, você precisa aproveitar qualquer chance de conseguir recursos. |
+| **8** | Nunca desistirei até recuperar aquilo que perdi nestas ruínas.                                                                                                   |
+
+---
+
+## IDEAL
+
+| 1d6   | Ideal                                                                                                                                                                                                          |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Autossuficiência.** Não vou arriscar minha vida pelos outros. Cada um deve cuidar de si mesmo — melhor você do que eu. **(Mau)**                                                                             |
+| **2** | **Bravura.** Acho eletrizante sobreviver aos monstros e às magias de Drakkenheim. Eu prospero em meio ao caos. **(Caótico)**                                                                                   |
+| **3** | **Segurança.** Qualquer coisa que me mantenha alimentado e garanta um lugar seguro para descansar já é suficiente para mim. **(Qualquer)**                                                                     |
+| **4** | **Ajuda.** As pessoas desta cidade precisam de toda ajuda que puderem conseguir, e sei que tenho condições de oferecê-la. **(Bom)**                                                                            |
+| **5** | **Esperança.** Acredito que ainda existe algo aqui que vale a pena salvar. Precisamos nos agarrar à ideia de um futuro melhor. **(Bom)**                                                                       |
+| **6** | **Responsabilidade.** Eu vivia aqui antes do meteoro e pretendo continuar vivendo muito depois dele. Preciso proteger meu lar e fazer tudo o que puder para tornar esta cidade habitável novamente. **(Leal)** |
+
+---
+
+## VÍNCULO
+
+| 1d6   | Vínculo                                                                                                                   |
+| ----- | ------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Eu tinha familiares nestas ruínas. Não sei o que aconteceu com eles, mas preciso descobrir.                               |
+| **2** | Esta cidade é meu lar, e lutarei por aquilo que restou dela até o fim.                                                    |
+| **3** | Faço qualquer trabalho sujo na cidade em troca de uma refeição quente, uma cama confortável ou um pouco de boa companhia. |
+| **4** | Passei tanto tempo nestas ruínas que agora é o mundo exterior que me assusta.                                             |
+| **5** | Por que ainda não deixei Drakkenheim? Você já viu quanto ouro dá para ganhar aqui?                                        |
+| **6** | Sou leal ao trono de Drakkenheim e lutarei para vê-lo restaurado um dia.                                                  |
+
+---
+
+## DEFEITO
+
+| 1d6   | Defeito                                                                                                                                                         |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Qualquer refeição pode ser a última. Como praticamente qualquer coisa. Faço o que for necessário para sobreviver.                                               |
+| **2** | Não gosto de permanecer muito tempo fora da Bruma da cidade. Acabei me acostumando com ela.                                                                     |
+| **3** | Estou convencido de que minha família ainda está viva em algum lugar da cidade. À noite, ouço suas vozes me chamando.                                           |
+| **4** | Não confio facilmente em ninguém. Durmo com um olho aberto mesmo quando estou cercado por meus companheiros, pois Drakkenheim transforma todos nós em monstros. |
+| **5** | Os anos que passei aqui me levaram a desenvolver um vício. Dependo muito dele para conseguir enfrentar meus dias.                                               |
+| **6** | Ouço vozes constantemente. Às vezes me distraio conversando com pessoas que não estão realmente ali.                                                            |
+-
+# CAÇADOR DE TESOUROS
+
+**Talento de Origem:** Sortudo (*Lucky*)
+
+Tesouros perdidos e relíquias valiosas trouxeram você até **Drakkenheim**.
+
+Talvez a perspectiva de conquistar mais ouro do que seria capaz de gastar em toda a sua vida seja tentadora demais para ignorar. Ou talvez você procure objetos por seu valor histórico, religioso ou cultural.
+
+Seja qual for o motivo, as ruínas de Drakkenheim estão repletas de riquezas esperando por alguém suficientemente esperto — ou imprudente — para encontrá-las.
+
+### Proficiências em Perícias
+
+Você possui proficiência em:
+
+* **Investigação**;
+* e escolha **uma** entre:
+
+  * Furtividade;
+  * Intuição;
+  * Percepção.
+
+### Proficiências com Ferramentas
+
+Você possui proficiência com:
+
+* Ferramentas de Ladrão;
+* Ferramentas de Cartógrafo.
+
+### Talento de Origem: Sortudo
+
+Você possui o talento **Sortudo (*Lucky*)**.
+
+Talvez seja puro acaso, instinto ou simplesmente sua incapacidade de perceber quando deveria desistir, mas a sorte parece favorecer você nos momentos em que mais precisa.
+
+### Equipamento
+
+Você começa com:
+
+* ferramentas de ladrão;
+* um conjunto de roupas escuras com capuz e uma cobertura para o rosto;
+* um anel de sinete pertencente a um falso senhor;
+* documentos de identificação falsos;
+* um conjunto de dados viciados;
+* um baralho de cartas.
+
+---
+
+## CARACTERÍSTICA: ATENTO AOS DETALHES
+
+Sempre que fizer um **teste de habilidade para vasculhar ou procurar algo nas ruínas de Drakkenheim**, você dobra seu **Bônus de Proficiência** aplicado ao teste.
+
+---
+
+## SEGREDOS DO CAÇADOR DE TESOUROS
+
+| 1d8   | Segredo                                                                                                           |
+| ----- | ----------------------------------------------------------------------------------------------------------------- |
+| **1** | Carrego um mapa enigmático que supostamente leva até um tesouro perdido que sempre desejei encontrar.             |
+| **2** | Tenho uma moeda com cara nos dois lados, bastante útil para vencer certos jogos de azar.                          |
+| **3** | Possuo uma pequena luneta com lente de aumento que utilizo para examinar objetos.                                 |
+| **4** | Tenho um anel que pode ser aberto, revelando um pequeno compartimento secreto em seu interior.                    |
+| **5** | Minha bota esquerda possui um compartimento onde escondo uma adaga.                                               |
+| **6** | Carrego uma velha bússola que não aponta para o norte. Espero que ela esteja apontando para algum grande tesouro. |
+| **7** | Tenho uma coleção de moedas e medalhas exóticas que possuem grande valor pessoal para mim.                        |
+| **8** | Tenho um rival caçador de tesouros que um dia foi meu parceiro. Seguimos caminhos diferentes há muitos anos.      |
+
+---
+
+## TRAÇO DE PERSONALIDADE
+
+| 1d8   | Traço                                                                                                                                                                    |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Acredito que estou destinado à grandeza, e nada conseguirá me convencer do contrário.                                                                                    |
+| **2** | Sempre tenho algum plano ou esquema para enganar meus inimigos. Talvez não seja um bom plano, mas quase certamente será complicado demais.                               |
+| **3** | Adoro ostentar minha riqueza e exibir as coisas que comprei com ela.                                                                                                     |
+| **4** | Não dou muita importância aos riscos de uma situação. Sempre aposto em mim mesmo e em minhas habilidades, e isso me trouxe até aqui. Nunca me diga quais são as chances. |
+| **5** | Tenho uma piada, comentário espirituoso ou alegoria para praticamente qualquer situação.                                                                                 |
+| **6** | Minto sobre absolutamente tudo. Às vezes minto sem motivo algum, apenas para descobrir se consigo enganar as pessoas ao meu redor.                                       |
+| **7** | Uso elogios e palavras cuidadosamente escolhidas para conseguir aquilo que quero.                                                                                        |
+| **8** | Não tenho culpa se objetos valiosos deixados por aí acabam dentro dos meus bolsos. Estou apenas guardando-os em segurança.                                               |
+
+---
+
+## IDEAL
+
+| 1d6   | Ideal                                                                                                                                                                                                                                                           |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Independência.** Ninguém me diz o que fazer. Crio minhas próprias regras — e minha própria sorte. **(Caótico)**                                                                                                                                               |
+| **2** | **Justiça.** Não tiro nada de alguém que não possa se dar ao luxo de perder. Sou um caçador de tesouros, não um ladrão. **(Leal)**                                                                                                                              |
+| **3** | **Família.** Importo-me com posses materiais e riqueza, mas não tanto quanto me importo com meus amigos e minha família. **(Bom)**                                                                                                                              |
+| **4** | **Ambição.** Riqueza é poder. Riqueza significa que você será lembrado. Neste mundo, construir um nome para si mesmo pode ser tão simples quanto acumular ouro suficiente para comprar o próprio caminho até a vitória. E pretendo ser lembrado. **(Qualquer)** |
+| **5** | **Perigo.** Toda grande descoberta exige riscos. Quanto maior o risco, maior a recompensa. É pela emoção da caça que eu vivo. **(Qualquer)**                                                                                                                    |
+| **6** | **Dignidade.** Os mortos e seus bens mais preciosos merecem mais do que apodrecer esquecidos nas ruínas. Eles merecem ser encontrados, lembrados e tratados com respeito. **(Leal)**                                                                            |
+
+---
+
+## VÍNCULO
+
+| 1d6   | Vínculo                                                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Meu desejo por riqueza nasce da necessidade de proteger minha família.                                                               |
+| **2** | Algo muito importante para mim foi roubado. Desde então, desejo desesperadamente recuperá-lo.                                        |
+| **3** | Sou procurado por diversos crimes e espero que, para onde estou indo, a lei não consiga me seguir.                                   |
+| **4** | Cometi erros no passado que custaram a vida de alguém que eu amava. Não permitirei que isso aconteça novamente.                      |
+| **5** | Pretendo me tornar o maior ladrão ou o explorador mais astuto de todos os tempos.                                                    |
+| **6** | Este será meu último trabalho — o grande golpe. Depois disso, espero me aposentar com minha fortuna e talvez até formar uma família. |
+
+---
+
+## DEFEITO
+
+| 1d6   | Defeito                                                                                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Minha identidade inteira é formada por camadas de mentiras criadas para esconder quem realmente sou, pois não sou uma boa pessoa. Faz tanto tempo que não digo a verdade que agora já é tarde demais para começar. |
+| **2** | Toda situação e toda pessoa só possuem valor para mim na medida daquilo que posso obter delas. Não tenho medo de manipular as circunstâncias para fazer a sorte pender para o meu lado.                            |
+| **3** | Fico imediatamente na defensiva quando alguém percebe que estou mentindo ou tenta me confrontar por alguma coisa.                                                                                                  |
+| **4** | Pego aquilo que quero — e quero tudo.                                                                                                                                                                              |
+| **5** | Gosto de exibir minhas habilidades, falar grande e assumir riscos enormes na esperança de impressionar todos que estiverem assistindo.                                                                             |
+| **6** | Tenho certeza absoluta de que sou a pessoa mais inteligente da sala. Qualquer um que sugira o contrário está terrivelmente enganado.                                                                               |

@@ -1,0 +1,72 @@
+## Magias em Drakkenheim
+
+Este capítulo apresenta novas magias e poderosos artefatos encontrados no mundo de Drakkenheim.
+
+## Aprendendo Novas Magias
+
+Embora muitos monstros e personagens não jogadores conheçam as magias apresentadas neste capítulo, elas normalmente não estão disponíveis aos personagens jogadores no início da campanha, a menos que sejam explicitamente concedidas por uma característica de subclasse apresentada neste tomo.
+
+Para aprender uma dessas magias, um personagem deve:
+
+* estudar a magia em um grimório ou pergaminho encontrado;
+* localizar um mentor capaz de ensiná-la; ou
+* pesquisar e desenvolver a magia por conta própria.
+
+Depois de encontrar um grimório ou professor adequado, o personagem deve investir tempo de inatividade e ouro para dominar a magia.
+
+Para cada nível da magia, o personagem deve gastar **2 dias de tempo de inatividade e 100 PO** praticando-a.
+
+Ao concluir esse treinamento, o personagem pode preparar a magia, adicioná-la ao seu grimório ou substituir uma magia que já conheça por ela, conforme permitido pelas características de conjuração de sua classe.
+
+## Magias Secretas
+
+No mundo de Drakkenheim, algumas das magias mais poderosas apresentadas nas Regras Básicas são significativamente mais raras do que o normal:
+
+* **Projeção Astral**
+* **Portal**
+* **Mudança de Plano**
+* **Simulacro**
+* **Ressurreição Verdadeira**
+* **Desejo**
+
+Os personagens jogadores precisam obter conhecimento dessas magias da mesma maneira que aprendem as demais magias especiais apresentadas neste tomo. Nesse caso, essas magias não podem simplesmente ser escolhidas normalmente quando um personagem sobe de nível.
+
+Além disso, os componentes materiais necessários para conjurá-las são extraordinariamente escassos. Esses componentes devem ser tratados como **itens mágicos consumíveis**, com as seguintes raridades:
+
+* **Muito Raro**, para magias de 7º e 8º nível;
+* **Lendário**, para magias de 9º nível.
+
+Caso tenha interesse futuramente em alguma dessas magias, consulte o mestre para mais informações.
+
+## Magias Contaminadas
+
+Algumas magias relacionadas à Contaminação ainda não foram descobertas no início de uma campanha de Drakkenheim e precisam ser desenvolvidas através de pesquisa.
+
+Entre elas estão:
+
+* **Imunidade à Contaminação**
+* **Campo Neutralizante**
+* **Poder Contaminado**
+* **Sifonar Contaminação**
+
+Os personagens jogadores podem realizar essas pesquisas diretamente durante seu tempo de inatividade. Como alternativa, o grupo pode procurar um conjurador NPC para auxiliar no desenvolvimento da magia, como um mago da Academia ou um Guardião da Chama.
+
+A descrição de cada magia apresenta os pré-requisitos necessários para que sua pesquisa seja realizada com sucesso.
+
+Depois que esses requisitos forem cumpridos, o personagem deve gastar, para cada nível da magia:
+
+**5 dias de tempo de inatividade e 250 PO.**
+
+Ao concluir a pesquisa, o personagem pode preparar a magia, adicioná-la ao seu grimório ou substituir uma magia que já conheça por ela, conforme permitido pelas características de conjuração de sua classe.
+
+Algumas magias apresentam o descritor **“contaminada”** ao lado de sua escola de magia.
+
+Essas magias sempre exigem **delerium** como componente material e fazem com que o conjurador adquira um ou mais **Níveis de Contaminação** ao serem conjuradas, conforme indicado na descrição de cada magia.
+
+Normalmente, o conjurador não pode impedir, ignorar ou evitar os Níveis de Contaminação causados pela magia. Caso isso aconteça, a magia contaminada simplesmente falha.
+
+Entretanto, existe uma exceção: uma característica de classe ou item mágico que declare **especificamente** que permite conjurar magias contaminadas sem adquirir Níveis de Contaminação pode ignorar essa regra.
+
+Um exemplo é a característica **Purificar Magia**, do Druida do **Círculo da Contaminação**, apresentada no Capítulo 3.
+
+Além disso, monstros que possuam a característica **Totalmente Contaminado** podem conjurar magias contaminadas livremente e não adquirem Níveis de Contaminação ao fazê-lo.

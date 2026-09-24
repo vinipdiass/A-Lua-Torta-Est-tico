@@ -1,0 +1,450 @@
+# Spells by Class
+
+## Bard
+
+**1st Level**
+
+* Toxic Shield
+
+**2nd Level**
+
+* Grasping Ghost
+
+**3rd Level**
+
+* Purge Contamination
+
+**4th Level**
+
+* Blood Worm
+
+**5th Level**
+
+* Neutralizing Field
+
+**7th Level**
+
+* Contamination Immunity
+
+**8th Level**
+
+* Breath of Nightshade
+
+---
+
+## Cleric
+
+**1st Level**
+
+* Stream of Consumption
+
+**2nd Level**
+
+* Grasping Ghost
+* Invigorate
+
+**3rd Level**
+
+* Purge Contamination
+
+**4th Level**
+
+* Last Rites
+
+**5th Level**
+
+* Neutralizing Field
+
+**7th Level**
+
+* Contamination Immunity
+* Grievous Wounds
+
+**9th Level**
+
+* Touch of Death
+
+---
+
+## Druid
+
+**Cantrips**
+
+* Poison Needle
+* Bacterial Barrage
+
+**1st Level**
+
+* Envenom
+* Infect
+
+**2nd Level**
+
+* Biohazard
+* Invigorate
+
+**3rd Level**
+
+* Pestilence
+* Purge Contamination
+* Venomous Aura
+
+**4th Level**
+
+* Blood Worm
+* Corrupting Spores
+* Poison Wave
+* Summon the Thing with the Writhing Tail
+
+**5th Level**
+
+* Acid Rain
+* Neutralizing Field
+
+**6th Level**
+
+* Mephitic Vapors
+
+**7th Level**
+
+* Contamination Immunity
+
+**8th Level**
+
+* Plague Wind
+
+**9th Level**
+
+* Pandemic
+
+---
+
+## Paladin
+
+**1st Level**
+
+* Toxic Shield
+
+**2nd Level**
+
+* Invigorate
+
+**3rd Level**
+
+* Purge Contamination
+
+**4th Level**
+
+* Last Rites
+
+**5th Level**
+
+* Neutralizing Field
+
+---
+
+## Ranger
+
+**1st Level**
+
+* Acrid Orb
+
+**2nd Level**
+
+* Biohazard
+
+**3rd Level**
+
+* Fetid Blade
+* Purge Contamination
+
+**4th Level**
+
+* Corrupting Spores
+
+**5th Level**
+
+* Toxic Barrage
+* Neutralizing Field
+
+---
+
+## Sorcerer
+
+**Cantrips**
+
+* Acid Burn
+* Bacterial Barrage
+* Poison Needle
+
+**1st Level**
+
+* Acrid Orb
+* Envenom
+* Infect
+
+**2nd Level**
+
+* Biohazard
+* Caustic Grip
+* Ocular Necrosis
+
+**3rd Level**
+
+* Corrosive Blast
+* Pestilence
+* Purge Contamination
+
+**4th Level**
+
+* Vitriolic Ichor
+* Poison Wave
+
+**5th Level**
+
+* Nerve Gas
+* Neutralizing Field
+* Toxic Barrage
+* Septic Shock
+
+**6th Level**
+
+* Mephitic Vapors
+* Vile Necrosis
+
+**7th Level**
+
+* Miasma
+* Contamination Immunity
+
+**8th Level**
+
+* Plague Wind
+
+**9th Level**
+
+* Touch of Death
+
+---
+
+## Warlock
+
+**Cantrips**
+
+* Poison Needle
+
+**1st Level**
+
+* Acrid Orb
+* Stream of Consumption
+* Toxic Shield
+
+**2nd Level**
+
+* Caustic Grip
+* Grasping Ghost
+
+**3rd Level**
+
+* Fetid Blade
+* Pestilence
+* Purge Contamination
+
+**4th Level**
+
+* Blood Worm
+* Corpse Explosion
+* Summon the Thing with the Writhing Tail
+
+**5th Level**
+
+* Nerve Gas
+* Neutralizing Field
+* Septic Shock
+
+**6th Level**
+
+* Mephitic Vapors
+* Vile Necrosis
+
+**7th Level**
+
+* Contamination Immunity
+* Grievous Wounds
+
+**8th Level**
+
+* Breath of Nightshade
+
+**9th Level**
+
+* Touch of Death
+
+---
+
+## Wizard
+
+**Cantrips**
+
+* Acid Burn
+* Bacterial Barrage
+* Poison Needle
+
+**1st Level**
+
+* Acrid Orb
+* Envenom
+* Infect
+* Stream of Consumption
+
+**2nd Level**
+
+* Biohazard
+* Caustic Grip
+* Invigorate
+* Ocular Necrosis
+
+**3rd Level**
+
+* Corrosive Blast
+* Pestilence
+* Purge Contamination
+* Tranquilizing Toxin
+
+**4th Level**
+
+* Corpse Explosion
+* Poison Wave
+* Summon the Thing with the Writhing Tail
+* Vitriolic Ichor
+
+**5th Level**
+
+* Acid Rain
+* Neutralizing Field
+* Nerve Gas
+* Septic Shock
+* Toxic Barrage
+
+**6th Level**
+
+* Mephitic Vapors
+* Vile Necrosis
+
+**7th Level**
+
+* Contamination Immunity
+* Grievous Wounds
+* Miasma
+
+**8th Level**
+
+* Breath of Nightshade
+* Plague Wind
+
+**9th Level**
+
+* Pandemic
+* Touch of Death
+
+---
+
+# Contaminated Spells by Class
+
+## Bard
+
+**1st Level**
+
+* Corrupted Cure
+
+**2nd Level**
+
+* Controlled Mutation
+
+**3rd Level**
+
+* Weave the Elder Sign
+* Vanish to the Space Between Worlds
+
+**4th Level**
+
+* Siphon Time
+
+**7th Level**
+
+* Unbind Gravity
+* Octarine Sword
+
+---
+
+## Cleric, Paladin, and Ranger
+
+**1st Level**
+
+* Corrupted Cure
+
+---
+
+## Druid
+
+**1st Level**
+
+* Corrupted Cure
+
+**2nd Level**
+
+* Controlled Mutation
+
+**4th Level**
+
+* Horrific Transformation
+* Summon Delerium Elemental
+
+**6th Level**
+
+* Storm of Contamination
+
+---
+
+## Sorcerer, Warlock, and Wizard
+
+**1st Level**
+
+* Comet Shards
+* Corrupted Cure
+
+**2nd Level**
+
+* Controlled Mutation
+
+**3rd Level**
+
+* Vanish to the Space Between Worlds
+* Weave the Elder Sign
+
+**4th Level**
+
+* Horrific Transformation
+* Siphon Time
+* Summon Delerium Elemental
+
+**5th Level**
+
+* Contaminated Hands
+
+**6th Level**
+
+* Storm of Contamination
+
+**7th Level**
+
+* Octarine Sword
+* Unbind Gravity
+
+**8th Level**
+
+* Banish to the Space Between Worlds
+
+**9th Level**
+
+* Delerium Meteor Swarm

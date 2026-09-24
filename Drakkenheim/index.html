@@ -77,6 +77,7 @@
         </button>
 
         <button id="exit-chapter" class="exit-chapter" type="button" aria-label="Voltar à entrada">✕</button>
+        <button id="scene-back" class="scene-back is-hidden" type="button" aria-label="Cena anterior">‹ Cena anterior</button>
       </div>
 
       <!-- SCENE PLAYER (used by linear chapters) -->
@@ -88,12 +89,18 @@
         <div class="stage__grain" aria-hidden="true"></div>
 
         <div id="stage-progress" class="stage__progress" aria-hidden="true"></div>
+        <div id="scene-gallery" class="stage__gallery is-hidden" aria-hidden="true"></div>
 
         <div class="stage__content">
           <span id="scene-eyebrow" class="stage__eyebrow"></span>
           <h2 id="scene-title" class="stage__title"></h2>
           <p id="scene-text" class="stage__text"></p>
           <span id="scene-hint" class="stage__hint">toque para continuar</span>
+        </div>
+
+        <div id="chapter-logo" class="chapter-logo is-hidden">
+          <img id="chapter-logo-image" class="chapter-logo__image" alt="Masmorras de Drakkenheim">
+          <span id="chapter-logo-hint" class="stage__hint">toque para revelar o código</span>
         </div>
       </section>
 
@@ -122,20 +129,32 @@
       <!-- FACTION DETAIL (overlay on top of the hub) -->
       <section id="view-faction-detail" class="detail is-hidden" aria-label="Detalhes da facção">
         <div class="detail__backdrop"></div>
-        <div class="detail__card">
+
+        <div class="detail__topbar">
           <button id="detail-back" class="detail__back" type="button">← Voltar às facções</button>
-          <div class="detail__body">
-            <div class="detail__portrait-wrap">
-              <img id="detail-portrait" class="detail__portrait" alt="">
-            </div>
-            <div class="detail__copy">
-              <img id="detail-symbol" class="detail__symbol" alt="">
-              <span id="detail-eyebrow" class="detail__eyebrow"></span>
-              <h3 id="detail-name" class="detail__name"></h3>
-              <p id="detail-leader" class="detail__leader"></p>
-              <p id="detail-text" class="detail__text"></p>
+          <span id="faction-position" class="detail__position"></span>
+        </div>
+
+        <div class="detail__stage">
+          <button id="faction-prev" class="subclass-carousel__nav subclass-carousel__nav--prev" type="button" aria-label="Facção anterior">‹</button>
+
+          <div class="detail__card">
+            <div class="detail__body">
+              <div class="detail__portrait-wrap">
+                <img id="detail-portrait" class="detail__portrait" alt="">
+                <div class="detail__portrait-shade" aria-hidden="true"></div>
+                <img id="detail-symbol" class="detail__symbol" alt="">
+              </div>
+              <div class="detail__copy">
+                <span id="detail-eyebrow" class="detail__eyebrow"></span>
+                <h3 id="detail-name" class="detail__name"></h3>
+                <p id="detail-leader" class="detail__leader"></p>
+                <p id="detail-text" class="detail__text"></p>
+              </div>
             </div>
           </div>
+
+          <button id="faction-next" class="subclass-carousel__nav subclass-carousel__nav--next" type="button" aria-label="Próxima facção">›</button>
         </div>
       </section>
 
@@ -179,11 +198,27 @@
             <div id="codex-body" class="codex__body">
               <p class="codex__loading">Carregando o arquivo…</p>
             </div>
+
+            <div id="codex-finish" class="codex__finish is-hidden">
+              <button id="codex-finish-button" class="codex__finish-button" type="button">Finalizar Leitura</button>
+              <div id="codex-finish-code" class="codex__next-code is-hidden">
+                <span class="codex__next-code-eyebrow">Código do próximo capítulo</span>
+                <p id="codex-finish-code-value" class="codex__next-code-value"></p>
+              </div>
+            </div>
           </article>
         </div>
 
         <button id="codex-top" class="codex__top" type="button" aria-label="Voltar ao topo">↑</button>
       </section>
+
+      <!-- CODEX LIGHTBOX (click-to-zoom viewer for figures & maps) -->
+      <div id="codex-lightbox" class="codex-lightbox is-hidden" role="dialog" aria-modal="true" aria-label="Imagem ampliada">
+        <button id="codex-lightbox-close" class="codex-lightbox__close" type="button" aria-label="Fechar">✕</button>
+        <div class="codex-lightbox__frame">
+          <img id="codex-lightbox-image" class="codex-lightbox__image" alt="">
+        </div>
+      </div>
 
       <!-- MISSION CAROUSEL (used by "mission" type chapters) -->
       <section id="view-mission" class="mission is-hidden" aria-label="Missões pessoais">
@@ -230,10 +265,12 @@
           <header class="tome__header">
             <span id="tome-eyebrow" class="tome__eyebrow"></span>
             <h2 id="tome-title" class="tome__title"></h2>
-            <p id="tome-intro" class="tome__intro"></p>
           </header>
 
+          <h3 class="tome__manifesto-title">4 Fatos Sobre o Mundo de Drakkenheim</h3>
           <div id="tome-manifesto" class="tome__manifesto"></div>
+
+          <p id="tome-intro" class="tome__intro"></p>
 
           <div id="tome-grid" class="tome__grid"></div>
 
@@ -389,6 +426,116 @@
         </div>
 
         <button id="classfeature-top" class="codex__top" type="button" aria-label="Voltar ao topo">↑</button>
+      </section>
+
+      <!-- SPELLS INTRO (paginated, darkened chap5 background video, opened
+           from the "Magias" tome card before the class picker) -->
+      <section id="view-spells-intro" class="mission spells-intro is-hidden" aria-label="Magias em Drakkenheim">
+        <video id="spells-intro-video" class="mission__video" muted loop playsinline preload="auto"></video>
+        <div class="mission__scrim spells-intro__scrim"></div>
+        <div class="mission__grain" aria-hidden="true"></div>
+
+        <button id="spells-intro-skip" class="spells-intro__skip" type="button">Pular para as magias »</button>
+
+        <div id="spells-intro-page" class="mission__intro spells-intro__page">
+          <span class="mission__intro-eyebrow">CAPÍTULO 6 · A NÉVOA</span>
+          <h2 id="spells-intro-title" class="mission__intro-title"></h2>
+          <div id="spells-intro-text" class="mission__intro-text"></div>
+          <span class="mission__intro-hint">toque para continuar</span>
+        </div>
+      </section>
+
+      <!-- SPELLS CLASS PICKER (icon grid, opened after the intro) -->
+      <section id="view-spells-classes" class="class-menu subclass-classes is-hidden" aria-label="Escolha uma classe para ver suas magias">
+        <div class="class-menu__backdrop"></div>
+        <div class="ambient-motes ambient-motes--fixed" aria-hidden="true"></div>
+
+        <button id="spellsclasses-back" class="subclass-carousel__back" type="button">← Voltar</button>
+
+        <div class="class-menu__stage">
+          <span class="tome__eyebrow">MAGIAS</span>
+          <h2 class="tome__title">Escolha uma classe</h2>
+          <div id="spellsclasses-grid" class="tome__grid"></div>
+        </div>
+      </section>
+
+      <!-- SPELLS LIST (Magias Contaminadas / Magias Secretas, scoped to one class) -->
+      <section id="view-spells-list" class="class-menu spells-list is-hidden" aria-label="Lista de magias">
+        <div class="class-menu__backdrop"></div>
+        <div class="ambient-motes ambient-motes--fixed" aria-hidden="true"></div>
+
+        <button id="spellslist-back" class="subclass-carousel__back" type="button">← Voltar às classes</button>
+
+        <div class="class-menu__stage spells-list__stage">
+          <span id="spellslist-eyebrow" class="tome__eyebrow">MAGIAS</span>
+          <h2 id="spellslist-title" class="tome__title"></h2>
+
+          <div class="spells-list__columns">
+            <section class="spells-list__column">
+              <h3 class="spells-list__heading spells-list__heading--contaminated">Magias Contaminadas</h3>
+              <ul id="spellslist-contaminadas" class="spells-list__items"></ul>
+              <p id="spellslist-contaminadas-empty" class="spells-list__empty is-hidden">Nenhuma magia contaminada conhecida por esta classe.</p>
+            </section>
+            <section class="spells-list__column">
+              <h3 class="spells-list__heading spells-list__heading--secret">Magias Secretas</h3>
+              <ul id="spellslist-secretas" class="spells-list__items"></ul>
+              <p id="spellslist-secretas-empty" class="spells-list__empty is-hidden">Nenhuma magia secreta conhecida por esta classe.</p>
+            </section>
+          </div>
+
+          <p id="spellslist-status" class="subclass-carousel__status" role="status"></p>
+        </div>
+      </section>
+
+      <!-- SPELL DETAIL (single spell reading view, with prev/next through
+           the list the player opened it from) -->
+      <section id="view-spell-detail" class="class-detail spell-detail is-hidden" aria-label="Magia">
+        <div class="spell-detail__backdrop"></div>
+
+        <button id="spelldetail-back" class="subclass-carousel__back" type="button">← Voltar à lista</button>
+
+        <div class="spell-detail__stage">
+          <button id="spelldetail-prev" class="subclass-carousel__nav subclass-carousel__nav--prev" type="button" aria-label="Magia anterior">‹</button>
+
+          <article class="spell-detail__card">
+            <header class="spell-detail__header">
+              <span id="spelldetail-position" class="detail__position"></span>
+              <span id="spelldetail-tag" class="spell-detail__tag"></span>
+              <h1 id="spelldetail-name" class="spell-detail__name"></h1>
+            </header>
+            <div id="spelldetail-scroll" class="spell-detail__scroll">
+              <div id="spelldetail-body" class="spell-detail__body"></div>
+            </div>
+          </article>
+
+          <button id="spelldetail-next" class="subclass-carousel__nav subclass-carousel__nav--next" type="button" aria-label="Próxima magia">›</button>
+        </div>
+      </section>
+
+      <!-- BACKGROUND DETAIL (opened directly from the tome's "Backgrounds
+           Personalizados" card — no picker step, lands on the first
+           background with prev/next to browse the rest) -->
+      <section id="view-background-detail" class="class-detail spell-detail background-detail is-hidden" aria-label="Background">
+        <div class="spell-detail__backdrop"></div>
+
+        <button id="backgrounddetail-back" class="subclass-carousel__back" type="button">← Voltar aos tomos</button>
+
+        <div class="spell-detail__stage">
+          <button id="backgrounddetail-prev" class="subclass-carousel__nav subclass-carousel__nav--prev" type="button" aria-label="Background anterior">‹</button>
+
+          <article class="spell-detail__card">
+            <header class="spell-detail__header">
+              <span id="backgrounddetail-position" class="detail__position"></span>
+              <span id="backgrounddetail-tag" class="spell-detail__tag"></span>
+              <h1 id="backgrounddetail-name" class="spell-detail__name"></h1>
+            </header>
+            <div id="backgrounddetail-scroll" class="spell-detail__scroll">
+              <div id="backgrounddetail-body" class="spell-detail__body"></div>
+            </div>
+          </article>
+
+          <button id="backgrounddetail-next" class="subclass-carousel__nav subclass-carousel__nav--next" type="button" aria-label="Próximo background">›</button>
+        </div>
       </section>
 
       <!-- CHAPTER COMPLETE -->
